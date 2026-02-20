@@ -1,0 +1,602 @@
+[
+  {
+    "id": "conditionals-001",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If you _____ too much sugar, your blood pressure _____.",
+    "options": [
+      {"key": "A", "text": "eat / rises"},
+      {"key": "B", "text": "ate / rises"},
+      {"key": "C", "text": "eat / will rise"},
+      {"key": "D", "text": "will eat / rises"},
+      {"key": "E", "text": "eating / rising"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Zero Conditional genel gecerli gercekleri ifade eder. Her iki tarafta da Present Simple kullanilir: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional: If + Present Simple, Present Simple (bilimsel gercek, her zaman dogru olan seyler)",
+    "tip_tr": "Her zaman dogru olan bir sey anlatiliyorsa (bilimsel gercek, genel kural) = Zero Conditional.",
+    "extra_example": "If you heat water to 100°C, it boils. (Suyu 100°C'ye isitirsan kaynar.)"
+  },
+  {
+    "id": "conditionals-002",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If a patient _____ an allergic reaction, the nurse immediately _____ the doctor.",
+    "options": [
+      {"key": "A", "text": "has / calls"},
+      {"key": "B", "text": "had / called"},
+      {"key": "C", "text": "has / will call"},
+      {"key": "D", "text": "will have / calls"},
+      {"key": "E", "text": "is having / is calling"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Bu bir hastane protokolu, yani her zaman gecerli bir kural. Zero Conditional: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional: Kurallar, protokoller, rutinler icin de kullanilir.",
+    "tip_tr": "Hastane kurallari, is prosedürleri gibi her zaman uygulanan kurallar = Zero Conditional.",
+    "extra_example": "If the temperature exceeds 38°C, the patient takes paracetamol. (Ates 38°C'yi asarsa hasta parasetamol alir.)"
+  },
+  {
+    "id": "conditionals-003",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If you _____ your medication regularly, you _____ better soon.",
+    "options": [
+      {"key": "A", "text": "take / feel"},
+      {"key": "B", "text": "take / will feel"},
+      {"key": "C", "text": "will take / feel"},
+      {"key": "D", "text": "took / would feel"},
+      {"key": "E", "text": "taken / will feel"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Gercekci ve olasi bir gelecek durumu anlatiliyor. First Conditional: If + Present Simple, will + V1.",
+    "rule_tr": "First Conditional: If + Present Simple, will + V1 (gercekci, olasi gelecek durumlar)",
+    "tip_tr": "Gerceklesmesi muhtemel bir durum = First Conditional. If clause'da ASLA will kullanma.",
+    "extra_example": "If you don't stop smoking, you will develop lung problems. (Sigarayi birakmazsan akciger sorunlari yasayacaksin.)"
+  },
+  {
+    "id": "conditionals-004",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If the test results _____ positive, the doctor _____ further examinations.",
+    "options": [
+      {"key": "A", "text": "are / orders"},
+      {"key": "B", "text": "will be / orders"},
+      {"key": "C", "text": "are / will order"},
+      {"key": "D", "text": "were / would order"},
+      {"key": "E", "text": "have been / orders"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Test sonuclarinin pozitif cikmasi olasi bir durum. If + Present Simple (are), will + V1 (will order). First Conditional.",
+    "rule_tr": "First Conditional: If + Present Simple, will + V1",
+    "tip_tr": "If clause'da 'are' (Present Simple) gorursen ve durum gercekci ise, ana cumlede 'will' bekle.",
+    "extra_example": "If the patient feels dizzy, she will need to lie down. (Hasta bas donmesi hissederse uzanmasi gerekecek.)"
+  },
+  {
+    "id": "conditionals-005",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse _____ you if you _____ the call button.",
+    "options": [
+      {"key": "A", "text": "helps / will press"},
+      {"key": "B", "text": "will help / press"},
+      {"key": "C", "text": "helped / pressed"},
+      {"key": "D", "text": "would help / press"},
+      {"key": "E", "text": "will help / will press"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Cumlede if clause sonda. Sirasi fark etmez: will + V1 (will help), if + Present Simple (press). If clause'da will KULLANILMAZ.",
+    "rule_tr": "First Conditional ters sira: Main clause (will + V1) + if + Present Simple",
+    "tip_tr": "If clause basta da sonda da olabilir. Onemli olan: if'den sonra ASLA will koymamak.",
+    "extra_example": "You will recover faster if you follow the doctor's advice. (Doktorun tavsiyesine uyarsan daha hizli iyilesirsin.)"
+  },
+  {
+    "id": "conditionals-006",
+    "topic": "conditionals",
+    "subtopic": "second_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If I _____ a doctor, I _____ in a hospital.",
+    "options": [
+      {"key": "A", "text": "am / will work"},
+      {"key": "B", "text": "was / will work"},
+      {"key": "C", "text": "were / would work"},
+      {"key": "D", "text": "am / would work"},
+      {"key": "E", "text": "be / will work"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gercek olmayan hayali bir durum (doktor degilim ama olsaydim). Second Conditional: If + Past Simple, would + V1. 'Be' fiili icin tum oznerelerde 'were' kullanilir.",
+    "rule_tr": "Second Conditional: If + Past Simple (were), would + V1 (hayali, gercek olmayan durumlar)",
+    "tip_tr": "Second Conditional'da 'be' fiili her zaman 'were' olur: If I were, If he were, If she were.",
+    "extra_example": "If she were a nurse, she would take care of patients every day. (Hemsire olsaydi her gun hastalara bakardi.)"
+  },
+  {
+    "id": "conditionals-007",
+    "topic": "conditionals",
+    "subtopic": "second_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If the hospital _____ more staff, patients _____ wait so long.",
+    "options": [
+      {"key": "A", "text": "hires / won't"},
+      {"key": "B", "text": "hired / wouldn't"},
+      {"key": "C", "text": "hired / won't"},
+      {"key": "D", "text": "hires / wouldn't"},
+      {"key": "E", "text": "would hire / didn't"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hastane su anda yeterli personel almiyor (gercek olmayan durum). If + Past Simple (hired), wouldn't + V1 (wouldn't wait). Second Conditional.",
+    "rule_tr": "Second Conditional olumsuz: If + V2, wouldn't + V1",
+    "tip_tr": "Su anda gercek olmayan ama 'olsa ne guzel olurdu' dedigimiz durumlar = Second Conditional.",
+    "extra_example": "If there were more hospitals, people wouldn't travel so far for treatment. (Daha fazla hastane olsaydi insanlar tedavi icin bu kadar uzaga gitmezdi.)"
+  },
+  {
+    "id": "conditionals-008",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If you _____ water, you _____.",
+    "options": [
+      {"key": "A", "text": "won't drink / will get dehydrated"},
+      {"key": "B", "text": "don't drink / get dehydrated"},
+      {"key": "C", "text": "didn't drink / got dehydrated"},
+      {"key": "D", "text": "don't drink / will get dehydrated"},
+      {"key": "E", "text": "aren't drinking / get dehydrated"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Su icmezsen dehidrate olursun — bu her zaman gecerli bilimsel bir gercek. Zero Conditional: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional olumsuz: If + don't/doesn't + V1, Present Simple",
+    "tip_tr": "Bilimsel/tibbi bir gercek mi? Evet = Zero Conditional. Hayir, sadece olasi bir durum mu? = First Conditional.",
+    "extra_example": "If you don't sleep enough, your immune system weakens. (Yeterince uyumazsan bagisiklik sistemin zayiflar.)"
+  },
+  {
+    "id": "conditionals-009",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If the ambulance _____ on time, the patient's life _____ in danger.",
+    "options": [
+      {"key": "A", "text": "doesn't arrive / will be"},
+      {"key": "B", "text": "won't arrive / is"},
+      {"key": "C", "text": "didn't arrive / would be"},
+      {"key": "D", "text": "doesn't arrive / is"},
+      {"key": "E", "text": "isn't arriving / will be"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Ambulansin zamaninda gelmemesi gercek bir olasilik. If + Present Simple (doesn't arrive), will + V1 (will be). First Conditional.",
+    "rule_tr": "First Conditional olumsuz: If + don't/doesn't + V1, will + V1",
+    "tip_tr": "Olumsuz First Conditional: If + don't/doesn't (ASLA won't degil!) + V1, will...",
+    "extra_example": "If you don't wear a mask, you will increase the risk of infection. (Maske takmazsan enfeksiyon riskini arttiracaksin.)"
+  },
+  {
+    "id": "conditionals-010",
+    "topic": "conditionals",
+    "subtopic": "second_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "What _____ you do if you _____ a doctor in a remote village?",
+    "options": [
+      {"key": "A", "text": "will / are"},
+      {"key": "B", "text": "would / were"},
+      {"key": "C", "text": "do / are"},
+      {"key": "D", "text": "did / were"},
+      {"key": "E", "text": "would / are"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hayali bir soru soruluyor: 'Uzak bir koyde doktor olsan ne yapardin?' Second Conditional soru: What would + S + V1 + if + S + V2/were?",
+    "rule_tr": "Second Conditional soru: What/Where/How + would + S + V1 + if + S + V2/were?",
+    "tip_tr": "Hayali soru sorarken: What would you do if...? Ne yapardin eger...?",
+    "extra_example": "What would you do if you found a cure for cancer? (Kanserin tedavisini bulsan ne yapardin?)"
+  },
+  {
+    "id": "conditionals-011",
+    "topic": "conditionals",
+    "subtopic": "second_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "If the government _____ more in healthcare, fewer people _____ from preventable diseases.",
+    "options": [
+      {"key": "A", "text": "invests / will die"},
+      {"key": "B", "text": "invested / would die"},
+      {"key": "C", "text": "invested / will die"},
+      {"key": "D", "text": "would invest / died"},
+      {"key": "E", "text": "invests / would die"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hukumet su anda yeterince yatirim yapmiyor (gercek olmayan varsayim). If + Past Simple (invested), would + V1 (would die). Second Conditional.",
+    "rule_tr": "Second Conditional: su anki gercekligin tersini hayal etme. If + V2, would + V1.",
+    "tip_tr": "Gercek durumun tersini hayal ediyorsan Second Conditional kullan: 'yapmiyor ama yapsa...'",
+    "extra_example": "If the hospital had better equipment, doctors would perform more complex surgeries. (Hastanenin daha iyi ekipmani olsa doktorlar daha karmasik ameliyatlar yapardi.)"
+  },
+  {
+    "id": "conditionals-012",
+    "topic": "conditionals",
+    "subtopic": "third_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "If the doctor _____ the correct diagnosis earlier, the patient _____ recovered.",
+    "options": [
+      {"key": "A", "text": "made / will have"},
+      {"key": "B", "text": "made / would have"},
+      {"key": "C", "text": "had made / would have"},
+      {"key": "D", "text": "has made / would have"},
+      {"key": "E", "text": "had made / will have"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmiste gerceklesmeyen bir durum: doktor dogru tanisi erken koymadi (ama koysaydi). Third Conditional: If + had + V3, would have + V3.",
+    "rule_tr": "Third Conditional: If + had + V3, would/could/might have + V3 (gecmiste degistirilemeyen pismanlık/varsayim)",
+    "tip_tr": "Gecmiste olan ve degistirilemeyen durumlar = Third Conditional. 'Keske...olsaydi' anlamı.",
+    "extra_example": "If the nurse had noticed the symptoms, she would have alerted the doctor. (Hemsire belirtileri fark etseydi doktoru uyarirdi.)"
+  },
+  {
+    "id": "conditionals-013",
+    "topic": "conditionals",
+    "subtopic": "third_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The surgery _____ successful if the team _____ better preparation.",
+    "options": [
+      {"key": "A", "text": "would be / had"},
+      {"key": "B", "text": "would have been / had had"},
+      {"key": "C", "text": "will be / has"},
+      {"key": "D", "text": "was / had"},
+      {"key": "E", "text": "would have been / had"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ameliyat basarili olmadi ve ekip daha iyi hazirlanmamisti (gecmiste degistirilemeyen durum). Ana cumle: would have been + if + had had (Past Perfect).",
+    "rule_tr": "Third Conditional ters sira: would have + V3 + if + had + V3",
+    "tip_tr": "had had = had (Past Perfect yardimci fiil) + had (have fiilinin V3 formu). Garip gorunur ama dogrudur.",
+    "extra_example": "The patient would have survived if the ambulance had arrived five minutes earlier. (Ambulans bes dakika erken gelseydi hasta hayatta kalirdi.)"
+  },
+  {
+    "id": "conditionals-014",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Unless the patient _____ the prescribed diet, his cholesterol levels _____.",
+    "options": [
+      {"key": "A", "text": "follows / won't decrease"},
+      {"key": "B", "text": "doesn't follow / will decrease"},
+      {"key": "C", "text": "follows / will decrease"},
+      {"key": "D", "text": "will follow / decrease"},
+      {"key": "E", "text": "followed / would decrease"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Unless' = 'If not' anlamina gelir. 'Unless the patient follows' = 'If the patient doesn't follow'. Unless'tan sonra OLUMLU cumle gelir.",
+    "rule_tr": "Unless = If not. Unless + olumlu fiil, will/won't + V1. Unless'tan sonra olumsuz fiil KULLANILMAZ.",
+    "tip_tr": "Unless = eger ...mazsa. Unless + olumlu cumle. YANLIS: Unless he doesn't come. DOGRU: Unless he comes.",
+    "extra_example": "Unless you take the antibiotic for the full course, the infection won't clear. (Antibiyotigi tam kur boyunca almazsan enfeksiyon gecmez.)"
+  },
+  {
+    "id": "conditionals-015",
+    "topic": "conditionals",
+    "subtopic": "wish_clauses",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I wish I _____ a doctor so that I could help people in need.",
+    "options": [
+      {"key": "A", "text": "am"},
+      {"key": "B", "text": "was"},
+      {"key": "C", "text": "were"},
+      {"key": "D", "text": "will be"},
+      {"key": "E", "text": "have been"}
+    ],
+    "answer": "C",
+    "explanation_tr": "I wish + Past Simple: su anki gercekligin tersini dilemek. 'Be' fiili icin wish'ten sonra tum oznelerde 'were' kullanilir (formal).",
+    "rule_tr": "I wish + Past Simple (were): su anki hayali dilek. 'Keske ...olsam' anlami.",
+    "tip_tr": "wish + were (tum ozneler icin). I wish I were, I wish he were, I wish she were.",
+    "extra_example": "She wishes she were taller. (Keske daha uzun olsa.)"
+  },
+  {
+    "id": "conditionals-016",
+    "topic": "conditionals",
+    "subtopic": "wish_clauses",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse wishes she _____ more time to spend with each patient.",
+    "options": [
+      {"key": "A", "text": "has"},
+      {"key": "B", "text": "had"},
+      {"key": "C", "text": "will have"},
+      {"key": "D", "text": "is having"},
+      {"key": "E", "text": "would have"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hemsirenin su anda yeterli zamani yok ama olmasini diliyor. I wish + Past Simple: su anki durumun tersini dilemek.",
+    "rule_tr": "wish + V2 (Past Simple): su anki durumdan memnuniyetsizlik, 'keske' anlami",
+    "tip_tr": "wish + had = keske olsa (su anki dilek). wish + had had = keske olsaydi (gecmis dilek).",
+    "extra_example": "I wish I had more experience in emergency medicine. (Keske acil tipla ilgili daha fazla deneyimim olsa.)"
+  },
+  {
+    "id": "conditionals-017",
+    "topic": "conditionals",
+    "subtopic": "mixed_conditionals",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "If I _____ allergic to penicillin, I _____ it yesterday without any problems.",
+    "options": [
+      {"key": "A", "text": "am not / would take"},
+      {"key": "B", "text": "weren't / would have taken"},
+      {"key": "C", "text": "hadn't been / would take"},
+      {"key": "D", "text": "am not / took"},
+      {"key": "E", "text": "wasn't / took"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Mixed Conditional: Su anki durum (penisiline alerjim var — devam eden) gecmisteki eylemi etkiliyor (dun alabilirdim). If + Past Simple (weren't — su anki durum), would have + V3 (would have taken — gecmis sonuc).",
+    "rule_tr": "Mixed Conditional Tip 1: If + Past Simple (su anki durum), would have + V3 (gecmis sonuc)",
+    "tip_tr": "Su anki durum + gecmis sonuc = Mixed Conditional. if clause su anki hayali durum, sonuc gecmiste.",
+    "extra_example": "If I spoke French, I would have applied for the position in Paris. (Fransizca bilseydim Paris'teki pozisyona basvururdum.)"
+  },
+  {
+    "id": "conditionals-018",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Provided that the patient _____ to the treatment, the doctor _____ him next week.",
+    "options": [
+      {"key": "A", "text": "responds / will discharge"},
+      {"key": "B", "text": "will respond / discharges"},
+      {"key": "C", "text": "responded / would discharge"},
+      {"key": "D", "text": "responds / discharges"},
+      {"key": "E", "text": "has responded / discharged"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Provided that' = 'if' anlami tasir (sart kosarak). First Conditional yapisiyla kullanilir: provided that + Present Simple, will + V1.",
+    "rule_tr": "provided that / as long as / on condition that = if yerine kullanilabilir. Ayni kurallar gecerli.",
+    "tip_tr": "provided that, as long as, on condition that gibi ifadeler 'if' ile ayni kurallara uyar.",
+    "extra_example": "As long as you rest properly, you will make a full recovery. (Duzgun dinlendigin surece tam olarak iyileseceksin.)"
+  },
+  {
+    "id": "conditionals-019",
+    "topic": "conditionals",
+    "subtopic": "second_conditional",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "If every country _____ equal access to vaccines, millions of lives _____ saved each year.",
+    "options": [
+      {"key": "A", "text": "has / will be"},
+      {"key": "B", "text": "had / would be"},
+      {"key": "C", "text": "has / would be"},
+      {"key": "D", "text": "had / will be"},
+      {"key": "E", "text": "would have / were"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Her ulkenin esit asi erisimi yok (gercek olmayan durum). If + Past Simple (had), would + V1 (would be saved). Second Conditional.",
+    "rule_tr": "Second Conditional Passive: If + V2, would + be + V3",
+    "tip_tr": "Second Conditional'da pasif yapi: would be + V3. Gercek olmayan hayali sonuc pasif olabilir.",
+    "extra_example": "If more money were allocated to research, new cures would be discovered. (Arastirmaya daha fazla para ayrilsa yeni tedaviler kesfedilirdi.)"
+  },
+  {
+    "id": "conditionals-020",
+    "topic": "conditionals",
+    "subtopic": "wish_clauses",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I wish the hospital _____ overcrowded. There are too many patients.",
+    "options": [
+      {"key": "A", "text": "isn't"},
+      {"key": "B", "text": "wasn't"},
+      {"key": "C", "text": "weren't"},
+      {"key": "D", "text": "won't be"},
+      {"key": "E", "text": "hasn't been"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Hastane su anda kalabalik (gercek) ama konusmaci bunun boyle olmamasini diliyor. I wish + Past Simple. 'Be' fiili icin 'weren't' kullanilir.",
+    "rule_tr": "I wish + weren't/didn't: su anki olumsuz dilegin ifadesi",
+    "tip_tr": "wish'ten sonra olumsuz istek: wish + weren't (be fiili) veya wish + didn't + V1 (diger fiiller).",
+    "extra_example": "I wish my medication didn't have so many side effects. (Keske ilacimin bu kadar cok yan etkisi olmasa.)"
+  },
+  {
+    "id": "conditionals-021",
+    "topic": "conditionals",
+    "subtopic": "third_conditional",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Had the paramedics _____ the bleeding sooner, the patient's condition _____ less critical.",
+    "options": [
+      {"key": "A", "text": "stopped / would be"},
+      {"key": "B", "text": "stopped / would have been"},
+      {"key": "C", "text": "had stopped / would have been"},
+      {"key": "D", "text": "stopping / had been"},
+      {"key": "E", "text": "stop / would be"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Had the paramedics stopped' = 'If the paramedics had stopped' seklinde if'siz (inverted) Third Conditional. Had + S + V3, would have + V3.",
+    "rule_tr": "Inverted Third Conditional: Had + S + V3, S + would have + V3 (if olmadan, resmi dil)",
+    "tip_tr": "Had + ozne ile baslayan cumle = If'siz Third Conditional. Resmi ve akademik dilde sik kullanilir.",
+    "extra_example": "Had the doctor prescribed the right medication, the patient would have recovered faster. (Doktor dogru ilaci yazsaydi hasta daha hizli iyilesirdi.)"
+  },
+  {
+    "id": "conditionals-022",
+    "topic": "conditionals",
+    "subtopic": "third_conditional",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If the hospital _____ the new hygiene protocols last year, the infection rate _____.",
+    "options": [
+      {"key": "A", "text": "implemented / would decrease"},
+      {"key": "B", "text": "had implemented / would decrease"},
+      {"key": "C", "text": "had implemented / would have decreased"},
+      {"key": "D", "text": "implemented / would have decreased"},
+      {"key": "E", "text": "has implemented / will decrease"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Last year' gecmis zamani gosteriyor. Hastane protokolleri gecen yil uygulamadi (gerceklesmeyen gecmis). If + had + V3, would have + V3. Third Conditional.",
+    "rule_tr": "Third Conditional: If + had + V3, would have + V3. 'Last year' gecmisi dogruluyor.",
+    "tip_tr": "Gecmis zaman zarfi (last year, yesterday, in 2020) + hayali durum = kesinlikle Third Conditional.",
+    "extra_example": "If they had quarantined the area earlier, the outbreak would have been contained. (Bolgeyi daha erken karantinaya alsalardi salgini kontrol altina alabilirlerdi.)"
+  },
+  {
+    "id": "conditionals-023",
+    "topic": "conditionals",
+    "subtopic": "mixed_conditionals",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If she _____ medicine at university, she _____ a qualified doctor now.",
+    "options": [
+      {"key": "A", "text": "studied / will be"},
+      {"key": "B", "text": "had studied / would be"},
+      {"key": "C", "text": "studied / would be"},
+      {"key": "D", "text": "had studied / would have been"},
+      {"key": "E", "text": "would study / was"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Mixed Conditional Tip 2: Gecmisteki eylem (universitede tip okumadi — had studied) su anki durumu etkiliyor (simdi doktor olurdu — would be). If + had + V3 (gecmis), would + V1 (su anki sonuc).",
+    "rule_tr": "Mixed Conditional Tip 2: If + had + V3 (gecmis kosul), would + V1 (su anki sonuc). 'now' ipucu.",
+    "tip_tr": "If + had V3 + now/today = Mixed Conditional. Gecmis kosul ama su anki sonuc.",
+    "extra_example": "If I had taken the job in London, I would be living there now. (Londra'daki isi kabul etseydim simdi orada yasiyor olurdum.)"
+  },
+  {
+    "id": "conditionals-024",
+    "topic": "conditionals",
+    "subtopic": "mixed_conditionals",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If the nurse _____ more careful, she _____ the wrong dosage to the patient yesterday.",
+    "options": [
+      {"key": "A", "text": "were / wouldn't give"},
+      {"key": "B", "text": "were / wouldn't have given"},
+      {"key": "C", "text": "had been / wouldn't give"},
+      {"key": "D", "text": "was / didn't give"},
+      {"key": "E", "text": "is / won't give"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Mixed Conditional Tip 1: Su anki genel ozellik (hemsire dikkatli degil — were) gecmisteki olaya neden oldu (dun yanlis doz verdi — wouldn't have given). If + were, would have + V3.",
+    "rule_tr": "Mixed Conditional Tip 1: If + were/V2 (su anki ozellik), would have + V3 (gecmis sonuc). 'yesterday' ipucu.",
+    "tip_tr": "If + were/V2 + yesterday/last week = Mixed. Su anki kisilik/ozellik gecmisi etkilemis.",
+    "extra_example": "If he weren't so forgetful, he wouldn't have missed his appointment last week. (Bu kadar unutkan olmasa gecen haftaki randevusunu kacirmazdi.)"
+  },
+  {
+    "id": "conditionals-025",
+    "topic": "conditionals",
+    "subtopic": "wish_clauses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient wishes he _____ smoking years ago. Now he has serious lung problems.",
+    "options": [
+      {"key": "A", "text": "stopped"},
+      {"key": "B", "text": "stops"},
+      {"key": "C", "text": "had stopped"},
+      {"key": "D", "text": "would stop"},
+      {"key": "E", "text": "has stopped"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Hasta gecmiste sigarayi birakmadi ve simdi pisman. Gecmis pismanlık icin: wish + had + V3 (Past Perfect). 'Years ago' gecmisi isaret ediyor.",
+    "rule_tr": "wish + had + V3: gecmis pisman. 'Keske ...yapsaydim' anlami.",
+    "tip_tr": "wish + V2 = su anki dilek | wish + had V3 = gecmis pisman | wish + would = gelecek sikayet/istek",
+    "extra_example": "I wish I had studied harder for the medical exam. (Keske tip sinavina daha cok calisseydim.)"
+  },
+  {
+    "id": "conditionals-026",
+    "topic": "conditionals",
+    "subtopic": "wish_clauses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "I wish the government _____ something about the shortage of nurses in rural areas.",
+    "options": [
+      {"key": "A", "text": "does"},
+      {"key": "B", "text": "did"},
+      {"key": "C", "text": "would do"},
+      {"key": "D", "text": "has done"},
+      {"key": "E", "text": "will do"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Konusmaci hukumetin bir sey yapmasini istiyor (sikayet/istek). wish + would: baskalarindan beklenen davranis degisikligi, sikayet veya ricalar icin kullanilir.",
+    "rule_tr": "wish + would + V1: baskasinin davranisini degistirmesini istemek, sikayet, rica",
+    "tip_tr": "wish + would: 'Keske su adam sunu yapsa!' anlaminda sikayet/istek. Kendi icin KULLANILMAZ (I wish I would = YANLIS).",
+    "extra_example": "I wish the hospital would improve its waiting room facilities. (Keske hastane bekleme odasi olanaklarini iyilestirse.)"
+  },
+  {
+    "id": "conditionals-027",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Should the patient's condition _____, call me immediately.",
+    "options": [
+      {"key": "A", "text": "worsen"},
+      {"key": "B", "text": "worsens"},
+      {"key": "C", "text": "worsened"},
+      {"key": "D", "text": "will worsen"},
+      {"key": "E", "text": "would worsen"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Should + S + V1' yapisi 'If + S + V1' in formal (resmi) versiyonudur. Should the patient's condition worsen = If the patient's condition worsens. Should'dan sonra yalin fiil (V1) gelir.",
+    "rule_tr": "Inverted First Conditional: Should + S + V1, imperative/will. Resmi ve tibbi dilde yaygin.",
+    "tip_tr": "Should + ozne = If'siz First Conditional. Tibbi metinlerde ve resmi yazilarda cok kullanilir.",
+    "extra_example": "Should you experience any side effects, contact your doctor. (Herhangi bir yan etki yasarsaniz doktorunuza basvurun.)"
+  },
+  {
+    "id": "conditionals-028",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If a person's blood oxygen level _____ below 90%, it _____ a medical emergency.",
+    "options": [
+      {"key": "A", "text": "drops / constitutes"},
+      {"key": "B", "text": "dropped / would constitute"},
+      {"key": "C", "text": "will drop / constitutes"},
+      {"key": "D", "text": "drops / will constitute"},
+      {"key": "E", "text": "has dropped / constituted"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Bu tibbi bir gercek/protokol: oksijen seviyesi %90'in altina duserse her zaman tibbi acil durum olusturur. Genel gecerli gercek = Zero Conditional: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional: tibbi gercekler, protokoller, bilimsel yasalar = If + Present Simple, Present Simple",
+    "tip_tr": "Tipta, bilimde, mühendislikte gecerli kurallar Zero Conditional ile ifade edilir.",
+    "extra_example": "If the pH of blood falls below 7.35, the condition is called acidosis. (Kanin pH'i 7.35'in altina duserse bu duruma asidoz denir.)"
+  },
+  {
+    "id": "conditionals-029",
+    "topic": "conditionals",
+    "subtopic": "third_conditional",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The epidemic _____ contained if the authorities _____ travel restrictions in time.",
+    "options": [
+      {"key": "A", "text": "would be / imposed"},
+      {"key": "B", "text": "will be / had imposed"},
+      {"key": "C", "text": "could have been / had imposed"},
+      {"key": "D", "text": "could be / imposed"},
+      {"key": "E", "text": "would have been / imposed"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmiste yetkililer seyahat kisitlamasini zamaninda uygulamadi ve salgini kontrol altina alamadi. Could have been + V3 (gecmis olasilik) + if + had + V3. Third Conditional.",
+    "rule_tr": "Third Conditional: could/might have + V3 de kullanilabilir (would yerine). Olasilik derecesini degistirir.",
+    "tip_tr": "would have = kesin olurdu | could have = olabilirdi | might have = belki olurdu. Hepsi Third Conditional'da gecerli.",
+    "extra_example": "The patient might have survived if the diagnosis had been made earlier. (Tani daha erken konulsaydi hasta belki hayatta kalabilirdi.)"
+  },
+  {
+    "id": "conditionals-030",
+    "topic": "conditionals",
+    "subtopic": "mixed_conditionals",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If modern medicine _____ so advanced, we _____ able to treat this disease when it emerged in the 1990s.",
+    "options": [
+      {"key": "A", "text": "weren't / wouldn't have been"},
+      {"key": "B", "text": "isn't / won't be"},
+      {"key": "C", "text": "hadn't been / wouldn't be"},
+      {"key": "D", "text": "weren't / wouldn't be"},
+      {"key": "E", "text": "isn't / wouldn't have been"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Su anki genel durum (modern tip cok gelismis — weren't) gecmisteki sonucu etkiliyor (1990'larda tedavi edebildik — wouldn't have been). If + weren't (su anki durum), wouldn't have been (gecmis sonuc). Mixed Conditional.",
+    "rule_tr": "Mixed Conditional: If + weren't/V2 (su anki kosul), would(n't) have + V3 (gecmis sonuc)",
+    "tip_tr": "Su anki genel ozellik/durum + gecmis sonuc (in the 1990s, yesterday, last year) = Mixed Conditional.",
+    "extra_example": "If technology weren't so advanced, doctors wouldn't have performed that groundbreaking surgery last year. (Teknoloji bu kadar gelismis olmasa doktorlar gecen yil o ciginir ameliyati yapamazdi.)"
+  }
+]

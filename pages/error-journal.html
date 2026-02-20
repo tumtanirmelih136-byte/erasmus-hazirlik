@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hatali Sorular Defteri — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Hatali Sorular</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="info-banner">
+      Yanlis yaptigin sorular burada birikiyor. Ayni soruyu 3 kez dogru yaparsan "Guclu" listesine gecer.
+    </div>
+
+    <div id="journal-area"></div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+    ErrorJournal.render('journal-area');
+  </script>
+
+</body>
+</html>

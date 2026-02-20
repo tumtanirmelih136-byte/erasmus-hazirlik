@@ -1,0 +1,59 @@
+{
+  "topic": "modals",
+  "title": "Kiplik Fiiller (Modal Verbs)",
+  "description_tr": "Modal fiiller (can, could, must, have to, should, may, might, needn't vb.) bir eylemin zorunlulugunu, olanaklilgini, iznini veya tavsiyesini belirtir. Tipta cok kullanilir: 'Ilac alinmalidir (must)', 'Yan etkiler gorulebilir (may/might)'. Sinavlarda modallarin anlam farklari ve modal perfect yapilari sorulur.",
+  "formula": "Subject + modal + V1 (yalim fiil, to/s/ed EKLENMEZ) | Modal Perfect: Subject + modal + have + V3",
+  "signals": ["can", "could", "must", "have to", "should", "may", "might", "needn't", "ought to", "had better", "be able to"],
+  "turkish_logic": "Turkce'de '-ebilir' (olabilirlik), '-meli/-mali' (zorunluluk/tavsiye), '-abilir' (izin/yetenek) anlamlari vardir. Ingilizce'de bu anlamlarin her biri icin farkli modal kullanilir. Ornegin: 'yapabilir' = can (yetenek), 'yapabilir' = may (izin), 'yapmalidir' = must/should (zorunluluk/tavsiye). Ayni Turkce anlam, Ingilizce'de farkli modal gerektirir!",
+  "key_rules": [
+    "CAN: Yetenek ve gayri resmi izin. 'The nurse can take blood samples.' (Hemsire kan ornegi alabilir.) | CAN'T: Imkansizlik. 'This can't be true.' (Bu dogru olamaz.)",
+    "COULD: Gecmis yetenek veya kibar rica. 'She could walk after the therapy.' (Terapiden sonra yuruyebildi.) | 'Could you help me?' (Bana yardim eder misiniz?)",
+    "MUST: Guclu zorunluluk (kisisel kanaat). 'You must stop smoking.' (Sigara birakmaniz sart.) | MUST (tahmin): 'He must be tired.' (Yorgun olmali.) | MUSTN'T: Yasak. 'You mustn't eat before the operation.' (Ameliyattan once yemek yememelisiniz.)",
+    "HAVE TO: Dis zorunluluk (kural, yasa). 'Doctors have to wash their hands.' (Doktorlar ellerini yikamak zorunda.) | DON'T HAVE TO: Zorunluluk yok. 'You don't have to stay overnight.' (Geceyi gecirmek zorunda degilsiniz.)",
+    "SHOULD: Tavsiye. 'You should drink more water.' (Daha cok su icmelisiniz.) | SHOULDN'T: Tavsiye etmeme. 'You shouldn't skip meals.' (Ogun atlamamalisiniz.)",
+    "MAY: Resmi izin veya olasilik. 'The patient may leave tomorrow.' (Hasta yarin cikabilir.) | MIGHT: Dusuk olasilik. 'There might be side effects.' (Yan etkiler olabilir.)",
+    "NEEDN'T: Gerek yok. 'You needn't come to the hospital today.' (Bugun hastaneye gelmenize gerek yok.) = Don't need to.",
+    "MODAL PERFECT (gecmis tahmin/pismanllik): 'must have + V3' = gecmiste kesin tahmin. 'should have + V3' = yapmaliydim ama yapmadim. 'could have + V3' = yapabilirdim ama yapmadim. 'might have + V3' = yapmis olabilir."
+  ],
+  "examples": [
+    {
+      "en": "You must take this antibiotic three times a day.",
+      "tr": "Bu antibiyotigi gunde uc kez almalisiniz.",
+      "why": "'Must' burada tibbi zorunluluk bildiriyor. Doktorun hastaya verdigi kesin talimat. Alternatif: 'have to' da kullanilabilir ama 'must' daha guclu."
+    },
+    {
+      "en": "The patient might experience dizziness after the surgery.",
+      "tr": "Hasta ameliyattan sonra bas donmesi yasayabilir.",
+      "why": "'Might' dusuk olasilik bildiriyor. Kesin degil ama mumkun. 'May' de kullanilabilir (biraz daha yuksek olasilik)."
+    },
+    {
+      "en": "You should have called the doctor earlier.",
+      "tr": "Doktoru daha erken aramaliydin.",
+      "why": "'Should have + V3' gecmiste yapilmasi gereken ama yapilmayan eylemi gosterir. Pismanllik/elestiri anlami tasir."
+    },
+    {
+      "en": "Nurses don't have to work on Sundays.",
+      "tr": "Hemsirelerin pazar gunleri calismasi gerekmiyor.",
+      "why": "'Don't have to' zorunluluk olmadigini gosterir. Dikkat: 'mustn't' YASAK demek, 'don't have to' ise ZORUNLU DEGIL demek. Cok farkli!"
+    },
+    {
+      "en": "He can't have forgotten his appointment. He confirmed it this morning.",
+      "tr": "Randevusunu unutmus olamaz. Bu sabah onayladi.",
+      "why": "'Can't have + V3' gecmiste bir seyin imkansiz olduguna dair guclu tahmin. 'Must have' in tersi."
+    },
+    {
+      "en": "Could you pass me the stethoscope, please?",
+      "tr": "Stetoskopu uzatir misiniz lutfen?",
+      "why": "'Could' burada kibar rica icin kullaniliyor. 'Can' da kullanilabilir ama 'could' daha resmi ve kibar."
+    }
+  ],
+  "tips": [
+    "'Mustn't' = YASAK (prohibition). 'Don't have to' = ZORUNLU DEGIL (no obligation). Bu ikisini karistirma! Sinavlarin favori tuzagi.",
+    "'Must' kisisel kanaat/ic zorunluluk, 'have to' dis zorunluluk (kural). 'I must study' = Ben calismam lazim (kendi karari). 'I have to wear a uniform' = Uniforma giymek zorundayim (kural).",
+    "Modal'lardan sonra ASLA 'to' gelmez (have to ve ought to haric)! 'She can to swim' YANLIS. 'She can swim' DOGRU.",
+    "Modal'lardan sonra fiil DAIMA yalin (V1) kalir! 'He must goes' YANLIS. 'He must go' DOGRU. Ucuncu tekil sahis -s'i eklenmez.",
+    "'Should have + V3' = yapmaliydim ama yapmadim (pismanllik). 'Could have + V3' = yapabilirdim ama yapmadim (kacirilmis firsat). 'Must have + V3' = yapmis olmali (gecmis tahmin).",
+    "Sinav taktigi: Modal perfect sorularinda once anlami belirle (pismanllik mi? tahmin mi? imkansizlik mi?), sonra dogru modali sec.",
+    "'Had better' = should'dan daha guclu tavsiye, yapmazsan kotu sonuc olur. 'You had better see a doctor.' (Doktora gitsen iyi olur, yoksa kotulesir.)"
+  ]
+}

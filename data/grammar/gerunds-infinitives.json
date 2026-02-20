@@ -1,0 +1,602 @@
+[
+  {
+    "id": "gerunds-infinitives-001",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She enjoys _____ patients in the hospital.",
+    "options": [
+      {"key": "A", "text": "help"},
+      {"key": "B", "text": "to help"},
+      {"key": "C", "text": "helping"},
+      {"key": "D", "text": "helped"},
+      {"key": "E", "text": "helps"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Enjoy' fiili her zaman gerund (-ing) ile kullanilir. 'Enjoy helping' dogru yapidir. Hastanede hastalara yardim etmekten hoslanir.",
+    "rule_tr": "Enjoy + V-ing. 'Enjoy' den sonra to+fiil GELMEZ.",
+    "tip_tr": "Enjoy, avoid, mind, suggest, consider = hep -ing alir. Bunlari ezberle.",
+    "extra_example": "He enjoys reading medical journals. (Tip dergilerini okumaktan hoslanir.)"
+  },
+  {
+    "id": "gerunds-infinitives-002",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor suggested _____ more water every day.",
+    "options": [
+      {"key": "A", "text": "drink"},
+      {"key": "B", "text": "drinking"},
+      {"key": "C", "text": "to drink"},
+      {"key": "D", "text": "drank"},
+      {"key": "E", "text": "drinks"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Suggest' fiili gerund (-ing) ile kullanilir. Doktor her gun daha fazla su icmeyi onerdi.",
+    "rule_tr": "Suggest + V-ing. 'Suggest' ten sonra to+fiil GELMEZ.",
+    "tip_tr": "'Suggest' ten sonra 'that + ozne + fiil' de gelebilir ama en yaygin kullanim -ing.",
+    "extra_example": "She suggested taking a break. (Mola vermeyi onerdi.)"
+  },
+  {
+    "id": "gerunds-infinitives-003",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She wants _____ a doctor when she grows up.",
+    "options": [
+      {"key": "A", "text": "becoming"},
+      {"key": "B", "text": "become"},
+      {"key": "C", "text": "to become"},
+      {"key": "D", "text": "became"},
+      {"key": "E", "text": "becomes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Want' fiili her zaman infinitive (to+fiil) ile kullanilir. Buyudugunde doktor olmak istiyor.",
+    "rule_tr": "Want + to + fiil. 'Want' ten sonra -ing GELMEZ.",
+    "tip_tr": "Want, decide, hope, expect, promise = hep to+fiil alir. Bunlari ezberle.",
+    "extra_example": "He wants to study medicine. (Tip okumak istiyor.)"
+  },
+  {
+    "id": "gerunds-infinitives-004",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "They decided _____ the patient to a specialist.",
+    "options": [
+      {"key": "A", "text": "referring"},
+      {"key": "B", "text": "refer"},
+      {"key": "C", "text": "to refer"},
+      {"key": "D", "text": "referred"},
+      {"key": "E", "text": "refers"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Decide' fiili her zaman infinitive (to+fiil) ile kullanilir. Hastayi bir uzmana sevk etmeye karar verdiler.",
+    "rule_tr": "Decide + to + fiil. 'Decide' den sonra -ing GELMEZ.",
+    "tip_tr": "'Decide' karar verme ifade eder, gelecege yonelik bir niyettir, bu yuzden 'to' alir.",
+    "extra_example": "She decided to change her diet. (Diyetini degistirmeye karar verdi.)"
+  },
+  {
+    "id": "gerunds-infinitives-005",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Please avoid _____ fatty food after your surgery.",
+    "options": [
+      {"key": "A", "text": "eat"},
+      {"key": "B", "text": "to eat"},
+      {"key": "C", "text": "eating"},
+      {"key": "D", "text": "ate"},
+      {"key": "E", "text": "eaten"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Avoid' fiili gerund (-ing) ile kullanilir. Ameliyatinizdan sonra yagli yiyecekler yemekten kacinin.",
+    "rule_tr": "Avoid + V-ing. 'Avoid' dan sonra to+fiil GELMEZ.",
+    "tip_tr": "'Avoid' kacınma anlamı tasir. 'Avoid eating' = yemekten kacinmak.",
+    "extra_example": "You should avoid smoking. (Sigara icmekten kacinmalisin.)"
+  },
+  {
+    "id": "gerunds-infinitives-006",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse promised _____ the patient's family immediately.",
+    "options": [
+      {"key": "A", "text": "calling"},
+      {"key": "B", "text": "call"},
+      {"key": "C", "text": "to call"},
+      {"key": "D", "text": "called"},
+      {"key": "E", "text": "calls"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Promise' fiili infinitive (to+fiil) ile kullanilir. Hemsire hastanin ailesini hemen aramayi soz verdi.",
+    "rule_tr": "Promise + to + fiil. Soz verme gelecege yonelik bir taahhut icerir.",
+    "tip_tr": "'Promise' gelecege dair soz verir, bu yuzden 'to' alir. Genel kural: gelecege yonelik = to.",
+    "extra_example": "He promised to take his medicine. (Ilacini alacagina soz verdi.)"
+  },
+  {
+    "id": "gerunds-infinitives-007",
+    "topic": "gerunds-infinitives",
+    "subtopic": "preposition_plus_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She is interested in _____ nursing at university.",
+    "options": [
+      {"key": "A", "text": "study"},
+      {"key": "B", "text": "to study"},
+      {"key": "C", "text": "studied"},
+      {"key": "D", "text": "studying"},
+      {"key": "E", "text": "studies"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Edatlardan (prepositions) sonra her zaman gerund (-ing) gelir. 'Interested in' + V-ing. Universitede hemsirelik okumakla ilgileniyor.",
+    "rule_tr": "Edat (in, at, of, on...) + V-ing. Edattan sonra to+fiil GELMEZ.",
+    "tip_tr": "Edat gordugunde arkasina -ing koy. Bu kural ISTISNASIZ gecerli.",
+    "extra_example": "He is good at diagnosing diseases. (Hastaliklari teshis etmede iyidir.)"
+  },
+  {
+    "id": "gerunds-infinitives-008",
+    "topic": "gerunds-infinitives",
+    "subtopic": "infinitive_of_purpose",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He went to the pharmacy _____ his prescription.",
+    "options": [
+      {"key": "A", "text": "getting"},
+      {"key": "B", "text": "get"},
+      {"key": "C", "text": "to get"},
+      {"key": "D", "text": "got"},
+      {"key": "E", "text": "gets"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Amac bildirmek icin infinitive (to+fiil) kullanilir. Recetesini almak icin eczaneye gitti.",
+    "rule_tr": "To + fiil = amac. 'Why?' sorusunun cevabi olarak kullanilir.",
+    "tip_tr": "'Neden gitti?' sorusuna cevap veren kisim amactir. Amac = to + fiil.",
+    "extra_example": "She called the clinic to book an appointment. (Randevu almak icin klinigi aradi.)"
+  },
+  {
+    "id": "gerunds-infinitives-009",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Do you mind _____ the window? It's cold in here.",
+    "options": [
+      {"key": "A", "text": "close"},
+      {"key": "B", "text": "to close"},
+      {"key": "C", "text": "closing"},
+      {"key": "D", "text": "closed"},
+      {"key": "E", "text": "closes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Mind' fiili gerund (-ing) ile kullanilir. Pencereyi kapatir misiniz? Burasi soguk.",
+    "rule_tr": "Mind + V-ing. 'Do you mind...?' = 'Sakincasi var mi?' anlaminda kibarca istek.",
+    "tip_tr": "'Mind' her zaman -ing alir. 'Do you mind + V-ing?' kalibini ezberle.",
+    "extra_example": "Do you mind waiting outside? (Disarida beklemenizin sakincasi var mi?)"
+  },
+  {
+    "id": "gerunds-infinitives-010",
+    "topic": "gerunds-infinitives",
+    "subtopic": "preposition_plus_gerund",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He is afraid of _____ to the dentist.",
+    "options": [
+      {"key": "A", "text": "go"},
+      {"key": "B", "text": "going"},
+      {"key": "C", "text": "to go"},
+      {"key": "D", "text": "went"},
+      {"key": "E", "text": "gone"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Afraid of' ifadesinde 'of' bir edattir ve edattan sonra gerund (-ing) gelir. Dis hekimine gitmekten korkuyor.",
+    "rule_tr": "Afraid of + V-ing. Edat + V-ing kurali.",
+    "tip_tr": "'Of' bir edattir. Edattan sonra her zaman -ing gelir.",
+    "extra_example": "She is afraid of having an injection. (Igne olmaktan korkuyor.)"
+  },
+  {
+    "id": "gerunds-infinitives-011",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient stopped _____ and his health improved significantly.",
+    "options": [
+      {"key": "A", "text": "to smoke"},
+      {"key": "B", "text": "smoke"},
+      {"key": "C", "text": "smoking"},
+      {"key": "D", "text": "smoked"},
+      {"key": "E", "text": "smokes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Stop + V-ing' bir eylemi birakmak anlamina gelir. Hasta sigara icmeyi birakti ve sagligi belirgin sekilde iyilesti. 'Stop to smoke' ise sigara icmek icin durmak anlamina gelir.",
+    "rule_tr": "Stop + V-ing = birakmak. Stop + to + fiil = yapmak icin durmak. Anlam farki var!",
+    "tip_tr": "'Stop smoking' = sigarayi birak. 'Stop to smoke' = sigara icmek icin dur. Anlam tamamen degisir!",
+    "extra_example": "She stopped taking sugar in her tea. (Cayina seker koymayı birakti.)"
+  },
+  {
+    "id": "gerunds-infinitives-012",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I remember _____ my first anatomy class. It was fascinating.",
+    "options": [
+      {"key": "A", "text": "attend"},
+      {"key": "B", "text": "to attend"},
+      {"key": "C", "text": "attending"},
+      {"key": "D", "text": "attended"},
+      {"key": "E", "text": "attends"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Remember + V-ing' gecmiste yapilan bir seyi hatirlamak anlamina gelir. Ilk anatomi dersime katildigimi hatirliyorum — gecmiste olan bir olayı anlatıyor.",
+    "rule_tr": "Remember + V-ing = gecmisi hatirlamak. Remember + to = yapmayi unutmamak (gelecek).",
+    "tip_tr": "'Remember + -ing' gecmise bakar, 'remember + to' gelecege bakar. Zaman farki!",
+    "extra_example": "I remember meeting Dr. Smith for the first time. (Dr. Smith ile ilk kez tanis digimi hatirliyorum.)"
+  },
+  {
+    "id": "gerunds-infinitives-013",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Don't forget _____ your medication before going to bed.",
+    "options": [
+      {"key": "A", "text": "taking"},
+      {"key": "B", "text": "to take"},
+      {"key": "C", "text": "take"},
+      {"key": "D", "text": "took"},
+      {"key": "E", "text": "taken"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Forget + to + fiil' yapmasi gereken bir seyi unutmamak anlamina gelir. Yatmadan once ilacini almayi unutma — henuz yapilmamis, gelecege yonelik.",
+    "rule_tr": "Forget + to + fiil = yapmayi unutma (gelecek). Forget + V-ing = yaptigini unutmak (gecmis).",
+    "tip_tr": "'Don't forget to...' her zaman gelecege yoneliktir. Henuz yapilmamis bir eylem.",
+    "extra_example": "Don't forget to wash your hands. (Ellerini yikamayi unutma.)"
+  },
+  {
+    "id": "gerunds-infinitives-014",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The committee considered _____ a new health policy for the school.",
+    "options": [
+      {"key": "A", "text": "to implement"},
+      {"key": "B", "text": "implement"},
+      {"key": "C", "text": "implementing"},
+      {"key": "D", "text": "implemented"},
+      {"key": "E", "text": "implements"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Consider' fiili her zaman gerund (-ing) ile kullanilir. Komite okul icin yeni bir saglik politikasi uygulamayi dusundu.",
+    "rule_tr": "Consider + V-ing. 'Consider' den sonra to+fiil GELMEZ.",
+    "tip_tr": "'Consider' = dusunerek degerlendirmek. Her zaman -ing alir.",
+    "extra_example": "Have you considered changing your doctor? (Doktor degistirmeyi dusundun mu?)"
+  },
+  {
+    "id": "gerunds-infinitives-015",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The surgeon expected the operation _____ about three hours.",
+    "options": [
+      {"key": "A", "text": "lasting"},
+      {"key": "B", "text": "to last"},
+      {"key": "C", "text": "last"},
+      {"key": "D", "text": "lasted"},
+      {"key": "E", "text": "lasts"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Expect' fiili infinitive (to+fiil) ile kullanilir. Cerrah ameliyatin yaklasik uc saat surmesini bekliyordu.",
+    "rule_tr": "Expect + to + fiil / Expect + nesne + to + fiil. Her iki kullanim da to alir.",
+    "tip_tr": "'Expect' beklenti ifade eder, gelecege yonelik, bu yuzden 'to' alir.",
+    "extra_example": "I expect to receive the test results tomorrow. (Yarin test sonuclarini almayi bekliyorum.)"
+  },
+  {
+    "id": "gerunds-infinitives-016",
+    "topic": "gerunds-infinitives",
+    "subtopic": "infinitive_of_purpose",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital installed new cameras _____ patient safety.",
+    "options": [
+      {"key": "A", "text": "improving"},
+      {"key": "B", "text": "improve"},
+      {"key": "C", "text": "to improve"},
+      {"key": "D", "text": "improved"},
+      {"key": "E", "text": "improves"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Amac bildirmek icin infinitive (to+fiil) kullanilir. Hastane hasta guvenligini artirmak icin yeni kameralar kurdu.",
+    "rule_tr": "To + fiil = amac. Bir eylemin neden yapildigini aciklar.",
+    "tip_tr": "'Neden kuruldu?' sorusunun cevabi amactir. Amac = to + fiil.",
+    "extra_example": "They hired more nurses to provide better care. (Daha iyi bakim saglamak icin daha fazla hemsire ise aldilar.)"
+  },
+  {
+    "id": "gerunds-infinitives-017",
+    "topic": "gerunds-infinitives",
+    "subtopic": "preposition_plus_gerund",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She apologized for _____ the appointment without notice.",
+    "options": [
+      {"key": "A", "text": "cancel"},
+      {"key": "B", "text": "to cancel"},
+      {"key": "C", "text": "cancelling"},
+      {"key": "D", "text": "cancelled"},
+      {"key": "E", "text": "cancels"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'For' bir edattir ve edattan sonra gerund (-ing) gelir. Randevuyu haber vermeden iptal ettigi icin ozur diledi.",
+    "rule_tr": "Apologize for + V-ing. Edat + V-ing kurali.",
+    "tip_tr": "'Apologize for', 'thank for', 'blame for' hep edat+gerund kaliplaridir.",
+    "extra_example": "He thanked the nurse for helping him. (Hemşireye yardim ettigi icin tesekkur etti.)"
+  },
+  {
+    "id": "gerunds-infinitives-018",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor tried _____ the patient's anxiety with breathing exercises.",
+    "options": [
+      {"key": "A", "text": "reduce"},
+      {"key": "B", "text": "reducing"},
+      {"key": "C", "text": "to reduce"},
+      {"key": "D", "text": "reduced"},
+      {"key": "E", "text": "reduces"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Try + to + fiil' bir seyi yapmaya calismak anlamina gelir. Doktor hastanin kaygilarini nefes egzersizleriyle azaltmaya calisti.",
+    "rule_tr": "Try + to + fiil = calismak/gayret etmek. Try + V-ing = denemek/bir yolu denemek.",
+    "tip_tr": "'Try to' = basarmaya calismak. 'Try + -ing' = farkli bir yol denemek. Niyet farki var.",
+    "extra_example": "She tried to fall asleep, but she couldn't. (Uyumaya calisti ama uyuyamadi.)"
+  },
+  {
+    "id": "gerunds-infinitives-019",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She hopes _____ from medical school next year.",
+    "options": [
+      {"key": "A", "text": "graduating"},
+      {"key": "B", "text": "graduate"},
+      {"key": "C", "text": "to graduate"},
+      {"key": "D", "text": "graduated"},
+      {"key": "E", "text": "graduates"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Hope' fiili infinitive (to+fiil) ile kullanilir. Gelecek yil tip fakultesinden mezun olmayi umuyor.",
+    "rule_tr": "Hope + to + fiil. 'Hope' umut ifade eder ve gelecege yoneliktir.",
+    "tip_tr": "'Hope' gelecege dair umut tasir. Gelecege yonelik fiiller genelde 'to' alir.",
+    "extra_example": "I hope to become a surgeon one day. (Bir gun cerrah olmayi umuyorum.)"
+  },
+  {
+    "id": "gerunds-infinitives-020",
+    "topic": "gerunds-infinitives",
+    "subtopic": "preposition_plus_gerund",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient insisted on _____ a second opinion from another doctor.",
+    "options": [
+      {"key": "A", "text": "get"},
+      {"key": "B", "text": "to get"},
+      {"key": "C", "text": "getting"},
+      {"key": "D", "text": "got"},
+      {"key": "E", "text": "gets"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Insist on' ifadesinde 'on' bir edattir ve edattan sonra gerund (-ing) gelir. Hasta baska bir doktordan ikinci bir gorus almakta israr etti.",
+    "rule_tr": "Insist on + V-ing. Edat + V-ing kurali.",
+    "tip_tr": "'Insist on' kalibini ezberle. 'On' edatindan sonra her zaman -ing gelir.",
+    "extra_example": "He insisted on paying for the treatment himself. (Tedavi masraflarini kendisi odemeye israr etti.)"
+  },
+  {
+    "id": "gerunds-infinitives-021",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "I regret _____ you that the test results are not favorable.",
+    "options": [
+      {"key": "A", "text": "telling"},
+      {"key": "B", "text": "to tell"},
+      {"key": "C", "text": "tell"},
+      {"key": "D", "text": "told"},
+      {"key": "E", "text": "tells"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Regret + to + fiil' uzulerek bir sey soylemek/yapmak anlaminda kullanilir. Test sonuclarinin olumlu olmadigini soylemek zorunda oldugum icin uzgunuz — soylemek uzere, henuz soylenmemis.",
+    "rule_tr": "Regret + to + fiil = uzulerek bildirmek (simdi). Regret + V-ing = gecmiste yaptigina pisman olmak.",
+    "tip_tr": "'I regret to inform/tell/say' kaliplari resmi bildirimlerde kullanilir. B2 sinavlarinda sik cikar.",
+    "extra_example": "I regret to inform you that your application was rejected. (Basvurunuzun reddedildigini bildirmekten uzuntu duyarim.)"
+  },
+  {
+    "id": "gerunds-infinitives-022",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "He regrets _____ so much junk food when he was younger.",
+    "options": [
+      {"key": "A", "text": "to eat"},
+      {"key": "B", "text": "eat"},
+      {"key": "C", "text": "eating"},
+      {"key": "D", "text": "eaten"},
+      {"key": "E", "text": "eats"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Regret + V-ing' gecmiste yapilan bir seyden pisman olmak anlamina gelir. Gencken bu kadar abur cubur yemis olmasina pisman.",
+    "rule_tr": "Regret + V-ing = gecmiste yaptigina pisman olmak. Gecmise yonelik bir duygu.",
+    "tip_tr": "'Regret + -ing' = pismanlik (gecmis). 'Regret + to' = uzuntu ile bildirim (simdi). Zamani kontrol et!",
+    "extra_example": "She regrets not studying harder for the exam. (Sinava daha cok calismamis olmasina pisman.)"
+  },
+  {
+    "id": "gerunds-infinitives-023",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "On the way to the hospital, the ambulance stopped _____ fuel.",
+    "options": [
+      {"key": "A", "text": "getting"},
+      {"key": "B", "text": "to get"},
+      {"key": "C", "text": "get"},
+      {"key": "D", "text": "got"},
+      {"key": "E", "text": "gets"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Stop + to + fiil' bir sey yapmak icin durmak anlamina gelir. Ambulans hastaneye giderken yakit almak icin durdu.",
+    "rule_tr": "Stop + to + fiil = yapmak icin durmak (amac). Stop + V-ing = birakmak.",
+    "tip_tr": "'Stop to get fuel' = yakit almak icin durdu. 'Stop getting fuel' = yakit almayi birakti. Cok farkli anlamlar!",
+    "extra_example": "He stopped to rest on the way. (Yolda dinlenmek icin durdu.)"
+  },
+  {
+    "id": "gerunds-infinitives-024",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The health minister denied _____ any knowledge of the contamination.",
+    "options": [
+      {"key": "A", "text": "to have"},
+      {"key": "B", "text": "having"},
+      {"key": "C", "text": "have"},
+      {"key": "D", "text": "had"},
+      {"key": "E", "text": "has"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Deny' fiili gerund (-ing) ile kullanilir. Saglik bakani bulasmadan haberdar oldugunu reddetti.",
+    "rule_tr": "Deny + V-ing. 'Deny' den sonra to+fiil GELMEZ.",
+    "tip_tr": "'Deny' = reddetmek/inkar etmek. Resmi/hukuki metinlerde sik gecen bir yapidir.",
+    "extra_example": "The company denied causing the pollution. (Sirket kirlilege neden oldugunu reddetti.)"
+  },
+  {
+    "id": "gerunds-infinitives-025",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The research team managed _____ a breakthrough in cancer treatment.",
+    "options": [
+      {"key": "A", "text": "achieving"},
+      {"key": "B", "text": "achieve"},
+      {"key": "C", "text": "to achieve"},
+      {"key": "D", "text": "achieved"},
+      {"key": "E", "text": "achieves"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Manage' fiili infinitive (to+fiil) ile kullanilir. Arastirma ekibi kanser tedavisinde bir bulusu basarmayi becerdi.",
+    "rule_tr": "Manage + to + fiil = basarmayi becermek. 'Manage' den sonra -ing GELMEZ.",
+    "tip_tr": "'Manage to' = zorluklara ragmen basarmak. Sinavlarda sik kullanilan bir yapi.",
+    "extra_example": "The surgeon managed to save the patient's life. (Cerrah hastanin hayatini kurtarmayi basardi.)"
+  },
+  {
+    "id": "gerunds-infinitives-026",
+    "topic": "gerunds-infinitives",
+    "subtopic": "preposition_plus_gerund",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new treatment is aimed at _____ the side effects of chemotherapy.",
+    "options": [
+      {"key": "A", "text": "reduce"},
+      {"key": "B", "text": "to reduce"},
+      {"key": "C", "text": "reducing"},
+      {"key": "D", "text": "reduced"},
+      {"key": "E", "text": "reduces"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Aimed at' ifadesinde 'at' bir edattir ve edattan sonra gerund (-ing) gelir. Yeni tedavi kemoterapinin yan etkilerini azaltmayi hedefliyor.",
+    "rule_tr": "Aimed at + V-ing. Edat + V-ing kurali.",
+    "tip_tr": "'Be aimed at + -ing' = hedeflemek. Akademik ve tip metinlerinde cok yaygin.",
+    "extra_example": "The campaign is aimed at reducing obesity. (Kampanya obeziteyi azaltmayi hedefliyor.)"
+  },
+  {
+    "id": "gerunds-infinitives-027",
+    "topic": "gerunds-infinitives",
+    "subtopic": "infinitive_of_purpose",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The government allocated extra funds _____ the healthcare infrastructure.",
+    "options": [
+      {"key": "A", "text": "strengthening"},
+      {"key": "B", "text": "strengthen"},
+      {"key": "C", "text": "strengthened"},
+      {"key": "D", "text": "in order to strengthen"},
+      {"key": "E", "text": "for strengthen"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'In order to + fiil' formal amac ifadesidir. Hukumet saglik altyapisini guclendirmek amaciyla ek kaynak ayirdi.",
+    "rule_tr": "In order to + fiil = ... amacıyla (formal). Amac bildirmenin formal yoludur.",
+    "tip_tr": "'In order to' sinavlarda 'to' dan daha cok tercih edilir cunku daha formal ve net.",
+    "extra_example": "She took vitamins in order to boost her immune system. (Bagisiklik sistemini guclendirmek icin vitamin aldi.)"
+  },
+  {
+    "id": "gerunds-infinitives-028",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_both",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Have you tried _____ herbal tea? It might help with your insomnia.",
+    "options": [
+      {"key": "A", "text": "to drink"},
+      {"key": "B", "text": "drinking"},
+      {"key": "C", "text": "drink"},
+      {"key": "D", "text": "drank"},
+      {"key": "E", "text": "drunk"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Try + V-ing' bir yol/yontem denemek anlamina gelir. Bitki cayi icmeyi denedin mi? — farkli bir cozum oneriliyor.",
+    "rule_tr": "Try + V-ing = bir yol denemek. Try + to = basarmaya calismak. Niyet farki var.",
+    "tip_tr": "'Try + -ing' bir oneri veya alternatif cozumdur. 'Try + to' ise zor bir seyi basarmaya calismaktir.",
+    "extra_example": "Try taking a warm bath before bed. (Yatmadan once ilik banyo yapmayi dene.)"
+  },
+  {
+    "id": "gerunds-infinitives-029",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_gerund",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The WHO recommends _____ hands frequently to prevent the spread of infections.",
+    "options": [
+      {"key": "A", "text": "to wash"},
+      {"key": "B", "text": "wash"},
+      {"key": "C", "text": "washing"},
+      {"key": "D", "text": "washed"},
+      {"key": "E", "text": "washes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Recommend' fiili gerund (-ing) ile kullanilir. DSO enfeksiyonlarin yayilmasini onlemek icin sik sik el yikamayi oneriyor.",
+    "rule_tr": "Recommend + V-ing. 'Recommend' den sonra to+fiil GELMEZ (dogrudan fiil icin).",
+    "tip_tr": "'Recommend', 'suggest', 'advise' hepsi -ing alir (dogrudan fiil icin). Bunlari grup olarak ezberle.",
+    "extra_example": "Doctors recommend exercising at least 30 minutes a day. (Doktorlar gunde en az 30 dakika egzersiz yapmayi onerir.)"
+  },
+  {
+    "id": "gerunds-infinitives-030",
+    "topic": "gerunds-infinitives",
+    "subtopic": "verbs_with_infinitive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient refused _____ the experimental drug without more information.",
+    "options": [
+      {"key": "A", "text": "taking"},
+      {"key": "B", "text": "take"},
+      {"key": "C", "text": "to take"},
+      {"key": "D", "text": "took"},
+      {"key": "E", "text": "taken"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Refuse' fiili infinitive (to+fiil) ile kullanilir. Hasta daha fazla bilgi olmadan deneysel ilaci almayi reddetti.",
+    "rule_tr": "Refuse + to + fiil. 'Refuse' den sonra -ing GELMEZ.",
+    "tip_tr": "'Refuse' = reddetmek. 'Agree', 'refuse', 'offer', 'threaten' hepsi 'to' alir.",
+    "extra_example": "She refused to sign the consent form. (Onam formunu imzalamayi reddetti.)"
+  }
+]

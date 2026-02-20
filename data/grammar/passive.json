@@ -1,0 +1,602 @@
+[
+  {
+    "id": "passive-001",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Patients _____ by the nurse before they see the doctor.",
+    "options": [
+      {"key": "A", "text": "examine"},
+      {"key": "B", "text": "examines"},
+      {"key": "C", "text": "are examined"},
+      {"key": "D", "text": "is examined"},
+      {"key": "E", "text": "examining"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Hastalar muayene edilir — eylemi yapan degil, eyleme maruz kalan onemli. Ozne 'Patients' cogul oldugu icin 'are examined' (Present Simple Passive) kullanilir.",
+    "rule_tr": "Present Simple Passive: am/is/are + V3 (eylemi yapan degil, yapilan is onemli oldugunda)",
+    "tip_tr": "Kim yapiyor onemli degil, ne yapiliyor onemli ise = pasif yapi kullan.",
+    "extra_example": "Medications are stored in a cool, dry place. (Ilaclar serin ve kuru bir yerde saklanir.)"
+  },
+  {
+    "id": "passive-002",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Blood pressure _____ regularly in the hospital.",
+    "options": [
+      {"key": "A", "text": "checks"},
+      {"key": "B", "text": "is checked"},
+      {"key": "C", "text": "are checked"},
+      {"key": "D", "text": "checking"},
+      {"key": "E", "text": "check"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Blood pressure' tekil bir kavram, eylemi yapan degil yapilan is onemli. is + V3 (checked) = Present Simple Passive.",
+    "rule_tr": "Tekil ozne + is + V3 | Cogul ozne + are + V3",
+    "tip_tr": "Oznenin tekil/cogul olmasina dikkat et: is checked (tekil) vs are checked (cogul).",
+    "extra_example": "The temperature is measured every four hours. (Sicaklik her dort saatte bir olculur.)"
+  },
+  {
+    "id": "passive-003",
+    "topic": "passive",
+    "subtopic": "past_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ to the intensive care unit last night.",
+    "options": [
+      {"key": "A", "text": "transferred"},
+      {"key": "B", "text": "was transferred"},
+      {"key": "C", "text": "is transferred"},
+      {"key": "D", "text": "were transferred"},
+      {"key": "E", "text": "has transferred"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Last night' gecmis zamani gosteriyor. Hasta transfer edildi (pasif). Tekil ozne + was + V3 = Past Simple Passive.",
+    "rule_tr": "Past Simple Passive: was/were + V3 (gecmiste yapilmis eylem)",
+    "tip_tr": "Tekil ozne = was + V3 | Cogul ozne = were + V3. Zaman zarfina (last night, yesterday) dikkat.",
+    "extra_example": "The surgery was performed by Dr. Smith yesterday. (Ameliyat dun Dr. Smith tarafindan yapildi.)"
+  },
+  {
+    "id": "passive-004",
+    "topic": "passive",
+    "subtopic": "past_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Three new nurses _____ at the hospital last month.",
+    "options": [
+      {"key": "A", "text": "hired"},
+      {"key": "B", "text": "was hired"},
+      {"key": "C", "text": "were hired"},
+      {"key": "D", "text": "are hired"},
+      {"key": "E", "text": "have hired"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Three new nurses' cogul ozne ve 'last month' gecmis zaman. Cogul ozne + were + V3 = Past Simple Passive.",
+    "rule_tr": "Past Simple Passive cogul: were + V3",
+    "tip_tr": "Cogul ozne (nurses, patients, doctors) + were + V3. Tekil ozne + was + V3.",
+    "extra_example": "The test results were sent to the doctor last week. (Test sonuclari gecen hafta doktora gonderildi.)"
+  },
+  {
+    "id": "passive-005",
+    "topic": "passive",
+    "subtopic": "present_perfect_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ already _____ from the hospital.",
+    "options": [
+      {"key": "A", "text": "has / discharged"},
+      {"key": "B", "text": "has / been discharged"},
+      {"key": "C", "text": "have / been discharged"},
+      {"key": "D", "text": "was / discharged"},
+      {"key": "E", "text": "is / discharged"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Already' Present Perfect isaretcisidir. Hasta taburcu edildi (pasif). has + been + V3 = Present Perfect Passive.",
+    "rule_tr": "Present Perfect Passive: has/have + been + V3",
+    "tip_tr": "already, just, yet, recently gorursen Present Perfect dusun. Pasif yapida been eklenir: has been + V3.",
+    "extra_example": "The new treatment has been approved by the FDA. (Yeni tedavi FDA tarafindan onaylandi.)"
+  },
+  {
+    "id": "passive-006",
+    "topic": "passive",
+    "subtopic": "future_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The operation _____ next Monday.",
+    "options": [
+      {"key": "A", "text": "performs"},
+      {"key": "B", "text": "performed"},
+      {"key": "C", "text": "will perform"},
+      {"key": "D", "text": "will be performed"},
+      {"key": "E", "text": "is performing"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Next Monday' gelecek zaman. Ameliyat yapilacak (pasif — ameliyati yapan degil ameliyat onemli). will + be + V3 = Future Simple Passive.",
+    "rule_tr": "Future Simple Passive: will + be + V3",
+    "tip_tr": "will + be + V3: gelecekte yapilacak eylem. tomorrow, next week gibi zaman zarflari ile.",
+    "extra_example": "New hospital beds will be delivered next week. (Yeni hastane yataklari gelecek hafta teslim edilecek.)"
+  },
+  {
+    "id": "passive-007",
+    "topic": "passive",
+    "subtopic": "passive_with_by",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The prescription was written _____ Dr. Johnson.",
+    "options": [
+      {"key": "A", "text": "from"},
+      {"key": "B", "text": "with"},
+      {"key": "C", "text": "by"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Pasif cumlede eylemi yapan kisi/sey belirtilmek istendiginde 'by' kullanilir. Dr. Johnson receteyi yazan kisi.",
+    "rule_tr": "Pasif + by + agent (eylemi yapan): The report was written by the doctor.",
+    "tip_tr": "Eylemi kimin yaptigi onemli ise 'by' ile belirt. Onemli degilse 'by' kullanma.",
+    "extra_example": "The patient was treated by a specialist. (Hasta bir uzman tarafindan tedavi edildi.)"
+  },
+  {
+    "id": "passive-008",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This medication _____ with food.",
+    "options": [
+      {"key": "A", "text": "must take"},
+      {"key": "B", "text": "must be taken"},
+      {"key": "C", "text": "must taken"},
+      {"key": "D", "text": "must is taken"},
+      {"key": "E", "text": "must to be taken"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ilac alinmali (zorundlik) — pasif yapi. Modal + be + V3. must + be + taken = Modal Passive.",
+    "rule_tr": "Modal Passive: modal (must/can/should/may) + be + V3",
+    "tip_tr": "Modal'dan sonra 'be' gelir, sonra V3. ASLA 'is/are' gelmez: must be taken (DOGRU), must is taken (YANLIS).",
+    "extra_example": "The wound should be cleaned regularly. (Yara duzgun olarak temizlenmelidir.)"
+  },
+  {
+    "id": "passive-009",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Newborn babies _____ immediately after birth.",
+    "options": [
+      {"key": "A", "text": "weigh"},
+      {"key": "B", "text": "is weighed"},
+      {"key": "C", "text": "are weighed"},
+      {"key": "D", "text": "weighs"},
+      {"key": "E", "text": "were weighed"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Yeni dogan bebekler tartilir — genel gecerli kural/prosedur. Cogul ozne (babies) + are + V3 = Present Simple Passive.",
+    "rule_tr": "Hastane prosedürleri genelde Present Simple Passive ile ifade edilir: are/is + V3",
+    "tip_tr": "Prosedurler, kurallar, genel uygulamalar pasif ile anlatilir cunku kimin yaptigi degil ne yapildigi onemli.",
+    "extra_example": "Visitors are not allowed in the ICU after 8 PM. (Ziyaretcilerin saat 20:00'den sonra yogun bakima girmesine izin verilmez.)"
+  },
+  {
+    "id": "passive-010",
+    "topic": "passive",
+    "subtopic": "passive_with_by",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The vaccine was developed _____ a team of international researchers.",
+    "options": [
+      {"key": "A", "text": "from"},
+      {"key": "B", "text": "with"},
+      {"key": "C", "text": "to"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "at"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Asiyi kim gelistirdi sorusunun cevabi 'by' ile verilir. by + agent (eylemi yapan) = uluslararasi arastirmacilardan olusan bir ekip.",
+    "rule_tr": "by + agent: eylemi yapan kisi, kurum veya grup",
+    "tip_tr": "by + kisi/kurum: eylemi yapan | with + arac: kullanilan alet. 'by the doctor' vs 'with a scalpel'.",
+    "extra_example": "The report was prepared by the nursing staff. (Rapor hemsirelik personeli tarafindan hazirlandi.)"
+  },
+  {
+    "id": "passive-011",
+    "topic": "passive",
+    "subtopic": "present_perfect_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Over 500 patients _____ at the new clinic since it opened in January.",
+    "options": [
+      {"key": "A", "text": "treated"},
+      {"key": "B", "text": "were treated"},
+      {"key": "C", "text": "have been treated"},
+      {"key": "D", "text": "are treated"},
+      {"key": "E", "text": "had been treated"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Since it opened in January' Present Perfect isaretcisidir (gecmisten su ana). 500'den fazla hasta tedavi edildi (pasif). have + been + V3 = Present Perfect Passive.",
+    "rule_tr": "Present Perfect Passive: have/has + been + V3. since/for ile birlikte kullanilir.",
+    "tip_tr": "since + Present Perfect Passive = gecmisten su ana kadar yapilmis eylem sayisi/miktari.",
+    "extra_example": "Several new treatments have been introduced since 2020. (2020'den beri birkac yeni tedavi yontemi tanitildi.)"
+  },
+  {
+    "id": "passive-012",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The dosage _____ by a qualified physician before the medication is administered.",
+    "options": [
+      {"key": "A", "text": "should determine"},
+      {"key": "B", "text": "should be determined"},
+      {"key": "C", "text": "should been determined"},
+      {"key": "D", "text": "should is determined"},
+      {"key": "E", "text": "should determines"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Doz belirlenmeli (zorunluluk + pasif). should + be + V3 = Modal Passive. 'by a qualified physician' eylemi yapani gosteriyor.",
+    "rule_tr": "should + be + V3: yapilmasi gereken eylem (pasif). should + V1: yapilmasi gereken eylem (aktif).",
+    "tip_tr": "Modal passive formulü: modal + be + V3. Aradaki 'be' HER ZAMAN 'be' kalir, ASLA 'is/are/was/were' olmaz.",
+    "extra_example": "The patient's consent should be obtained before any procedure. (Herhangi bir islemden once hastanin onami alinmalidir.)"
+  },
+  {
+    "id": "passive-013",
+    "topic": "passive",
+    "subtopic": "future_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "All staff members _____ about the new infection control procedures next week.",
+    "options": [
+      {"key": "A", "text": "will inform"},
+      {"key": "B", "text": "will be informed"},
+      {"key": "C", "text": "are informed"},
+      {"key": "D", "text": "informed"},
+      {"key": "E", "text": "have been informed"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Next week' gelecek zaman. Personel bilgilendirilecek (pasif). will + be + V3 = Future Simple Passive.",
+    "rule_tr": "Future Simple Passive: will + be + V3. Gelecekte yapilacak planli eylemler.",
+    "tip_tr": "Gelecek zaman zarfi (next week, tomorrow) + ozne eylemi yapan degil = will be + V3.",
+    "extra_example": "The test results will be sent to your email by Friday. (Test sonuclari cumaya kadar e-postaniza gonderilecek.)"
+  },
+  {
+    "id": "passive-014",
+    "topic": "passive",
+    "subtopic": "past_simple_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital _____ in 1965 and _____ several times since then.",
+    "options": [
+      {"key": "A", "text": "was built / renovated"},
+      {"key": "B", "text": "was built / has been renovated"},
+      {"key": "C", "text": "built / renovated"},
+      {"key": "D", "text": "has been built / was renovated"},
+      {"key": "E", "text": "was built / was renovated"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'In 1965' = Past Simple Passive (was built). 'Since then' = Present Perfect Passive (has been renovated). Iki farkli zaman ayni cumlede.",
+    "rule_tr": "in + yil = Past Simple | since then = Present Perfect. Ayni cumlede iki farkli tense olabilir.",
+    "tip_tr": "Bir cumlede iki farkli zaman zarfi varsa her bir kisim kendi zamaninda olur.",
+    "extra_example": "The clinic was established in 2000 and has been expanded twice since then. (Klinik 2000'de kuruldu ve o zamandan beri iki kez genisletildi.)"
+  },
+  {
+    "id": "passive-015",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Antibiotics _____ only when prescribed by a doctor.",
+    "options": [
+      {"key": "A", "text": "should take"},
+      {"key": "B", "text": "should be take"},
+      {"key": "C", "text": "should be taken"},
+      {"key": "D", "text": "should been taken"},
+      {"key": "E", "text": "should taking"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Antibiyotikler alinmali (zorunluluk + pasif). should + be + V3 (taken). V3 formu onemli: take → taken.",
+    "rule_tr": "should + be + V3. V3 formuna dikkat: take → taken, give → given, write → written",
+    "tip_tr": "Duzensiz fiillerin V3 formlarini bilmek pasif yapilar icin kritik. take-took-taken, give-gave-given.",
+    "extra_example": "Painkillers should not be taken on an empty stomach. (Agri kesiciler bos karina alinmamalidir.)"
+  },
+  {
+    "id": "passive-016",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "In this hospital, all surgical instruments _____ thoroughly before and after each procedure.",
+    "options": [
+      {"key": "A", "text": "sterilize"},
+      {"key": "B", "text": "sterilizes"},
+      {"key": "C", "text": "is sterilized"},
+      {"key": "D", "text": "are sterilized"},
+      {"key": "E", "text": "sterilizing"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Cerrahi aletler sterilize edilir — hastane kuralı. Cogul ozne (instruments) + are + V3 (sterilized). Present Simple Passive.",
+    "rule_tr": "Present Simple Passive cogul: are + V3. Prosedurler, kurallar icin.",
+    "tip_tr": "Hastane/laboratuvar prosedürleri genellikle pasif ile anlatilir: 'are cleaned, are sterilized, are stored'.",
+    "extra_example": "Patient records are kept confidential at all times. (Hasta kayitlari her zaman gizli tutulur.)"
+  },
+  {
+    "id": "passive-017",
+    "topic": "passive",
+    "subtopic": "passive_with_by",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The MRI scan _____ by a radiologist, and the results _____ to the referring doctor.",
+    "options": [
+      {"key": "A", "text": "is interpreted / are sent"},
+      {"key": "B", "text": "interprets / sends"},
+      {"key": "C", "text": "is interpreted / sends"},
+      {"key": "D", "text": "interpreted / sent"},
+      {"key": "E", "text": "are interpreted / is sent"}
+    ],
+    "answer": "A",
+    "explanation_tr": "MRI yorumlanir (tekil — is interpreted) + sonuclar gonderilir (cogul — are sent). Her iki cumle de Present Simple Passive ve genel bir proseduru anlatiyor.",
+    "rule_tr": "Birden fazla pasif cumle birlestirilebilir: X is V3 and Y are V3.",
+    "tip_tr": "Her oznenin tekil/cogul durumuna ayri ayri bak: scan (tekil) = is, results (cogul) = are.",
+    "extra_example": "The blood sample is taken by the nurse, and the results are analyzed by the lab. (Kan ornegi hemsire tarafindan alinir, sonuclar laboratuvar tarafindan analiz edilir.)"
+  },
+  {
+    "id": "passive-018",
+    "topic": "passive",
+    "subtopic": "present_perfect_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "A new strain of the virus _____ recently _____ in several countries.",
+    "options": [
+      {"key": "A", "text": "has / identified"},
+      {"key": "B", "text": "has / been identified"},
+      {"key": "C", "text": "have / been identified"},
+      {"key": "D", "text": "was / identified"},
+      {"key": "E", "text": "is / identified"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Recently' Present Perfect isaretcisidir. Yeni bir virus susu tespit edildi (pasif). 'A new strain' tekil — has + been + V3.",
+    "rule_tr": "recently, just, already + Present Perfect Passive: has/have + been + V3",
+    "tip_tr": "recently = son zamanlarda. Present Perfect ile kullanilir. Pasif yapida 'been' eklenir.",
+    "extra_example": "A breakthrough in cancer research has just been announced. (Kanser arastirmasinda bir ilerleme az once duyuruldu.)"
+  },
+  {
+    "id": "passive-019",
+    "topic": "passive",
+    "subtopic": "future_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ to a private room as soon as one becomes available.",
+    "options": [
+      {"key": "A", "text": "will move"},
+      {"key": "B", "text": "will be moved"},
+      {"key": "C", "text": "is moved"},
+      {"key": "D", "text": "moves"},
+      {"key": "E", "text": "has been moved"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hasta tasiacak (gelecek + pasif). 'As soon as one becomes available' gelecegi isaret ediyor. will + be + V3 = Future Simple Passive.",
+    "rule_tr": "Future Simple Passive: will + be + V3. Gelecekte baskasi tarafindan yapilacak eylem.",
+    "tip_tr": "As soon as + Present Simple, will be + V3: zaman baglaci + gelecek pasif yapi.",
+    "extra_example": "You will be notified as soon as the doctor is available. (Doktor musait olur olmaz size haber verilecek.)"
+  },
+  {
+    "id": "passive-020",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "This wound _____ immediately, or it _____ infected.",
+    "options": [
+      {"key": "A", "text": "must treat / may become"},
+      {"key": "B", "text": "must be treated / may become"},
+      {"key": "C", "text": "must be treated / may be become"},
+      {"key": "D", "text": "must treated / may becomes"},
+      {"key": "E", "text": "must be treat / may become"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Yara tedavi edilmeli (must be treated — modal passive) yoksa enfekte olabilir (may become — aktif cunku become zaten durum degisikligi fiili). must + be + V3 ve may + V1.",
+    "rule_tr": "must be + V3 (pasif zorunluluk) | may + V1 (olasilik, aktif). Her modal'in pasif/aktif durumunu ayri degerlendir.",
+    "tip_tr": "become, get, seem gibi linking verb'ler genellikle aktif kalir. Sadece action verb'ler pasif olur.",
+    "extra_example": "The stitches can be removed after ten days. (Dikisler on gun sonra alinabilir.)"
+  },
+  {
+    "id": "passive-021",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "It _____ that approximately 15 million people worldwide _____ from this chronic condition.",
+    "options": [
+      {"key": "A", "text": "is estimated / suffer"},
+      {"key": "B", "text": "estimates / suffer"},
+      {"key": "C", "text": "is estimated / are suffered"},
+      {"key": "D", "text": "estimated / suffers"},
+      {"key": "E", "text": "has estimated / suffer"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'It is estimated that...' yapisi resmi/akademik dilde sik kullanilir. 'Suffer from' aktif bir fiildir (insanlar muzdarip olur, muzdarip edilmez).",
+    "rule_tr": "It is + V3 + that...: Resmi/akademik pasif yapi. It is believed/estimated/reported/known that...",
+    "tip_tr": "It is said/believed/estimated/reported that... yapisi akademik dilde ve sinavlarda cok cikar.",
+    "extra_example": "It is believed that stress weakens the immune system. (Stresin bagisiklik sistemini zayiflattigi dusunulmektedir.)"
+  },
+  {
+    "id": "passive-022",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new drug _____ to _____ effective against drug-resistant bacteria.",
+    "options": [
+      {"key": "A", "text": "is known / be"},
+      {"key": "B", "text": "knows / be"},
+      {"key": "C", "text": "is known / being"},
+      {"key": "D", "text": "known / be"},
+      {"key": "E", "text": "is known / is"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'S + is known + to + V1' yapisi 'It is known that S + V' yapisinin kisisel formudur. is known to be = ...oldugu biliniyor.",
+    "rule_tr": "S + is said/known/believed/reported + to + V1: kisisel pasif yapi (personal passive)",
+    "tip_tr": "Iki pasif form: 'It is known that he is...' = 'He is known to be...' Her ikisi de sinavda cikar.",
+    "extra_example": "This treatment is believed to reduce inflammation. (Bu tedavinin iltihabi azalttigi dusunuluyor.)"
+  },
+  {
+    "id": "passive-023",
+    "topic": "passive",
+    "subtopic": "past_simple_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Penicillin _____ accidentally by Alexander Fleming in 1928, and it _____ as one of the greatest medical discoveries.",
+    "options": [
+      {"key": "A", "text": "was discovered / is regarded"},
+      {"key": "B", "text": "discovered / regarded"},
+      {"key": "C", "text": "was discovered / was regarded"},
+      {"key": "D", "text": "is discovered / is regarded"},
+      {"key": "E", "text": "has been discovered / has been regarded"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'In 1928' = Past Simple Passive (was discovered). 'Is regarded' = hala su anda gecerli bir gercek (Present Simple Passive). Iki farkli zaman ayni cumlede.",
+    "rule_tr": "Tarihi olaylar = was/were + V3 | Su anki genel kabul = is/are + V3",
+    "tip_tr": "Tarihi buluslar Past Simple Passive ile anlatilir. Su anki degerlendirme Present Simple Passive ile.",
+    "extra_example": "X-rays were discovered by Wilhelm Rontgen and are still used in modern medicine. (X-isinlari Wilhelm Rontgen tarafindan kesfedildi ve modern tipla hala kullaniliyor.)"
+  },
+  {
+    "id": "passive-024",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The side effects of this medication _____ fully _____ yet, so caution is advised.",
+    "options": [
+      {"key": "A", "text": "may not / understand"},
+      {"key": "B", "text": "may not have / been understood"},
+      {"key": "C", "text": "might not / been understood"},
+      {"key": "D", "text": "may not / be understood"},
+      {"key": "E", "text": "cannot / understood"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Yet' tamamlanmamayi gosteriyor. Yan etkiler henuz tam anlasilmamis olabilir (gecmis olasilik + pasif). may not have + been + V3 = Modal Perfect Passive.",
+    "rule_tr": "Modal Perfect Passive: modal + (not) + have + been + V3 (gecmiste olmus/olmamis olabilir)",
+    "tip_tr": "may/might/could + have been + V3: gecmis olasilik pasif. 'Yapilmis/yapilmamis olabilir' anlaminda.",
+    "extra_example": "The infection could have been caused by contaminated equipment. (Enfeksiyona kontamine ekipman neden olmus olabilir.)"
+  },
+  {
+    "id": "passive-025",
+    "topic": "passive",
+    "subtopic": "present_perfect_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Significant progress _____ in the fight against malaria, but the disease _____ still not _____.",
+    "options": [
+      {"key": "A", "text": "has been made / has / been eradicated"},
+      {"key": "B", "text": "was made / is / eradicated"},
+      {"key": "C", "text": "has made / has / been eradicated"},
+      {"key": "D", "text": "has been made / is / eradicated"},
+      {"key": "E", "text": "made / was / eradicated"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Onemli ilerleme kaydedildi (devam eden etki — has been made). Hastalik henuz yok edilmedi (still not — has not been eradicated). Her ikisi de Present Perfect Passive.",
+    "rule_tr": "has/have + been + V3 | has/have + not + been + V3 (olumsuz)",
+    "tip_tr": "still not + Present Perfect Passive: henuz yapilmamis ama beklenen eylem.",
+    "extra_example": "A cure for Alzheimer's has not yet been found. (Alzheimer icin henuz bir tedavi bulunamamistir.)"
+  },
+  {
+    "id": "passive-026",
+    "topic": "passive",
+    "subtopic": "future_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "It is expected that robotic surgery _____ in most major hospitals by 2030.",
+    "options": [
+      {"key": "A", "text": "will use"},
+      {"key": "B", "text": "will have been used"},
+      {"key": "C", "text": "will be used"},
+      {"key": "D", "text": "is used"},
+      {"key": "E", "text": "is being used"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'By 2030' gelecek zamani gosteriyor. Robotik cerrahi kullanilacak (pasif). will + be + V3 = Future Simple Passive.",
+    "rule_tr": "by + gelecek tarih + Future Passive: will be + V3",
+    "tip_tr": "It is expected that + Future Passive: gelecek hakkinda akademik tahmin yapmak icin ideal yapi.",
+    "extra_example": "Personalized medicine will be offered to every patient in the future. (Gelecekte her hastaya kisisellestirilmis tip sunulacak.)"
+  },
+  {
+    "id": "passive-027",
+    "topic": "passive",
+    "subtopic": "passive_with_by",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient was examined by the doctor and then _____ to the radiology department _____ further tests.",
+    "options": [
+      {"key": "A", "text": "referred / with"},
+      {"key": "B", "text": "was referred / for"},
+      {"key": "C", "text": "referred / for"},
+      {"key": "D", "text": "was referred / by"},
+      {"key": "E", "text": "is referred / for"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Was examined' ve 'was referred' ayni zaman diliminde iki ardisik pasif eylem. 'and then' ile baglaniyorlar. 'For further tests' = ek testler icin (amac).",
+    "rule_tr": "was V3 and (then) was V3: ardisik pasif eylemler. for = amac bildiren edat.",
+    "tip_tr": "Ardisik pasif eylemler and/then ile baglanir. Her bir fiil pasif kalir: was examined and was referred.",
+    "extra_example": "The sample was collected by the nurse and was sent to the laboratory for analysis. (Ornek hemsire tarafindan alindi ve analiz icin laboratuvara gonderildi.)"
+  },
+  {
+    "id": "passive-028",
+    "topic": "passive",
+    "subtopic": "modal_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "According to the latest guidelines, patients with mild symptoms _____ at home rather than _____ to the hospital.",
+    "options": [
+      {"key": "A", "text": "can be treated / admitted"},
+      {"key": "B", "text": "can be treated / being admitted"},
+      {"key": "C", "text": "can treat / admitting"},
+      {"key": "D", "text": "can treated / admitted"},
+      {"key": "E", "text": "can be treating / admitted"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Hastalar evde tedavi edilebilir (can be treated — modal passive). 'Rather than' karsilastirma yapiyor ve gerund (being admitted) ile devam eder.",
+    "rule_tr": "can be + V3 (modal passive) | rather than + V-ing/being + V3",
+    "tip_tr": "rather than + being V3: pasif karsilastirma. 'Hastaneye yatirilmak yerine' = rather than being admitted.",
+    "extra_example": "Mild infections can be managed with rest rather than being treated with antibiotics. (Hafif enfeksiyonlar antibiyotikle tedavi edilmek yerine dinlenerek yonetilebilir.)"
+  },
+  {
+    "id": "passive-029",
+    "topic": "passive",
+    "subtopic": "present_perfect_passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The number of organ donations _____ steadily over the past decade, and thousands of lives _____.",
+    "options": [
+      {"key": "A", "text": "increased / saved"},
+      {"key": "B", "text": "has increased / have been saved"},
+      {"key": "C", "text": "has been increased / were saved"},
+      {"key": "D", "text": "was increased / have been saved"},
+      {"key": "E", "text": "is increasing / are saved"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Over the past decade' Present Perfect gerektirir. 'Has increased' aktif (sayi artti — kendi basina), 'have been saved' pasif (hayatlar kurtarildi — baskasi tarafindan). Ayni cumlede aktif + pasif birlikte olabilir.",
+    "rule_tr": "Ayni cumlede aktif (has + V3) + pasif (have been + V3) birlikte kullanilabilir.",
+    "tip_tr": "increase, decrease, improve gibi fiiller hem aktif (kendiligi) hem pasif (baskasi tarafindan) olabilir. Baglama bak.",
+    "extra_example": "Technology has advanced rapidly, and many diseases have been eliminated. (Teknoloji hizla ilerledi ve bircok hastalik yok edildi.)"
+  },
+  {
+    "id": "passive-030",
+    "topic": "passive",
+    "subtopic": "passive_with_by",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient is reported _____ a full recovery after the experimental treatment that was administered _____ the research team.",
+    "options": [
+      {"key": "A", "text": "making / from"},
+      {"key": "B", "text": "to have made / by"},
+      {"key": "C", "text": "to make / by"},
+      {"key": "D", "text": "having made / with"},
+      {"key": "E", "text": "to have made / from"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Is reported to have made' = gecmiste yaptigi bildirilen eylem (personal passive + perfect infinitive). 'By the research team' = eylemi yapan. to have + V3 gecmis tamamlanmis eylemi gosterir.",
+    "rule_tr": "S + is reported/said/believed + to have + V3: kisisel pasif + perfect infinitive (gecmis eylem)",
+    "tip_tr": "to V1 = su anki/genel eylem | to have V3 = gecmis tamamlanmis eylem. is reported to have made = yaptigi bildiriliyor.",
+    "extra_example": "The drug is believed to have caused adverse effects in some patients. (Ilacin bazi hastalarda yan etkilere neden olduguna inaniliyor.)"
+  }
+]

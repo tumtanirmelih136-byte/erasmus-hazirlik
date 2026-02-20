@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Comprehension — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Reading Comprehension</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="tabs">
+      <button class="tab-btn active" onclick="showReadTab('menu')">Bolumler</button>
+      <button class="tab-btn" onclick="showReadTab('quiz')">Quiz</button>
+    </div>
+
+    <div class="info-banner">
+      Okuma Anlama (20 puan) + Anlama Uygun Olmayan Cumle (10 puan) = 30 puan
+    </div>
+
+    <!-- Menu -->
+    <div id="tab-menu">
+      <div class="topic-list">
+        <div class="topic-item" onclick="startReading('passages')">
+          <div>
+            <div class="topic-name">📖 Okuma Anlama (Reading Comprehension)</div>
+            <div class="topic-stats">Paragraf oku, sorulari cevapla — 20 puan</div>
+          </div>
+          <span style="font-size:1.2rem">→</span>
+        </div>
+        <div class="topic-item" onclick="startReading('irrelevant')">
+          <div>
+            <div class="topic-name">🔍 Anlama Uygun Olmayan Cumle (Irrelevant Sentence)</div>
+            <div class="topic-stats">Paragrafa uymayan cumleyi bul — 10 puan</div>
+          </div>
+          <span style="font-size:1.2rem">→</span>
+        </div>
+      </div>
+
+      <div class="teach-card" style="margin-top:16px">
+        <div class="error-section-title">STRATEJI</div>
+        <div class="tip-box" style="margin-bottom:8px">Okuma Anlama: Once sorulari oku, sonra parcayi oku. Anahtar kelimeleri isaretle.</div>
+        <div class="tip-box">Irrelevant Sentence: Paragrafin konusunu belirle, konudan sapan cumleyi bul.</div>
+      </div>
+    </div>
+
+    <!-- Quiz -->
+    <div id="tab-read-quiz" style="display:none">
+      <div id="quiz-area"></div>
+    </div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+
+    async function startReading(type) {
+      showReadTab('quiz');
+      const quizArea = document.getElementById('quiz-area');
+      quizArea.innerHTML = '<div class="empty-state"><p>Sorular yukleniyor...</p></div>';
+
+      try {
+        let questions = [];
+        if (type === 'passages') {
+          const data = await QuizEngine.loadQuestions('../data/reading/passages.json');
+          // Flatten: her passage'ın questions'ını al ve passage bilgisini ekle
+          data.forEach(passage => {
+            if (passage.questions) {
+              passage.questions.forEach(q => {
+                questions.push({
+                  ...q,
+                  passage: passage.passage,
+                  topic: 'reading',
+                  level: passage.level || q.level
+                });
+              });
+            } else {
+              questions.push(passage);
+            }
+          });
+        } else {
+          questions = await QuizEngine.loadQuestions('../data/reading/irrelevant-sentence.json');
+        }
+
+        if (questions.length === 0) {
+          quizArea.innerHTML = '<div class="warning-banner">Henuz soru yuklenmedi.</div>';
+          return;
+        }
+
+        const level = Storage.getLevel();
+        const filtered = AdaptiveEngine.filterByLevel(questions, level);
+        const selected = AdaptiveEngine.shuffle(filtered.length >= 10 ? filtered : questions).slice(0, 10);
+
+        QuizEngine.start(selected, type === 'passages' ? 'reading' : 'irrelevant', 'quiz');
+      } catch (err) {
+        quizArea.innerHTML = '<div class="warning-banner">Sorular yuklenirken hata olustu.</div>';
+        console.error(err);
+      }
+    }
+
+    function showReadTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach((btn, i) => {
+        btn.classList.toggle('active', ['menu', 'quiz'][i] === tab);
+      });
+      document.getElementById('tab-menu').style.display = tab === 'menu' ? 'block' : 'none';
+      document.getElementById('tab-read-quiz').style.display = tab === 'quiz' ? 'block' : 'none';
+    }
+  </script>
+
+</body>
+</html>

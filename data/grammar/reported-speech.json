@@ -1,0 +1,602 @@
+[
+  {
+    "id": "reported-speech-001",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "The doctor said, \"You need to rest.\" → The doctor said that I _____ to rest.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "need"},
+      {"key": "B", "text": "needed"},
+      {"key": "C", "text": "will need"},
+      {"key": "D", "text": "have needed"},
+      {"key": "E", "text": "am needing"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda simple present, simple past'a donusur: need → needed.",
+    "rule_tr": "Direct: Simple Present → Reported: Simple Past",
+    "tip_tr": "Said/told gordugunde fiili bir zaman geri cek. Need → needed.",
+    "extra_example": "\"I feel dizzy.\" → She said that she felt dizzy. (Basim donuyor. → Basinin dondugunu soyledi.)"
+  },
+  {
+    "id": "reported-speech-002",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "The nurse told me that the doctor _____ busy at that moment.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "is"},
+      {"key": "B", "text": "are"},
+      {"key": "C", "text": "was"},
+      {"key": "D", "text": "were"},
+      {"key": "E", "text": "be"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Dolayli anlatimda 'is' → 'was' olur. 'At that moment' zaman degisiminin isaretcisidir.",
+    "rule_tr": "Direct: is/am → Reported: was",
+    "tip_tr": "'Now' → 'at that moment' ve 'is' → 'was' birlikte degisir.",
+    "extra_example": "\"The patient is sleeping.\" → She said the patient was sleeping. (Hasta uyuyor. → Hastanin uyudugunu soyledi.)"
+  },
+  {
+    "id": "reported-speech-003",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "\"I will call you with the test results.\" → The doctor told me he _____ call me with the test results.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "will"},
+      {"key": "B", "text": "shall"},
+      {"key": "C", "text": "would"},
+      {"key": "D", "text": "can"},
+      {"key": "E", "text": "is going to"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Dolayli anlatimda 'will' → 'would' olur. Doktor test sonuclariyla araycagini soyledi.",
+    "rule_tr": "Direct: will → Reported: would",
+    "tip_tr": "Will → would, can → could, may → might. Hepsini bir kademe geri cek.",
+    "extra_example": "\"I will prescribe antibiotics.\" → He said he would prescribe antibiotics. (Antibiyotik yazacagim. → Antibiyotik yazacagini soyledi.)"
+  },
+  {
+    "id": "reported-speech-004",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "\"I have taken my medication.\" → The patient said that he _____ his medication.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "has taken"},
+      {"key": "B", "text": "had taken"},
+      {"key": "C", "text": "have taken"},
+      {"key": "D", "text": "took"},
+      {"key": "E", "text": "was taking"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda present perfect → past perfect olur: have taken → had taken.",
+    "rule_tr": "Direct: have/has + V3 → Reported: had + V3",
+    "tip_tr": "Present perfect → past perfect. 'Have taken' → 'had taken'.",
+    "extra_example": "\"I have already eaten.\" → He said he had already eaten. (Zaten yedim. → Zaten yedigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-005",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "The pharmacist said that the medication _____ available the next day.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "will be"},
+      {"key": "B", "text": "is"},
+      {"key": "C", "text": "would be"},
+      {"key": "D", "text": "was being"},
+      {"key": "E", "text": "has been"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Will be' dolayli anlatimda 'would be' olur. 'Tomorrow' → 'the next day' olarak degisir.",
+    "rule_tr": "Direct: will be → Reported: would be; tomorrow → the next day",
+    "tip_tr": "The next day gorursen cevap would icermelidir cunku tomorrow → the next day degisimi olmus.",
+    "extra_example": "\"The results will be ready tomorrow.\" → She said the results would be ready the next day. (Sonuclar yarin hazir olacak. → Sonuclarin ertesi gun hazir olacagini soyledi.)"
+  },
+  {
+    "id": "reported-speech-006",
+    "topic": "reported_speech",
+    "subtopic": "time_place_changes",
+    "level": "A2",
+    "stem": "\"I saw the specialist yesterday.\" → She said she had seen the specialist _____.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "yesterday"},
+      {"key": "B", "text": "the day before"},
+      {"key": "C", "text": "last day"},
+      {"key": "D", "text": "the day after"},
+      {"key": "E", "text": "before day"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda 'yesterday' → 'the day before / the previous day' olur.",
+    "rule_tr": "yesterday → the day before / the previous day",
+    "tip_tr": "Zaman degisimleri: today → that day, now → then, ago → before/earlier.",
+    "extra_example": "\"I went to the clinic yesterday.\" → He said he had gone to the clinic the day before. (Dun klinige gittim. → Bir onceki gun klinige gittigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-007",
+    "topic": "reported_speech",
+    "subtopic": "time_place_changes",
+    "level": "A2",
+    "stem": "\"I am feeling better today.\" → The patient said he was feeling better _____.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "today"},
+      {"key": "B", "text": "now"},
+      {"key": "C", "text": "that day"},
+      {"key": "D", "text": "this day"},
+      {"key": "E", "text": "the day"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Dolayli anlatimda 'today' → 'that day' olur.",
+    "rule_tr": "today → that day",
+    "tip_tr": "This → that, these → those, here → there degisimleri de unutma.",
+    "extra_example": "\"I have an appointment today.\" → She said she had an appointment that day. (Bugun randevum var. → O gun randevusu oldugunu soyledi.)"
+  },
+  {
+    "id": "reported-speech-008",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "A2",
+    "stem": "\"I can walk without crutches now.\" → The patient said he _____ walk without crutches then.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "may"},
+      {"key": "C", "text": "could"},
+      {"key": "D", "text": "would"},
+      {"key": "E", "text": "might"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Dolayli anlatimda 'can' → 'could' olur. Hasta koltuk degneksiz yuruyebildigini soyledi.",
+    "rule_tr": "Direct: can → Reported: could",
+    "tip_tr": "Can → could, now → then. Iki degisimi birlikte yap.",
+    "extra_example": "\"I can breathe normally.\" → He said he could breathe normally. (Normal nefes alabiliyorum. → Normal nefes alabildigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-009",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "A2",
+    "stem": "\"Are you allergic to any medication?\" → The doctor asked me _____ I was allergic to any medication.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "what"},
+      {"key": "C", "text": "if"},
+      {"key": "D", "text": "do"},
+      {"key": "E", "text": "which"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Yes/No sorulari dolayli anlatimda 'if' veya 'whether' ile aktarilir.",
+    "rule_tr": "Direct: Yes/No soru → Reported: asked + if/whether + duz cumle sirasi",
+    "tip_tr": "Yes/No soru = if/whether. Wh- soru = wh- kelimesi kalir.",
+    "extra_example": "\"Do you smoke?\" → The doctor asked if I smoked. (Sigara icior musunuz? → Doktor sigara icip icmedigimi sordu.)"
+  },
+  {
+    "id": "reported-speech-010",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "A2",
+    "stem": "\"Where does it hurt?\" → The doctor asked me where it _____.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "hurts"},
+      {"key": "B", "text": "hurt"},
+      {"key": "C", "text": "did hurt"},
+      {"key": "D", "text": "was hurting"},
+      {"key": "E", "text": "has hurt"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Wh- sorularda dolayli anlatimda duz cumle sirasi kullanilir ve zaman geri cekilir: does hurt → hurt.",
+    "rule_tr": "Direct: Wh- + does + V1 → Reported: Wh- + V2 (duz sira)",
+    "tip_tr": "Dolayli soruda soru sirasi DEGIL, duz cumle sirasi kullanilir. Yardimci fiil duser.",
+    "extra_example": "\"What do you eat?\" → She asked what I ate. (Ne yiyorsun? → Ne yedigimi sordu.)"
+  },
+  {
+    "id": "reported-speech-011",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B1",
+    "stem": "\"The patient is recovering well,\" said the surgeon. → The surgeon said that the patient _____ well.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "is recovering"},
+      {"key": "B", "text": "was recovering"},
+      {"key": "C", "text": "has recovered"},
+      {"key": "D", "text": "had recovered"},
+      {"key": "E", "text": "recovers"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Present continuous → past continuous olur: is recovering → was recovering.",
+    "rule_tr": "Direct: is/are + V-ing → Reported: was/were + V-ing",
+    "tip_tr": "Simdiki zaman (am/is/are + V-ing) → was/were + V-ing. Surelik anlam korunur.",
+    "extra_example": "\"I am waiting for the results.\" → He said he was waiting for the results. (Sonuclari bekliyorum. → Sonuclari bekledigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-012",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B1",
+    "stem": "\"We tested the patient's blood two hours ago.\" → The nurse said they _____ the patient's blood two hours before.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "tested"},
+      {"key": "B", "text": "had tested"},
+      {"key": "C", "text": "have tested"},
+      {"key": "D", "text": "were testing"},
+      {"key": "E", "text": "test"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Simple past → past perfect olur: tested → had tested. 'Ago' → 'before' olur.",
+    "rule_tr": "Direct: V2 (simple past) → Reported: had + V3 (past perfect)",
+    "tip_tr": "Past simple → past perfect. Ago → before/earlier degisimini de unutma.",
+    "extra_example": "\"I took aspirin this morning.\" → She said she had taken aspirin that morning. (Bu sabah aspirin aldim. → O sabah aspirin aldigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-013",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "B1",
+    "stem": "\"How long have you had this pain?\" → The doctor asked me how long I _____ that pain.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "have had"},
+      {"key": "B", "text": "had had"},
+      {"key": "C", "text": "was having"},
+      {"key": "D", "text": "had"},
+      {"key": "E", "text": "have"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Present perfect → past perfect: have had → had had. 'This' → 'that' olur.",
+    "rule_tr": "Direct: have/has + V3 → Reported: had + V3",
+    "tip_tr": "Had had garip gorunebilir ama dogrudur: 'have had' → 'had had'.",
+    "extra_example": "\"How long have you been taking this medicine?\" → She asked how long I had been taking that medicine. (Bu ilaci ne zamandir aliyorsun? → O ilaci ne zamandir aldigimi sordu.)"
+  },
+  {
+    "id": "reported-speech-014",
+    "topic": "reported_speech",
+    "subtopic": "reporting_commands",
+    "level": "B1",
+    "stem": "\"Take your medicine before meals,\" the doctor said. → The doctor told me _____ my medicine before meals.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "take"},
+      {"key": "B", "text": "took"},
+      {"key": "C", "text": "to take"},
+      {"key": "D", "text": "taking"},
+      {"key": "E", "text": "that I take"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Emir cumlelerini aktarirken 'told + someone + to + V1' yapisi kullanilir.",
+    "rule_tr": "Emir aktarimi = told/asked + kisi + to + V1",
+    "tip_tr": "Direct'te emir varsa (Take! / Don't eat!) → told me to take / told me not to eat.",
+    "extra_example": "\"Don't eat anything after midnight.\" → The nurse told me not to eat anything after midnight. (Gece yarisından sonra hicbir sey yeme. → Hemsire gece yarisından sonra hicbir sey yemememi soyledi.)"
+  },
+  {
+    "id": "reported-speech-015",
+    "topic": "reported_speech",
+    "subtopic": "reporting_commands",
+    "level": "B1",
+    "stem": "\"Please don't remove the bandage,\" the nurse said. → The nurse asked me _____ the bandage.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "to not remove"},
+      {"key": "B", "text": "don't remove"},
+      {"key": "C", "text": "not to remove"},
+      {"key": "D", "text": "not removing"},
+      {"key": "E", "text": "that I don't remove"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Olumsuz emir/rica aktarimi: asked + kisi + not to + V1. 'Not' her zaman 'to'dan once gelir.",
+    "rule_tr": "Olumsuz emir aktarimi = asked/told + kisi + not to + V1",
+    "tip_tr": "Not to V1 sirasi cok onemli. 'To not V1' yanlisliktir!",
+    "extra_example": "\"Don't skip your physiotherapy sessions.\" → The doctor told me not to skip my physiotherapy sessions. (Fizyoterapi seanslarini atlama. → Doktor fizyoterapi seanslarimi atamamami soyledi.)"
+  },
+  {
+    "id": "reported-speech-016",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "B1",
+    "stem": "The specialist told the patient that she _____ to undergo further tests the following week.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "will need"},
+      {"key": "B", "text": "would need"},
+      {"key": "C", "text": "needs"},
+      {"key": "D", "text": "has needed"},
+      {"key": "E", "text": "is needing"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Will need' dolayli anlatimda 'would need' olur. 'Next week' → 'the following week'.",
+    "rule_tr": "Direct: will + V1 → Reported: would + V1; next week → the following week",
+    "tip_tr": "The following week, the next day gibi ifadeler dolayli anlatimin ipucudur.",
+    "extra_example": "\"You will feel better next week.\" → He said I would feel better the following week. (Gelecek hafta daha iyi hissedeceksin. → Sonraki hafta daha iyi hissedeceginimi soyledi.)"
+  },
+  {
+    "id": "reported-speech-017",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "B1",
+    "stem": "\"Did you take your medication this morning?\" → The nurse asked me _____ I had taken my medication that morning.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "what"},
+      {"key": "C", "text": "if"},
+      {"key": "D", "text": "did"},
+      {"key": "E", "text": "how"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Yes/No sorusu dolayli anlatimda if/whether ile aktarilir. Did kalkti ve zaman past perfect'e dondu.",
+    "rule_tr": "Direct: Did + S + V1? → Reported: asked + if + S + had + V3",
+    "tip_tr": "Did ile baslayan soru = if/whether + past perfect. Did duser, cumle duzlesir.",
+    "extra_example": "\"Did you sleep well?\" → She asked if I had slept well. (Iyi uyudun mu? → Iyi uyuyup uyumadigimi sordu.)"
+  },
+  {
+    "id": "reported-speech-018",
+    "topic": "reported_speech",
+    "subtopic": "time_place_changes",
+    "level": "B1",
+    "stem": "\"I will bring the results here tomorrow.\" → The lab technician said she would bring the results _____ the next day.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "here"},
+      {"key": "B", "text": "there"},
+      {"key": "C", "text": "this place"},
+      {"key": "D", "text": "that here"},
+      {"key": "E", "text": "over here"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda 'here' → 'there' olur. Yer degisimi zaman degisimiyle birlikte yapilir.",
+    "rule_tr": "here → there, this → that, these → those",
+    "tip_tr": "Yer ve zaman degisimleri birlikte gelir: here → there, tomorrow → the next day.",
+    "extra_example": "\"Come here now.\" → She told me to go there then. (Simdi buraya gel. → O zaman oraya gitmemi soyledi.)"
+  },
+  {
+    "id": "reported-speech-019",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B1",
+    "stem": "\"I may need surgery,\" the patient said. → The patient said that he _____ need surgery.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "may"},
+      {"key": "B", "text": "can"},
+      {"key": "C", "text": "might"},
+      {"key": "D", "text": "could"},
+      {"key": "E", "text": "would"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Dolayli anlatimda 'may' → 'might' olur. Hasta ameliyata ihtiyaci olabilecegini soyledi.",
+    "rule_tr": "Direct: may → Reported: might",
+    "tip_tr": "May → might. Ama might dogrudan kullanildiysa degismeden kalir (might → might).",
+    "extra_example": "\"I may be late for my appointment.\" → She said she might be late for her appointment. (Randevuma gec kalabilirim. → Randevusuna gec kalabilecegini soyledi.)"
+  },
+  {
+    "id": "reported-speech-020",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "B1",
+    "stem": "\"When was the last time you visited a dentist?\" → The doctor asked me when the last time I _____ a dentist was.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "visited"},
+      {"key": "B", "text": "had visited"},
+      {"key": "C", "text": "have visited"},
+      {"key": "D", "text": "visit"},
+      {"key": "E", "text": "was visiting"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli soruda simple past → past perfect olur: visited → had visited.",
+    "rule_tr": "Wh- soru + past → Reported: Wh- + past perfect + duz sira",
+    "tip_tr": "Dolayli sorularda soru sirasi bozulur, duz cumle sirasi gelir.",
+    "extra_example": "\"When did you last take antibiotics?\" → He asked when I had last taken antibiotics. (En son ne zaman antibiyotik aldin? → En son ne zaman antibiyotik aldigimi sordu.)"
+  },
+  {
+    "id": "reported-speech-021",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B2",
+    "stem": "\"The patient had already been discharged before we arrived,\" said Dr. Celik. → Dr. Celik said that the patient had already been discharged before they _____.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "arrive"},
+      {"key": "B", "text": "arrived"},
+      {"key": "C", "text": "had arrived"},
+      {"key": "D", "text": "have arrived"},
+      {"key": "E", "text": "were arriving"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Past perfect zaten en geri zamandir, daha geriye cekilemez. Past simple de bazi durumlarda degismeden kalabilir veya had arrived da kabul edilir, ancak burada anlam zaten net oldugu icin arrived yeterlidir.",
+    "rule_tr": "Past perfect → past perfect (degismez). Past simple bazen degismeden kalabilir.",
+    "tip_tr": "Past perfect zaten en gecmis zamandir, daha geri gidemez. Degismeden kalir.",
+    "extra_example": "\"I had already finished my shift.\" → She said she had already finished her shift. (Vardiyami coktan bitirmistim. → Vardiyasini coktan bitirdigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-022",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "B2",
+    "stem": "The researcher announced that the new vaccine _____ effective against all known variants.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "is"},
+      {"key": "B", "text": "was"},
+      {"key": "C", "text": "has been"},
+      {"key": "D", "text": "had been"},
+      {"key": "E", "text": "were"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda is → was olur. Arastirmaci yeni asinin tum bilinen varyantlara karsi etkili oldugunu duyurdu.",
+    "rule_tr": "Direct: is → Reported: was (tense backshift)",
+    "tip_tr": "Bilimsel gercekler icin bazen degismeden de kalabilir ama sinavda genellikle backshift beklenir.",
+    "extra_example": "\"The treatment is working.\" → The doctor said the treatment was working. (Tedavi ise yariyor. → Doktor tedavinin ise yaradigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-023",
+    "topic": "reported_speech",
+    "subtopic": "reporting_commands",
+    "level": "B2",
+    "stem": "The surgeon _____ the nurses to prepare the operating room immediately.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "said"},
+      {"key": "B", "text": "told"},
+      {"key": "C", "text": "asked"},
+      {"key": "D", "text": "ordered"},
+      {"key": "E", "text": "suggested"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Immediately' aciliyeti gosteriyor. Cerrah hemsirelere ameliyathaneyi hazirlamalari emrini verdi. 'Order + someone + to' yapisi emir aktarimi icin uygundur.",
+    "rule_tr": "Guclu emir aktarimi = ordered + kisi + to + V1",
+    "tip_tr": "Said + that, told + kisi + that, asked + kisi + to, ordered + kisi + to. Fiil secimi onemli!",
+    "extra_example": "The doctor ordered the staff to evacuate the building. (Doktor personele binayi bosaltmalarini emretti.)"
+  },
+  {
+    "id": "reported-speech-024",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "B2",
+    "stem": "\"What treatment options are available for my condition?\" → The patient wanted to know what treatment options _____ available for his condition.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "are"},
+      {"key": "B", "text": "were"},
+      {"key": "C", "text": "have been"},
+      {"key": "D", "text": "had been"},
+      {"key": "E", "text": "would be"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli soruda 'are' → 'were' olur. 'Wanted to know' = 'asked' gibi dolayli soru baslangicidir.",
+    "rule_tr": "Wanted to know / wondered = asked (dolayli soru aktarimi)",
+    "tip_tr": "Wanted to know, wondered, inquired = hepsi dolayli soru aktarimi icin kullanilir.",
+    "extra_example": "\"What are the side effects?\" → She wanted to know what the side effects were. (Yan etkileri nelerdir? → Yan etkilerin neler oldugunu bilmek istedi.)"
+  },
+  {
+    "id": "reported-speech-025",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B2",
+    "stem": "\"I must stop eating junk food,\" the patient told the dietitian. → The patient told the dietitian that he _____ stop eating junk food.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "had to"},
+      {"key": "C", "text": "should"},
+      {"key": "D", "text": "would"},
+      {"key": "E", "text": "could"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Dolayli anlatimda 'must' (zorunluluk) → 'had to' olur.",
+    "rule_tr": "Direct: must (zorunluluk) → Reported: had to",
+    "tip_tr": "Must (zorunluluk) → had to. Ama must (cikarim) → must (degismez).",
+    "extra_example": "\"I must quit smoking.\" → He said he had to quit smoking. (Sigarayi birakmam lazim. → Sigarayi birakmasi gerektigini soyledi.)"
+  },
+  {
+    "id": "reported-speech-026",
+    "topic": "reported_speech",
+    "subtopic": "reporting_commands",
+    "level": "B2",
+    "stem": "The physiotherapist _____ that I do the exercises every day without fail.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "told"},
+      {"key": "B", "text": "ordered"},
+      {"key": "C", "text": "insisted"},
+      {"key": "D", "text": "asked"},
+      {"key": "E", "text": "said me"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Insisted that + S + V1 (subjunctive)' yapisi resmi bir israr bildirir. 'Without fail' israrin gucunu gosterir.",
+    "rule_tr": "Israr = insisted + that + S + V1 (subjunctive/yalinhali)",
+    "tip_tr": "Insist, suggest, recommend + that + S + V1 (yalin fiil, -s almaz).",
+    "extra_example": "The doctor insisted that the patient stay in bed for a week. (Doktor hastanin bir hafta yatakta kalmasini israr etti.)"
+  },
+  {
+    "id": "reported-speech-027",
+    "topic": "reported_speech",
+    "subtopic": "time_place_changes",
+    "level": "B2",
+    "stem": "\"We performed the surgery two days ago.\" → The surgeon said they had performed the surgery two days _____.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "ago"},
+      {"key": "B", "text": "before"},
+      {"key": "C", "text": "previously"},
+      {"key": "D", "text": "earlier"},
+      {"key": "E", "text": "Both B and D are correct"}
+    ],
+    "answer": "E",
+    "explanation_tr": "'Ago' dolayli anlatimda 'before' veya 'earlier/previously' olur. Her ikisi de dogrudur.",
+    "rule_tr": "ago → before / earlier / previously",
+    "tip_tr": "Sinavda 'both are correct' secenegi varsa dikkatli ol. Ago → before ve earlier ikisi de gecerli.",
+    "extra_example": "\"I graduated three years ago.\" → She said she had graduated three years before/earlier. (Uc yil once mezun oldum. → Uc yil once mezun oldugunu soyledi.)"
+  },
+  {
+    "id": "reported-speech-028",
+    "topic": "reported_speech",
+    "subtopic": "tense_backshift",
+    "level": "B2",
+    "stem": "The professor explained that the human heart _____ about 100,000 times a day.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "beat"},
+      {"key": "B", "text": "beats"},
+      {"key": "C", "text": "was beating"},
+      {"key": "D", "text": "had beaten"},
+      {"key": "E", "text": "would beat"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Genel gecerli bilimsel gercekler dolayli anlatimda zaman degisikligine ugramaz. Kalp gunde yaklasik 100.000 kez atar — bu evrensel bir gercektir.",
+    "rule_tr": "Bilimsel gercek / dogal yasa = tense backshift YAPILMAZ",
+    "tip_tr": "Evrensel gercekler (dunya doner, su 100 derecede kaynar) degismez kalir.",
+    "extra_example": "The teacher explained that water boils at 100 degrees Celsius. (Ogretmen suyun 100 derecede kaynamdigini acikladi.)"
+  },
+  {
+    "id": "reported-speech-029",
+    "topic": "reported_speech",
+    "subtopic": "reporting_questions",
+    "level": "B2",
+    "stem": "\"Could you tell me where the nearest pharmacy is?\" → She asked me _____ her where the nearest pharmacy was.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "if I could tell"},
+      {"key": "B", "text": "that I could tell"},
+      {"key": "C", "text": "can I tell"},
+      {"key": "D", "text": "to tell"},
+      {"key": "E", "text": "whether I tell"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Could you tell me...?' kibarca bilgi isteme seklindedir. Dolayli aktarimda 'asked if I could tell' olur.",
+    "rule_tr": "Could you...? (kibar rica) → asked + if + S + could",
+    "tip_tr": "Could you...? iki anlama gelebilir: rica veya yetenek. Baglama gore karar ver.",
+    "extra_example": "\"Could you show me the way to the X-ray department?\" → She asked if I could show her the way to the X-ray department. (Rontgen bolumune yolu gosterir misiniz? → Rontgen bolumune yolu gosterip gosteremeyecegimi sordu.)"
+  },
+  {
+    "id": "reported-speech-030",
+    "topic": "reported_speech",
+    "subtopic": "reporting_statements",
+    "level": "B2",
+    "stem": "The health minister _____ that the government would invest more in public healthcare the following year.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "told"},
+      {"key": "B", "text": "said"},
+      {"key": "C", "text": "announced"},
+      {"key": "D", "text": "spoke"},
+      {"key": "E", "text": "Both B and C are correct"}
+    ],
+    "answer": "E",
+    "explanation_tr": "'Said that...' ve 'announced that...' ikisi de dogrudur. 'Told' arkasina kisi ister (told us that...), burada kisi yok.",
+    "rule_tr": "said + that / announced + that (kisiye gerek yok). told + kisi + that.",
+    "tip_tr": "Said = genel. Told = kisi gerektirir (told me/us/them). Announced = resmi duyuru.",
+    "extra_example": "The WHO announced that a new virus had been identified. (DSO yeni bir virus tespit edildigini duyurdu.)"
+  }
+]

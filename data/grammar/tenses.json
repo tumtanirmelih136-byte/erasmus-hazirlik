@@ -1,0 +1,602 @@
+[
+  {
+    "id": "tenses-001",
+    "topic": "tenses",
+    "subtopic": "present_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse _____ the patient's blood pressure every morning.",
+    "options": [
+      {"key": "A", "text": "check"},
+      {"key": "B", "text": "checks"},
+      {"key": "C", "text": "is checking"},
+      {"key": "D", "text": "checked"},
+      {"key": "E", "text": "has checked"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Cevap 'checks' cunku ozne 'The nurse' ucuncu tekil sahis (he/she) ve cumlede 'every morning' gibi bir rutin/tekrar ifadesi var. Present Simple'da ucuncu tekil sahisa -s eklenir.",
+    "rule_tr": "Present Simple: He/She/It + V-s/es (rutin, genel gercek, tekrar eden eylemler)",
+    "tip_tr": "every day, always, usually, often gibi sikligi gosteren zarflar gorursen Present Simple dusun.",
+    "extra_example": "The doctor always examines patients carefully. (Doktor hastalari her zaman dikkatli muayene eder.)"
+  },
+  {
+    "id": "tenses-002",
+    "topic": "tenses",
+    "subtopic": "present_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Hospitals _____ emergency services 24 hours a day.",
+    "options": [
+      {"key": "A", "text": "provides"},
+      {"key": "B", "text": "is providing"},
+      {"key": "C", "text": "provide"},
+      {"key": "D", "text": "are providing"},
+      {"key": "E", "text": "provided"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Ozne 'Hospitals' cogul oldugu icin fiil ek almaz. '24 hours a day' ifadesi genel bir gercegi anlatiyor, bu yuzden Present Simple kullanilir.",
+    "rule_tr": "Present Simple: Cogul ozne (They/We/You/Hospitals) + V (yalın fiil, -s almaz)",
+    "tip_tr": "Oznenin tekil mi cogul mu olduguna dikkat et. Cogul ozneler fiil eki almaz.",
+    "extra_example": "Nurses work in shifts at this hospital. (Hemsireler bu hastanede vardiyali calisir.)"
+  },
+  {
+    "id": "tenses-003",
+    "topic": "tenses",
+    "subtopic": "present_continuous",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor _____ a patient right now, please wait.",
+    "options": [
+      {"key": "A", "text": "examines"},
+      {"key": "B", "text": "examined"},
+      {"key": "C", "text": "is examining"},
+      {"key": "D", "text": "has examined"},
+      {"key": "E", "text": "will examine"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Right now' ifadesi su anda olan bir eylemi gosteriyor. Su anda devam eden eylemler icin Present Continuous (am/is/are + V-ing) kullanilir.",
+    "rule_tr": "Present Continuous: am/is/are + V-ing (su anda olan eylemler)",
+    "tip_tr": "now, right now, at the moment, currently gorursen Present Continuous dusun.",
+    "extra_example": "The nurse is preparing the medication at the moment. (Hemsire su anda ilaci hazirliyor.)"
+  },
+  {
+    "id": "tenses-004",
+    "topic": "tenses",
+    "subtopic": "present_continuous",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Look! The paramedics _____ the injured person into the ambulance.",
+    "options": [
+      {"key": "A", "text": "carry"},
+      {"key": "B", "text": "carried"},
+      {"key": "C", "text": "have carried"},
+      {"key": "D", "text": "are carrying"},
+      {"key": "E", "text": "will carry"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Look!' ifadesi su anda gozlerimizin onunde olan bir eyleme dikkat cekiyor. Bu yuzden Present Continuous kullanilir.",
+    "rule_tr": "Look! / Listen! gibi ifadeler Present Continuous tetikler.",
+    "tip_tr": "Look!, Listen!, Watch out! gibi uyari ifadeleri su anda olan eylemi isaret eder.",
+    "extra_example": "Listen! The baby is crying in the ward. (Dinle! Bebek koguslta agliyor.)"
+  },
+  {
+    "id": "tenses-005",
+    "topic": "tenses",
+    "subtopic": "past_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The surgeon _____ the operation successfully yesterday.",
+    "options": [
+      {"key": "A", "text": "performs"},
+      {"key": "B", "text": "performed"},
+      {"key": "C", "text": "has performed"},
+      {"key": "D", "text": "is performing"},
+      {"key": "E", "text": "was performing"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Yesterday' belirli bir gecmis zaman ifadesidir. Belirli gecmis zaman icin Past Simple (V2) kullanilir.",
+    "rule_tr": "Past Simple: S + V2 (yesterday, last week, ago, in 2020 gibi belirli gecmis zaman zarflariyla)",
+    "tip_tr": "yesterday, last week, ago, in + yil gorursen Past Simple kullan.",
+    "extra_example": "The patient recovered from the surgery two weeks ago. (Hasta iki hafta once ameliyattan iyilesti.)"
+  },
+  {
+    "id": "tenses-006",
+    "topic": "tenses",
+    "subtopic": "past_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ any medication before the appointment last Monday.",
+    "options": [
+      {"key": "A", "text": "doesn't take"},
+      {"key": "B", "text": "didn't take"},
+      {"key": "C", "text": "isn't taking"},
+      {"key": "D", "text": "hasn't taken"},
+      {"key": "E", "text": "won't take"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Last Monday' gecmis zamani gosteriyor. Past Simple'in olumsuz hali 'did not (didn't) + yalin fiil' seklindedir.",
+    "rule_tr": "Past Simple olumsuz: S + didn't + V1 (yalin fiil)",
+    "tip_tr": "Past Simple olumsuzda fiil V1 (yalin) kalir, -ed ALMAZ. didn't zaten gecmisi gosterir.",
+    "extra_example": "The doctor didn't prescribe antibiotics for a cold. (Doktor soguk alginligi icin antibiyotik yazmadi.)"
+  },
+  {
+    "id": "tenses-007",
+    "topic": "tenses",
+    "subtopic": "future_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor _____ you the test results tomorrow.",
+    "options": [
+      {"key": "A", "text": "tells"},
+      {"key": "B", "text": "told"},
+      {"key": "C", "text": "is telling"},
+      {"key": "D", "text": "will tell"},
+      {"key": "E", "text": "has told"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Tomorrow' gelecek zamani isaret ediyor. Gelecekte olacak eylemler icin 'will + V1' kullanilir.",
+    "rule_tr": "Future Simple: S + will + V1 (tomorrow, next week, in the future)",
+    "tip_tr": "tomorrow, next, soon, in the future gorursen will + V1 dusun.",
+    "extra_example": "The hospital will open a new ward next month. (Hastane gelecek ay yeni bir kogus acacak.)"
+  },
+  {
+    "id": "tenses-008",
+    "topic": "tenses",
+    "subtopic": "future_going_to",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She has an appointment at 3 PM. She _____ the dentist this afternoon.",
+    "options": [
+      {"key": "A", "text": "visits"},
+      {"key": "B", "text": "visited"},
+      {"key": "C", "text": "will visit"},
+      {"key": "D", "text": "is going to visit"},
+      {"key": "E", "text": "has visited"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Randevusu var, yani onceden planlanmis bir eylem. Onceden planlanmis gelecek eylemler icin 'be going to + V1' kullanilir.",
+    "rule_tr": "Going to: S + am/is/are + going to + V1 (onceden planlanmis eylemler)",
+    "tip_tr": "Plan veya niyet varsa 'going to', anlik karar ise 'will' kullan.",
+    "extra_example": "I am going to start a new treatment next week. (Gelecek hafta yeni bir tedaviye baslayacagim — planli.)"
+  },
+  {
+    "id": "tenses-009",
+    "topic": "tenses",
+    "subtopic": "present_perfect",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ three pills since this morning.",
+    "options": [
+      {"key": "A", "text": "takes"},
+      {"key": "B", "text": "took"},
+      {"key": "C", "text": "is taking"},
+      {"key": "D", "text": "has taken"},
+      {"key": "E", "text": "was taking"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Since this morning' ifadesi gecmiste baslayip su ana kadar devam eden bir durumu gosteriyor. Bu tip ifadeler icin Present Perfect (have/has + V3) kullanilir.",
+    "rule_tr": "Present Perfect: S + have/has + V3 (since, for, already, yet, just, ever, never ile)",
+    "tip_tr": "since (belirli zaman) ve for (sure) gorursen Present Perfect dusun.",
+    "extra_example": "She has worked as a nurse for ten years. (On yildir hemsire olarak calisiyor.)"
+  },
+  {
+    "id": "tenses-010",
+    "topic": "tenses",
+    "subtopic": "present_perfect",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "I _____ never _____ such a serious allergic reaction before.",
+    "options": [
+      {"key": "A", "text": "have / seen"},
+      {"key": "B", "text": "has / seen"},
+      {"key": "C", "text": "did / see"},
+      {"key": "D", "text": "am / seeing"},
+      {"key": "E", "text": "was / seeing"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Ozne 'I' oldugu icin 'have' kullanilir (has degil). 'Never' ve 'before' Present Perfect isaretcileridir. V3 formu 'seen' dogru.",
+    "rule_tr": "I/You/We/They + have + V3 | He/She/It + has + V3",
+    "tip_tr": "never, ever, before, already, yet, just — bu kelimeler Present Perfect'in en onemli isaretcileridir.",
+    "extra_example": "Have you ever donated blood before? (Daha once hic kan bagisi yaptin mi?)"
+  },
+  {
+    "id": "tenses-011",
+    "topic": "tenses",
+    "subtopic": "past_continuous",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse _____ the patient's wound when the doctor arrived.",
+    "options": [
+      {"key": "A", "text": "cleaned"},
+      {"key": "B", "text": "was cleaning"},
+      {"key": "C", "text": "has cleaned"},
+      {"key": "D", "text": "cleans"},
+      {"key": "E", "text": "is cleaning"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Doktor geldiginde (arrived — Past Simple) hemsire yarayi temizliyordu (devam eden eylem). Gecmiste devam eden bir eylem baska bir eylemle kesildiginde, devam eden eylem Past Continuous olur.",
+    "rule_tr": "Past Continuous + when + Past Simple: Devam eden eylem kesilir. was/were + V-ing",
+    "tip_tr": "when + Past Simple gorursen, diger cumlede Past Continuous olabilir (devam eden eylem icin).",
+    "extra_example": "The patient was sleeping when the alarm went off. (Alarm caldiginda hasta uyuyordu.)"
+  },
+  {
+    "id": "tenses-012",
+    "topic": "tenses",
+    "subtopic": "past_continuous",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "While the surgeon _____ the operation, the power suddenly went out.",
+    "options": [
+      {"key": "A", "text": "performed"},
+      {"key": "B", "text": "performs"},
+      {"key": "C", "text": "was performing"},
+      {"key": "D", "text": "has performed"},
+      {"key": "E", "text": "had performed"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'While' devam eden bir eylemi gosterir. Cerrah ameliyat yaparken (devam eden — Past Continuous), elektrik kesildi (ani — Past Simple).",
+    "rule_tr": "While + Past Continuous, Past Simple: while = devam eden eylem, ani olay = Past Simple",
+    "tip_tr": "while gorursen Past Continuous dusun; when gorursen genelde Past Simple gelir.",
+    "extra_example": "While I was waiting at the pharmacy, I met an old friend. (Eczanede beklerken eski bir arkadasa rastladim.)"
+  },
+  {
+    "id": "tenses-013",
+    "topic": "tenses",
+    "subtopic": "present_perfect_continuous",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor _____ patients since 8 o'clock this morning without a break.",
+    "options": [
+      {"key": "A", "text": "sees"},
+      {"key": "B", "text": "is seeing"},
+      {"key": "C", "text": "has seen"},
+      {"key": "D", "text": "has been seeing"},
+      {"key": "E", "text": "was seeing"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Since 8 o'clock' gecmiste baslayan ve su anda hala devam eden bir eylemi gosteriyor. Eylemin surekliligi ve devam ettigi vurgulandiginda Present Perfect Continuous kullanilir.",
+    "rule_tr": "Present Perfect Continuous: S + have/has + been + V-ing (gecmiste baslayip hala devam eden eylem, surec vurgusu)",
+    "tip_tr": "since/for + eylem hala devam ediyorsa VE sureci vurguluyorsan Present Perfect Continuous kullan.",
+    "extra_example": "She has been studying medicine for six years. (Alti yildir tip okuyor — hala devam ediyor.)"
+  },
+  {
+    "id": "tenses-014",
+    "topic": "tenses",
+    "subtopic": "present_perfect_continuous",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "You look tired. _____ you _____ all night at the hospital?",
+    "options": [
+      {"key": "A", "text": "Did / work"},
+      {"key": "B", "text": "Have / been working"},
+      {"key": "C", "text": "Are / working"},
+      {"key": "D", "text": "Do / work"},
+      {"key": "E", "text": "Were / working"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'You look tired' su andaki gorunumu tarif ediyor. Yakin gecmiste yapilan ve etkisi su anda gorulen bir eylem icin Present Perfect Continuous uygundur.",
+    "rule_tr": "Present Perfect Continuous soru: Have/Has + S + been + V-ing?",
+    "tip_tr": "Birinin yorgun, mutlu, uzgun gorunmesi gibi su anki durumu aciklayan bir gecmis eylem icin Present Perfect Continuous dusun.",
+    "extra_example": "He has been coughing all day. That's why his throat is sore. (Butun gun oksuruyordu. Bu yuzden bogazi agriyor.)"
+  },
+  {
+    "id": "tenses-015",
+    "topic": "tenses",
+    "subtopic": "past_perfect",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ already _____ the medication before the doctor changed the prescription.",
+    "options": [
+      {"key": "A", "text": "has / taken"},
+      {"key": "B", "text": "had / taken"},
+      {"key": "C", "text": "was / taking"},
+      {"key": "D", "text": "is / taking"},
+      {"key": "E", "text": "did / take"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Iki gecmis eylem var: 1) ilaci almak, 2) doktorun receteyi degistirmesi. Once olan eylem (ilaci almak) Past Perfect, sonra olan (receteyi degistirmek) Past Simple olur.",
+    "rule_tr": "Past Perfect: S + had + V3 (gecmiste iki olaydan ONCE olan icin)",
+    "tip_tr": "before, after, by the time, already gorursen ve iki gecmis eylem varsa, once olani had + V3 yap.",
+    "extra_example": "By the time the ambulance arrived, the nurse had already given first aid. (Ambulans geldiginde hemsire coktan ilk yardim yapmisti.)"
+  },
+  {
+    "id": "tenses-016",
+    "topic": "tenses",
+    "subtopic": "past_perfect",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The surgeon realized that she _____ the wrong instruments for the procedure.",
+    "options": [
+      {"key": "A", "text": "prepares"},
+      {"key": "B", "text": "prepared"},
+      {"key": "C", "text": "has prepared"},
+      {"key": "D", "text": "had prepared"},
+      {"key": "E", "text": "was preparing"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Cerrah fark etti (realized — Past Simple). Yanlis aletleri hazirlama eylemi fark etmeden ONCE oldu, bu yuzden had prepared (Past Perfect) kullanilir.",
+    "rule_tr": "realized/discovered/noticed + that + had + V3: Fark etme aninda onceki eylem Past Perfect olur.",
+    "tip_tr": "realized, noticed, discovered gibi fiillerden sonra gelen yan cumlede genellikle Past Perfect bulunur.",
+    "extra_example": "The lab discovered that they had mixed up the blood samples. (Laboratuvar kan orneklerini karistirmis olduklarini fark etti.)"
+  },
+  {
+    "id": "tenses-017",
+    "topic": "tenses",
+    "subtopic": "future_simple",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Don't worry. The treatment _____ any side effects, I promise.",
+    "options": [
+      {"key": "A", "text": "doesn't cause"},
+      {"key": "B", "text": "isn't causing"},
+      {"key": "C", "text": "won't cause"},
+      {"key": "D", "text": "didn't cause"},
+      {"key": "E", "text": "hasn't caused"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Don't worry' ve 'I promise' ifadeleri gelecek hakkinda bir guvence veriyor. Soz verme, guvence gibi anlik kararlar ve vaatler icin 'will' kullanilir.",
+    "rule_tr": "Will kullanim: soz/vaat (I promise), anlik karar, tahmin, guvence",
+    "tip_tr": "I promise, I think, Don't worry gibi ifadelerle gelecekten bahsediliyorsa will kullan.",
+    "extra_example": "I will call you as soon as the test results are ready. (Test sonuclari hazir olur olmaz seni ararım.)"
+  },
+  {
+    "id": "tenses-018",
+    "topic": "tenses",
+    "subtopic": "future_going_to",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital administration _____ a new emergency unit next year. The plans are ready.",
+    "options": [
+      {"key": "A", "text": "builds"},
+      {"key": "B", "text": "built"},
+      {"key": "C", "text": "will build"},
+      {"key": "D", "text": "is going to build"},
+      {"key": "E", "text": "has built"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'The plans are ready' planlarin hazir oldugunu gosteriyor. Onceden planlanmis ve hazirlik yapilmis gelecek eylemler icin 'be going to' kullanilir.",
+    "rule_tr": "Going to: onceden planlanmis + kanit/hazirlik varsa | Will: anlik karar, tahmin, soz",
+    "tip_tr": "Plan/hazirlik kaniti varsa going to, yoksa will. 'The plans are ready' = going to.",
+    "extra_example": "She is going to have surgery next Friday. Everything is arranged. (Gelecek cuma ameliyat olacak. Her sey ayarlandi.)"
+  },
+  {
+    "id": "tenses-019",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The number of COVID patients _____ significantly since the vaccination campaign started.",
+    "options": [
+      {"key": "A", "text": "decreased"},
+      {"key": "B", "text": "decreases"},
+      {"key": "C", "text": "has decreased"},
+      {"key": "D", "text": "was decreasing"},
+      {"key": "E", "text": "is decreasing"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Since the vaccination campaign started' ifadesi gecmiste baslayan ve su ana etkisi olan bir durumu gosteriyor. Since ile Present Perfect kullanilir.",
+    "rule_tr": "since + gecmis zaman noktasi = Present Perfect (has/have + V3)",
+    "tip_tr": "since her zaman Present Perfect ile eslesir. for ise hem Present Perfect hem Past Simple ile kullanilabilir.",
+    "extra_example": "Medical technology has advanced enormously since the 1990s. (Tip teknolojisi 1990'lardan beri muazzam ilerledi.)"
+  },
+  {
+    "id": "tenses-020",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "While I _____ for my appointment, I _____ an interesting article about heart disease.",
+    "options": [
+      {"key": "A", "text": "waited / was reading"},
+      {"key": "B", "text": "was waiting / read"},
+      {"key": "C", "text": "wait / read"},
+      {"key": "D", "text": "have waited / read"},
+      {"key": "E", "text": "was waiting / was reading"}
+    ],
+    "answer": "B",
+    "explanation_tr": "While + Past Continuous (devam eden eylem) + Past Simple (araya giren/tamamlanan eylem). Beklerken makaleyi okudum.",
+    "rule_tr": "While + Past Continuous, Past Simple: uzun eylem while ile, kisa/tamamlanan eylem Past Simple ile",
+    "tip_tr": "Iki gecmis eylem varsa: uzun sureni was/were + V-ing yap, kisasini V2 yap.",
+    "extra_example": "While the nurse was checking vitals, the patient suddenly fainted. (Hemsire hayati bulgulari kontrol ederken hasta aniden bayildi.)"
+  },
+  {
+    "id": "tenses-021",
+    "topic": "tenses",
+    "subtopic": "present_simple",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Research _____ that regular exercise _____ the risk of cardiovascular disease.",
+    "options": [
+      {"key": "A", "text": "is showing / is reducing"},
+      {"key": "B", "text": "has shown / reduces"},
+      {"key": "C", "text": "shows / reduces"},
+      {"key": "D", "text": "showed / reduced"},
+      {"key": "E", "text": "shows / is reducing"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Bilimsel gercekler ve genel gecerli bilgiler Present Simple ile ifade edilir. Arastirma gosteriyor (genel gercek) ve egzersiz riski azaltir (bilimsel gercek) — ikisi de Present Simple.",
+    "rule_tr": "Bilimsel gercekler, genel dogru bilgiler = Present Simple (zaman zarfi olmasa bile)",
+    "tip_tr": "Bilimsel makale dili: 'Research shows that X reduces/causes/improves...' seklinde Present Simple kullanilir.",
+    "extra_example": "Studies confirm that smoking causes lung cancer. (Calismalar sigara icmenin akciger kanserine neden oldugunu dogruluyor.)"
+  },
+  {
+    "id": "tenses-022",
+    "topic": "tenses",
+    "subtopic": "present_perfect",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The pharmaceutical company _____ several clinical trials so far, but none of them _____ conclusive results.",
+    "options": [
+      {"key": "A", "text": "conducted / produced"},
+      {"key": "B", "text": "has conducted / have produced"},
+      {"key": "C", "text": "conducted / have produced"},
+      {"key": "D", "text": "has conducted / has produced"},
+      {"key": "E", "text": "is conducting / is producing"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'So far' Present Perfect isaretcisidir. Birinci ozne 'company' (tekil — has), ikinci ozne 'none of them' (cogul anlam — have) kullanilir.",
+    "rule_tr": "so far, up to now, until now = Present Perfect | none of them + have (cogul muamele gorur)",
+    "tip_tr": "none of + cogul isim = cogul fiil alir (none of them have). Company = tekil (has).",
+    "extra_example": "None of the treatments have shown significant improvement so far. (Tedavilerin hicbiri su ana kadar belirgin iyilesme gostermedi.)"
+  },
+  {
+    "id": "tenses-023",
+    "topic": "tenses",
+    "subtopic": "past_perfect",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "If the patient _____ the symptoms earlier, the disease could have been treated more effectively.",
+    "options": [
+      {"key": "A", "text": "reported"},
+      {"key": "B", "text": "reports"},
+      {"key": "C", "text": "had reported"},
+      {"key": "D", "text": "has reported"},
+      {"key": "E", "text": "would report"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Could have been treated' gecmiste gerceklesmeyen bir olasilik (Third Conditional yapisi). If clause'da Past Perfect (had + V3) kullanilir.",
+    "rule_tr": "Third Conditional: If + had + V3, would/could have + V3 (gecmiste gerceklesmeyen durum)",
+    "tip_tr": "could have been / would have been gorursen, if clause'da had + V3 olmali.",
+    "extra_example": "If the ambulance had arrived sooner, the patient would have survived. (Ambulans daha erken gelseydi hasta hayatta kalirdi.)"
+  },
+  {
+    "id": "tenses-024",
+    "topic": "tenses",
+    "subtopic": "present_perfect_continuous",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Researchers at the university _____ on a new vaccine for over three years, and they expect to announce results soon.",
+    "options": [
+      {"key": "A", "text": "work"},
+      {"key": "B", "text": "worked"},
+      {"key": "C", "text": "have worked"},
+      {"key": "D", "text": "have been working"},
+      {"key": "E", "text": "are working"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'For over three years' sureci gosteriyor ve 'they expect to announce results soon' eylemin hala devam ettigini gosteriyor. Devam eden surec vurgusu icin Present Perfect Continuous kullanilir.",
+    "rule_tr": "Present Perfect Continuous vs Present Perfect: surec/devam vurgusu = Continuous | sonuc/tamamlanma vurgusu = Simple",
+    "tip_tr": "for + sure + hala devam ediyor + surec vurgusu = have/has been V-ing",
+    "extra_example": "Scientists have been researching this virus since 2020. (Bilim insanlari 2020'den beri bu virusu arastiriyor.)"
+  },
+  {
+    "id": "tenses-025",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "By the time the specialist _____, the patient _____ for three hours in the emergency room.",
+    "options": [
+      {"key": "A", "text": "arrived / waited"},
+      {"key": "B", "text": "arrived / had been waiting"},
+      {"key": "C", "text": "had arrived / waited"},
+      {"key": "D", "text": "arrives / has been waiting"},
+      {"key": "E", "text": "arrived / was waiting"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'By the time + Past Simple' yapisinda, diger cumlede Past Perfect veya Past Perfect Continuous kullanilir. Hasta 3 saat bekliyordu (surec) — Past Perfect Continuous.",
+    "rule_tr": "By the time + Past Simple, Past Perfect Continuous (had been + V-ing) = gecmisteki bir noktaya kadar devam eden surec",
+    "tip_tr": "By the time = o zamana kadar. Sonrasinda gelen cumlede had + V3 veya had been + V-ing bekle.",
+    "extra_example": "By the time the results came, we had been waiting anxiously for two days. (Sonuclar geldiginde iki gundur endiseyle bekliyorduk.)"
+  },
+  {
+    "id": "tenses-026",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The hospital _____ its protocols since the pandemic started, and now it _____ one of the safest facilities in the region.",
+    "options": [
+      {"key": "A", "text": "updated / is"},
+      {"key": "B", "text": "has updated / is"},
+      {"key": "C", "text": "updates / was"},
+      {"key": "D", "text": "had updated / was"},
+      {"key": "E", "text": "is updating / will be"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Since the pandemic started' Present Perfect gerektirir (has updated). 'Now it _____ one of the safest' su anki durumu anlatir — Present Simple (is).",
+    "rule_tr": "since + Present Perfect (gecmisten su ana) | now + Present Simple (su anki durum)",
+    "tip_tr": "Bir cumlede birden fazla zaman olabilir. Her clause'un kendi zaman isaretcisine bak.",
+    "extra_example": "She has lost 10 kg since she started the diet, and now she feels much healthier. (Diyete basladigindan beri 10 kg verdi, simdi cok daha saglikli hissediyor.)"
+  },
+  {
+    "id": "tenses-027",
+    "topic": "tenses",
+    "subtopic": "future_simple",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "According to the WHO report, antibiotic resistance _____ one of the greatest threats to global health by 2050.",
+    "options": [
+      {"key": "A", "text": "is"},
+      {"key": "B", "text": "was"},
+      {"key": "C", "text": "has been"},
+      {"key": "D", "text": "will be"},
+      {"key": "E", "text": "would be"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'By 2050' gelecek zaman ifadesidir. Gelecekteki bir olasilik/tahmin icin 'will + V1' kullanilir.",
+    "rule_tr": "by + gelecek tarih = Future Simple (will + V1) veya Future Perfect (will have + V3)",
+    "tip_tr": "by 2050, by next year gibi ifadeler gelecegi isaret eder. Basit tahmin = will + V1.",
+    "extra_example": "Telemedicine will become more common in the next decade. (Teletip onumuzdeki on yilda daha yaygin hale gelecek.)"
+  },
+  {
+    "id": "tenses-028",
+    "topic": "tenses",
+    "subtopic": "past_continuous",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "At 3 AM, the on-call doctor _____ a critical patient, the nurses _____ medications, and the cleaners _____ the corridors.",
+    "options": [
+      {"key": "A", "text": "treated / prepared / mopped"},
+      {"key": "B", "text": "was treating / were preparing / were mopping"},
+      {"key": "C", "text": "is treating / are preparing / are mopping"},
+      {"key": "D", "text": "had treated / had prepared / had mopped"},
+      {"key": "E", "text": "treats / prepare / mop"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'At 3 AM' gecmiste belirli bir anda devam eden eylemleri gosteriyor. Uc eylem de ayni anda devam ediyordu — hepsi Past Continuous.",
+    "rule_tr": "At + belirli gecmis zaman = Past Continuous (o anda devam eden eylemler)",
+    "tip_tr": "At 3 AM, at that moment, at midnight gibi ifadeler gecmiste belirli bir ani isaret eder — Past Continuous kullan.",
+    "extra_example": "At midnight, the emergency team was performing surgery on two patients simultaneously. (Gece yarisi acil ekibi ayni anda iki hastaya ameliyat yapiyordu.)"
+  },
+  {
+    "id": "tenses-029",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The doctor told the patient that he _____ to reduce his sugar intake if he _____ to avoid diabetes.",
+    "options": [
+      {"key": "A", "text": "needs / wants"},
+      {"key": "B", "text": "needed / wanted"},
+      {"key": "C", "text": "will need / will want"},
+      {"key": "D", "text": "has needed / has wanted"},
+      {"key": "E", "text": "would need / would want"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Told' (Past Simple) dolayli anlatim (reported speech) baslatiyor. Direct speech'te 'need/want' olan fiiller reported speech'te bir zaman geri gider: needed/wanted.",
+    "rule_tr": "Reported Speech: told + that + tense shift (Present → Past). needs → needed, wants → wanted",
+    "tip_tr": "said/told/explained + that gorursen tum zamanlar bir kademe geri kayar (backshift).",
+    "extra_example": "The pharmacist said that the medication was available in generic form. (Eczaci ilacin jenerik formda mevcut oldugunu soyledi.)"
+  },
+  {
+    "id": "tenses-030",
+    "topic": "tenses",
+    "subtopic": "mixed_tenses",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Once the clinical trial _____, the pharmaceutical company _____ the drug for public use.",
+    "options": [
+      {"key": "A", "text": "is completed / will release"},
+      {"key": "B", "text": "will be completed / releases"},
+      {"key": "C", "text": "completes / releases"},
+      {"key": "D", "text": "completed / will release"},
+      {"key": "E", "text": "has completed / releases"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Once' (bir kez ... oldugunda) zaman baglaci oldugu icin, gelecekten bahsedilse bile once'den sonra Present Simple veya Present Passive kullanilir. Ana cumlede ise will + V1 kullanilir.",
+    "rule_tr": "Time clauses (once, when, after, before, as soon as) + Present tense, main clause + will + V1",
+    "tip_tr": "once/when/after/before/as soon as + ASLA will kullanilmaz. Bu baglaclarda Present tense kullan, will ana cumlede kalir.",
+    "extra_example": "As soon as the doctor finishes the examination, she will write the prescription. (Doktor muayeneyi bitirir bitirmez receteyi yazacak.)"
+  }
+]

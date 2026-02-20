@@ -1,0 +1,602 @@
+[
+  {
+    "id": "articles-001",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She is _____ nurse at the city hospital.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Nurse' unsuz harfle (n) baslar, bu yuzden 'a' kullanilir. Meslek belirtirken belirsiz artikel (a/an) kullanilir.",
+    "rule_tr": "Unsuz ses + a, unlu ses + an. Mesleklerde a/an kullanilir.",
+    "tip_tr": "Meslek belirtirken: I am a doctor, she is a nurse, he is an engineer. Her zaman a/an.",
+    "extra_example": "He is a dentist. (O bir dis hekimidir.)"
+  },
+  {
+    "id": "articles-002",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient needs _____ X-ray of his chest.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'X-ray' kelimesi /eks/ sesiyle baslar, yani unlu ses ile baslar. Unlu sesle baslayan kelimelerde 'an' kullanilir.",
+    "rule_tr": "An + unlu SES ile baslayan kelime. Harf degil SES onemlidir.",
+    "tip_tr": "'An X-ray', 'an hour', 'an honest person' — harf degil, SES onemli!",
+    "extra_example": "She waited for an hour at the clinic. (Klinikte bir saat bekledi.)"
+  },
+  {
+    "id": "articles-003",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Please close _____ door. There is a draft in the room.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Konusmacilar hangi kapiyi kastettigini biliyorlar, belirli bir kapi. Belirli (specific) nesneler icin 'the' kullanilir.",
+    "rule_tr": "The = belirli, bilinen. Her iki kisi de hangi nesne oldugunu biliyorsa 'the' kullanilir.",
+    "tip_tr": "'The' = 'o bildigimiz'. Hem konusan hem dinleyen biliyorsa 'the' koy.",
+    "extra_example": "Can you pass me the salt? (Tuzu uzatir misin?)"
+  },
+  {
+    "id": "articles-004",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "_____ breakfast is the most important meal of the day.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Ogunler (breakfast, lunch, dinner) genel anlamda kullanildiginda artikel almaz. Kahvalti gunun en onemli ogunudur — genel bir ifade.",
+    "rule_tr": "Ogunler (meals) genel anlamda artikel almaz: have breakfast, eat lunch, cook dinner.",
+    "tip_tr": "Ogunlerden once artikel KULLANMA: 'have breakfast', 'eat lunch', 'skip dinner'.",
+    "extra_example": "We usually have dinner at 7 PM. (Genellikle aksam yemegini 7'de yeriz.)"
+  },
+  {
+    "id": "articles-005",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He has _____ headache and a sore throat.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Headache' unsuz ses (h) ile baslar, bu yuzden 'a' kullanilir. Hastalik belirtilerinde 'a/an' kullanilir: a headache, a cold, a fever.",
+    "rule_tr": "A headache, a cold, a fever, a cough — bazi hastalik belirtilerinde a/an kullanilir.",
+    "tip_tr": "Yaygin hastalik belirtilerinde 'a/an' kullan: a headache, a stomachache, a cold.",
+    "extra_example": "She has a cold and a cough. (Soguk alginligi ve oksurugu var.)"
+  },
+  {
+    "id": "articles-006",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "_____ sun is shining brightly today.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gunes, ay, dunya gibi tek olan seyler (unique) icin 'the' kullanilir. Gunes bugun parlak parlak parlıyor.",
+    "rule_tr": "The sun, the moon, the earth, the sky — tek olan seyler her zaman 'the' alir.",
+    "tip_tr": "Dunyada bir tane olan seyler: the sun, the moon, the sky, the world, the internet.",
+    "extra_example": "The moon was full last night. (Dun gece dolunay vardi.)"
+  },
+  {
+    "id": "articles-007",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She speaks _____ English and French fluently.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Diller (languages) artikel almaz. Ingilizce ve Fransizca akici konusuyor.",
+    "rule_tr": "Diller artikel almaz: speak English, study French, learn German.",
+    "tip_tr": "Dil isimleri her zaman artikelsiz: English, Turkish, Spanish, Chinese.",
+    "extra_example": "He is learning German for his studies. (Okulu icin Almanca ogreniyor.)"
+  },
+  {
+    "id": "articles-008",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He plays _____ football every weekend.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Sporlar genel anlamda artikel almaz. Her hafta sonu futbol oynuyor.",
+    "rule_tr": "Sporlar artikel almaz: play football, play tennis, do yoga.",
+    "tip_tr": "'Play + spor' kalibinda artikel KULLANMA: play basketball, play volleyball.",
+    "extra_example": "She does yoga to stay healthy. (Saglikli kalmak icin yoga yapiyor.)"
+  },
+  {
+    "id": "articles-009",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This is _____ best hospital in the city.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Superlative (en ust derece) sifatlardan once her zaman 'the' kullanilir. Bu sehirdeki en iyi hastane.",
+    "rule_tr": "The + superlative (the best, the biggest, the most important). Her zaman 'the' alir.",
+    "tip_tr": "Superlative gordugunde otomatik 'the' koy: the tallest, the cheapest, the most expensive.",
+    "extra_example": "She is the most experienced doctor in our clinic. (Klinigimizin en deneyimli doktorudur.)"
+  },
+  {
+    "id": "articles-010",
+    "topic": "articles",
+    "subtopic": "fixed_expressions",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The child is sick. He needs to go to _____ hospital.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Go to hospital' (British English) hastaneye tedavi icin gitmek anlaminda artikel almaz. Cocuk hasta, hastaneye gitmesi gerekiyor.",
+    "rule_tr": "Go to hospital = tedavi amaciyla gitmek (artikel yok). Go to the hospital = bina olarak gitmek.",
+    "tip_tr": "Go to school, go to hospital, go to bed, go to work — amac belirtirken artikel yok.",
+    "extra_example": "She goes to school by bus. (Okula otobusle gider.)"
+  },
+  {
+    "id": "articles-011",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ doctor who treated me last week was very kind.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Who treated me last week' ifadesi doktoru belirliyor (hangi doktor oldugu acik). Belirli kisiler icin 'the' kullanilir.",
+    "rule_tr": "The + isim + who/which/that... = belirtilen, tanimlanan kisi/nesne icin 'the' kullanilir.",
+    "tip_tr": "Isimden sonra 'who/which/that' ile bir tanim geliyorsa o isim belirlidir, 'the' alir.",
+    "extra_example": "The nurse who took my blood was very gentle. (Kanimi alan hemsire cok nazikti.)"
+  },
+  {
+    "id": "articles-012",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "There has been _____ increase in the number of diabetes cases this year.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Increase' unlu ses (i) ile baslar, bu yuzden 'an' kullanilir. Ilk kez bahsedilen, belirsiz bir artis.",
+    "rule_tr": "An + unlu ses ile baslayan kelime. Ilk kez bahsedilen seyler icin a/an kullanilir.",
+    "tip_tr": "'An increase', 'an improvement', 'an operation' — unlu sesle baslayanlar 'an' alir.",
+    "extra_example": "There was an improvement in her condition. (Durumunda bir iyilesme oldu.)"
+  },
+  {
+    "id": "articles-013",
+    "topic": "articles",
+    "subtopic": "geographic_names",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ Mediterranean Sea is known for its mild climate.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Denizler, okyanuslar ve nehirler 'the' alir. Akdeniz ilik iklimiyle bilinir.",
+    "rule_tr": "The + deniz/okyanus/nehir: the Mediterranean, the Atlantic, the Nile.",
+    "tip_tr": "Su kutleleri 'the' alir: the Black Sea, the Pacific Ocean, the Amazon River.",
+    "extra_example": "The Danube flows through many European countries. (Tuna nehri bircok Avrupa ulkesinden gecer.)"
+  },
+  {
+    "id": "articles-014",
+    "topic": "articles",
+    "subtopic": "geographic_names",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She studied medicine at a university near _____ Lake Geneva.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Goller (lakes) artikel almaz: Lake Geneva, Lake Van, Lake Baikal. Cenevre Golu yakininda bir universitede tip okudu.",
+    "rule_tr": "Lake + isim = artikel yok. Lake Van, Lake Geneva, Lake Baikal.",
+    "tip_tr": "Goller artikelsiz: Lake Van. Ama denizler 'the' alir: the Black Sea. Bu farki bilin.",
+    "extra_example": "Lake Van is the largest lake in Turkey. (Van Golu Turkiye'nin en buyuk goludur.)"
+  },
+  {
+    "id": "articles-015",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ smoking causes serious health problems.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Genel konular hakkinda konusurken artikel kullanilmaz. Sigara icmek (genel olarak) ciddi saglik sorunlarina neden olur.",
+    "rule_tr": "Genel ifadeler (general statements) artikel almaz. Sayilamayan isimler + genel anlam = artikel yok.",
+    "tip_tr": "Genel bir gercek soyluyorsan artikel koyma: 'Water is essential for life', 'Music relaxes people'.",
+    "extra_example": "Exercise is good for health. (Egzersiz saglik icin iyidir.)"
+  },
+  {
+    "id": "articles-016",
+    "topic": "articles",
+    "subtopic": "fixed_expressions",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient should stay in _____ bed for at least two days.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'In bed' = yatakta (dinlenme/uyku amaciyla). Amac belirten sabit ifadelerde artikel kullanilmaz. Hasta en az iki gun yatakta kalmali.",
+    "rule_tr": "In bed, in hospital, at school, at work — amac belirten sabit ifadeler artikel almaz.",
+    "tip_tr": "'In bed' = dinlenme icin yatakta. 'In the bed' = fiziksel olarak yatagin icinde (ender kullanim).",
+    "extra_example": "She was in bed all day because of the flu. (Grip yuzunden butun gun yataktaydi.)"
+  },
+  {
+    "id": "articles-017",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The invention of _____ stethoscope changed medicine forever.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Icatlar ve aletler genel kavram olarak belirtildiginde 'the' alir. Stetoskobun icadi tibbi sonsuza dek degistirdi.",
+    "rule_tr": "The + icat/alet (genel kavram): the telephone, the computer, the stethoscope.",
+    "tip_tr": "Bir icattan genel kavram olarak bahsediyorsan 'the' kullan: 'the internet changed our lives'.",
+    "extra_example": "The thermometer was invented in the 17th century. (Termometre 17. yuzyilda icat edildi.)"
+  },
+  {
+    "id": "articles-018",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She had _____ unusual reaction to the medication.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Unusual' unlu ses ile baslar (/ʌn/), bu yuzden 'an' kullanilir. Ilaca olagandisi bir reaksiyon gosterdi.",
+    "rule_tr": "An + unlu SES ile baslayan sifat/isim. Onemli olan harf degil, sestir.",
+    "tip_tr": "'An unusual', 'an urgent', 'an ugly' — 'u' harfi unlu ses cikariyorsa 'an' kullan.",
+    "extra_example": "There was an urgent need for blood donors. (Kan bagiscilarina acil ihtiyac vardi.)"
+  },
+  {
+    "id": "articles-019",
+    "topic": "articles",
+    "subtopic": "geographic_names",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Many medical conferences are held in _____ United Kingdom.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'United Kingdom' gibi icinde Republic, Kingdom, States, Union gibi kelimeler gecen ulke isimleri 'the' alir.",
+    "rule_tr": "The + Republic/Kingdom/States/Union iceren ulke isimleri: the UK, the USA, the Czech Republic.",
+    "tip_tr": "Ulke isminde 'birlesik/cumhuriyet/krallik' gibi tanimlar varsa 'the' kullan.",
+    "extra_example": "He got his degree in the United States. (Diplomasini Amerika Birlesik Devletleri'nde aldi.)"
+  },
+  {
+    "id": "articles-020",
+    "topic": "articles",
+    "subtopic": "fixed_expressions",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She usually goes to _____ work by bus.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Go to work' sabit bir ifadedir ve artikel almaz. Genellikle otobusle ise gider.",
+    "rule_tr": "Go to work, go to school, go to bed, go to church — sabit ifadeler artikel almaz.",
+    "tip_tr": "Gunluk rutin aktiviteler icin sabit ifadeleri ezberle: at work, at school, in bed, at home.",
+    "extra_example": "He is at work right now. (Su anda iste.)"
+  },
+  {
+    "id": "articles-021",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ elderly are more vulnerable to respiratory infections.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'The + sifat' bir grubu/toplulugu ifade eder. 'The elderly' = yasli insanlar (genel olarak). Yaslilar solunum yolu enfeksiyonlarina karsi daha savunmasizdir.",
+    "rule_tr": "The + sifat = bir grup insan. The elderly, the poor, the sick, the homeless.",
+    "tip_tr": "'The elderly' = yaslilar, 'the sick' = hastalar, 'the rich' = zenginler. Hep cogul anlam tasir.",
+    "extra_example": "The government should help the homeless. (Hukumet evsizlere yardim etmelidir.)"
+  },
+  {
+    "id": "articles-022",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ Professor Wilson is the head of the cardiology department.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Unvan + isim birlikte kullanildiginda artikel almaz. Professor Wilson, Dr. Smith, President Obama gibi.",
+    "rule_tr": "Unvan + ozel isim = artikel yok. Dr. Smith, Professor Jones, President Biden.",
+    "tip_tr": "Unvanlar tek baslarina 'the' alir (the professor), ama isimle birlikte almaz (Professor Wilson).",
+    "extra_example": "Dr. Aydin performed the surgery. (Dr. Aydin ameliyati gerceklestirdi.)"
+  },
+  {
+    "id": "articles-023",
+    "topic": "articles",
+    "subtopic": "geographic_names",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The medical team traveled through _____ Alps to reach the remote village.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Sira daglar (mountain ranges) 'the' alir. Tip ekibi uzak koye ulasmak icin Alpler'den gecti.",
+    "rule_tr": "The + sira daglar: the Alps, the Himalayas, the Andes. Ama tek daglar almaz: Mount Everest.",
+    "tip_tr": "Sira daglar 'the' alir (the Alps), tek daglar almaz (Mount Ararat). Bu farki bilin.",
+    "extra_example": "The Himalayas are the highest mountain range in the world. (Himalayalar dunyanin en yuksek sira daglaridir.)"
+  },
+  {
+    "id": "articles-024",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ patient in room 302 needs immediate attention.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'In room 302' ifadesi hangi hasta oldugunu belirliyor. Belirli, tanimlanmis nesneler icin 'the' kullanilir.",
+    "rule_tr": "The = belirli, tanimlanmis. Yer/zaman/sifat cumlesi ile tanimlanan isimler 'the' alir.",
+    "tip_tr": "Isimden sonra gelen bilgi onu belirliyorsa 'the' kullan: 'the man at the door', 'the book on the table'.",
+    "extra_example": "The woman in the red coat is a famous surgeon. (Kirmizi montlu kadin unlu bir cerrahtir.)"
+  },
+  {
+    "id": "articles-025",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "She was diagnosed with _____ diabetes at the age of 40.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Hastalik isimleri genel olarak artikel almaz: diabetes, cancer, malaria, flu. 40 yasinda diyabet teshisi kondu.",
+    "rule_tr": "Hastalik isimleri artikel almaz: have diabetes, suffer from cancer, catch flu.",
+    "tip_tr": "Hastaliklar artikelsiz: 'She has cancer', 'He has diabetes'. Ama belirtiler 'a/an' alir: 'a headache'.",
+    "extra_example": "He was treated for malaria during his trip. (Seyahati sirasinda sitma tedavisi gordu.)"
+  },
+  {
+    "id": "articles-026",
+    "topic": "articles",
+    "subtopic": "fixed_expressions",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The ambulance arrived just in _____ time to save the patient.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'In time' (zamaninda) sabit bir ifadedir ve artikel almaz. Ambulans hastayi kurtarmak icin tam zamaninda geldi.",
+    "rule_tr": "In time = zamaninda, at night = gece, by chance = tesadufen — sabit ifadelerde artikel yok.",
+    "tip_tr": "Sabit ifadeleri ezberle: in time, on time, by accident, at first, in general.",
+    "extra_example": "The medicine arrived on time. (Ilac zamaninda geldi.)"
+  },
+  {
+    "id": "articles-027",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "It is _____ honour to receive this medical research award.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Honour' kelimesinde 'h' sessizdir, kelime /ɒnər/ sesiyle baslar (unlu ses). Unlu sesle baslayan kelimelerde 'an' kullanilir.",
+    "rule_tr": "An + sessiz h: an honour, an hour, an honest person. H sessizse unlu ses sayilir.",
+    "tip_tr": "'H' sessiz olan kelimeleri ezberle: honour, hour, honest, heir. Hepsi 'an' alir.",
+    "extra_example": "He is an honest doctor. (O durust bir doktordur.)"
+  },
+  {
+    "id": "articles-028",
+    "topic": "articles",
+    "subtopic": "geographic_names",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The medical conference will be held in _____ Hague, Netherlands.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Bazi sehir isimleri istisna olarak 'the' alir: the Hague. Tip konferansi Hollanda'nin Lahey sehrinde yapilacak.",
+    "rule_tr": "The Hague = istisna sehir ismi. Cogu sehir artikel almaz ama 'the Hague' istisnadir.",
+    "tip_tr": "'The Hague' istisnadir, ezberle. Genel kural: sehirler artikel almaz (London, Paris, Istanbul).",
+    "extra_example": "She lives in Istanbul, not in the Hague. (Lahey'de degil, Istanbul'da yasiyor.)"
+  },
+  {
+    "id": "articles-029",
+    "topic": "articles",
+    "subtopic": "the_usage",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Alexander Fleming was _____ first person to discover penicillin.",
+    "options": [
+      {"key": "A", "text": "a"},
+      {"key": "B", "text": "an"},
+      {"key": "C", "text": "the"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Siralama sifatlari (first, second, last, only) her zaman 'the' alir. Alexander Fleming penisilin kesfeden ilk kisiydi.",
+    "rule_tr": "The first, the second, the last, the only — siralama sifatlari her zaman 'the' alir.",
+    "tip_tr": "'First, last, only' gordugunde otomatik 'the' koy. Bu kural istisnasiz.",
+    "extra_example": "She was the last patient to leave the clinic. (Klinikten ayrilan son hastaydı.)"
+  },
+  {
+    "id": "articles-030",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ medical science has made remarkable progress in the last century.",
+    "options": [
+      {"key": "A", "text": "A"},
+      {"key": "B", "text": "An"},
+      {"key": "C", "text": "The"},
+      {"key": "D", "text": "—  (no article)"},
+      {"key": "E", "text": "Some"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Bilim dallari ve akademik alanlar genel anlamda kullanildiginda artikel almaz. Tip bilimi son yuzyilda kayda deger ilerleme kaydetti.",
+    "rule_tr": "Bilim dallari artikel almaz: medicine, physics, biology, chemistry (genel anlamda).",
+    "tip_tr": "Genel kavram olarak bilim dallari artikelsiz: 'study medicine', 'teach physics', 'learn chemistry'.",
+    "extra_example": "Biology is a fascinating subject. (Biyoloji buyuleyici bir konudur.)"
+  }
+]

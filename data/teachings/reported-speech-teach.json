@@ -1,0 +1,58 @@
+{
+  "topic": "reported-speech",
+  "title": "Dolayli Anlatim (Reported Speech)",
+  "description_tr": "Reported Speech (dolayli anlatim), birinin soylediklerini kendi cumlelerimizle aktarmaktir. Direkt konusma tirnakla verilir: He said, 'I am sick.' Dolayli anlatimda tirnak kalkar ve zaman bir adim geriye kayar (tense backshift): He said that he was sick. Sinavlarda en cok zaman kaydirmasi ve zaman/yer zarflarinin degisimi sorulur.",
+  "formula": "Subject + said/told + (that) + tense-shifted clause",
+  "signals": ["said", "told", "asked", "wondered", "explained", "replied", "mentioned", "claimed", "admitted", "denied"],
+  "turkish_logic": "Turkce'de dolayli anlatim '-digi/-ecegi/-ip/-madigini' gibi eklerle yapilir: 'Hasta oldugunu soyledi.' Ingilizce'de ise fiil zamani bir adim geri kaydirilir: 'am/is → was', 'will → would', 'can → could'. Turkce'de zaman kaymasi bu kadar belirgin degildir, bu yuzden Ingilizce'deki backshift kuralini ozellikle calismaniz gerekir.",
+  "key_rules": [
+    "TENSE BACKSHIFT TABLOSU:",
+    "Present Simple (V1/Vs) → Past Simple (V2): 'I feel sick' → He said he felt sick.",
+    "Present Continuous (am/is/are + Ving) → Past Continuous (was/were + Ving): 'I am waiting' → She said she was waiting.",
+    "Present Perfect (have/has + V3) → Past Perfect (had + V3): 'I have finished' → He said he had finished.",
+    "Past Simple (V2) → Past Perfect (had + V3): 'I took the medicine' → She said she had taken the medicine.",
+    "Will → Would: 'I will come' → He said he would come.",
+    "Can → Could: 'I can help' → She said she could help.",
+    "May → Might: 'I may be late' → He said he might be late.",
+    "Must → Had to: 'I must go' → She said she had to go.",
+    "ZAMAN/YER ZARFI DEGISIMLERI: today → that day, yesterday → the day before / the previous day, tomorrow → the next day / the following day, now → then, here → there, this → that, these → those, ago → before/earlier, last week → the week before / the previous week, next week → the following week.",
+    "SAID vs TOLD: 'said' tek basina kullanilir (He said that...). 'told' mutlaka nesne alir (He told ME that...). 'He told that...' YANLIS!",
+    "SORU AKTARIMI: Yes/No soru → if/whether + duz cumle sirasi. 'Are you okay?' → He asked if I was okay. Wh- soru → Wh- + duz cumle sirasi. 'Where is the pharmacy?' → She asked where the pharmacy was."
+  ],
+  "examples": [
+    {
+      "en": "Direct: 'I have a headache.' → Reported: The patient said that he had a headache.",
+      "tr": "Direkt: 'Basim agriyor.' → Dolayli: Hasta basinin agridigini soyledi.",
+      "why": "Present Simple 'have' → Past Simple 'had'. Tense backshift bir adim geri. 'I' → 'he' zamir degisimi de yapildi."
+    },
+    {
+      "en": "Direct: 'I will prescribe antibiotics.' → Reported: The doctor said that he would prescribe antibiotics.",
+      "tr": "Direkt: 'Antibiyotik yazacagim.' → Dolayli: Doktor antibiyotik yazacagini soyledi.",
+      "why": "'will' → 'would' olarak kaydiriliyor. 'I' → 'he' zamir degisimi. Future tense'in backshift hali."
+    },
+    {
+      "en": "Direct: 'Are you taking any medication?' → Reported: The doctor asked if I was taking any medication.",
+      "tr": "Direkt: 'Herhangi bir ilac kullaniyor musunuz?' → Dolayli: Doktor ilac kullanip kullanmadigimi sordu.",
+      "why": "Yes/No sorusu oldugu icin 'if' kullaniliyor. 'are you taking' → 'I was taking' (backshift + zamir degisimi). Soru isareti kalkar, duz cumle sirasi olur."
+    },
+    {
+      "en": "Direct: 'I took the medicine yesterday.' → Reported: She said that she had taken the medicine the day before.",
+      "tr": "Direkt: 'Ilaci dun ictim.' → Dolayli: Ilaci bir gun once ictigini soyledi.",
+      "why": "Past Simple 'took' → Past Perfect 'had taken'. 'yesterday' → 'the day before'. Hem zaman hem zarf degisimi yapildi."
+    },
+    {
+      "en": "Direct: 'Where does it hurt?' → Reported: The doctor asked where it hurt.",
+      "tr": "Direkt: 'Neresi agriyor?' → Dolayli: Doktor neresinin agridigini sordu.",
+      "why": "Wh- sorusu: 'Where' kalir ama soru sirasi duz cumle sirasina donusur. 'does it hurt' → 'it hurt' (backshift + yardimci fiil duser)."
+    }
+  ],
+  "tips": [
+    "Altin kural: Reporting verb (said/told) gecmis zamanday sa, aktarilan cumle bir adim geri kayar. Reporting verb simdiki zamandaysa (He says...) backshift GEREKMEZ.",
+    "'Said' nesne almaz, 'told' nesne ALIR. 'He said me' YANLIS. 'He told me' DOGRU. 'He said to me' DOGRU (to ile).",
+    "Soru aktariminda soru sirasi KALKAR! 'Where is he?' → 'She asked where he was.' NOT 'She asked where was he.' Duz cumle sirasi kullanilir.",
+    "Past Perfect daha geriye gidemez! 'I had already eaten' → He said he had already eaten (degismez). Had + V3 oldugu gibi kalir.",
+    "'Must' iki sekilde aktarilir: Zorunluluk ise → 'had to'. Tahmin ise → 'must' kalir. 'You must rest' → said I had to rest. 'He must be tired' → said he must be tired.",
+    "Sinav taktigi: Once direkt cumledeki zamani belirle, sonra tablodan bir adim geri kaydir. Zarflari (today, here, this) degistirmeyi unutma!",
+    "'That' zorunlu degil, dusurulur: 'He said he was tired' = 'He said that he was tired'. Ama sinavda 'that' olan secenegi tercih et, daha net."
+  ]
+}

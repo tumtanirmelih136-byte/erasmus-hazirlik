@@ -1,0 +1,61 @@
+{
+  "topic": "gerunds-infinitives",
+  "title": "Gerund ve Mastarlar (Gerunds & Infinitives)",
+  "description_tr": "Bazi fiiller arkasinda gerund (V-ing: swimming, reading), bazi fiiller infinitive (to + V1: to swim, to read) alir. Bazi fiiller ise ikisini de alir ve anlam degisebilir. Sinavlarda en cok hangi fiilin hangisini aldigi ve anlam farkli olan fiiller sorulur.",
+  "formula": "Verb + gerund (V-ing) VEYA Verb + infinitive (to + V1)",
+  "signals": ["enjoy + V-ing", "want + to V", "stop + V-ing/to V", "remember + V-ing/to V", "forget + V-ing/to V", "try + V-ing/to V", "avoid + V-ing", "decide + to V", "suggest + V-ing", "refuse + to V"],
+  "turkish_logic": "Turkce'de fiilden sonra '-mek/-mak' (mastar) veya '-me/-ma' (isim-fiil) gelir: 'Yuzmek istiyorum' (want to swim), 'Yuzmekten hoslaniyorum' (enjoy swimming). Ingilizce'de hangi fiilin gerund, hangisinin infinitive alacagini bilmek gerekir cunku kural degil, ezbere dayalidir. Ama gruplandirarak ogrenmek mumkun.",
+  "key_rules": [
+    "GERUND (V-ing) ALAN FIILLER: enjoy, avoid, mind, suggest, finish, keep, consider, deny, admit, practice, risk, imagine, give up, can't help, postpone, delay, miss, quit, resist, involve.",
+    "Ornek: 'The patient avoids eating sugar.' (Hasta seker yemekten kaciniyor.)",
+    "INFINITIVE (to + V1) ALAN FIILLER: want, need, decide, plan, hope, expect, promise, agree, refuse, offer, learn, manage, afford, pretend, seem, appear, tend, fail, arrange, attempt.",
+    "Ornek: 'The doctor decided to operate immediately.' (Doktor hemen ameliyat etmeye karar verdi.)",
+    "HER IKISINI DE ALAN FIILLER (Anlam DEGISMEZ): like, love, hate, prefer, begin, start, continue, intend. 'I like swimming' = 'I like to swim' (Yuzmeyi severim.)",
+    "HER IKISINI DE ALAN FIILLER (Anlam DEGISIR):",
+    "STOP + V-ing: Yapmakta oldugunu birakmak. 'He stopped smoking.' (Sigara icmeyi birakti.)",
+    "STOP + to V: Baska bir sey yapmak icin durmak. 'He stopped to smoke.' (Sigara icmek icin durdu.)",
+    "REMEMBER + V-ing: Gecmiste yaptigini hatirlamak. 'I remember taking the pill.' (Hap aldigimi hatirliyorum.)",
+    "REMEMBER + to V: Yapmayi unutmamak. 'Remember to take the pill.' (Hap almayi unutma.)",
+    "FORGET + V-ing: Yaptigini unutmak. 'I'll never forget visiting that hospital.' (O hastaneyi ziyaret ettigimi hic unutmayacagim.)",
+    "FORGET + to V: Yapmayi unutmak. 'I forgot to take my medicine.' (Ilacimi almayi unuttum.)",
+    "TRY + V-ing: Deneyerek gormek. 'Try taking vitamin C.' (C vitamini almayi dene bak.)",
+    "TRY + to V: Cabalamal, ugras. 'I tried to open the bottle.' (Siseyi acmaya calistim.)",
+    "PREPOSITION + GERUND: Edatlardan sonra her zaman gerund gelir. 'interested in learning', 'good at swimming', 'instead of waiting', 'before leaving', 'after finishing'."
+  ],
+  "examples": [
+    {
+      "en": "The doctor suggested taking a blood test.",
+      "tr": "Doktor kan testi yaptirmayi onerdi.",
+      "why": "'Suggest' her zaman gerund alir. 'Suggest to take' YANLIS. 'Suggest taking' DOGRU. Alternatif: 'suggest that + clause' da olabilir."
+    },
+    {
+      "en": "The patient refused to take the injection.",
+      "tr": "Hasta igneyi yaptirmayi reddetti.",
+      "why": "'Refuse' her zaman infinitive alir. 'Refuse taking' YANLIS. 'Refuse to take' DOGRU."
+    },
+    {
+      "en": "She stopped taking the painkillers because of the side effects.",
+      "tr": "Yan etkiler yuzunden agrı kesicileri almayi birakti.",
+      "why": "'Stop + V-ing' = yapmakta oldugunu birakmak. Agrı kesici almayı birakti (artik almiyor). 'Stop to take' olsaydi 'almak icin durdu' anlamina gelirdi."
+    },
+    {
+      "en": "I remember locking the medicine cabinet.",
+      "tr": "Ilac dolabini kilitledigimi hatirliyorum.",
+      "why": "'Remember + V-ing' = gecmiste yaptigini hatirlamak. Kilitledi ve bunu hatirliyor. 'Remember to lock' olsaydi 'kilitlemeyi unutma' (henuz yapilmamis) olurdu."
+    },
+    {
+      "en": "The nurse is interested in learning new techniques.",
+      "tr": "Hemsire yeni teknikler ogrenmeyle ilgileniyor.",
+      "why": "'Interested in' — edattan (in) sonra her zaman gerund gelir. 'interested in to learn' YANLIS. Preposition + gerund kurali."
+    }
+  ],
+  "tips": [
+    "MEGA EZBER TRICK — Gerund fiilleri: 'MEGA KIDS PD' → Mind, Enjoy, Give up, Avoid, Keep, Imagine, Deny, Suggest, Practice, Delay. Bu fiiller HER ZAMAN gerund alir.",
+    "MEGA EZBER TRICK — Infinitive fiilleri: 'We Don't Play Hard' → Want, Decide, Plan, Hope + Need, Expect, Promise, Agree, Refuse, Offer, Learn, Manage.",
+    "Edat (preposition) gordugunde arkasina GERUND koy! 'good at cooking', 'tired of waiting', 'think about going', 'look forward to meeting'. 'look forward to' tuzaktir — 'to' burada edat, mastar degil!",
+    "STOP, REMEMBER, FORGET, TRY — bu dort fiil anlam degistiren grup. Sinavlarin favori sorusu. Gerund = gecmis/devam eden eylem, Infinitive = amac/gelecek eylem.",
+    "'Would like/love/prefer' her zaman infinitive alir: 'I would like to see the doctor.' 'Like' tek basina ikisini de alir ama 'would like' sadece infinitive.",
+    "Sinav taktigi: Boslugun oncesindeki fiile bak. O fiil gerund mu infinitive mi aliyor? Ezberledigin listeden kontrol et. Edat varsa direkt gerund sec.",
+    "'Let / Make / Help' + yalin fiil (bare infinitive): 'to' OLMADAN. 'Let me check' (DOGRU), 'Let me to check' (YANLIS). 'Make him take the medicine' (DOGRU)."
+  ]
+}

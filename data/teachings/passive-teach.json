@@ -1,0 +1,59 @@
+{
+  "topic": "passive",
+  "title": "Edilgen Cati (Passive Voice)",
+  "description_tr": "Edilgen cati (Passive Voice), eylemi yapanin degil, eylemden etkilenenin on plana cikartildigi yapidir. Ozellikle tip ve hastane baglaminida cok kullanilir: 'Hasta ameliyat edildi', 'Ilac reçete edildi' gibi. Sinavlarda active cumlyi passive'e cevirme veya dogru 'be + V3' formunu secme sorulur.",
+  "formula": "Object + be (zamana gore) + V3 (past participle) + by + subject (istege bagli)",
+  "signals": ["by", "was/were + V3", "is/are + V3", "has been + V3", "will be + V3", "being + V3"],
+  "turkish_logic": "Turkce'de edilgen cati '-il, -in, -ul, -un' ekleriyle yapilir: 'Kapi acildi' (The door was opened). Ingilizce'de ise 'be + V3' formulu kullanilir. 'be' fiili zamana gore degisir (is, was, has been, will be vb.), V3 ise fiilin ucuncu hali olarak sabit kalir.",
+  "key_rules": [
+    "Present Simple Passive: am/is/are + V3. 'Blood tests are done every morning.' (Kan testleri her sabah yapilir.)",
+    "Past Simple Passive: was/were + V3. 'The patient was examined by Dr. Smith.' (Hasta Dr. Smith tarafindan muayene edildi.)",
+    "Present Perfect Passive: has/have + been + V3. 'The surgery has been completed successfully.' (Ameliyat basariyla tamamlandi.)",
+    "Future Simple Passive: will + be + V3. 'The results will be announced tomorrow.' (Sonuclar yarin aciklanacak.)",
+    "Present Continuous Passive: am/is/are + being + V3. 'The patient is being treated now.' (Hasta su anda tedavi ediliyor.)",
+    "Past Continuous Passive: was/were + being + V3. 'The wound was being cleaned when the doctor arrived.' (Doktor geldiginde yara temizleniyordu.)",
+    "Modal Passive: modal + be + V3. 'The medicine must be taken twice a day.' (Ilac gunde iki kez alinmalidir.)",
+    "'By + agent' sadece yapanin kim oldugu onemliyse eklenir. 'The hospital was built in 1990.' (Kim yaptigi onemli degil.)"
+  ],
+  "examples": [
+    {
+      "en": "The patient was transferred to the ICU.",
+      "tr": "Hasta yogun bakima transfer edildi.",
+      "why": "Hastanin kim tarafindan transfer edildigi onemli degil, onemli olan hastanin durumu. Past Simple Passive: was + V3 (transferred)."
+    },
+    {
+      "en": "New vaccines are being developed by several companies.",
+      "tr": "Yeni asilar birkac sirket tarafindan gelistiriliyor.",
+      "why": "Su anda devam eden bir eylem, nesne on planda. Present Continuous Passive: are + being + V3 (developed)."
+    },
+    {
+      "en": "The prescription has been sent to the pharmacy.",
+      "tr": "Recete eczaneye gonderildi.",
+      "why": "Yakin gecmiste tamamlanan ve simdi etkisi olan eylem. Present Perfect Passive: has + been + V3 (sent)."
+    },
+    {
+      "en": "The blood pressure must be measured before the operation.",
+      "tr": "Ameliyattan once tansiyon olculmelidir.",
+      "why": "Zorunluluk bildiren modal + passive. Modal Passive: must + be + V3 (measured)."
+    },
+    {
+      "en": "The wound was being stitched when the power went out.",
+      "tr": "Elektrik kesildiginde yara dikiliyordu.",
+      "why": "Gecmiste devam eden bir eylem baska bir eylemle kesilmis. Past Continuous Passive: was + being + V3 (stitched)."
+    },
+    {
+      "en": "All visitors will be screened at the entrance.",
+      "tr": "Tum ziyaretciler giriste taranacak.",
+      "why": "Gelecekte yapilacak bir eylem, nesne on planda. Future Simple Passive: will + be + V3 (screened)."
+    }
+  ],
+  "tips": [
+    "Passive formul: 'be + V3' — bu ikiliyi gordugunde passive oldugunu anla. 'be' fiili zamana gore degisir.",
+    "Active'den Passive'e cevirirken: 1) Nesneyi basa al, 2) 'be' fiilini zamana gore sec, 3) Fiili V3 yap, 4) Gerekirse 'by + ozne' ekle.",
+    "'By' her zaman gerekmez! Yapan kisi belli degilse veya onemli degilse 'by' kullanma. 'The door was opened.' yeterli.",
+    "Intransitive fiiller (die, arrive, happen, sleep) passive yapilamaz! 'He was died' YANLIS.",
+    "Sinav taktigi: Seceneklerde 'was + V3', 'is being + V3', 'has been + V3' gibi yapilar goruyorsan passive sorusu. Cumledeki zamani belirle, dogru 'be' formunu sec.",
+    "'Get + V3' konusma dilinde passive yerine kullanilir: 'He got injured' = 'He was injured'. Sinavda 'be + V3' tercih et.",
+    "Tip metinlerinde passive cok cikar cunku odak hastanin/tedavinin uzerindedir, yapan kisi (doktor/hemsire) genelde belirtilmez."
+  ]
+}

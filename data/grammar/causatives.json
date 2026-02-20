@@ -1,0 +1,602 @@
+[
+  {
+    "id": "causatives-001",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She had her blood pressure _____ at the clinic yesterday.",
+    "options": [
+      {"key": "A", "text": "check"},
+      {"key": "B", "text": "checked"},
+      {"key": "C", "text": "checking"},
+      {"key": "D", "text": "to check"},
+      {"key": "E", "text": "checks"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Have something done' yapısında nesne + past participle (V3) kullanılır. Tansiyonunu klinikte ölçtürmüş (başkasına yaptırmış).",
+    "rule_tr": "have + something + V3 (done) = bir şeyi başkasına yaptırmak",
+    "tip_tr": "have + nesne + V3 = birisi senin için yapıyor. 'Checked' = V3 (past participle).",
+    "extra_example": "I had my teeth cleaned at the dentist. (Dişlerimi dişçide temizlettim.)"
+  },
+  {
+    "id": "causatives-002",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "We need to have the X-ray _____ as soon as possible.",
+    "options": [
+      {"key": "A", "text": "take"},
+      {"key": "B", "text": "to take"},
+      {"key": "C", "text": "taken"},
+      {"key": "D", "text": "taking"},
+      {"key": "E", "text": "took"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Have something done' yapısında V3 kullanılır. Röntgenin en kısa sürede çektirilmesi gerekiyor.",
+    "rule_tr": "have + object + V3 = yaptırmak (passive causative)",
+    "tip_tr": "X-ray taken = röntgen çektirilmek. take → took → taken (V3).",
+    "extra_example": "You should have the wound examined by a doctor. (Yarayı bir doktora muayene ettirmelisin.)"
+  },
+  {
+    "id": "causatives-003",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "I _____ my eyes tested last month.",
+    "options": [
+      {"key": "A", "text": "have"},
+      {"key": "B", "text": "had"},
+      {"key": "C", "text": "was"},
+      {"key": "D", "text": "did"},
+      {"key": "E", "text": "got"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Last month' geçmiş zaman ifadesidir. 'Have something done' yapısının geçmiş hali 'had something done' olur. Geçen ay gözlerimi test ettirdim.",
+    "rule_tr": "had + object + V3 = geçmişte yaptırmak (past causative)",
+    "tip_tr": "Present: have it done. Past: had it done. Future: will have it done.",
+    "extra_example": "She had her hair cut before the wedding. (Düğünden önce saçını kestirdi.)"
+  },
+  {
+    "id": "causatives-004",
+    "topic": "causatives",
+    "subtopic": "get-something-done",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "I need to get my prescription _____.",
+    "options": [
+      {"key": "A", "text": "fill"},
+      {"key": "B", "text": "to fill"},
+      {"key": "C", "text": "filled"},
+      {"key": "D", "text": "filling"},
+      {"key": "E", "text": "fills"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get something done' yapısında nesne + V3 kullanılır. 'Have something done' ile aynı anlamdadır ama daha informal. Reçetemi doldurtmam gerekiyor.",
+    "rule_tr": "get + object + V3 = yaptırmak (informal have sth done)",
+    "tip_tr": "'Get something done' = 'have something done' (informal versiyon). İkisi de V3 alır!",
+    "extra_example": "I got my car fixed at the garage. (Arabamı tamircide tamir ettirdim.)"
+  },
+  {
+    "id": "causatives-005",
+    "topic": "causatives",
+    "subtopic": "make-someone-do",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor made the patient _____ in bed for a week.",
+    "options": [
+      {"key": "A", "text": "stay"},
+      {"key": "B", "text": "to stay"},
+      {"key": "C", "text": "stayed"},
+      {"key": "D", "text": "staying"},
+      {"key": "E", "text": "stays"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Make + someone + bare infinitive (V1)' yapısı kullanılır. 'To stay' YANLIŞTIR. Doktor hastayı bir hafta yatakta kalmaya zorlamış.",
+    "rule_tr": "make + person + V1 (bare infinitive) = birini bir şey yapmaya zorlamak",
+    "tip_tr": "make + V1 (to'suz), get + to V (to'lu), let + V1 (to'suz). To olup olmadığını ezberle!",
+    "extra_example": "The illness made her stay home for two weeks. (Hastalık onu iki hafta evde kalmaya zorladı.)"
+  },
+  {
+    "id": "causatives-006",
+    "topic": "causatives",
+    "subtopic": "let-someone-do",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse let the child _____ a sticker after the injection.",
+    "options": [
+      {"key": "A", "text": "to choose"},
+      {"key": "B", "text": "choose"},
+      {"key": "C", "text": "choosing"},
+      {"key": "D", "text": "chosen"},
+      {"key": "E", "text": "chose"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Let + someone + bare infinitive (V1)' yapısı kullanılır. 'To choose' YANLIŞTIR. Hemşire çocuğun iğneden sonra çıkartma seçmesine izin vermiş.",
+    "rule_tr": "let + person + V1 (bare infinitive) = birinin yapmasına izin vermek",
+    "tip_tr": "let = izin vermek. make = zorlamak. İkisi de V1 (to'suz fiil) alır!",
+    "extra_example": "The doctor let me go home after the examination. (Doktor muayeneden sonra eve gitmeme izin verdi.)"
+  },
+  {
+    "id": "causatives-007",
+    "topic": "causatives",
+    "subtopic": "have-someone-do",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "I'll have the nurse _____ your bandage.",
+    "options": [
+      {"key": "A", "text": "to change"},
+      {"key": "B", "text": "changed"},
+      {"key": "C", "text": "change"},
+      {"key": "D", "text": "changing"},
+      {"key": "E", "text": "changes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Have + someone + V1' yapısı birinden bir şey yapmasını istemek/sağlamak anlamına gelir. Hemşireye bandajınızı değiştirmesini söyleyeceğim.",
+    "rule_tr": "have + person + V1 = birine bir şey yaptırmak (active causative)",
+    "tip_tr": "have + PERSON + V1 (kişiye yaptırma) vs have + THING + V3 (şeyi yaptırma). Ayrımı bil!",
+    "extra_example": "I'll have the pharmacist prepare the medicine. (Eczacıya ilacı hazırlatacağım.)"
+  },
+  {
+    "id": "causatives-008",
+    "topic": "causatives",
+    "subtopic": "get-someone-to-do",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She got her husband _____ to the doctor for a check-up.",
+    "options": [
+      {"key": "A", "text": "go"},
+      {"key": "B", "text": "to go"},
+      {"key": "C", "text": "going"},
+      {"key": "D", "text": "gone"},
+      {"key": "E", "text": "went"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Get + someone + to V' yapısı birini ikna ederek bir şey yaptırmak anlamına gelir. Kocasını kontrol için doktora gitmeye ikna etmiş.",
+    "rule_tr": "get + person + to V = birini ikna ederek yaptırmak",
+    "tip_tr": "get + person + TO V (to'lu!). have + person + V1 (to'suz!). Kritik fark!",
+    "extra_example": "I got my mother to take her vitamins every day. (Annemi her gün vitaminlerini almaya ikna ettim.)"
+  },
+  {
+    "id": "causatives-009",
+    "topic": "causatives",
+    "subtopic": "make-someone-do",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The bitter taste of the medicine made the child _____.",
+    "options": [
+      {"key": "A", "text": "to cry"},
+      {"key": "B", "text": "crying"},
+      {"key": "C", "text": "cried"},
+      {"key": "D", "text": "cry"},
+      {"key": "E", "text": "cries"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Make + someone + V1' yapısında 'to' KULLANILMAZ. İlacın acı tadı çocuğu ağlattı.",
+    "rule_tr": "make + object + V1 (bare infinitive, to yok!)",
+    "tip_tr": "'Make' zorlama ifade eder ve V1 alır. Passive'de ise 'to V' olur: was made to cry.",
+    "extra_example": "The injection made him scream. (İğne onu çığlık attırdı.)"
+  },
+  {
+    "id": "causatives-010",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "How often do you have your teeth _____?",
+    "options": [
+      {"key": "A", "text": "clean"},
+      {"key": "B", "text": "to clean"},
+      {"key": "C", "text": "cleaned"},
+      {"key": "D", "text": "cleaning"},
+      {"key": "E", "text": "cleans"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Have + something + V3' yapısı bir şeyi başkasına yaptırma anlamındadır. Dişlerini ne sıklıkla temizletirsin?",
+    "rule_tr": "have + thing + V3 = (bir şeyi) yaptırmak",
+    "tip_tr": "Dişçi, kuaför, tamirci gibi hizmet bağlamlarında 'have sth done' çok kullanılır.",
+    "extra_example": "She has her nails done every two weeks. (İki haftada bir tırnaklarını yaptırır.)"
+  },
+  {
+    "id": "causatives-011",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient was made _____ a consent form before the operation.",
+    "options": [
+      {"key": "A", "text": "sign"},
+      {"key": "B", "text": "to sign"},
+      {"key": "C", "text": "signed"},
+      {"key": "D", "text": "signing"},
+      {"key": "E", "text": "signs"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Make' passive yapıda kullanıldığında 'to V' olur: 'was made to sign'. Active'de 'made him sign' (V1) iken passive'de 'was made to sign' (to V).",
+    "rule_tr": "Active: make + person + V1 / Passive: be made + to V",
+    "tip_tr": "'Make' passive'de 'to' alır! Active: made him go → Passive: was made to go. Sık çıkar!",
+    "extra_example": "The children were made to wash their hands before lunch. (Çocuklar öğle yemeğinden önce ellerini yıkamaya zorlandı.)"
+  },
+  {
+    "id": "causatives-012",
+    "topic": "causatives",
+    "subtopic": "get-someone-to-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The pharmacist got the customer _____ for the generic version instead.",
+    "options": [
+      {"key": "A", "text": "ask"},
+      {"key": "B", "text": "asked"},
+      {"key": "C", "text": "to ask"},
+      {"key": "D", "text": "asking"},
+      {"key": "E", "text": "asks"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get + someone + to V' yapısı birini ikna ederek bir şey yaptırmak demektir. Eczacı müşteriyi jenerik versiyonu istemesi için ikna etmiş.",
+    "rule_tr": "get + person + to V = ikna ederek yaptırmak",
+    "tip_tr": "'Get' her zaman 'to V' alır! have + V1 vs get + to V. Karıştırma!",
+    "extra_example": "The doctor got the patient to follow a strict diet. (Doktor hastayı sıkı bir diyet uygulamaya ikna etti.)"
+  },
+  {
+    "id": "causatives-013",
+    "topic": "causatives",
+    "subtopic": "have-someone-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The head doctor had the intern _____ all the patient files before the meeting.",
+    "options": [
+      {"key": "A", "text": "to review"},
+      {"key": "B", "text": "review"},
+      {"key": "C", "text": "reviewed"},
+      {"key": "D", "text": "reviewing"},
+      {"key": "E", "text": "reviews"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Have + someone + V1' yapısında to kullanılmaz. Baş doktor stajyere toplantıdan önce tüm hasta dosyalarını incelettirmiş.",
+    "rule_tr": "have + person + V1 (bare infinitive, to yok!)",
+    "tip_tr": "have + person + V1 = resmi/otoriter yaptırma. get + person + to V = ikna ile yaptırma.",
+    "extra_example": "The surgeon had the assistant prepare the operating room. (Cerrah asistana ameliyathaneyi hazırlattı.)"
+  },
+  {
+    "id": "causatives-014",
+    "topic": "causatives",
+    "subtopic": "let-someone-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor wouldn't let the patient _____ the hospital until the test results came back.",
+    "options": [
+      {"key": "A", "text": "to leave"},
+      {"key": "B", "text": "leaving"},
+      {"key": "C", "text": "left"},
+      {"key": "D", "text": "leave"},
+      {"key": "E", "text": "leaves"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Let + someone + V1' yapısında 'to' kullanılmaz. Doktor test sonuçları gelene kadar hastanın hastaneden ayrılmasına izin vermemiş.",
+    "rule_tr": "let + person + V1 (izin vermek). wouldn't let = izin vermemek",
+    "tip_tr": "'Let' her zaman V1 (to'suz) alır. Passive'de 'be allowed to V' olur.",
+    "extra_example": "My parents wouldn't let me skip the vaccination. (Ailem aşıyı atlamama izin vermedi.)"
+  },
+  {
+    "id": "causatives-015",
+    "topic": "causatives",
+    "subtopic": "make-someone-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Stress can make your immune system _____.",
+    "options": [
+      {"key": "A", "text": "to weaken"},
+      {"key": "B", "text": "weakened"},
+      {"key": "C", "text": "weaken"},
+      {"key": "D", "text": "weakening"},
+      {"key": "E", "text": "weakens"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Make + object + V1' yapısı. Stres bağışıklık sisteminizin zayıflamasına neden olabilir.",
+    "rule_tr": "make + object + V1 = neden olmak, zorlamak",
+    "tip_tr": "'Make' sadece insanlarla değil, soyut kavramlarla da kullanılır: make your skin dry, make you tired.",
+    "extra_example": "Lack of sleep can make you more vulnerable to infections. (Uyku eksikliği sizi enfeksiyonlara karşı daha savunmasız yapabilir.)"
+  },
+  {
+    "id": "causatives-016",
+    "topic": "causatives",
+    "subtopic": "get-something-done",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "You should get your vision _____ before applying for a driving license.",
+    "options": [
+      {"key": "A", "text": "test"},
+      {"key": "B", "text": "to test"},
+      {"key": "C", "text": "tested"},
+      {"key": "D", "text": "testing"},
+      {"key": "E", "text": "tests"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get + something + V3' yapısı 'have something done' ile aynıdır. Ehliyet başvurusundan önce görüşünü test ettirmelisin.",
+    "rule_tr": "get + thing + V3 = have + thing + V3 (informal)",
+    "tip_tr": "get sth done = have sth done. İkisi aynı anlam! 'Get' daha günlük dilde kullanılır.",
+    "extra_example": "I need to get my glasses fixed. (Gözlüğümü tamir ettirmem gerekiyor.)"
+  },
+  {
+    "id": "causatives-017",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She _____ her arm X-rayed after the fall.",
+    "options": [
+      {"key": "A", "text": "got"},
+      {"key": "B", "text": "made"},
+      {"key": "C", "text": "let"},
+      {"key": "D", "text": "did"},
+      {"key": "E", "text": "was"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Get + something + V3' yapısı. Düşmeden sonra kolunun röntgenini çektirmiş. 'Had' de olabilirdi ama seçeneklerde 'got' var.",
+    "rule_tr": "got + object + V3 = yaptırdı (informal past causative)",
+    "tip_tr": "'Got' + nesne + V3 = geçmişte yaptırma. 'Had' ile aynı anlam ama daha informal.",
+    "extra_example": "He got his ankle examined after twisting it. (Bileğini burktuktan sonra muayene ettirdi.)"
+  },
+  {
+    "id": "causatives-018",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital is having a new wing _____.",
+    "options": [
+      {"key": "A", "text": "build"},
+      {"key": "B", "text": "built"},
+      {"key": "C", "text": "to build"},
+      {"key": "D", "text": "building"},
+      {"key": "E", "text": "builds"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Is having + something + V3' yapısı Present Continuous causative. Hastane yeni bir kanat inşa ettiriyor.",
+    "rule_tr": "is/are having + object + V3 = şu anda yaptırılıyor (continuous causative)",
+    "tip_tr": "Causative tüm tense'lerde kullanılabilir: is having done, will have done, had done.",
+    "extra_example": "We are having the clinic renovated this month. (Bu ay kliniği yenilettiriyoruz.)"
+  },
+  {
+    "id": "causatives-019",
+    "topic": "causatives",
+    "subtopic": "make-someone-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The physiotherapist made the patient _____ the exercises three times a day.",
+    "options": [
+      {"key": "A", "text": "to do"},
+      {"key": "B", "text": "do"},
+      {"key": "C", "text": "done"},
+      {"key": "D", "text": "doing"},
+      {"key": "E", "text": "did"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Make + person + V1' yapısı. Fizyoterapist hastayı günde üç kez egzersiz yapmaya zorlamış.",
+    "rule_tr": "make + person + V1 = zorlamak/sağlamak",
+    "tip_tr": "make + V1 EZBERLE. Sınavda en sık sorulan causative yapı!",
+    "extra_example": "The trainer made us run five kilometers every morning. (Antrenör bizi her sabah beş kilometre koşturdu.)"
+  },
+  {
+    "id": "causatives-020",
+    "topic": "causatives",
+    "subtopic": "let-someone-do",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital finally _____ the family visit the patient in the ICU.",
+    "options": [
+      {"key": "A", "text": "let"},
+      {"key": "B", "text": "made"},
+      {"key": "C", "text": "got"},
+      {"key": "D", "text": "had"},
+      {"key": "E", "text": "allowed"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Let + someone + V1' izin vermek anlamındadır. 'Visit' V1 olarak kullanılmış. Hastane sonunda ailenin yoğun bakımdaki hastayı ziyaret etmesine izin vermiş.",
+    "rule_tr": "let + person + V1 = izin vermek (allow + to V ile eş anlamlı)",
+    "tip_tr": "let + V1 = allow + to V. 'E' şıkkı 'allowed' olsaydı 'allowed to visit' olmalıydı.",
+    "extra_example": "The doctor let the patient walk around the ward. (Doktor hastanın serviste dolaşmasına izin verdi.)"
+  },
+  {
+    "id": "causatives-021",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient was not _____ leave the hospital without the doctor's permission.",
+    "options": [
+      {"key": "A", "text": "let to"},
+      {"key": "B", "text": "allowed to"},
+      {"key": "C", "text": "let"},
+      {"key": "D", "text": "made"},
+      {"key": "E", "text": "gotten to"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Let' passive yapıda kullanılmaz! Passive'de 'be allowed to V' kullanılır. Hastanın doktor izni olmadan hastaneden ayrılmasına izin verilmedi.",
+    "rule_tr": "Active: let + V1 / Passive: be allowed to V ('let' passive'de KULLANILMAZ!)",
+    "tip_tr": "'Was let to leave' YANLIŞ! 'Was allowed to leave' DOĞRU! Çok önemli kural!",
+    "extra_example": "Visitors are not allowed to enter the operating room. (Ziyaretçilerin ameliyathaneye girmesine izin verilmez.)"
+  },
+  {
+    "id": "causatives-022",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The celebrity had cosmetic surgery _____ by a world-famous surgeon in Istanbul.",
+    "options": [
+      {"key": "A", "text": "do"},
+      {"key": "B", "text": "to do"},
+      {"key": "C", "text": "done"},
+      {"key": "D", "text": "doing"},
+      {"key": "E", "text": "did"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Have + something + done (V3)' yapısı. 'By a surgeon' ifadesi eylemi yapan kişiyi belirtir. Ünlü, İstanbul'da dünyaca ünlü bir cerraha estetik ameliyat yaptırmış.",
+    "rule_tr": "have + object + V3 + by + agent (yapan kişi belirtilir)",
+    "tip_tr": "'By + kişi' eylemi kimin yaptığını gösterir. Passive ile aynı mantık!",
+    "extra_example": "She had the diagnosis confirmed by a specialist. (Teşhisi bir uzman tarafından doğrulattı.)"
+  },
+  {
+    "id": "causatives-023",
+    "topic": "causatives",
+    "subtopic": "get-someone-to-do",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The health campaign aims to get young people _____ healthier food choices.",
+    "options": [
+      {"key": "A", "text": "make"},
+      {"key": "B", "text": "making"},
+      {"key": "C", "text": "to make"},
+      {"key": "D", "text": "made"},
+      {"key": "E", "text": "makes"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get + someone + to V' yapısı birini bir şey yapmaya teşvik etmek/ikna etmek demektir. Kampanya gençleri daha sağlıklı yiyecek seçimleri yapmaya teşvik etmeyi amaçlıyor.",
+    "rule_tr": "get + person + to V = teşvik etmek, ikna etmek (persuade/encourage)",
+    "tip_tr": "'Get someone to do' = 'persuade someone to do'. İkna ve teşvik bağlamında kullanılır.",
+    "extra_example": "The campaign aims to get people to quit smoking. (Kampanya insanları sigara bırakmaya ikna etmeyi amaçlıyor.)"
+  },
+  {
+    "id": "causatives-024",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Which sentence is CORRECT?",
+    "options": [
+      {"key": "A", "text": "She was made to wait for three hours at the emergency room."},
+      {"key": "B", "text": "She was made wait for three hours at the emergency room."},
+      {"key": "C", "text": "She was made waiting for three hours at the emergency room."},
+      {"key": "D", "text": "She made to wait for three hours at the emergency room."},
+      {"key": "E", "text": "She was let to wait for three hours at the emergency room."}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Make' passive yapıda 'be made + to V' olur. Active: They made her wait → Passive: She was made to wait. B'de 'to' eksik, D'de 'was' eksik.",
+    "rule_tr": "Active: make + person + V1 → Passive: be made + TO V",
+    "tip_tr": "make → active: V1, passive: to V. let → active: V1, passive: be allowed to V.",
+    "extra_example": "The students were made to attend the first aid course. (Öğrenciler ilk yardım kursuna katılmaya zorlandı.)"
+  },
+  {
+    "id": "causatives-025",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "After the earthquake, the hospital had its entire electrical system _____.",
+    "options": [
+      {"key": "A", "text": "inspect"},
+      {"key": "B", "text": "inspecting"},
+      {"key": "C", "text": "to inspect"},
+      {"key": "D", "text": "inspected"},
+      {"key": "E", "text": "inspects"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Have + something + V3' yapısı. Depremden sonra hastane tüm elektrik sistemini kontrol ettirmiş.",
+    "rule_tr": "have + thing + V3 (past participle) = yaptırmak",
+    "tip_tr": "inspect → inspected (V3). Düzenli fiillerde V3 = -ed. Düzensiz fiillerin V3'ünü ezberle!",
+    "extra_example": "The clinic had its fire safety equipment inspected last month. (Klinik geçen ay yangın güvenlik ekipmanını kontrol ettirdi.)"
+  },
+  {
+    "id": "causatives-026",
+    "topic": "causatives",
+    "subtopic": "make-someone-do",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The pandemic _____ governments rethink their healthcare policies.",
+    "options": [
+      {"key": "A", "text": "let"},
+      {"key": "B", "text": "got"},
+      {"key": "C", "text": "had"},
+      {"key": "D", "text": "made"},
+      {"key": "E", "text": "allowed"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Make + object + V1' yapısı neden olmak, zorlamak anlamındadır. 'Rethink' bare infinitive (V1). Pandemi hükümetleri sağlık politikalarını yeniden düşünmeye zorladı.",
+    "rule_tr": "make + object + V1 = zorlamak, neden olmak (olaylar/durumlar da özne olabilir)",
+    "tip_tr": "'Make' sadece insanlar değil, olaylar da (pandemic, crisis, accident) özne olarak kullanılabilir.",
+    "extra_example": "The crisis made the hospital increase its capacity. (Kriz hastanenin kapasitesini artırmasına neden oldu.)"
+  },
+  {
+    "id": "causatives-027",
+    "topic": "causatives",
+    "subtopic": "get-something-done",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "She couldn't get the insurance company _____ her claim.",
+    "options": [
+      {"key": "A", "text": "approve"},
+      {"key": "B", "text": "approved"},
+      {"key": "C", "text": "to approve"},
+      {"key": "D", "text": "approving"},
+      {"key": "E", "text": "approves"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get + someone/company + to V' yapısı. Sigorta şirketini talebini onaylatmaya ikna edememiş.",
+    "rule_tr": "get + person/organization + to V = ikna etmeye çalışmak",
+    "tip_tr": "'Couldn't get someone to do' = ikna edemedi. Olumsuz causative sık çıkar.",
+    "extra_example": "He couldn't get the hospital to refund the extra charges. (Hastanenin ekstra ücretleri iade etmesini sağlayamadı.)"
+  },
+  {
+    "id": "causatives-028",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "In the passive form of 'The doctor had the nurse monitor the patient,' the sentence becomes: 'The patient _____.'",
+    "options": [
+      {"key": "A", "text": "had monitored by the nurse"},
+      {"key": "B", "text": "was had monitored"},
+      {"key": "C", "text": "had the nurse to monitor"},
+      {"key": "D", "text": "was monitored by the nurse"},
+      {"key": "E", "text": "had been monitoring"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Have someone do something' aktif yapısının pasif hali normal passive yapıdır. Doktor hemşireye hastayı izletti → Hasta hemşire tarafından izlendi.",
+    "rule_tr": "Active causative → Passive: was/were + V3 + by agent",
+    "tip_tr": "Causative'in passive'i = standart passive. Karmaşık düşünme!",
+    "extra_example": "The patient was examined by the specialist. (Hasta uzman tarafından muayene edildi.)"
+  },
+  {
+    "id": "causatives-029",
+    "topic": "causatives",
+    "subtopic": "have-something-done",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "I must _____ this tooth extracted; the pain is unbearable.",
+    "options": [
+      {"key": "A", "text": "have"},
+      {"key": "B", "text": "get"},
+      {"key": "C", "text": "make"},
+      {"key": "D", "text": "let"},
+      {"key": "E", "text": "do"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Must have + something + V3' yapısı. Bu dişi çektirmem gerekiyor; ağrı dayanılmaz. 'Get' de doğru olabilir ama 'have' daha formal ve yaygındır.",
+    "rule_tr": "must/should/need to + have + object + V3 = yaptırmalı/yaptırması gerekir",
+    "tip_tr": "Modal + have sth done: must have it done, should have it checked, need to have it repaired.",
+    "extra_example": "You should have your cholesterol levels checked regularly. (Kolesterol seviyelerinizi düzenli olarak kontrol ettirmelisiniz.)"
+  },
+  {
+    "id": "causatives-030",
+    "topic": "causatives",
+    "subtopic": "active-vs-passive",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Choose the sentence where causative is used INCORRECTLY.",
+    "options": [
+      {"key": "A", "text": "She had her blood tested at the lab."},
+      {"key": "B", "text": "The doctor made the patient rest for a week."},
+      {"key": "C", "text": "He got his son to eat more vegetables."},
+      {"key": "D", "text": "They let the visitors to enter the ICU."},
+      {"key": "E", "text": "I had the dentist check my wisdom tooth."}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Let' fiilinden sonra 'to' KULLANILMAZ. Doğrusu: 'let the visitors enter' (V1, to'suz). Diğer tüm seçenekler gramer olarak doğrudur.",
+    "rule_tr": "let + person + V1 (to yok!). 'let to enter' YANLIŞ, 'let enter' DOĞRU!",
+    "tip_tr": "Hata bulma sorularında 'let + to V' yapısı en sık test edilen yanlıştır!",
+    "extra_example": "YANLIŞ: Let me to help you. DOĞRU: Let me help you. (Yardım etmeme izin ver.)"
+  }
+]

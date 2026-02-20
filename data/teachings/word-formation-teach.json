@@ -1,0 +1,49 @@
+{
+  "topic": "word_formation",
+  "title": "Kelime Turetme (Word Formation)",
+  "description_tr": "Ingilizce'de bir kok kelimeden farkli tur kelimeler turetmek icin on-ekler (prefixes) ve son-ekler (suffixes) kullanilir. Ornegin 'health' (isim) → 'healthy' (sifat) → 'unhealthy' (olumsuz sifat) → 'healthily' (zarf). Sinavda bir cumledeki bosluga hangi tur kelimenin gelecegini belirlemek gerekir. Bu konu gramer bilgisi kadar kelime bilgisini de test eder.",
+  "formula": "Prefix + kok = anlam degisimi (un+happy = unhappy) | Kok + suffix = tur degisimi (happy+ness = happiness) | Isim: -tion, -ment, -ness, -ity | Sifat: -ful, -less, -ous, -ive | Zarf: -ly | Fiil: -ize, -ify, -en",
+  "signals": ["-tion/-sion", "-ment", "-ness", "-ity", "-ful", "-less", "-ous/-ious", "-ive/-ative", "-ly", "-ize/-ise", "un-", "in-/im-/ir-/il-", "dis-", "re-", "over-", "mis-"],
+  "turkish_logic": "Turkce'de de benzer yapilar var: 'saglik' (isim) → 'saglikli' (sifat) → 'sagliksiz' (olumsuz sifat). Ingilizce'de de ayni mantik: 'health' → 'healthy' → 'unhealthy'. Fark su: Turkce'de ekler daha duzgun, Ingilizce'de kok kelimeye gore degisir — ezberlenmesi gerekir.",
+  "key_rules": [
+    "ISIM SON-EKLERI: -tion/-sion (operate→operation, decide→decision), -ment (treat→treatment, develop→development), -ness (ill→illness, aware→awareness), -ity (able→ability, severe→severity), -ance/-ence (perform→performance, differ→difference), -er/-or (examine→examiner, operate→operator)",
+    "SIFAT SON-EKLERI: -ful (pain→painful, care→careful), -less (pain→painless, care→careless), -ous/-ious (danger→dangerous, infect→infectious), -ive/-ative (effect→effective, inform→informative), -al (medicine→medicinal/medical, nation→national), -able/-ible (cure→curable, access→accessible)",
+    "ZARF SON-EKI: -ly eklenir sifata (careful→carefully, slow→slowly). ISTISNALAR: good→well, fast→fast, hard→hard, late→late (degismez). DIKKAT: 'hardly' = zar zor (hard'in zarfi DEGIL!)",
+    "FIIL SON-EKLERI: -ize/-ise (hospital→hospitalize, sterile→sterilize), -ify (class→classify, ident→identify), -en (wide→widen, strength→strengthen)",
+    "OLUMSUZ ON-EKLER: un- (unhealthy, unable, uncomfortable), in- (inactive, inadequate, incurable), im- (impossible, impatient, immobile — 'm' ve 'p' den once), ir- (irregular, irresponsible — 'r' den once), il- (illegal, illiterate — 'l' den once), dis- (disagree, disappear, disable), mis- (misdiagnose, misunderstand, mistreat)",
+    "DIGER ON-EKLER: re- (tekrar: recover, reexamine, readmit), over- (asiri: overdose, overweight, overwork), under- (yetersiz: underdose, underweight, understaffed), pre- (once: prenatal, prediagnosis), post- (sonra: postoperative, postnatal)"
+  ],
+  "examples": [
+    {
+      "en": "The _____ (treat) was highly effective for the infection. → treatment",
+      "tr": "Tedavi enfeksiyon icin oldukca etkiliydi.",
+      "why": "Boslukta isim lazim (The + ___ + was). 'treat' fiilinden isim turetme: treat + -ment = treatment"
+    },
+    {
+      "en": "The operation was completely _____ (pain). → painless",
+      "tr": "Ameliyat tamamen agrisizdi.",
+      "why": "Boslukta sifat lazim (was + ___). 'pain' isminden 'agrisiz' anlaminda sifat: pain + -less = painless"
+    },
+    {
+      "en": "The doctor spoke _____ (patient) to the elderly woman. → patiently",
+      "tr": "Doktor yasli kadina sabırla konustu.",
+      "why": "Boslukta zarf lazim (fiili niteler: spoke ___). 'patient' sifatindan zarf: patient + -ly = patiently"
+    },
+    {
+      "en": "This disease is unfortunately _____ (cure). → incurable",
+      "tr": "Bu hastalik maalesef tedavi edilemez.",
+      "why": "Boslukta sifat lazim (is ___). 'cure' den 'tedavi edilebilir' = curable, olumsuz on-ek: in + curable = incurable"
+    },
+    {
+      "en": "The nurse _____ (steril) all the equipment before surgery. → sterilized",
+      "tr": "Hemsire ameliyattan once tum ekipmanlari sterilize etti.",
+      "why": "Boslukta fiil lazim (gecmis zaman). 'steril' sifatindan fiil: steril + -ize = sterilize → sterilized"
+    }
+  ],
+  "tips": [
+    "BOSLUK ANALIZI: Once boslugun hangi tur kelime istedigini belirle. The + ___ = isim. be + ___ = sifat. fiil + ___ = zarf. ___ + isim = sifat. Bu analiz cevabi daraltir.",
+    "OLUMSUZ ON-EK SECIMI: im- → m, p den once (impossible, immobile). ir- → r den once (irregular). il- → l den once (illegal). in- → diger durumlarda (inactive). un- → en yaygin (unhappy, unable). Sinavda yanlis on-ek secenekleri tuzak olarak sunulur.",
+    "YANILTICI -LY: Her -ly biten kelime zarf degildir! 'friendly' (sifat), 'lonely' (sifat), 'lovely' (sifat), 'daily' (sifat/zarf), 'elderly' (sifat). Sinavda bu tuzak cikar.",
+    "HARD vs HARDLY, LATE vs LATELY: 'hard' = sert/sıkı (zarf), 'hardly' = zar zor. 'late' = gec (zarf), 'lately' = son zamanlarda. Anlam tamamen degisir — sinavda favori tuzak."
+  ]
+}

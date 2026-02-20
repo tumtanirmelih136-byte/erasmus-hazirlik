@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar & Vocabulary — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Grammar & Vocabulary</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <!-- Tabs: Konu Listesi / Öğretim / Quiz -->
+    <div class="tabs" id="grammar-tabs">
+      <button class="tab-btn active" onclick="showTab('topics')">Konular</button>
+      <button class="tab-btn" onclick="showTab('teach')">Ogretim</button>
+      <button class="tab-btn" onclick="showTab('quiz')">Quiz</button>
+    </div>
+
+    <div class="warning-banner">
+      30 puan (15 soru) — Sinavda en cok cikan bolum!
+    </div>
+
+    <!-- TAB: Konu Listesi -->
+    <div id="tab-topics">
+      <div class="topic-list" id="topic-list"></div>
+    </div>
+
+    <!-- TAB: Öğretim -->
+    <div id="tab-teach" style="display:none">
+      <div id="teach-area">
+        <div class="empty-state">
+          <div class="empty-icon">📚</div>
+          <p>Bir konu secin ve "Ogren" butonuna basin</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB: Quiz -->
+    <div id="tab-quiz" style="display:none">
+      <div id="quiz-area">
+        <div class="empty-state">
+          <div class="empty-icon">📝</div>
+          <p>Bir konu secin ve "Quiz Baslat" butonuna basin</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+
+    const grammarTopics = [
+      { id: 'tenses', name: 'Zamanlar (Tenses)', desc: 'Present, Past, Future — tum zamanlar' },
+      { id: 'conditionals', name: 'Kosul Cumleleri (Conditionals)', desc: 'If clauses: Zero, 1st, 2nd, 3rd' },
+      { id: 'passive', name: 'Edilgen Yapi (Passive Voice)', desc: 'Active → Passive donusumu' },
+      { id: 'modals', name: 'Kiplik Fiiller (Modals)', desc: 'can, must, should, may, might...' },
+      { id: 'relative-clauses', name: 'Ilgi Cumleleri (Relative Clauses)', desc: 'who, which, that, where, whose' },
+      { id: 'reported-speech', name: 'Dolayli Anlatim (Reported Speech)', desc: 'He said that...' },
+      { id: 'connectors', name: 'Baglaclar (Connectors)', desc: 'however, although, therefore...' },
+      { id: 'gerunds-infinitives', name: 'Gerunds & Infinitives', desc: 'V-ing vs to V kullanimi' },
+      { id: 'articles', name: 'Artikeller (Articles)', desc: 'a, an, the, zero article' },
+      { id: 'prepositions', name: 'Edatlar (Prepositions)', desc: 'at, on, in, for, since...' },
+      { id: 'phrasal-verbs', name: 'Deyimsel Fiiller (Phrasal Verbs)', desc: 'get over, come down with...' },
+      { id: 'comparatives', name: 'Karsilastirma (Comparatives)', desc: '-er, more, the most, as...as' },
+      { id: 'quantifiers', name: 'Nicelik Belirtecleri (Quantifiers)', desc: 'some, any, much, many, few...' },
+      { id: 'word-formation', name: 'Kelime Turetme (Word Formation)', desc: '-tion, -ness, -ful, -less, un-...' },
+      { id: 'question-tags', name: 'Soru Kuyrugu (Question Tags)', desc: '...isn\'t it? ...don\'t you?' },
+      { id: 'causatives', name: 'Ettirgen Yapi (Causatives)', desc: 'have/get something done' },
+    ];
+
+    function renderTopicList() {
+      const list = document.getElementById('topic-list');
+      list.innerHTML = grammarTopics.map(t => {
+        const stat = Storage.getTopicStat(t.id);
+        const accuracy = Storage.getTopicAccuracy(t.id);
+        const levelClass = stat.level === 'A2' ? 'level-a2' : stat.level === 'B1' ? 'level-b1' : 'level-b2';
+        return `
+          <div class="topic-item" onclick="selectTopic('${t.id}')">
+            <div>
+              <div class="topic-name">${t.name}</div>
+              <div class="topic-stats">${t.desc} | ${stat.total > 0 ? '%' + accuracy + ' dogru (' + stat.total + ' soru)' : 'Henuz cozulmedi'}</div>
+            </div>
+            <span class="topic-level ${levelClass}">${stat.level || 'A2'}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    let selectedTopic = null;
+
+    function selectTopic(topicId) {
+      selectedTopic = topicId;
+      const topic = grammarTopics.find(t => t.id === topicId);
+
+      // Show action buttons
+      const list = document.getElementById('topic-list');
+      list.innerHTML = `
+        <div class="teach-card">
+          <div class="teach-title">${topic.name}</div>
+          <div class="teach-subtitle">${topic.desc}</div>
+          <div class="btn-group" style="flex-direction:column">
+            <button class="btn btn-primary btn-block btn-lg" onclick="startTeach('${topicId}')">
+              📚 Konuyu Ogren (3 Asamali)
+            </button>
+            <button class="btn btn-success btn-block btn-lg" onclick="startQuiz('${topicId}')">
+              📝 Direkt Quiz Baslat (10 Soru)
+            </button>
+            <button class="btn btn-outline btn-block" onclick="renderTopicList()">
+              ← Konu Listesine Don
+            </button>
+          </div>
+        </div>
+      `;
+    }
+
+    function startTeach(topicId) {
+      showTab('teach');
+      TeachEngine.startTeaching(topicId, 'teach-area');
+    }
+
+    async function startQuiz(topicId) {
+      showTab('quiz');
+      const quizArea = document.getElementById('quiz-area');
+      quizArea.innerHTML = '<div class="empty-state"><p>Sorular yukleniyor...</p></div>';
+
+      try {
+        const questions = await QuizEngine.loadQuestions(`../data/grammar/${topicId}.json`);
+        if (questions.length === 0) {
+          quizArea.innerHTML = '<div class="warning-banner">Bu konu icin henuz soru yuklenmedi.</div>';
+          return;
+        }
+        const selected = AdaptiveEngine.selectQuestions(questions, topicId, 10);
+        QuizEngine.start(selected, topicId, 'quiz');
+      } catch (err) {
+        quizArea.innerHTML = '<div class="warning-banner">Sorular yuklenirken hata olustu.</div>';
+        console.error(err);
+      }
+    }
+
+    function showTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach((btn, i) => {
+        btn.classList.toggle('active', ['topics', 'teach', 'quiz'][i] === tab);
+      });
+      document.getElementById('tab-topics').style.display = tab === 'topics' ? 'block' : 'none';
+      document.getElementById('tab-teach').style.display = tab === 'teach' ? 'block' : 'none';
+      document.getElementById('tab-quiz').style.display = tab === 'quiz' ? 'block' : 'none';
+    }
+
+    // Önce listeyi render et, sonra URL parametresini kontrol et
+    renderTopicList();
+
+    const urlTopic = App.getParam('topic');
+    const urlTeach = App.getParam('teach');
+    if (urlTopic) {
+      if (urlTeach === '1') {
+        startTeach(urlTopic);
+      } else {
+        selectTopic(urlTopic);
+      }
+    }
+  </script>
+
+</body>
+</html>

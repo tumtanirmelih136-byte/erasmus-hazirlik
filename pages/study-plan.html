@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>30 Gunluk Calisma Plani — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>30 Gunluk Plan</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="progress-section">
+      <div class="progress-header">
+        <span>Genel Ilerleme</span>
+        <span id="plan-progress">Gun 1/30</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="plan-fill" style="width:0%"></div>
+      </div>
+    </div>
+
+    <div id="plan-area"></div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+    const dayNum = Storage.getDayNumber();
+    document.getElementById('plan-progress').textContent = `Gun ${dayNum}/30`;
+    document.getElementById('plan-fill').style.width = `${Math.min((dayNum / 30) * 100, 100)}%`;
+
+    const plan = [
+      // Hafta 1
+      { week: 1, title: 'Hafta 1: Grammar Temeli', days: [
+        { day: 1, content: 'Tenses ogretim + 20 soru pratik (Present Simple, Continuous, Perfect)', link: 'grammar.html?topic=tenses&teach=1' },
+        { day: 2, content: 'Tenses devam + 20 soru (Past Simple, Past Perfect, Future)', link: 'grammar.html?topic=tenses' },
+        { day: 3, content: 'Connectors ogretim + 15 soru pratik (however, although, therefore)', link: 'grammar.html?topic=connectors&teach=1' },
+        { day: 4, content: 'Passive Voice ogretim + Modals ogretim + 20 soru', link: 'grammar.html?topic=passive&teach=1' },
+        { day: 5, content: 'Conditionals ogretim + 15 soru pratik (If clauses)', link: 'grammar.html?topic=conditionals&teach=1' },
+        { day: 6, content: 'Relative Clauses + Reported Speech ogretim + 15 soru', link: 'grammar.html?topic=relative-clauses&teach=1' },
+        { day: 7, content: 'Grammar karisik tekrar — tum konulardan 20 soru quiz', link: 'grammar.html' },
+      ]},
+      // Hafta 2
+      { week: 2, title: 'Hafta 2: Vocabulary + Dialogue', days: [
+        { day: 8, content: 'Health & Medicine vocabulary + 15 soru', link: 'vocabulary.html' },
+        { day: 9, content: 'Daily Life + Education vocabulary + 15 soru', link: 'vocabulary.html' },
+        { day: 10, content: 'Phrasal Verbs ogretim + Common Words + 15 soru', link: 'grammar.html?topic=phrasal-verbs&teach=1' },
+        { day: 11, content: 'Gerunds/Infinitives + Articles ogretim + 15 soru', link: 'grammar.html?topic=gerunds-infinitives&teach=1' },
+        { day: 12, content: 'Dialogue completion yogun pratik — 20 soru', link: 'dialogue.html' },
+        { day: 13, content: 'Dialogue + Situational karisik pratik — 20 soru', link: 'dialogue.html?tab=situational' },
+        { day: 14, content: 'DENEME SINAVI 1 + analiz', link: 'mock-exam.html' },
+      ]},
+      // Hafta 3
+      { week: 3, title: 'Hafta 3: Reading + Situational + Zayif Alanlar', days: [
+        { day: 15, content: 'Reading Comprehension pratik — 10 parca + sorular', link: 'reading.html' },
+        { day: 16, content: 'Reading + Irrelevant Sentence pratik — 15 soru', link: 'reading.html' },
+        { day: 17, content: 'Situational Expressions yogun pratik — 20 soru', link: 'dialogue.html?tab=situational' },
+        { day: 18, content: 'Situational + Dialogue karisik — 15 soru', link: 'dialogue.html' },
+        { day: 19, content: 'Zayif grammar konulari tekrar (rapordan bak)', link: 'results.html' },
+        { day: 20, content: 'Irrelevant Sentence + zayif alanlar — 15 soru', link: 'reading.html' },
+        { day: 21, content: 'DENEME SINAVI 2 + analiz', link: 'mock-exam.html' },
+      ]},
+      // Hafta 4
+      { week: 4, title: 'Hafta 4: Intensif Tekrar', days: [
+        { day: 22, content: 'Hatali sorular defterinden tekrar — tum yanlislar', link: 'error-journal.html' },
+        { day: 23, content: 'Hatali sorular devam + zayif grammar tekrar', link: 'error-journal.html' },
+        { day: 24, content: 'Zayif alanlar yogun calisma (rapordan bak)', link: 'results.html' },
+        { day: 25, content: 'Dialogue + Situational son tekrar — 20 soru', link: 'dialogue.html' },
+        { day: 26, content: 'Reading + Grammar karisik — 20 soru', link: 'reading.html' },
+        { day: 27, content: 'DENEME SINAVI 3 + son analiz', link: 'mock-exam.html' },
+        { day: 28, content: 'Deneme sinavi yanlislari tekrar + zayif alanlar', link: 'error-journal.html' },
+        { day: 29, content: 'Hafif tekrar — sadece hatali sorular', link: 'error-journal.html' },
+        { day: 30, content: 'SINAV GUNU — Basarilar!', link: '' },
+      ]},
+    ];
+
+    function renderPlan() {
+      const container = document.getElementById('plan-area');
+      const studyPlan = Storage.getStudyPlan();
+      let html = '';
+
+      plan.forEach(week => {
+        html += `<div class="plan-week">
+          <div class="plan-week-title">${week.title}</div>`;
+
+        week.days.forEach(d => {
+          const isChecked = studyPlan[`day${d.day}`];
+          const isToday = d.day === dayNum;
+          const isPast = d.day < dayNum;
+
+          html += `
+            <div class="plan-day ${isChecked ? 'completed' : ''} ${isToday ? 'today' : ''}">
+              <div class="plan-day-check ${isChecked ? 'checked' : ''}" onclick="toggleDay(${d.day})">
+                ${isChecked ? '✓' : ''}
+              </div>
+              <div class="plan-day-number">Gun ${d.day}</div>
+              <div class="plan-day-content">
+                ${d.link ? `<a href="${d.link}" style="color:inherit;text-decoration:none">${d.content}</a>` : d.content}
+              </div>
+            </div>
+          `;
+        });
+
+        html += '</div>';
+      });
+
+      container.innerHTML = html;
+    }
+
+    function toggleDay(day) {
+      const checked = Storage.togglePlanDay(`day${day}`);
+      renderPlan();
+    }
+
+    renderPlan();
+  </script>
+
+</body>
+</html>

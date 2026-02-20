@@ -1,0 +1,602 @@
+[
+  {
+    "id": "comparatives-001",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This new medicine is _____ than the old one.",
+    "options": [
+      {"key": "A", "text": "more effective"},
+      {"key": "B", "text": "most effective"},
+      {"key": "C", "text": "effectiver"},
+      {"key": "D", "text": "more effectiver"},
+      {"key": "E", "text": "the most effective"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Effective' çok heceli bir sıfat olduğu için karşılaştırma yaparken 'more' eklenir. 'Than' kelimesi karşılaştırma yapıldığını gösterir.",
+    "rule_tr": "2+ heceli sıfat + than → more + sıfat + than",
+    "tip_tr": "Cümlede 'than' varsa comparative (karşılaştırma) yapısı kullan.",
+    "extra_example": "This treatment is more expensive than the alternative. (Bu tedavi alternatiften daha pahalı.)"
+  },
+  {
+    "id": "comparatives-002",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Running is _____ than walking for burning calories.",
+    "options": [
+      {"key": "A", "text": "good"},
+      {"key": "B", "text": "better"},
+      {"key": "C", "text": "more good"},
+      {"key": "D", "text": "best"},
+      {"key": "E", "text": "gooder"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Good' sıfatının karşılaştırma formu düzensizdir: good → better → best. 'More good' veya 'gooder' YANLIŞTIR.",
+    "rule_tr": "good → better → best (düzensiz sıfat)",
+    "tip_tr": "Düzensiz sıfatları ezberle: good-better-best, bad-worse-worst, far-farther-farthest.",
+    "extra_example": "Prevention is better than cure. (Önlem tedaviden iyidir.)"
+  },
+  {
+    "id": "comparatives-003",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The emergency room was _____ than usual last night.",
+    "options": [
+      {"key": "A", "text": "more busy"},
+      {"key": "B", "text": "busyer"},
+      {"key": "C", "text": "busier"},
+      {"key": "D", "text": "most busy"},
+      {"key": "E", "text": "the busiest"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Busy' sıfatı 'y' ile biter. Karşılaştırma formunda 'y' → 'i' olur ve '-er' eklenir: busy → busier.",
+    "rule_tr": "Sonu -y ile biten sıfat: y → i + er (busy → busier)",
+    "tip_tr": "'y' ile biten kısa sıfatlarda 'y'yi 'i'ye çevir ve -er ekle. -yer YANLIŞ!",
+    "extra_example": "Hospitals are busier during flu season. (Hastaneler grip sezonunda daha yoğun olur.)"
+  },
+  {
+    "id": "comparatives-004",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Heart disease is one of _____ causes of death worldwide.",
+    "options": [
+      {"key": "A", "text": "the commonest"},
+      {"key": "B", "text": "the most common"},
+      {"key": "C", "text": "more common"},
+      {"key": "D", "text": "commoner"},
+      {"key": "E", "text": "most common"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Common' iki heceli olup superlative formda 'the most common' kullanılır. 'One of the + superlative' yapısı sıkça çıkar.",
+    "rule_tr": "one of the + most + sıfat + plural noun = en ... -lerden biri",
+    "tip_tr": "'One of the' ifadesinden sonra superlative + çoğul isim gelir. Tekil isim YANLIŞ!",
+    "extra_example": "Malaria is one of the most dangerous diseases in tropical areas. (Sıtma tropikal bölgelerde en tehlikeli hastalıklardan biridir.)"
+  },
+  {
+    "id": "comparatives-005",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This is _____ hospital in the city.",
+    "options": [
+      {"key": "A", "text": "the bigger"},
+      {"key": "B", "text": "bigger"},
+      {"key": "C", "text": "the biggest"},
+      {"key": "D", "text": "most big"},
+      {"key": "E", "text": "the most big"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Big' kısa bir sıfattır ve superlative formu 'the biggest' şeklinde yapılır. Son harf iki kez yazılır: big → biggest.",
+    "rule_tr": "Kısa sıfat + -est = superlative. CVC yapısında son harf iki kez yazılır.",
+    "tip_tr": "big → biggest, hot → hottest, thin → thinnest. Son harfi iki kez yazmayı unutma!",
+    "extra_example": "She is the best doctor in the hospital. (Hastanedeki en iyi doktordur.)"
+  },
+  {
+    "id": "comparatives-006",
+    "topic": "comparatives",
+    "subtopic": "as-as",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Generic medicines are often _____ branded ones.",
+    "options": [
+      {"key": "A", "text": "as effective as"},
+      {"key": "B", "text": "more effective"},
+      {"key": "C", "text": "effective than"},
+      {"key": "D", "text": "so effective as"},
+      {"key": "E", "text": "the most effective"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'As...as' yapısı iki şeyin eşit olduğunu gösterir. Jenerik ilaçlar markalılar kadar etkilidir.",
+    "rule_tr": "as + sıfat + as = ... kadar (eşitlik karşılaştırması)",
+    "tip_tr": "Olumlu eşitlik = 'as...as'. Olumsuz eşitlik = 'not as...as'.",
+    "extra_example": "This clinic is as clean as the hospital. (Bu klinik hastane kadar temiz.)"
+  },
+  {
+    "id": "comparatives-007",
+    "topic": "comparatives",
+    "subtopic": "as-as",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse said the injection is not _____ people think.",
+    "options": [
+      {"key": "A", "text": "as painful as"},
+      {"key": "B", "text": "painful than"},
+      {"key": "C", "text": "more painful"},
+      {"key": "D", "text": "the most painful"},
+      {"key": "E", "text": "so painful"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Not as...as' yapısı bir şeyin diğeri kadar olmadığını gösterir. İğne insanların düşündüğü kadar ağrılı değilmiş.",
+    "rule_tr": "not as + sıfat + as = ... kadar değil (olumsuz eşitlik)",
+    "tip_tr": "'Not as...as' = 'less...than' ile yakın anlamlı ama daha yaygın kullanılır.",
+    "extra_example": "The recovery was not as long as I expected. (İyileşme beklediğim kadar uzun olmadı.)"
+  },
+  {
+    "id": "comparatives-008",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "My grandmother is feeling much _____ today after taking the new pills.",
+    "options": [
+      {"key": "A", "text": "more better"},
+      {"key": "B", "text": "better"},
+      {"key": "C", "text": "more good"},
+      {"key": "D", "text": "best"},
+      {"key": "E", "text": "gooder"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Good' → 'better' düzensiz karşılaştırmadır. 'Much' karşılaştırmayı güçlendirir. 'More better' çift karşılaştırma olduğu için YANLIŞTIR.",
+    "rule_tr": "much/far/a lot + comparative = karşılaştırmayı güçlendirir",
+    "tip_tr": "'Much better', 'far worse', 'a lot bigger' gibi güçlendirici (intensifier) kullanımları ezberle.",
+    "extra_example": "The patient is feeling a lot worse than yesterday. (Hasta dünden çok daha kötü hissediyor.)"
+  },
+  {
+    "id": "comparatives-009",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "COVID-19 was _____ pandemic the world had seen in a century.",
+    "options": [
+      {"key": "A", "text": "the worse"},
+      {"key": "B", "text": "the baddest"},
+      {"key": "C", "text": "the worst"},
+      {"key": "D", "text": "worse"},
+      {"key": "E", "text": "the most bad"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Bad' sıfatının superlative formu 'the worst'tür: bad → worse → worst. 'Baddest' veya 'most bad' YANLIŞTIR.",
+    "rule_tr": "bad → worse → worst (düzensiz sıfat)",
+    "tip_tr": "bad-worse-worst, good-better-best, far-farther-farthest düzensiz üçlülerini ezberle.",
+    "extra_example": "That was the worst flu season in the last decade. (Son on yılın en kötü grip sezonuydu.)"
+  },
+  {
+    "id": "comparatives-010",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Eating fruits is _____ eating fast food every day.",
+    "options": [
+      {"key": "A", "text": "healthier than"},
+      {"key": "B", "text": "more healthy"},
+      {"key": "C", "text": "healthy than"},
+      {"key": "D", "text": "the healthiest"},
+      {"key": "E", "text": "healthyer than"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Healthy' sıfatı 'y' ile biter. Karşılaştırma formunda y → i + er: healthy → healthier. 'Than' ile kullanılır.",
+    "rule_tr": "healthy → healthier → healthiest (y → i + er/est)",
+    "tip_tr": "'Healthy' hem '-er' hem 'more' ile kullanılabilir ama sınavda '-er' tercih edilir.",
+    "extra_example": "Swimming is healthier than sitting at a desk all day. (Yüzmek bütün gün masada oturmaktan daha sağlıklı.)"
+  },
+  {
+    "id": "comparatives-011",
+    "topic": "comparatives",
+    "subtopic": "double-comparative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ you exercise, _____ you will feel.",
+    "options": [
+      {"key": "A", "text": "The more / the better"},
+      {"key": "B", "text": "More / better"},
+      {"key": "C", "text": "The most / the best"},
+      {"key": "D", "text": "Most / best"},
+      {"key": "E", "text": "The more / the best"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'The more...the more/better' yapısı iki şey arasındaki paralel artışı gösterir. Ne kadar çok egzersiz yaparsan, o kadar iyi hissedersin.",
+    "rule_tr": "The + comparative, the + comparative = ne kadar ...ise, o kadar ...",
+    "tip_tr": "İki boşlukta da 'the + comparative' yapısı olmalı. 'The most' kullanma!",
+    "extra_example": "The more water you drink, the healthier your skin will be. (Ne kadar çok su içersen, cildin o kadar sağlıklı olur.)"
+  },
+  {
+    "id": "comparatives-012",
+    "topic": "comparatives",
+    "subtopic": "double-comparative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor explained that _____ you start the treatment, _____ your chances of recovery.",
+    "options": [
+      {"key": "A", "text": "the sooner / the better"},
+      {"key": "B", "text": "sooner / better"},
+      {"key": "C", "text": "the soonest / the best"},
+      {"key": "D", "text": "the more soon / the more good"},
+      {"key": "E", "text": "more sooner / more better"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'The sooner...the better' yapısı 'ne kadar erken olursa o kadar iyi' anlamına gelir. Tedaviye erken başlamak iyileşme şansını artırır.",
+    "rule_tr": "the sooner, the better = ne kadar erken olursa o kadar iyi",
+    "tip_tr": "'The sooner, the better' kalıp ifadedir. Sınavda sıkça çıkar!",
+    "extra_example": "The sooner you see a doctor, the better. (Ne kadar erken doktora gidersen o kadar iyi.)"
+  },
+  {
+    "id": "comparatives-013",
+    "topic": "comparatives",
+    "subtopic": "less-fewer",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "There are _____ patients in the clinic today compared to yesterday.",
+    "options": [
+      {"key": "A", "text": "less"},
+      {"key": "B", "text": "fewer"},
+      {"key": "C", "text": "lesser"},
+      {"key": "D", "text": "little"},
+      {"key": "E", "text": "the least"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Patients' sayılabilir çoğul isimdir. Sayılabilir isimlerle 'fewer' kullanılır. 'Less' sayılamayan isimlerle kullanılır.",
+    "rule_tr": "fewer + sayılabilir çoğul / less + sayılamayan",
+    "tip_tr": "Patients, people, hours, days → fewer. Money, time, water → less.",
+    "extra_example": "Fewer people visited the hospital during the holiday. (Tatil süresince daha az kişi hastaneye gitti.)"
+  },
+  {
+    "id": "comparatives-014",
+    "topic": "comparatives",
+    "subtopic": "less-fewer",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "You should eat _____ sugar to protect your teeth.",
+    "options": [
+      {"key": "A", "text": "fewer"},
+      {"key": "B", "text": "less"},
+      {"key": "C", "text": "lesser"},
+      {"key": "D", "text": "little"},
+      {"key": "E", "text": "the fewest"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Sugar' sayılamayan bir isimdir. Sayılamayan isimlerle 'less' kullanılır. 'Fewer' YANLIŞTIR.",
+    "rule_tr": "less + uncountable noun (sayılamayan isim)",
+    "tip_tr": "Sugar, salt, fat, stress → hepsi sayılamaz → 'less' kullan.",
+    "extra_example": "Doctors recommend eating less salt for lower blood pressure. (Doktorlar düşük tansiyon için daha az tuz yemeyi önerir.)"
+  },
+  {
+    "id": "comparatives-015",
+    "topic": "comparatives",
+    "subtopic": "not-as-as",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Herbal remedies are _____ conventional medicine in treating serious diseases.",
+    "options": [
+      {"key": "A", "text": "not as effective as"},
+      {"key": "B", "text": "not effective than"},
+      {"key": "C", "text": "not more effective"},
+      {"key": "D", "text": "less effective"},
+      {"key": "E", "text": "the least effective"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Not as...as' yapısı eşitsizliği yumuşak bir şekilde ifade eder. Bitkisel ilaçlar ciddi hastalıkların tedavisinde geleneksel tıp kadar etkili değildir.",
+    "rule_tr": "not as + adjective + as = ... kadar ... değil",
+    "tip_tr": "D şıkkı ('less effective') de anlam olarak doğru ama soru 'not as...as' yapısını test ediyor.",
+    "extra_example": "Home treatment is not as reliable as hospital care. (Evde tedavi hastane bakımı kadar güvenilir değil.)"
+  },
+  {
+    "id": "comparatives-016",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The situation is getting _____ every day; we need more medical supplies.",
+    "options": [
+      {"key": "A", "text": "worse and worse"},
+      {"key": "B", "text": "worst and worst"},
+      {"key": "C", "text": "bad and bad"},
+      {"key": "D", "text": "more worse"},
+      {"key": "E", "text": "the worst"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Comparative + and + comparative' yapısı giderek artan bir değişimi gösterir. Durum her gün daha da kötüleşiyor.",
+    "rule_tr": "comparative + and + comparative = giderek daha ... (gradual increase)",
+    "tip_tr": "bigger and bigger, more and more expensive, worse and worse → sürekli değişim kalıbı.",
+    "extra_example": "The patient's condition is getting better and better. (Hastanın durumu giderek iyileşiyor.)"
+  },
+  {
+    "id": "comparatives-017",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Of all the treatments available, surgery is _____ option.",
+    "options": [
+      {"key": "A", "text": "the more risky"},
+      {"key": "B", "text": "the riskiest"},
+      {"key": "C", "text": "riskier"},
+      {"key": "D", "text": "more risky than"},
+      {"key": "E", "text": "most risky"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Of all' ifadesi superlative kullanılacağını gösterir. 'Risky' → 'the riskiest' (y → i + est).",
+    "rule_tr": "Of all + the + superlative = hepsinin içinde en ...",
+    "tip_tr": "'Of all', 'in the world', 'ever' gibi ifadeler superlative işaretidir!",
+    "extra_example": "Of all the nurses, she is the most experienced. (Tüm hemşireler arasında en deneyimlisi o.)"
+  },
+  {
+    "id": "comparatives-018",
+    "topic": "comparatives",
+    "subtopic": "as-as",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The new hospital is three times _____ the old one.",
+    "options": [
+      {"key": "A", "text": "bigger than"},
+      {"key": "B", "text": "as big as"},
+      {"key": "C", "text": "the biggest"},
+      {"key": "D", "text": "more big than"},
+      {"key": "E", "text": "so big as"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Kat karşılaştırmasında 'X times as...as' yapısı kullanılır. Yeni hastane eskisinin üç katı büyüklüğünde.",
+    "rule_tr": "X times as + adjective + as = ... katı kadar (multiplier comparison)",
+    "tip_tr": "twice/three times/four times + as...as = 2/3/4 katı kadar. Çok sık çıkan yapı!",
+    "extra_example": "This medicine is twice as expensive as the generic version. (Bu ilaç jenerik versiyonun iki katı pahalı.)"
+  },
+  {
+    "id": "comparatives-019",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient looked slightly _____ after the second dose of antibiotics.",
+    "options": [
+      {"key": "A", "text": "more better"},
+      {"key": "B", "text": "better"},
+      {"key": "C", "text": "the best"},
+      {"key": "D", "text": "good"},
+      {"key": "E", "text": "well"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Slightly' karşılaştırmayı yumuşatan bir zarftır ve comparative ile kullanılır. 'Better' zaten comparative olduğu için 'more' GEREKMEZ.",
+    "rule_tr": "slightly/a bit/a little + comparative = biraz daha ...",
+    "tip_tr": "slightly, a bit, a little → hafif karşılaştırma. much, far, a lot → güçlü karşılaştırma.",
+    "extra_example": "The wound looks slightly better today. (Yara bugün biraz daha iyi görünüyor.)"
+  },
+  {
+    "id": "comparatives-020",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Prevention is _____ approach to maintaining public health.",
+    "options": [
+      {"key": "A", "text": "the more important"},
+      {"key": "B", "text": "the importantest"},
+      {"key": "C", "text": "the most important"},
+      {"key": "D", "text": "more important"},
+      {"key": "E", "text": "most important than"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Important' çok heceli sıfattır. Superlative formu 'the most important' şeklinde yapılır.",
+    "rule_tr": "the most + çok heceli sıfat = superlative (en üstünlük)",
+    "tip_tr": "3+ heceli sıfatlarda HER ZAMAN 'the most' kullan. '-est' ekleme!",
+    "extra_example": "Hygiene is the most important factor in preventing infections. (Hijyen enfeksiyonları önlemede en önemli faktördür.)"
+  },
+  {
+    "id": "comparatives-021",
+    "topic": "comparatives",
+    "subtopic": "double-comparative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ the diagnosis is delayed, _____ the prognosis becomes.",
+    "options": [
+      {"key": "A", "text": "The longer / the worse"},
+      {"key": "B", "text": "The longest / the worst"},
+      {"key": "C", "text": "Longer / worse"},
+      {"key": "D", "text": "The more long / the more bad"},
+      {"key": "E", "text": "The more longer / the more worse"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'The longer...the worse' yapısında iki comparative paralel olarak artışı gösterir. Teşhis ne kadar gecikirse, prognoz o kadar kötüleşir.",
+    "rule_tr": "The + comparative, the + comparative = paralel değişim",
+    "tip_tr": "long → longer (düzenli), bad → worse (düzensiz). İkisini de doğru kullan!",
+    "extra_example": "The longer you wait, the harder the treatment becomes. (Ne kadar beklerseniz tedavi o kadar zorlaşır.)"
+  },
+  {
+    "id": "comparatives-022",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The side effects of this drug are considerably _____ those of the previous version.",
+    "options": [
+      {"key": "A", "text": "milder than"},
+      {"key": "B", "text": "the mildest"},
+      {"key": "C", "text": "as mild as"},
+      {"key": "D", "text": "more milder than"},
+      {"key": "E", "text": "mild than"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Considerably' güçlü bir karşılaştırma zarfıdır ve comparative ile kullanılır. 'Mild' → 'milder'. 'More milder' çift karşılaştırma olur, YANLIŞTIR.",
+    "rule_tr": "considerably/significantly/substantially + comparative = önemli ölçüde daha ...",
+    "tip_tr": "Akademik İngilizce'de 'considerably, significantly, substantially' sıkça comparative ile kullanılır.",
+    "extra_example": "The new vaccine is significantly safer than the earlier version. (Yeni aşı önceki versiyondan önemli ölçüde daha güvenli.)"
+  },
+  {
+    "id": "comparatives-023",
+    "topic": "comparatives",
+    "subtopic": "not-as-as",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The mortality rate in developed countries is _____ in developing nations.",
+    "options": [
+      {"key": "A", "text": "not nearly as high as"},
+      {"key": "B", "text": "not high than"},
+      {"key": "C", "text": "the highest"},
+      {"key": "D", "text": "higher"},
+      {"key": "E", "text": "not so higher as"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Not nearly as...as' yapısı büyük bir farkla eşit olmadığını vurgular. Gelişmiş ülkelerde ölüm oranı gelişmekte olan ülkelerdeki kadar yüksek olmaktan çok uzak.",
+    "rule_tr": "not nearly as...as = ... kadar bile değil, çok uzak (big difference)",
+    "tip_tr": "'Not nearly as...as' büyük fark vurgular. 'Not quite as...as' küçük fark vurgular.",
+    "extra_example": "The flu is not nearly as dangerous as COVID-19. (Grip, COVID-19 kadar tehlikeli olmaktan çok uzak.)"
+  },
+  {
+    "id": "comparatives-024",
+    "topic": "comparatives",
+    "subtopic": "less-fewer",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "With improved hygiene practices, there have been _____ outbreaks of infectious diseases.",
+    "options": [
+      {"key": "A", "text": "less"},
+      {"key": "B", "text": "fewer"},
+      {"key": "C", "text": "the least"},
+      {"key": "D", "text": "the fewest"},
+      {"key": "E", "text": "lesser"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Outbreaks' sayılabilir çoğul isimdir. Sayılabilir çoğul isimlerle 'fewer' kullanılır.",
+    "rule_tr": "fewer + countable plural / less + uncountable",
+    "tip_tr": "Sınavda 'less/fewer' ayrımı çok sık sorulur. İsmin sayılabilir olup olmadığına bak!",
+    "extra_example": "Fewer hospitals were affected by the budget cuts this year. (Bu yıl bütçe kesintilerinden daha az hastane etkilendi.)"
+  },
+  {
+    "id": "comparatives-025",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new surgical technique is far _____ the traditional method in terms of recovery time.",
+    "options": [
+      {"key": "A", "text": "more superior to"},
+      {"key": "B", "text": "superior to"},
+      {"key": "C", "text": "more superior than"},
+      {"key": "D", "text": "the most superior"},
+      {"key": "E", "text": "superior than"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Superior' zaten karşılaştırma anlamı taşır ve 'more' ALMAZ. Ayrıca 'than' değil 'to' ile kullanılır.",
+    "rule_tr": "superior/inferior/senior/junior + TO (than değil!)",
+    "tip_tr": "superior to, inferior to, senior to, junior to → 'than' kullanma, 'to' kullan!",
+    "extra_example": "This treatment is superior to the conventional approach. (Bu tedavi geleneksel yaklaşımdan üstündür.)"
+  },
+  {
+    "id": "comparatives-026",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "This is by far _____ medical breakthrough of the decade.",
+    "options": [
+      {"key": "A", "text": "the more significant"},
+      {"key": "B", "text": "the most significant"},
+      {"key": "C", "text": "more significant"},
+      {"key": "D", "text": "most significant"},
+      {"key": "E", "text": "the significantest"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'By far' superlative'i güçlendiren bir ifadedir. 'Of the decade' dönem belirtir ve superlative gerektirir.",
+    "rule_tr": "by far + the + superlative = açık ara en ...",
+    "tip_tr": "'By far' = açık ara. Superlative'i güçlendirmek için kullanılır. Comparative ile KULLANILMAZ.",
+    "extra_example": "This is by far the best hospital in the country. (Burası açık ara ülkedeki en iyi hastane.)"
+  },
+  {
+    "id": "comparatives-027",
+    "topic": "comparatives",
+    "subtopic": "double-comparative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ advanced the technology becomes, _____ accurate the diagnosis will be.",
+    "options": [
+      {"key": "A", "text": "The more / the more"},
+      {"key": "B", "text": "More / more"},
+      {"key": "C", "text": "The most / the most"},
+      {"key": "D", "text": "The more / more"},
+      {"key": "E", "text": "Most / most"}
+    ],
+    "answer": "A",
+    "explanation_tr": "İki cümlecik de 'the + comparative' yapısındadır. Teknoloji ne kadar gelişirse, teşhis o kadar doğru olur.",
+    "rule_tr": "The more + adjective + S + V, the more + adjective + S + V",
+    "tip_tr": "İki tarafta da 'the + more/comparative' olmalı. 'The' ihmal edilmemeli!",
+    "extra_example": "The more experienced the surgeon, the more successful the operation. (Cerrah ne kadar deneyimli olursa, ameliyat o kadar başarılı olur.)"
+  },
+  {
+    "id": "comparatives-028",
+    "topic": "comparatives",
+    "subtopic": "as-as",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient recovered _____ the doctors had predicted, which surprised everyone.",
+    "options": [
+      {"key": "A", "text": "as quickly as"},
+      {"key": "B", "text": "quicker than"},
+      {"key": "C", "text": "the quickest"},
+      {"key": "D", "text": "more quickly"},
+      {"key": "E", "text": "so quickly as"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Cümle hastanın doktorların tahmin ettiği kadar hızlı iyileştiğini söylüyor. 'As quickly as' zarf eşitlik yapısıdır.",
+    "rule_tr": "as + adverb + as = ... kadar ... bir şekilde (zarf eşitlik)",
+    "tip_tr": "'As...as' yapısı sadece sıfatlarla değil, zarflarla da kullanılır: as quickly as, as carefully as.",
+    "extra_example": "The nurse responded as efficiently as possible. (Hemşire mümkün olduğunca verimli yanıt verdi.)"
+  },
+  {
+    "id": "comparatives-029",
+    "topic": "comparatives",
+    "subtopic": "comparative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The older population is _____ vulnerable to respiratory diseases than younger adults.",
+    "options": [
+      {"key": "A", "text": "much more"},
+      {"key": "B", "text": "much"},
+      {"key": "C", "text": "the most"},
+      {"key": "D", "text": "very more"},
+      {"key": "E", "text": "too more"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Much more + adjective + than' yapısı güçlendirilmiş karşılaştırmadır. 'Very more' ve 'too more' YANLIŞTIR. 'Very' comparative ile KULLANILMAZ.",
+    "rule_tr": "much/far/a lot + more + sıfat + than (VERY + comparative YANLIŞ!)",
+    "tip_tr": "Comparative'i güçlendiren: much, far, a lot, considerably. 'Very' KULLANILMAZ!",
+    "extra_example": "Elderly patients are far more susceptible to infections. (Yaşlı hastalar enfeksiyonlara çok daha yatkındır.)"
+  },
+  {
+    "id": "comparatives-030",
+    "topic": "comparatives",
+    "subtopic": "superlative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Among all the candidates, Dr. Smith is _____ qualified for the position of chief surgeon.",
+    "options": [
+      {"key": "A", "text": "the less"},
+      {"key": "B", "text": "the least"},
+      {"key": "C", "text": "less"},
+      {"key": "D", "text": "the more"},
+      {"key": "E", "text": "fewer"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Among all' ifadesi superlative gerektirir. 'The least qualified' = en az nitelikli. 'Less' comparative'dir, burada superlative gerekiyor.",
+    "rule_tr": "the least + adjective = en az ... (negative superlative)",
+    "tip_tr": "'The most' = en çok, 'the least' = en az. İkisi de superlative!",
+    "extra_example": "This is the least invasive surgical procedure available. (Bu mevcut en az invaziv cerrahi prosedürdür.)"
+  }
+]

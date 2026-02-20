@@ -1,0 +1,50 @@
+{
+  "topic": "comparatives",
+  "title": "Karsilastirmalar (Comparatives & Superlatives)",
+  "description_tr": "Ingilizce'de iki seyi karsilastirmak icin comparative (karsilastirma), ucten fazla sey arasinda en usttekini belirtmek icin superlative (ustunluk) yapilari kullanilir. Ayrica 'as...as' (esitlik), 'the more...the more' (paralel artis) gibi ozel yapilar da bu konunun parcasidir. Saglik alaninda ilac dozajlari, tedavi karsilastirmalari ve hasta durumlari icin cok kullanilir.",
+  "formula": "Kisa sifat: -er/the -est (taller/the tallest) | Uzun sifat: more/the most + adj (more effective/the most effective) | Esitlik: as + adj + as | Paralel: the + comparative, the + comparative",
+  "signals": ["than", "the most", "the least", "as...as", "the -er...the -er", "much/far/even + comparative", "by far the", "one of the"],
+  "turkish_logic": "Turkce'de 'daha buyuk' (comparative) ve 'en buyuk' (superlative) dersin. Ingilizce'de kisa sifatlara -er/-est eklenir, uzun sifatlarin onune more/most gelir. Dikkat: Turkce'de hep ayni yapi ama Ingilizce'de kisa/uzun sifat ayrimi var.",
+  "key_rules": [
+    "KISA SIFATLAR (1 heceli): -er (comparative), the -est (superlative). tall → taller → the tallest. Sessiz harf ciftlenir: big → bigger → the biggest. -e ile biten: -r/-st eklenir: safe → safer → the safest",
+    "UZUN SIFATLAR (2+ heceli): more + adj (comparative), the most + adj (superlative). effective → more effective → the most effective. ISTISNA: 2 heceli -y ile bitenler kisa gibi davranir: healthy → healthier → the healthiest",
+    "DUZENSIZ (Irregular): good → better → the best. bad → worse → the worst. far → farther/further → the farthest/furthest. little → less → the least. much/many → more → the most",
+    "ESITLIK (as...as): 'as tall as' = kadar uzun. Olumsuz: 'not as/so tall as' = kadar uzun degil. Isim ile: 'as much water as' (sayilamaz), 'as many pills as' (sayilabilir)",
+    "PARALEL ARTIS (the more...the more): 'The more you exercise, the healthier you become.' = Ne kadar cok egzersiz yaparsan, o kadar saglikli olursun.",
+    "KARSILASTIRMA GUCLENDIRME: much/far/even/a lot + comparative: 'This treatment is far more effective than the old one.' ASLA: more better, more worse (cift karsilastirma YANLIS)",
+    "SUPERLATIVE KALIPLARI: one of the + superlative + cogul isim: 'one of the best hospitals in Turkey'. by far the + superlative: 'by far the worst epidemic'"
+  ],
+  "examples": [
+    {
+      "en": "This antibiotic is more effective than the previous one.",
+      "tr": "Bu antibiyotik oncekinden daha etkili.",
+      "why": "'effective' uzun sifat (3 hece) → more effective. Karsilastirma → than."
+    },
+    {
+      "en": "She is the best surgeon in the department.",
+      "tr": "Bolumun en iyi cerrahidir.",
+      "why": "'good' duzensiz → best. Superlative → the best. Grup icinde en ust → in the department."
+    },
+    {
+      "en": "The patient is not as strong as he was before the illness.",
+      "tr": "Hasta hastaliktan onceki kadar guclu degil.",
+      "why": "Olumsuz esitlik: 'not as strong as' = kadar guclu degil."
+    },
+    {
+      "en": "The more water you drink, the faster you will recover.",
+      "tr": "Ne kadar cok su icersen, o kadar hizli iyilesirsin.",
+      "why": "Paralel artis yapisi: 'the more...the faster'. Her iki tarafta comparative kullanilir."
+    },
+    {
+      "en": "COVID-19 was by far the worst pandemic of the 21st century.",
+      "tr": "COVID-19, 21. yuzyilin acik arayla en kotu pandemisiydi.",
+      "why": "'bad' duzensiz → worst. 'by far' guclendirme. Superlative + of the + zaman dilimi."
+    }
+  ],
+  "tips": [
+    "HECE SAYMA: 1 heceli → -er/-est. 2 heceli ve -y ile biten → -ier/-iest. 2+ heceli digerleri → more/most. Bu kural sorularin %90'ini cozer.",
+    "CIFT KARSILASTIRMA TUZAGI: 'more better', 'most tallest' YANLISTIR. Sinavda seceneklerde bu tuzak cikar — hemen ele.",
+    "THAN vs AS...AS: 'than' gordugunde comparative olmali. 'as...as' gordugunde sifatin NORMAL hali olmali (as tall as, ASLA: as taller as).",
+    "DUZENSIZLERI EZBERLE: good-better-best, bad-worse-worst, far-farther-farthest, little-less-least, much/many-more-most. Bu 5 aile sinavda kesin cikar."
+  ]
+}

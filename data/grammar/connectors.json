@@ -1,0 +1,602 @@
+[
+  {
+    "id": "connectors-001",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient felt tired, _____ she continued her exercises.",
+    "options": [
+      {"key": "A", "text": "because"},
+      {"key": "B", "text": "but"},
+      {"key": "C", "text": "so"},
+      {"key": "D", "text": "and"},
+      {"key": "E", "text": "or"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'But' zitlik (contrast) baglaci olarak kullanilir. Hasta yorgun hissetmesine ragmen egzersizlere devam etmis — iki cumle arasinda zitlik var.",
+    "rule_tr": "Zitlik = but, however, although. Iki cumle birbirine zit anlam tasiyorsa 'but' kullanilir.",
+    "tip_tr": "Iki cumle arasinda beklenmedik bir durum varsa zitlik baglaci ara.",
+    "extra_example": "He was sick, but he went to work. (Hastaydı ama ise gitti.)"
+  },
+  {
+    "id": "connectors-002",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "_____ it was raining, the nurse walked to the hospital.",
+    "options": [
+      {"key": "A", "text": "Although"},
+      {"key": "B", "text": "Because"},
+      {"key": "C", "text": "So"},
+      {"key": "D", "text": "Therefore"},
+      {"key": "E", "text": "Moreover"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Although' (ragmen) zitlik baglaci olarak cumlenin basinda kullanilabilir. Yagmur yagmasina ragmen hemshire hastaneye yurumus.",
+    "rule_tr": "Although + cumle, ana cumle. 'Although' zitlik bildiren yan cumle baslangicidir.",
+    "tip_tr": "'Although' cumle basinda gelir ve virgulden sonra ana cumle gelir.",
+    "extra_example": "Although she was nervous, she passed the exam. (Gergindi ama sinavi gecti.)"
+  },
+  {
+    "id": "connectors-003",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He didn't take his medicine, _____ he felt worse.",
+    "options": [
+      {"key": "A", "text": "although"},
+      {"key": "B", "text": "but"},
+      {"key": "C", "text": "so"},
+      {"key": "D", "text": "despite"},
+      {"key": "E", "text": "unless"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'So' sebep-sonuc baglaci olarak kullanilir. Ilacini almadi, bu yuzden kendini daha kotu hissetti.",
+    "rule_tr": "Sebep + so + sonuc. 'So' bir sonucu ifade eder.",
+    "tip_tr": "Ilk cumle sebep, ikinci cumle sonuc ise 'so' kullan.",
+    "extra_example": "She studied hard, so she got a high score. (Cok calisti, bu yuzden yuksek puan aldi.)"
+  },
+  {
+    "id": "connectors-004",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor recommended rest _____ the patient had a high fever.",
+    "options": [
+      {"key": "A", "text": "but"},
+      {"key": "B", "text": "although"},
+      {"key": "C", "text": "because"},
+      {"key": "D", "text": "however"},
+      {"key": "E", "text": "despite"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Because' sebep bildiren baglactir. Doktor dinlenme onerdi cunku hastanin yuksek atesi vardi.",
+    "rule_tr": "Sonuc + because + sebep. 'Because' neden/sebep ifade eder.",
+    "tip_tr": "'Because' sorusu 'Why?' dir. Neden sorusuna cevap veren cumlelerde 'because' kullan.",
+    "extra_example": "She went to the hospital because she had a headache. (Basi agridigi icin hastaneye gitti.)"
+  },
+  {
+    "id": "connectors-005",
+    "topic": "connectors",
+    "subtopic": "addition",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The clinic offers dental care. _____, it provides eye exams.",
+    "options": [
+      {"key": "A", "text": "However"},
+      {"key": "B", "text": "Although"},
+      {"key": "C", "text": "But"},
+      {"key": "D", "text": "Also"},
+      {"key": "E", "text": "Because"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Also' ekleme (addition) baglaci olarak kullanilir. Klinik dis bakimi sunuyor, ayrica goz muayenesi de yapiyor.",
+    "rule_tr": "Ekleme = also, too, and. Bir bilgiye yeni bilgi eklemek icin kullanilir.",
+    "tip_tr": "'Also' cumlenin basinda veya fiilden once kullanilabilir.",
+    "extra_example": "He speaks English. He also speaks French. (Ingilizce konusuyor. Ayrica Fransizca da konusuyor.)"
+  },
+  {
+    "id": "connectors-006",
+    "topic": "connectors",
+    "subtopic": "purpose",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She went to the pharmacy _____ buy some vitamins.",
+    "options": [
+      {"key": "A", "text": "for"},
+      {"key": "B", "text": "to"},
+      {"key": "C", "text": "so"},
+      {"key": "D", "text": "because"},
+      {"key": "E", "text": "although"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'To' amac bildirmek icin kullanilir. Eczaneye vitamin almak icin (amac) gitti.",
+    "rule_tr": "Amac = to + fiil. Bir eylemi neden yaptigimizi anlatir.",
+    "tip_tr": "'Why did she go?' sorusunun cevabi amactir. 'to + fiil' en basit amac yapidir.",
+    "extra_example": "He called the doctor to make an appointment. (Randevu almak icin doktoru aradi.)"
+  },
+  {
+    "id": "connectors-007",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The surgery was successful, _____ the recovery took a long time.",
+    "options": [
+      {"key": "A", "text": "because"},
+      {"key": "B", "text": "so"},
+      {"key": "C", "text": "and"},
+      {"key": "D", "text": "but"},
+      {"key": "E", "text": "or"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Ameliyat basarili olmasina ragmen iyilesme uzun surmus. Iki cumle arasinda zitlik var, bu yuzden 'but' kullanilir.",
+    "rule_tr": "Olumlu durum + but + olumsuz durum = zitlik.",
+    "tip_tr": "Iki cumle beklentinin aksini soyluyorsa 'but' kullan.",
+    "extra_example": "The medicine was expensive, but it was very effective. (Ilac pahaliydi ama cok etkiliydi.)"
+  },
+  {
+    "id": "connectors-008",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She was allergic to penicillin, _____ the doctor prescribed a different antibiotic.",
+    "options": [
+      {"key": "A", "text": "although"},
+      {"key": "B", "text": "but"},
+      {"key": "C", "text": "despite"},
+      {"key": "D", "text": "so"},
+      {"key": "E", "text": "however"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Penisiline alerjisi vardi, bu yuzden doktor farkli bir antibiyotik yazdi. Sebep-sonuc iliskisi var.",
+    "rule_tr": "Sebep + so + sonuc. Ilk cumle neden, ikinci cumle sonuc.",
+    "tip_tr": "Birinci cumle bir problem, ikincisi cozum ise 'so' dogru cevaptir.",
+    "extra_example": "The patient was in pain, so the nurse gave him painkillers. (Hasta agrisi vardi, bu yuzden hemsire agrı kesici verdi.)"
+  },
+  {
+    "id": "connectors-009",
+    "topic": "connectors",
+    "subtopic": "addition",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Wash your hands regularly _____ wear a mask in crowded places.",
+    "options": [
+      {"key": "A", "text": "but"},
+      {"key": "B", "text": "or"},
+      {"key": "C", "text": "and"},
+      {"key": "D", "text": "so"},
+      {"key": "E", "text": "although"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'And' ekleme baglaci olarak iki paralel tavsiyeyi birbirine baglar. Ellerinizi yikayin VE maske takin.",
+    "rule_tr": "Ekleme = and. Iki esit yapıyı birlestirir.",
+    "tip_tr": "Iki tavsiye/eylem yan yana geliyorsa 'and' kullan.",
+    "extra_example": "Eat healthy and exercise regularly. (Saglikli beslen ve duzenli egzersiz yap.)"
+  },
+  {
+    "id": "connectors-010",
+    "topic": "connectors",
+    "subtopic": "condition",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You will recover quickly _____ you take your medicine regularly.",
+    "options": [
+      {"key": "A", "text": "although"},
+      {"key": "B", "text": "because"},
+      {"key": "C", "text": "but"},
+      {"key": "D", "text": "if"},
+      {"key": "E", "text": "so"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'If' kosul baglaci olarak kullanilir. Ilacini duzenli alirsan (kosul) cabuk iyilesirsin (sonuc).",
+    "rule_tr": "If + kosul, sonuc. Bir seyin gerceklesmesi baska bir seye bagliysa 'if' kullanilir.",
+    "tip_tr": "'If' cumleleri her zaman bir kosul icerir. Kosul varsa 'if' ara.",
+    "extra_example": "If you eat well, you will feel better. (Iyi beslenirsen, daha iyi hissedersin.)"
+  },
+  {
+    "id": "connectors-011",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ the high cost of the treatment, many patients chose to proceed.",
+    "options": [
+      {"key": "A", "text": "Although"},
+      {"key": "B", "text": "Because of"},
+      {"key": "C", "text": "Despite"},
+      {"key": "D", "text": "However"},
+      {"key": "E", "text": "Moreover"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Despite' (ragmen) isim veya isim grubu ile kullanilir. Tedavinin yuksek maliyetine ragmen hastalar devam etmeyi secti.",
+    "rule_tr": "Despite + isim/isim grubu. 'Despite' ten sonra cumle degil, isim gelir.",
+    "tip_tr": "'Despite' ile 'although' karistirma: despite + isim, although + cumle.",
+    "extra_example": "Despite the pain, she smiled. (Agriya ragmen guldu.)"
+  },
+  {
+    "id": "connectors-012",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The new drug is effective; _____, it has some side effects.",
+    "options": [
+      {"key": "A", "text": "therefore"},
+      {"key": "B", "text": "moreover"},
+      {"key": "C", "text": "however"},
+      {"key": "D", "text": "furthermore"},
+      {"key": "E", "text": "consequently"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'However' (ancak/bununla birlikte) zitlik baglaci olarak iki bagimsiz cumle arasinda kullanilir. Ilac etkili; ancak bazi yan etkileri var.",
+    "rule_tr": "Cumle1; however, cumle2. 'However' noktali virgul veya nokta sonrasi gelir.",
+    "tip_tr": "'However' formal metinlerde 'but' yerine kullanilir. Sinavda noktalama isaretlerine dikkat et.",
+    "extra_example": "The operation was risky; however, the surgeon was confident. (Operasyon riskliydi; ancak cerrah guvenli hissediyordu.)"
+  },
+  {
+    "id": "connectors-013",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient didn't follow the doctor's advice. _____, her condition worsened.",
+    "options": [
+      {"key": "A", "text": "Although"},
+      {"key": "B", "text": "However"},
+      {"key": "C", "text": "Despite"},
+      {"key": "D", "text": "As a result"},
+      {"key": "E", "text": "In spite of"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'As a result' (sonuc olarak) sebep-sonuc baglaci olarak kullanilir. Doktorun tavsiyesine uymadi, sonuc olarak durumu kotulesdi.",
+    "rule_tr": "Sebep. As a result, sonuc. Formal sebep-sonuc iliskisi ifade eder.",
+    "tip_tr": "'As a result' = 'so' nun formal halidir. Sinavlarda daha cok tercih edilir.",
+    "extra_example": "He smoked for years. As a result, he developed lung problems. (Yillarca sigara icti. Sonuc olarak akciger sorunlari gelisti.)"
+  },
+  {
+    "id": "connectors-014",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ the shortage of nurses, the hospital had to close one ward.",
+    "options": [
+      {"key": "A", "text": "Although"},
+      {"key": "B", "text": "Despite"},
+      {"key": "C", "text": "Due to"},
+      {"key": "D", "text": "However"},
+      {"key": "E", "text": "In addition to"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Due to' (nedeniyle) sebep bildiren bir ifadedir ve isim/isim grubu ile kullanilir. Hemsire eksikligi nedeniyle hastane bir servisi kapatmak zorunda kaldi.",
+    "rule_tr": "Due to + isim = ... nedeniyle. Sebep bildirmek icin kullanilir.",
+    "tip_tr": "'Due to' ile 'because of' ayni anlama gelir. Ikisi de isimle kullanilir.",
+    "extra_example": "Due to the epidemic, schools were closed. (Salgın nedeniyle okullar kapandi.)"
+  },
+  {
+    "id": "connectors-015",
+    "topic": "connectors",
+    "subtopic": "addition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Regular exercise improves heart health. _____, it reduces stress levels.",
+    "options": [
+      {"key": "A", "text": "However"},
+      {"key": "B", "text": "Nevertheless"},
+      {"key": "C", "text": "On the other hand"},
+      {"key": "D", "text": "Furthermore"},
+      {"key": "E", "text": "In contrast"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Furthermore' (ayrica/bunun yani sira) ekleme baglaci olarak kullanilir. Egzersiz kalp sagligini iyilestirir, ayrica stres seviyelerini azaltir.",
+    "rule_tr": "Cumle1. Furthermore, cumle2. Ilk bilgiye ek bilgi ekler.",
+    "tip_tr": "'Furthermore' = 'also' nun formal hali. Akademik metinlerde tercih edilir.",
+    "extra_example": "The drug is affordable. Furthermore, it has no side effects. (Ilac uygun fiyatli. Ayrica yan etkisi yok.)"
+  },
+  {
+    "id": "connectors-016",
+    "topic": "connectors",
+    "subtopic": "addition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ providing free checkups, the clinic also offers vaccination services.",
+    "options": [
+      {"key": "A", "text": "Despite"},
+      {"key": "B", "text": "In addition to"},
+      {"key": "C", "text": "Although"},
+      {"key": "D", "text": "However"},
+      {"key": "E", "text": "Because of"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'In addition to' (ek olarak) ekleme ifadesi olarak isim/gerund ile kullanilir. Ucretsiz muayeneye ek olarak klinik asi hizmeti de sunuyor.",
+    "rule_tr": "In addition to + isim/V-ing, cumle. Mevcut bilgiye ek bilgi ekler.",
+    "tip_tr": "'In addition to' dan sonra isim veya -ing gelir, cumle gelmez.",
+    "extra_example": "In addition to English, she speaks German. (Ingilizcenin yani sira Almanca da konusuyor.)"
+  },
+  {
+    "id": "connectors-017",
+    "topic": "connectors",
+    "subtopic": "purpose",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital hired more staff _____ reduce waiting times.",
+    "options": [
+      {"key": "A", "text": "so that"},
+      {"key": "B", "text": "in order to"},
+      {"key": "C", "text": "because"},
+      {"key": "D", "text": "although"},
+      {"key": "E", "text": "despite"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'In order to' amac bildirmek icin kullanilir ve ardindan fiil gelir. Hastane bekleme surelerini azaltmak icin daha fazla personel aldi.",
+    "rule_tr": "In order to + fiil = ... amacıyla. Formal amac ifadesidir.",
+    "tip_tr": "'In order to' = 'to' nun formal hali. Sinavlarda ikisi de gecerli olabilir.",
+    "extra_example": "She studied medicine in order to help people. (Insanlara yardim etmek icin tip okudu.)"
+  },
+  {
+    "id": "connectors-018",
+    "topic": "connectors",
+    "subtopic": "purpose",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor spoke slowly _____ the elderly patient could understand.",
+    "options": [
+      {"key": "A", "text": "in order to"},
+      {"key": "B", "text": "because"},
+      {"key": "C", "text": "so that"},
+      {"key": "D", "text": "although"},
+      {"key": "E", "text": "despite"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'So that' amac bildirmek icin kullanilir ve ardindan ozne + fiil (cumle) gelir. Doktor yavas konustu ki yasli hasta anlayabilsin.",
+    "rule_tr": "So that + ozne + fiil. Amac cumle olarak ifade ediliyorsa 'so that' kullanilir.",
+    "tip_tr": "'In order to' dan sonra fiil, 'so that' dan sonra cumle gelir. Bu farki bilin.",
+    "extra_example": "He set an alarm so that he wouldn't miss the appointment. (Randevuyu kacirmamak icin alarm kurdu.)"
+  },
+  {
+    "id": "connectors-019",
+    "topic": "connectors",
+    "subtopic": "condition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "You can leave the hospital _____ the doctor approves your discharge.",
+    "options": [
+      {"key": "A", "text": "although"},
+      {"key": "B", "text": "despite"},
+      {"key": "C", "text": "provided that"},
+      {"key": "D", "text": "in spite of"},
+      {"key": "E", "text": "however"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Provided that' (sart ki, -digi takdirde) kosul baglaci olarak kullanilir. Doktor taburculugunuzu onayladigi takdirde hastaneden ayrilabilirsiniz.",
+    "rule_tr": "Provided that + kosul = ... -digi takdirde. 'If' in formal halidir.",
+    "tip_tr": "'Provided that' = resmi 'if'. Tip/hukuk metinlerinde sik gecen bir yapı.",
+    "extra_example": "You can travel provided that you get vaccinated. (Asi yaptirdiginiz takdirde seyahat edebilirsiniz.)"
+  },
+  {
+    "id": "connectors-020",
+    "topic": "connectors",
+    "subtopic": "condition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The treatment will be effective _____ you stop smoking.",
+    "options": [
+      {"key": "A", "text": "as long as"},
+      {"key": "B", "text": "despite"},
+      {"key": "C", "text": "although"},
+      {"key": "D", "text": "in addition"},
+      {"key": "E", "text": "moreover"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'As long as' (... oldugu surece) kosul baglaci olarak kullanilir. Sigara icmeyi biraktiginiz surece tedavi etkili olacaktir.",
+    "rule_tr": "As long as + kosul = ... oldugu surece. Devam eden bir kosulu ifade eder.",
+    "tip_tr": "'As long as' kosulun suresini vurgular. 'If' den farki: kosulun devam etmesi gerekiyor.",
+    "extra_example": "You can stay here as long as you are quiet. (Sessiz oldugun surece burada kalabilirsin.)"
+  },
+  {
+    "id": "connectors-021",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ the fact that the vaccine was developed quickly, it proved to be highly effective.",
+    "options": [
+      {"key": "A", "text": "Because of"},
+      {"key": "B", "text": "Due to"},
+      {"key": "C", "text": "In spite of"},
+      {"key": "D", "text": "As a result of"},
+      {"key": "E", "text": "In addition to"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'In spite of' (ragmen) zitlik ifadesidir. Asinin hizla gelistirilmesine ragmen oldukca etkili oldugu kanitlandi.",
+    "rule_tr": "In spite of + the fact that + cumle = ... ragmen. 'Despite' ile es anlamli.",
+    "tip_tr": "'In spite of the fact that' = 'although'. Farkli yapilar ayni anlami verebilir.",
+    "extra_example": "In spite of the warnings, he refused to wear a mask. (Uyarilara ragmen maske takmayi reddetti.)"
+  },
+  {
+    "id": "connectors-022",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Traditional medicine relies on natural remedies, _____ modern medicine uses synthetic drugs.",
+    "options": [
+      {"key": "A", "text": "moreover"},
+      {"key": "B", "text": "therefore"},
+      {"key": "C", "text": "whereas"},
+      {"key": "D", "text": "furthermore"},
+      {"key": "E", "text": "consequently"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Whereas' (oysa ki) iki farkli durumu karsilastirmak icin kullanilir. Geleneksel tip dogal ilaclara dayanirken, modern tip sentetik ilaclar kullanir.",
+    "rule_tr": "Cumle1, whereas cumle2. Iki farkli durumu dogrudan karsilastirir.",
+    "tip_tr": "'Whereas' = 'while' (zitlik anlaminda). Karsilastirma sorularinda tercih edilir.",
+    "extra_example": "He prefers surgery, whereas she prefers medication. (O ameliyati tercih ederken, o ilac tedavisini tercih eder.)"
+  },
+  {
+    "id": "connectors-023",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The clinical trial showed promising results. _____, the drug was not approved for public use.",
+    "options": [
+      {"key": "A", "text": "Consequently"},
+      {"key": "B", "text": "Moreover"},
+      {"key": "C", "text": "Therefore"},
+      {"key": "D", "text": "Nevertheless"},
+      {"key": "E", "text": "Furthermore"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Nevertheless' (buna ragmen/yine de) guclu bir zitlik baglaci olarak iki bagimsiz cumle arasinda kullanilir. Klinik deneme umut verici sonuclar gostermesine ragmen ilac halk kullanimina onaylanmadi.",
+    "rule_tr": "Cumle1. Nevertheless, cumle2. Guclu zitlik ifade eder, 'however' dan daha vurgulu.",
+    "tip_tr": "'Nevertheless' en guclu zitlik baglaclarindan biridir. B2 sinavlarinda sik cikar.",
+    "extra_example": "The treatment was painful. Nevertheless, she continued it. (Tedavi agriliydi. Yine de devam etti.)"
+  },
+  {
+    "id": "connectors-024",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The number of infections rose sharply; _____, the government imposed a lockdown.",
+    "options": [
+      {"key": "A", "text": "nevertheless"},
+      {"key": "B", "text": "however"},
+      {"key": "C", "text": "although"},
+      {"key": "D", "text": "consequently"},
+      {"key": "E", "text": "despite"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Consequently' (sonuc olarak) formal sebep-sonuc baglaci olarak kullanilir. Enfeksiyon sayisi hizla artti; sonuc olarak hukumet karantina uygulamaya koydu.",
+    "rule_tr": "Sebep; consequently, sonuc. 'Therefore' ve 'as a result' ile es anlamli.",
+    "tip_tr": "'Consequently' cok formal bir baglactir. Akademik metinlerde ve B2 sinavlarinda cikar.",
+    "extra_example": "He ignored the symptoms; consequently, the disease progressed. (Belirtileri gormezden geldi; sonuc olarak hastalik ilerledi.)"
+  },
+  {
+    "id": "connectors-025",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ advances in medical technology, survival rates for cancer have improved significantly.",
+    "options": [
+      {"key": "A", "text": "In spite of"},
+      {"key": "B", "text": "Owing to"},
+      {"key": "C", "text": "Although"},
+      {"key": "D", "text": "However"},
+      {"key": "E", "text": "Nevertheless"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Owing to' (sayesinde/nedeniyle) sebep bildiren formal bir ifadedir. Tip teknolojisindeki gelismeler sayesinde kanser hayatta kalma oranlari onemli olcude iyilesti.",
+    "rule_tr": "Owing to + isim = ... sayesinde/nedeniyle. 'Due to' ve 'because of' ile es anlamli.",
+    "tip_tr": "'Owing to' cok formal bir ifadedir. 'Due to' ve 'because of' ile degistirilebilir.",
+    "extra_example": "Owing to his hard work, he became a successful surgeon. (Cok calismasi sayesinde basarili bir cerrah oldu.)"
+  },
+  {
+    "id": "connectors-026",
+    "topic": "connectors",
+    "subtopic": "addition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The hospital has state-of-the-art equipment. _____, its medical staff are highly qualified.",
+    "options": [
+      {"key": "A", "text": "However"},
+      {"key": "B", "text": "On the contrary"},
+      {"key": "C", "text": "Nevertheless"},
+      {"key": "D", "text": "In contrast"},
+      {"key": "E", "text": "Moreover"}
+    ],
+    "answer": "E",
+    "explanation_tr": "'Moreover' (dahasi/bunun yani sira) guclu bir ekleme baglaci olarak kullanilir. Hastane son teknoloji ekipmana sahip. Dahasi, tip kadrosu son derece nitelikli.",
+    "rule_tr": "Cumle1. Moreover, cumle2. Ilk bilgiyi guclendiren ek bilgi ekler.",
+    "tip_tr": "'Moreover' = 'furthermore' = 'in addition'. Ucu de ekleme baglaci, hepsi B2 seviye.",
+    "extra_example": "The clinic is affordable. Moreover, it is open 24 hours. (Klinik uygun fiyatli. Dahasi, 24 saat acik.)"
+  },
+  {
+    "id": "connectors-027",
+    "topic": "connectors",
+    "subtopic": "purpose",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Strict hygiene protocols were implemented _____ prevent hospital-acquired infections.",
+    "options": [
+      {"key": "A", "text": "so as to"},
+      {"key": "B", "text": "in case"},
+      {"key": "C", "text": "even though"},
+      {"key": "D", "text": "whereas"},
+      {"key": "E", "text": "as a result of"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'So as to' amac bildirmek icin kullanilir. Hastane kaynakli enfeksiyonlari onlemek amaciyla siki hijyen protokolleri uygulandi.",
+    "rule_tr": "So as to + fiil = ... amacıyla. 'In order to' ile es anlamli formal amac ifadesi.",
+    "tip_tr": "'So as to' genellikle formal/akademik metinlerde tercih edilir. Olumsuz hali: 'so as not to'.",
+    "extra_example": "She whispered so as not to wake the patient. (Hastayi uyandirmamak icin fisildadi.)"
+  },
+  {
+    "id": "connectors-028",
+    "topic": "connectors",
+    "subtopic": "condition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The surgery will not proceed _____ the patient signs the consent form.",
+    "options": [
+      {"key": "A", "text": "although"},
+      {"key": "B", "text": "despite"},
+      {"key": "C", "text": "unless"},
+      {"key": "D", "text": "moreover"},
+      {"key": "E", "text": "consequently"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Unless' (... -medikce/-mazsa) olumsuz kosul baglaci olarak kullanilir. Hasta onam formunu imzalamadikca ameliyat yapilmayacak.",
+    "rule_tr": "Unless = if ... not. Olumsuz kosul ifade eder.",
+    "tip_tr": "'Unless' icerisinde zaten olumsuzluk var, bu yuzden 'unless' dan sonra olumsuz cumle KULLANMA.",
+    "extra_example": "Unless you rest, you won't recover. (Dinlenmezsen iyilesmezsin.)"
+  },
+  {
+    "id": "connectors-029",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ having no formal medical training, she performed first aid effectively during the emergency.",
+    "options": [
+      {"key": "A", "text": "Because of"},
+      {"key": "B", "text": "Due to"},
+      {"key": "C", "text": "Owing to"},
+      {"key": "D", "text": "Despite"},
+      {"key": "E", "text": "As a result of"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Despite' (ragmen) zitlik ifadesidir ve isim/gerund ile kullanilir. Resmi tip egitimi olmamasina ragmen acil durumda etkili ilk yardim uyguladi.",
+    "rule_tr": "Despite + V-ing / isim = ... -masina ragmen. 'In spite of' ile es anlamli.",
+    "tip_tr": "'Despite' ten sonra asla cumle gelmez! Sadece isim veya -ing gelir.",
+    "extra_example": "Despite feeling dizzy, he drove to the hospital. (Bas donmesine ragmen hastaneye surdu.)"
+  },
+  {
+    "id": "connectors-030",
+    "topic": "connectors",
+    "subtopic": "cause_effect",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient's blood pressure was dangerously high; _____, the physician administered medication immediately.",
+    "options": [
+      {"key": "A", "text": "nevertheless"},
+      {"key": "B", "text": "whereas"},
+      {"key": "C", "text": "although"},
+      {"key": "D", "text": "in contrast"},
+      {"key": "E", "text": "therefore"}
+    ],
+    "answer": "E",
+    "explanation_tr": "'Therefore' (bu nedenle/dolayisiyla) formal sebep-sonuc baglaci olarak kullanilir. Hastanin tansiyonu tehlikeli derecede yuksekti; bu nedenle doktor hemen ilac verdi.",
+    "rule_tr": "Sebep; therefore, sonuc. 'Consequently' ve 'as a result' ile es anlamli.",
+    "tip_tr": "'Therefore' akademik ve tip metinlerinde en sik kullanilan sebep-sonuc baglaci.",
+    "extra_example": "The test results were abnormal; therefore, further tests were ordered. (Test sonuclari anormaldi; bu nedenle ek testler istendi.)"
+  }
+]

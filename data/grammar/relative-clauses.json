@@ -1,0 +1,602 @@
+[
+  {
+    "id": "relative-clauses-001",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "The doctor _____ treated me yesterday was very kind.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "which"},
+      {"key": "B", "text": "who"},
+      {"key": "C", "text": "where"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Insanlar icin ilgi zamiri olarak 'who' kullanilir. Dun beni tedavi eden doktor cok nazikti.",
+    "rule_tr": "Insan + tanimlayan cumle = who + fiil",
+    "tip_tr": "Boslugun ardindan fiil geliyorsa ve onceki isim insansa who kullan.",
+    "extra_example": "The nurse who gave me the injection was very professional. (Bana igneyi yapan hemsire cok profesyoneldi.)"
+  },
+  {
+    "id": "relative-clauses-002",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "The medication _____ the doctor prescribed helped me a lot.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "where"},
+      {"key": "C", "text": "which"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Esya/nesne icin ilgi zamiri olarak 'which' kullanilir. Doktorun yazdigi ilac bana cok yardimci oldu.",
+    "rule_tr": "Nesne/hayvan/kavram + tanimlayan cumle = which",
+    "tip_tr": "Onceki isim insan degil, nesne/kavramsa which veya that kullan.",
+    "extra_example": "The thermometer which I bought is very accurate. (Aldigim termometre cok hassas.)"
+  },
+  {
+    "id": "relative-clauses-003",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "She is the patient _____ has been waiting since 8 o'clock.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "which"},
+      {"key": "B", "text": "where"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "that"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'That' hem insanlar hem nesneler icin kullanilabilir. Ozellikle superlative ve 'the' sonrasi tercih edilir.",
+    "rule_tr": "Insan/nesne (tanimlayan) = that (who/which yerine)",
+    "tip_tr": "That hem insan hem nesne icin gecerli. Ama virgullu (non-defining) cumlede that KULLANILMAZ.",
+    "extra_example": "The hospital that we visited was very modern. (Ziyaret ettigimiz hastane cok moderndi.)"
+  },
+  {
+    "id": "relative-clauses-004",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "A2",
+    "stem": "This is the hospital _____ my mother had her surgery.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "that"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Yer bildiren isimlerden sonra 'where' kullanilir. Bu, annemin ameliyat oldugu hastane.",
+    "rule_tr": "Yer ismi + ilgi cumlesi = where",
+    "tip_tr": "Hospital, clinic, room gibi yer isimleri + where. In which ile de degistirilebilir.",
+    "extra_example": "The pharmacy where I buy my medication is next to the park. (Ilacimi aldigim eczane parkin yaninda.)"
+  },
+  {
+    "id": "relative-clauses-005",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "A2",
+    "stem": "The doctor _____ patients always recover quickly is Dr. Yilmaz.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "that"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Aitlik/sahiplik bildirmek icin 'whose' kullanilir. Hastalari her zaman hizla iyilesen doktor Dr. Yilmaz.",
+    "rule_tr": "Sahiplik + ilgi cumlesi = whose + isim",
+    "tip_tr": "Whose'dan sonra her zaman bir isim gelir (whose patients, whose car).",
+    "extra_example": "The patient whose blood type is O-negative needs a transfusion. (Kan grubu O-negatif olan hastanin nakle ihtiyaci var.)"
+  },
+  {
+    "id": "relative-clauses-006",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "The ambulance _____ arrived first took the patient to the nearest hospital.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "whose"},
+      {"key": "C", "text": "where"},
+      {"key": "D", "text": "when"},
+      {"key": "E", "text": "that"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Ambulans bir nesne/aractir. 'That' veya 'which' kullanilabilir. Ilk gelen ambulans hastayi en yakin hastaneye gotururdu.",
+    "rule_tr": "Nesne + tanimlayan cumle = that / which",
+    "tip_tr": "First, only, superlative gibi ifadelerden sonra that tercih edilir.",
+    "extra_example": "The first treatment that worked was chemotherapy. (Ise yarayan ilk tedavi kemoterapiydi.)"
+  },
+  {
+    "id": "relative-clauses-007",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "A2",
+    "stem": "I remember the day _____ I was discharged from the hospital.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Zaman bildiren isimlerden sonra 'when' kullanilir. Hastaneden taburcu oldugum gunu hatirliyorum.",
+    "rule_tr": "Zaman ismi (day, year, time) + ilgi cumlesi = when",
+    "tip_tr": "Day, moment, year, time gibi zaman ifadelerinden sonra when kullan.",
+    "extra_example": "The moment when the doctor announced the good news was unforgettable. (Doktorun iyi haberi aciklama ani unutulmazdi.)"
+  },
+  {
+    "id": "relative-clauses-008",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "The nurse _____ I spoke to said the visiting hours end at 8 p.m.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "whose"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Insan + nesne konumunda bile who kullanilabilir (whom daha resmi). Konustugum hemsire ziyaret saatlerinin 20:00'de bittigini soyledi.",
+    "rule_tr": "Insan (nesne konumunda) = who / whom / that",
+    "tip_tr": "Resmi dilde whom, gunluk dilde who veya that kullanilabilir.",
+    "extra_example": "The surgeon who I consulted recommended the operation. (Danistigim cerrah ameliyati onerdi.)"
+  },
+  {
+    "id": "relative-clauses-009",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "A2",
+    "stem": "The blood test _____ I had last week showed normal results.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "whose"},
+      {"key": "C", "text": "where"},
+      {"key": "D", "text": "that"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Kan testi bir nesnedir. 'That' veya 'which' kullanilir. Gecen hafta yaptigim kan testi normal sonuclar gosterdi.",
+    "rule_tr": "Nesne + tanimlayan ilgi cumlesi = that / which",
+    "tip_tr": "That daha yaygin ve dogaldir, ozellikle konusma dilinde.",
+    "extra_example": "The X-ray that the doctor ordered revealed no fractures. (Doktorun istedigi rontgen kirik gostermedi.)"
+  },
+  {
+    "id": "relative-clauses-010",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "A2",
+    "stem": "The clinic _____ I get my vaccinations is on Main Street.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "when"},
+      {"key": "C", "text": "which"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Klinik bir yerdir. Yer belirten isimlerden sonra 'where' kullanilir. Asilarimi oldugun klinik Ana Cadde'de.",
+    "rule_tr": "Yer ismi + ilgi cumlesi = where",
+    "tip_tr": "Where = in which. Ikisi de dogrudur ama where daha dogal.",
+    "extra_example": "The room where the patients rest is very quiet. (Hastalarin dinlendigi oda cok sessiz.)"
+  },
+  {
+    "id": "relative-clauses-011",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "B1",
+    "stem": "Patients _____ have diabetes need to monitor their blood sugar levels regularly.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "whose"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "whom"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Insanlari tanimlamak icin 'who' kullanilir. Diyabet hastalari kan seker duzeylerini duzenli olarak izlemelidir.",
+    "rule_tr": "Insan (ozne konumunda) + tanimlayan = who + fiil",
+    "tip_tr": "Who'dan sonra fiil geliyorsa ozne zamiri, isim geliyorsa whose olabilir.",
+    "extra_example": "Nurses who specialize in pediatrics work in the children's ward. (Pediatri alaninda uzmanlasan hemsireler cocuk servisinde calisir.)"
+  },
+  {
+    "id": "relative-clauses-012",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B1",
+    "stem": "Dr. Ozkan, _____ is a renowned cardiologist, performed the heart surgery.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "whom"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Non-defining (virgullu) ilgi cumlesinde insan icin 'who' kullanilir. 'That' non-defining cumlede KULLANILMAZ.",
+    "rule_tr": "Non-defining + insan = , who ... , (that OLMAZ)",
+    "tip_tr": "Virgul varsa THAT kullanma! Bu en sik sorulan tuzaklardan biri.",
+    "extra_example": "My mother, who is a retired nurse, still volunteers at the clinic. (Emekli hemsire olan annem hala klinikte gonullu calisir.)"
+  },
+  {
+    "id": "relative-clauses-013",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B1",
+    "stem": "Aspirin, _____ is one of the most common medications, was first developed in 1897.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "who"},
+      {"key": "C", "text": "which"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "where"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Non-defining (virgullu) cumlede nesne icin 'which' kullanilir. That non-defining cumlede kullanilamaz.",
+    "rule_tr": "Non-defining + nesne/kavram = , which ... , (that OLMAZ)",
+    "tip_tr": "Virgullu cumlede seceneklerde that varsa elimi, which veya who sec.",
+    "extra_example": "Penicillin, which was discovered by Alexander Fleming, revolutionized medicine. (Alexander Fleming tarafindan kesfedilen penisilin, tipta devrim yapti.)"
+  },
+  {
+    "id": "relative-clauses-014",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "B1",
+    "stem": "The surgeon _____ team performed the transplant received an award.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "that"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "whom"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Sahiplik iliskisi bildirmek icin 'whose' kullanilir. Ekibi nakli gerceklestiren cerrah odul aldi.",
+    "rule_tr": "Sahiplik + isim = whose + noun (whose team, whose car)",
+    "tip_tr": "Whose + isim kalibini gor, sahiplik olup olmadigini kontrol et.",
+    "extra_example": "The patient whose condition improved was sent home. (Durumu iyilesen hasta eve gonderildi.)"
+  },
+  {
+    "id": "relative-clauses-015",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "B1",
+    "stem": "The treatment _____ the doctor recommended was quite expensive.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "whose"},
+      {"key": "C", "text": "where"},
+      {"key": "D", "text": "whom"},
+      {"key": "E", "text": "which"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Tedavi bir nesnedir. Nesne icin 'which' veya 'that' kullanilir. Doktorun onerdigi tedavi oldukca pahaliydi.",
+    "rule_tr": "Nesne + tanimlayan cumle = which / that",
+    "tip_tr": "Seceneklerde hem which hem that varsa ikisi de dogru olabilir ama cumleye en uygun olani sec.",
+    "extra_example": "The diet which the nutritionist suggested helped me lose weight. (Diyetisyenin onerdigi diyet kilo vermeme yardimci oldu.)"
+  },
+  {
+    "id": "relative-clauses-016",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B1",
+    "stem": "The emergency room, _____ was extremely crowded, had a four-hour waiting time.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Virgullu (non-defining) cumlede nesne/yer icin 'which' kullanilir. That kullanilamaz.",
+    "rule_tr": "Non-defining + nesne = , which ...",
+    "tip_tr": "Virgullu cumlede her zaman which (nesne) veya who (insan). ASLA that degil.",
+    "extra_example": "The MRI machine, which costs over a million dollars, broke down yesterday. (Bir milyon dolardan fazla maliyeti olan MR cihazi dun bozuldu.)"
+  },
+  {
+    "id": "relative-clauses-017",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "B1",
+    "stem": "2020 was the year _____ the COVID-19 pandemic changed healthcare systems worldwide.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "where"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "when"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Zaman ifadelerinden (year, day, moment) sonra 'when' kullanilir. 2020, COVID-19 pandemisinin saglik sistemlerini degistirdigi yildi.",
+    "rule_tr": "Zaman ismi + ilgi cumlesi = when",
+    "tip_tr": "Year, day, time, moment = when. Place, city, hospital = where.",
+    "extra_example": "I'll never forget the moment when I heard the diagnosis. (Teshisi duydugum ani asla unutmayacagim.)"
+  },
+  {
+    "id": "relative-clauses-018",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "B1",
+    "stem": "The specialist to _____ I was referred diagnosed my condition immediately.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "whom"},
+      {"key": "C", "text": "which"},
+      {"key": "D", "text": "that"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Preposition (to) + ilgi zamiri = whom (resmi). Sevk edildigi uzman durumumu hemen teshis etti.",
+    "rule_tr": "Preposition + insan = preposition + whom (resmi yapi)",
+    "tip_tr": "To whom, with whom, for whom: edat + whom kalibini bil.",
+    "extra_example": "The colleague with whom I work is a skilled anesthesiologist. (Birlikte calistigim meslektasim yetenekli bir anesteziyologdur.)"
+  },
+  {
+    "id": "relative-clauses-019",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B1",
+    "stem": "My family doctor, _____ I have known for 20 years, is retiring next month.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "whom"},
+      {"key": "E", "text": "where"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Non-defining cumlede insan nesne konumundaysa 'whom' veya 'who' kullanilir. That kullanilamaz.",
+    "rule_tr": "Non-defining + insan (nesne) = , whom/who ..., (that OLMAZ)",
+    "tip_tr": "Virgullu + insan + nesne konumu = whom (resmi) veya who (gunluk).",
+    "extra_example": "The pharmacist, whom everyone in the neighborhood trusts, gave me good advice. (Mahalledeki herkesin guvendigi eczaci bana iyi tavsiye verdi.)"
+  },
+  {
+    "id": "relative-clauses-020",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "B1",
+    "stem": "The waiting room _____ we sat for three hours was very uncomfortable.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "where"},
+      {"key": "E", "text": "when"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Bekleme odasi bir yerdir. Yer bildiren isimlerden sonra 'where' kullanilir.",
+    "rule_tr": "Yer + ilgi cumlesi = where (= in which)",
+    "tip_tr": "Where yerine 'in which / at which' de kullanilabilir. Ikisi de dogru.",
+    "extra_example": "The ward where my grandfather stayed was on the third floor. (Dedemin kaldigi servis ucuncu kattaydi.)"
+  },
+  {
+    "id": "relative-clauses-021",
+    "topic": "relative_clauses",
+    "subtopic": "reduced",
+    "level": "B2",
+    "stem": "The patients _____ in the ICU require 24-hour monitoring.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "treated"},
+      {"key": "B", "text": "treating"},
+      {"key": "C", "text": "who treating"},
+      {"key": "D", "text": "which treated"},
+      {"key": "E", "text": "that treating"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Kisaltilmis ilgi cumlesi: 'who are treated' yerine 'treated' (past participle) kullanilir. Edilgen anlam var.",
+    "rule_tr": "Kisaltilmis edilgen = V3 (who are treated → treated)",
+    "tip_tr": "Edilgen anlam = V3 (treated, injured, admitted). Etken anlam = V-ing.",
+    "extra_example": "The medicine prescribed by the doctor was very effective. (Doktor tarafindan yazilan ilac cok etkiliydi.)"
+  },
+  {
+    "id": "relative-clauses-022",
+    "topic": "relative_clauses",
+    "subtopic": "reduced",
+    "level": "B2",
+    "stem": "The nurse _____ after the patients in Ward 3 is very experienced.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "looked"},
+      {"key": "B", "text": "looks"},
+      {"key": "C", "text": "looking"},
+      {"key": "D", "text": "to look"},
+      {"key": "E", "text": "who looked"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Kisaltilmis ilgi cumlesi: 'who is looking' yerine 'looking' (present participle) kullanilir. Etken ve devam eden anlam.",
+    "rule_tr": "Kisaltilmis etken = V-ing (who is looking → looking)",
+    "tip_tr": "Etken + simdiki zaman = V-ing. Kim ne yapiyor sorusuna cevap verir.",
+    "extra_example": "The doctor examining the patient noticed something unusual. (Hastayi muayene eden doktor olagan disi bir sey fark etti.)"
+  },
+  {
+    "id": "relative-clauses-023",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B2",
+    "stem": "The new hospital wing, _____ construction took three years, was finally opened last week.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "who"},
+      {"key": "E", "text": "where"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Sahiplik bildiren 'whose' non-defining cumlede de kullanilir. Insati uc yil suren yeni hastane kanadi gecen hafta acildi.",
+    "rule_tr": "Non-defining + sahiplik = , whose + isim ...,",
+    "tip_tr": "Whose sadece insanlar icin degil, nesneler icin de sahiplik bildirir.",
+    "extra_example": "The clinic, whose reputation is excellent, attracts patients from all over the country. (Itibar bakimindan mukemmel olan klinik, ulkenin her yerinden hasta cekiyor.)"
+  },
+  {
+    "id": "relative-clauses-024",
+    "topic": "relative_clauses",
+    "subtopic": "reduced",
+    "level": "B2",
+    "stem": "Anyone _____ symptoms of the virus should isolate immediately.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "shown"},
+      {"key": "B", "text": "shows"},
+      {"key": "C", "text": "showing"},
+      {"key": "D", "text": "who shown"},
+      {"key": "E", "text": "which showing"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Kisaltilmis etken ilgi cumlesi: 'who is showing' yerine 'showing' kullanilir.",
+    "rule_tr": "Kisaltilmis etken (devam eden) = V-ing",
+    "tip_tr": "Anyone/those/people + V-ing = kisaltilmis ilgi cumlesi. Sinavda sik cikar.",
+    "extra_example": "Students suffering from allergies should inform the school nurse. (Alerjiden muzdarip ogrenciler okul hemsiresini bilgilendirmelidir.)"
+  },
+  {
+    "id": "relative-clauses-025",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B2",
+    "stem": "The operation was performed by Dr. Kaya, _____ specializes in neurosurgery.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "whom"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Non-defining cumlede insan ozne konumundaysa 'who' kullanilir. Dr. Kaya, norosirurji uzmani, ameliyati gerceklestirdi.",
+    "rule_tr": "Non-defining + insan (ozne) = , who + fiil",
+    "tip_tr": "Ozel isimlerden sonra gelen ilgi cumlesi her zaman non-defining (virgullu) olur.",
+    "extra_example": "Florence Nightingale, who is known as the founder of modern nursing, was born in 1820. (Modern hemsirelignin kurucusu olarak bilinen Florence Nightingale 1820'de dogdu.)"
+  },
+  {
+    "id": "relative-clauses-026",
+    "topic": "relative_clauses",
+    "subtopic": "reduced",
+    "level": "B2",
+    "stem": "The number of people _____ to the flu vaccine has increased this year.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "allergic"},
+      {"key": "B", "text": "allergy"},
+      {"key": "C", "text": "who allergic"},
+      {"key": "D", "text": "that are allergic"},
+      {"key": "E", "text": "being allergic"}
+    ],
+    "answer": "A",
+    "explanation_tr": "Kisaltilmis ilgi cumlesi: 'who are allergic' yerine sadece 'allergic' (sifat) kullanilir.",
+    "rule_tr": "Kisaltilmis (be + sifat) = sifat (who are allergic → allergic)",
+    "tip_tr": "Who are + sifat yapisi kisaltildiginda sadece sifat kalir.",
+    "extra_example": "Patients eligible for the trial must sign a consent form. (Denemeye uygun hastalar onam formu imzalamalidir.)"
+  },
+  {
+    "id": "relative-clauses-027",
+    "topic": "relative_clauses",
+    "subtopic": "who_which_that",
+    "level": "B2",
+    "stem": "The only medication _____ effectively controlled her migraines was discontinued by the manufacturer.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "who"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "whose"},
+      {"key": "D", "text": "that"},
+      {"key": "E", "text": "where"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'The only' ifadesinden sonra 'that' tercih edilir. Migrenlerini etkili bir sekilde kontrol eden tek ilac uretici tarafindan durduruldu.",
+    "rule_tr": "The only / the first / superlative + that (tercih edilen)",
+    "tip_tr": "Only, first, last, superlative gibi ifadelerden sonra which degil that tercih edilir.",
+    "extra_example": "It was the worst diagnosis that the doctor had ever given. (Doktorun verdigi en kotu teshisti.)"
+  },
+  {
+    "id": "relative-clauses-028",
+    "topic": "relative_clauses",
+    "subtopic": "non_defining",
+    "level": "B2",
+    "stem": "The patient refused chemotherapy, _____ surprised everyone in the medical team.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "that"},
+      {"key": "B", "text": "which"},
+      {"key": "C", "text": "who"},
+      {"key": "D", "text": "whose"},
+      {"key": "E", "text": "what"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Butun bir cumleye atifta bulunan non-defining cumlede 'which' kullanilir. Hastanin kemoterapiyi reddetmesi herkesi sasirtti.",
+    "rule_tr": "Tum cumleye gonderme (non-defining) = , which ...",
+    "tip_tr": "Which butun bir cumleyi referans alabilir. Bu durumda 'bu durum/olay' anlamina gelir.",
+    "extra_example": "He skipped his medication for a week, which caused his condition to worsen. (Bir hafta ilacini almadi, bu da durumunun kotulemesine neden oldu.)"
+  },
+  {
+    "id": "relative-clauses-029",
+    "topic": "relative_clauses",
+    "subtopic": "reduced",
+    "level": "B2",
+    "stem": "The medical equipment _____ in this lab was donated by a charity organization.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "using"},
+      {"key": "B", "text": "used"},
+      {"key": "C", "text": "which using"},
+      {"key": "D", "text": "who used"},
+      {"key": "E", "text": "uses"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Kisaltilmis edilgen: 'which is used' yerine 'used' (V3) kullanilir. Kullanilaln tibbi ekipman bagislandi.",
+    "rule_tr": "Kisaltilmis edilgen = V3 (which is used → used)",
+    "tip_tr": "Edilgen anlam (kullanilan, yapilan, uretilen) = V3 ile kisalt.",
+    "extra_example": "The data collected from the study was published in a medical journal. (Calismadan toplanan veriler tibbi bir dergide yayinlandi.)"
+  },
+  {
+    "id": "relative-clauses-030",
+    "topic": "relative_clauses",
+    "subtopic": "where_when_whose",
+    "level": "B2",
+    "stem": "The reason _____ the patient was transferred to another hospital was a lack of specialized equipment.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "which"},
+      {"key": "B", "text": "where"},
+      {"key": "C", "text": "that"},
+      {"key": "D", "text": "why"},
+      {"key": "E", "text": "whose"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'The reason' ifadesinden sonra 'why' kullanilir. Hastanin baska bir hastaneye sevk edilme nedeni uzman ekipman eksikligiydi.",
+    "rule_tr": "The reason + ilgi cumlesi = why (= for which)",
+    "tip_tr": "The reason why = sebebi. Sinavda the reason which tuzagi olabilir, dikkat!",
+    "extra_example": "The reason why the surgery was delayed was that the patient had an infection. (Ameliyatin ertelenmesinin nedeni hastanin enfeksiyon kapmasiydi.)"
+  }
+]

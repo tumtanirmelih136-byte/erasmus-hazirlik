@@ -1,0 +1,58 @@
+{
+  "topic": "conditionals",
+  "title": "Kosul Cumleleri (Conditionals)",
+  "description_tr": "Ingilizce'de kosul cumleleri (if-clauses), bir olayiin gerceklesmesi icin baska bir olayiin sartini belirtir. 4 temel tip vardir: Zero (genel gercek), First (gercek olasi), Second (hayal/dusuk olasilik), Third (gecmiste degistirilemez). Sinavlarda en cok if'den sonraki zaman ile ana cumledeki yardimci fiil sorulur.",
+  "formula": "If + condition clause, result clause (veya tersi: Result clause if condition clause — virgulsuz)",
+  "signals": ["if", "unless", "provided that", "as long as", "in case", "suppose", "what if"],
+  "turkish_logic": "Turkce'de '-sa/-se' eki kosul bildirir: 'Yagmur yagarsa, evde kalirim.' Ingilizce'de ise kosul tipine gore fiil zamanlari degisir. Gercek kosul icin Present, hayal icin Past, gecmis pismanligi icin Past Perfect kullanilir. Onemli: 'If + Past Simple' her zaman gecmis demek degil, bazen hayal/varsayim anlamina gelir (Second Conditional).",
+  "key_rules": [
+    "Zero Conditional: Genel gercekler, bilimsel olgular. If + Present Simple, Present Simple. 'If you heat water to 100°C, it boils.' (Su 100°C'ye isitirsan kaynar.)",
+    "First Conditional: Gercek ve olasi durumlar (gelecek). If + Present Simple, will + V1. 'If the patient takes the medicine, he will recover.' (Hasta ilaci alirsa iyilesecek.)",
+    "Second Conditional: Hayal, dusuk olasilik, simdiki zamanda gercek olmayan. If + Past Simple, would + V1. 'If I were a doctor, I would work in Africa.' (Doktor olsaydim Afrika'da calisirdim.)",
+    "Third Conditional: Gecmiste olan ve degistirilemeyen durumlar (pismanllik). If + Past Perfect, would have + V3. 'If the ambulance had arrived earlier, the patient would have survived.' (Ambulans daha erken gelseydi hasta kurtulurdu.)",
+    "Mixed Conditional: Gecmis kosul + simdiki sonuc veya tersi. 'If she had studied medicine (gecmis), she would be a doctor now (simdi).'",
+    "Unless = If not: 'Unless you take the medicine, you won't recover.' = 'If you don't take the medicine, you won't recover.'"
+  ],
+  "examples": [
+    {
+      "en": "If you mix red and blue, you get purple.",
+      "tr": "Kirmizi ve maviyi karistirirsan mor elde edersin.",
+      "why": "Genel gercek, her zaman gecerli sonuc. Iki tarafta da Present Simple kullanilir. Bu Zero Conditional."
+    },
+    {
+      "en": "If the test results are positive, the doctor will start the treatment.",
+      "tr": "Test sonuclari pozitif cikarsa doktor tedaviye baslayacak.",
+      "why": "Gercek ve olasi bir gelecek durumu. If + Present Simple, will + V1. Bu First Conditional."
+    },
+    {
+      "en": "If I were the head nurse, I would change the shift system.",
+      "tr": "Bas hemsire olsaydim nobetsisteminidegistirirdim.",
+      "why": "Simdiki zamanda gercek olmayan bir hayal. If + Past Simple (were), would + V1. Bu Second Conditional. Not: 'was' yerine 'were' kullanilir."
+    },
+    {
+      "en": "If the patient had followed the diet, he wouldn't have had a heart attack.",
+      "tr": "Hasta diyete uysaydi kalp krizi gecirmezdi.",
+      "why": "Gecmiste olan ve degistirilemeyen bir durum (pismanllik). If + Past Perfect, would have + V3. Bu Third Conditional."
+    },
+    {
+      "en": "Unless you wear gloves, you might get infected.",
+      "tr": "Eldiven giymezsen enfekte olabilirsin.",
+      "why": "'Unless' = 'If not' anlaminda. 'If you don't wear gloves, you might get infected' ile ayni anlam. First Conditional yapisi."
+    },
+    {
+      "en": "If she had taken the nursing course, she would be working at the hospital now.",
+      "tr": "Hemsirelik kursunu alsaydi simdi hastanede calisiyor olurdu.",
+      "why": "Mixed Conditional: Gecmisteki kosul (had taken) + simdiki sonuc (would be working). Gecmis bir karar simdiki durumu etkiledigi icin karisik tip kullanilir."
+    }
+  ],
+  "tips": [
+    "'If + Present Simple → will' gordugunde bu First Conditional. En sik cikan tip budur.",
+    "'If + Past Simple → would' gordugunde bu Second Conditional. Dikkat: Past Simple burada gecmis degil, hayal anlami tasiyor!",
+    "'If + Past Perfect → would have + V3' gordugunde bu Third Conditional. Gecmis pismanlik anlatir.",
+    "Second Conditional'da 'I were' kullanilir, 'I was' degil! 'If I were you...' kalibini ezberle.",
+    "'Unless' gordugunde 'If not' olarak dusun. Unless'tan sonra olumlu cumle gelir: 'Unless you study = If you don't study'.",
+    "'Will' ASLA if'li cumlecikten sonra gelmez! 'If it will rain' YANLIS. Dogrusu: 'If it rains, we will...'",
+    "Sinav taktigi: Once if'den sonraki zamana bak, sonra ana cumledeki yardimci fiili sec. Zaman eslesmesi her seyi cozer.",
+    "Comma kurali: If-clause basta ise virgul koyarsin. Sonda ise virgul gerekmez. 'If it rains, I stay.' ama 'I stay if it rains.'"
+  ]
+}

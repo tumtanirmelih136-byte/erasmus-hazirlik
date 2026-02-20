@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ilerleme & Rapor — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Ilerleme & Rapor</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="tabs">
+      <button class="tab-btn active" onclick="showResultTab('daily')">Gunluk Rapor</button>
+      <button class="tab-btn" onclick="showResultTab('topics')">Konu Analizi</button>
+      <button class="tab-btn" onclick="showResultTab('mocks')">Denemeler</button>
+    </div>
+
+    <!-- Günlük Rapor -->
+    <div id="tab-daily">
+      <div id="report-area"></div>
+    </div>
+
+    <!-- Konu Analizi -->
+    <div id="tab-topics" style="display:none">
+      <div id="topic-analysis"></div>
+    </div>
+
+    <!-- Deneme Sonuçları -->
+    <div id="tab-mocks" style="display:none">
+      <div id="mock-analysis"></div>
+    </div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+    DailyReport.render('report-area');
+
+    function renderTopicAnalysis() {
+      const container = document.getElementById('topic-analysis');
+      const stats = Storage.getTopicStats();
+      const entries = Object.entries(stats).filter(([_, s]) => s.total > 0);
+
+      if (entries.length === 0) {
+        container.innerHTML = '<div class="empty-state"><div class="empty-icon">📊</div><p>Henuz soru cozmedin. Quiz cozdukce burada konu bazli analiz goreceksin.</p></div>';
+        return;
+      }
+
+      // Accuracy'ye göre sırala
+      entries.sort((a, b) => {
+        const accA = a[1].correct / a[1].total;
+        const accB = b[1].correct / b[1].total;
+        return accA - accB;
+      });
+
+      let html = '<div class="result-card"><div class="error-section-title">KONU BAZLI BASARI ORANI</div>';
+
+      entries.forEach(([topic, stat]) => {
+        const pct = Math.round((stat.correct / stat.total) * 100);
+        const color = pct >= 80 ? 'var(--success)' : pct >= 50 ? 'var(--warning)' : 'var(--danger)';
+        const levelClass = stat.level === 'A2' ? 'level-a2' : stat.level === 'B1' ? 'level-b1' : 'level-b2';
+
+        html += `
+          <div class="breakdown-item" style="margin-bottom:8px">
+            <span class="breakdown-label">
+              ${AdaptiveEngine.topicDisplayName(topic)}
+              <span class="topic-level ${levelClass}" style="margin-left:4px">${stat.level}</span>
+            </span>
+            <div class="breakdown-bar">
+              <div class="breakdown-bar-fill" style="width:${pct}%;background:${color}"></div>
+            </div>
+            <span class="breakdown-value">%${pct}</span>
+          </div>
+        `;
+      });
+
+      html += `
+        <div style="margin-top:16px;font-size:0.8rem;color:var(--gray-400)">
+          Toplam ${entries.reduce((sum, [_, s]) => sum + s.total, 0)} soru cozuldu
+        </div>
+      </div>`;
+
+      container.innerHTML = html;
+    }
+
+    function renderMockAnalysis() {
+      const container = document.getElementById('mock-analysis');
+      const results = Storage.getMockResults();
+
+      if (results.length === 0) {
+        container.innerHTML = '<div class="empty-state"><div class="empty-icon">🏆</div><p>Henuz deneme sinavi cozmedin.</p></div>';
+        return;
+      }
+
+      let html = '';
+      results.forEach((r, i) => {
+        const scoreClass = r.score >= 80 ? 'high' : r.score >= 50 ? 'medium' : 'low';
+        html += `
+          <div class="result-card">
+            <div style="font-size:0.85rem;color:var(--gray-500)">Deneme ${r.examId || (i + 1)} — ${r.date}</div>
+            <div class="result-score ${scoreClass}">${r.score}/100</div>
+            <div class="result-label">${r.correct} dogru / ${r.total} soru</div>
+            <div style="font-size:0.85rem;color:var(--gray-400);margin-top:4px">Sure: ${r.elapsed}</div>
+          </div>
+        `;
+      });
+
+      // Trend
+      if (results.length >= 2) {
+        const first = results[0].score;
+        const last = results[results.length - 1].score;
+        const diff = last - first;
+        html += `
+          <div class="info-banner" style="text-align:center">
+            Ilk denemeden bu yana: ${diff >= 0 ? '+' : ''}${diff} puan degisim
+          </div>
+        `;
+      }
+
+      container.innerHTML = html;
+    }
+
+    function showResultTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach((btn, i) => {
+        btn.classList.toggle('active', ['daily', 'topics', 'mocks'][i] === tab);
+      });
+      document.getElementById('tab-daily').style.display = tab === 'daily' ? 'block' : 'none';
+      document.getElementById('tab-topics').style.display = tab === 'topics' ? 'block' : 'none';
+      document.getElementById('tab-mocks').style.display = tab === 'mocks' ? 'block' : 'none';
+
+      if (tab === 'topics') renderTopicAnalysis();
+      if (tab === 'mocks') renderMockAnalysis();
+    }
+  </script>
+
+</body>
+</html>

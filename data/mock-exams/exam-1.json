@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "mock1-001",
+    "topic": "tenses",
+    "subtopic": "present_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse _____ the patient's blood pressure every morning.",
+    "options": [
+      {
+        "key": "A",
+        "text": "check"
+      },
+      {
+        "key": "B",
+        "text": "checks"
+      },
+      {
+        "key": "C",
+        "text": "is checking"
+      },
+      {
+        "key": "D",
+        "text": "checked"
+      },
+      {
+        "key": "E",
+        "text": "has checked"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Cevap 'checks' cunku ozne 'The nurse' ucuncu tekil sahis (he/she) ve cumlede 'every morning' gibi bir rutin/tekrar ifadesi var. Present Simple'da ucuncu tekil sahisa -s eklenir.",
+    "rule_tr": "Present Simple: He/She/It + V-s/es (rutin, genel gercek, tekrar eden eylemler)",
+    "tip_tr": "every day, always, usually, often gibi sikligi gosteren zarflar gorursen Present Simple dusun.",
+    "extra_example": "The doctor always examines patients carefully. (Doktor hastalari her zaman dikkatli muayene eder.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-002",
+    "topic": "tenses",
+    "subtopic": "present_simple",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Hospitals _____ emergency services 24 hours a day.",
+    "options": [
+      {
+        "key": "A",
+        "text": "provides"
+      },
+      {
+        "key": "B",
+        "text": "is providing"
+      },
+      {
+        "key": "C",
+        "text": "provide"
+      },
+      {
+        "key": "D",
+        "text": "are providing"
+      },
+      {
+        "key": "E",
+        "text": "provided"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Ozne 'Hospitals' cogul oldugu icin fiil ek almaz. '24 hours a day' ifadesi genel bir gercegi anlatiyor, bu yuzden Present Simple kullanilir.",
+    "rule_tr": "Present Simple: Cogul ozne (They/We/You/Hospitals) + V (yalın fiil, -s almaz)",
+    "tip_tr": "Oznenin tekil mi cogul mu olduguna dikkat et. Cogul ozneler fiil eki almaz.",
+    "extra_example": "Nurses work in shifts at this hospital. (Hemsireler bu hastanede vardiyali calisir.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-003",
+    "topic": "tenses",
+    "subtopic": "present_continuous",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor _____ a patient right now, please wait.",
+    "options": [
+      {
+        "key": "A",
+        "text": "examines"
+      },
+      {
+        "key": "B",
+        "text": "examined"
+      },
+      {
+        "key": "C",
+        "text": "is examining"
+      },
+      {
+        "key": "D",
+        "text": "has examined"
+      },
+      {
+        "key": "E",
+        "text": "will examine"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "'Right now' ifadesi su anda olan bir eylemi gosteriyor. Su anda devam eden eylemler icin Present Continuous (am/is/are + V-ing) kullanilir.",
+    "rule_tr": "Present Continuous: am/is/are + V-ing (su anda olan eylemler)",
+    "tip_tr": "now, right now, at the moment, currently gorursen Present Continuous dusun.",
+    "extra_example": "The nurse is preparing the medication at the moment. (Hemsire su anda ilaci hazirliyor.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-004",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If you _____ too much sugar, your blood pressure _____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "eat / rises"
+      },
+      {
+        "key": "B",
+        "text": "ate / rises"
+      },
+      {
+        "key": "C",
+        "text": "eat / will rise"
+      },
+      {
+        "key": "D",
+        "text": "will eat / rises"
+      },
+      {
+        "key": "E",
+        "text": "eating / rising"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Zero Conditional genel gecerli gercekleri ifade eder. Her iki tarafta da Present Simple kullanilir: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional: If + Present Simple, Present Simple (bilimsel gercek, her zaman dogru olan seyler)",
+    "tip_tr": "Her zaman dogru olan bir sey anlatiliyorsa (bilimsel gercek, genel kural) = Zero Conditional.",
+    "extra_example": "If you heat water to 100°C, it boils. (Suyu 100°C'ye isitirsan kaynar.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-005",
+    "topic": "conditionals",
+    "subtopic": "zero_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If a patient _____ an allergic reaction, the nurse immediately _____ the doctor.",
+    "options": [
+      {
+        "key": "A",
+        "text": "has / calls"
+      },
+      {
+        "key": "B",
+        "text": "had / called"
+      },
+      {
+        "key": "C",
+        "text": "has / will call"
+      },
+      {
+        "key": "D",
+        "text": "will have / calls"
+      },
+      {
+        "key": "E",
+        "text": "is having / is calling"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Bu bir hastane protokolu, yani her zaman gecerli bir kural. Zero Conditional: If + Present Simple, Present Simple.",
+    "rule_tr": "Zero Conditional: Kurallar, protokoller, rutinler icin de kullanilir.",
+    "tip_tr": "Hastane kurallari, is prosedürleri gibi her zaman uygulanan kurallar = Zero Conditional.",
+    "extra_example": "If the temperature exceeds 38°C, the patient takes paracetamol. (Ates 38°C'yi asarsa hasta parasetamol alir.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-006",
+    "topic": "conditionals",
+    "subtopic": "first_conditional",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "If you _____ your medication regularly, you _____ better soon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "take / feel"
+      },
+      {
+        "key": "B",
+        "text": "take / will feel"
+      },
+      {
+        "key": "C",
+        "text": "will take / feel"
+      },
+      {
+        "key": "D",
+        "text": "took / would feel"
+      },
+      {
+        "key": "E",
+        "text": "taken / will feel"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Gercekci ve olasi bir gelecek durumu anlatiliyor. First Conditional: If + Present Simple, will + V1.",
+    "rule_tr": "First Conditional: If + Present Simple, will + V1 (gercekci, olasi gelecek durumlar)",
+    "tip_tr": "Gerceklesmesi muhtemel bir durum = First Conditional. If clause'da ASLA will kullanma.",
+    "extra_example": "If you don't stop smoking, you will develop lung problems. (Sigarayi birakmazsan akciger sorunlari yasayacaksin.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-007",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Patients _____ by the nurse before they see the doctor.",
+    "options": [
+      {
+        "key": "A",
+        "text": "examine"
+      },
+      {
+        "key": "B",
+        "text": "examines"
+      },
+      {
+        "key": "C",
+        "text": "are examined"
+      },
+      {
+        "key": "D",
+        "text": "is examined"
+      },
+      {
+        "key": "E",
+        "text": "examining"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Hastalar muayene edilir — eylemi yapan degil, eyleme maruz kalan onemli. Ozne 'Patients' cogul oldugu icin 'are examined' (Present Simple Passive) kullanilir.",
+    "rule_tr": "Present Simple Passive: am/is/are + V3 (eylemi yapan degil, yapilan is onemli oldugunda)",
+    "tip_tr": "Kim yapiyor onemli degil, ne yapiliyor onemli ise = pasif yapi kullan.",
+    "extra_example": "Medications are stored in a cool, dry place. (Ilaclar serin ve kuru bir yerde saklanir.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-008",
+    "topic": "passive",
+    "subtopic": "present_simple_passive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Blood pressure _____ regularly in the hospital.",
+    "options": [
+      {
+        "key": "A",
+        "text": "checks"
+      },
+      {
+        "key": "B",
+        "text": "is checked"
+      },
+      {
+        "key": "C",
+        "text": "are checked"
+      },
+      {
+        "key": "D",
+        "text": "checking"
+      },
+      {
+        "key": "E",
+        "text": "check"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "'Blood pressure' tekil bir kavram, eylemi yapan degil yapilan is onemli. is + V3 (checked) = Present Simple Passive.",
+    "rule_tr": "Tekil ozne + is + V3 | Cogul ozne + are + V3",
+    "tip_tr": "Oznenin tekil/cogul olmasina dikkat et: is checked (tekil) vs are checked (cogul).",
+    "extra_example": "The temperature is measured every four hours. (Sicaklik her dort saatte bir olculur.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-009",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "A2",
+    "stem": "The patient _____ walk again after the surgery last month.",
+    "type": "fill_in_blank",
+    "options": [
+      {
+        "key": "A",
+        "text": "can"
+      },
+      {
+        "key": "B",
+        "text": "could"
+      },
+      {
+        "key": "C",
+        "text": "must"
+      },
+      {
+        "key": "D",
+        "text": "should"
+      },
+      {
+        "key": "E",
+        "text": "may"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Gecmiste kazanilan bir yetenegi anlatmak icin 'could' kullanilir. Hasta ameliyattan sonra tekrar yuruyebildi.",
+    "rule_tr": "Gecmis yetenek = could + V1",
+    "tip_tr": "Gecmiste 'yapabildi' diyorsan could, simdi 'yapabiliyor' diyorsan can.",
+    "extra_example": "She could speak three languages when she was a child. (Cocukken uc dil konusabiliyordu.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-010",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "A2",
+    "stem": "_____ I see the doctor now? I have an appointment at 10.",
+    "type": "fill_in_blank",
+    "options": [
+      {
+        "key": "A",
+        "text": "Must"
+      },
+      {
+        "key": "B",
+        "text": "Should"
+      },
+      {
+        "key": "C",
+        "text": "Can"
+      },
+      {
+        "key": "D",
+        "text": "Need"
+      },
+      {
+        "key": "E",
+        "text": "Shall"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Izin istemek icin 'Can I...?' yapisi kullanilir. Hasta doktoru gorup goremeyecegini soruyor.",
+    "rule_tr": "Izin isteme (informal) = Can I + V1?",
+    "tip_tr": "Gunluk dilde izin icin Can, resmi ortamda May kullan.",
+    "extra_example": "Can I use your phone to call the hospital? (Hastaneyi aramak icin telefonunu kullanabilir miyim?)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-011",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient felt tired, _____ she continued her exercises.",
+    "options": [
+      {
+        "key": "A",
+        "text": "because"
+      },
+      {
+        "key": "B",
+        "text": "but"
+      },
+      {
+        "key": "C",
+        "text": "so"
+      },
+      {
+        "key": "D",
+        "text": "and"
+      },
+      {
+        "key": "E",
+        "text": "or"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "'But' zitlik (contrast) baglaci olarak kullanilir. Hasta yorgun hissetmesine ragmen egzersizlere devam etmis — iki cumle arasinda zitlik var.",
+    "rule_tr": "Zitlik = but, however, although. Iki cumle birbirine zit anlam tasiyorsa 'but' kullanilir.",
+    "tip_tr": "Iki cumle arasinda beklenmedik bir durum varsa zitlik baglaci ara.",
+    "extra_example": "He was sick, but he went to work. (Hastaydı ama ise gitti.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-012",
+    "topic": "connectors",
+    "subtopic": "contrast",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "_____ it was raining, the nurse walked to the hospital.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Although"
+      },
+      {
+        "key": "B",
+        "text": "Because"
+      },
+      {
+        "key": "C",
+        "text": "So"
+      },
+      {
+        "key": "D",
+        "text": "Therefore"
+      },
+      {
+        "key": "E",
+        "text": "Moreover"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "'Although' (ragmen) zitlik baglaci olarak cumlenin basinda kullanilabilir. Yagmur yagmasina ragmen hemshire hastaneye yurumus.",
+    "rule_tr": "Although + cumle, ana cumle. 'Although' zitlik bildiren yan cumle baslangicidir.",
+    "tip_tr": "'Although' cumle basinda gelir ve virgulden sonra ana cumle gelir.",
+    "extra_example": "Although she was nervous, she passed the exam. (Gergindi ama sinavi gecti.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-013",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She is _____ nurse at the city hospital.",
+    "options": [
+      {
+        "key": "A",
+        "text": "a"
+      },
+      {
+        "key": "B",
+        "text": "an"
+      },
+      {
+        "key": "C",
+        "text": "the"
+      },
+      {
+        "key": "D",
+        "text": "—  (no article)"
+      },
+      {
+        "key": "E",
+        "text": "some"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "'Nurse' unsuz harfle (n) baslar, bu yuzden 'a' kullanilir. Meslek belirtirken belirsiz artikel (a/an) kullanilir.",
+    "rule_tr": "Unsuz ses + a, unlu ses + an. Mesleklerde a/an kullanilir.",
+    "tip_tr": "Meslek belirtirken: I am a doctor, she is a nurse, he is an engineer. Her zaman a/an.",
+    "extra_example": "He is a dentist. (O bir dis hekimidir.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-014",
+    "topic": "articles",
+    "subtopic": "a_an_usage",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient needs _____ X-ray of his chest.",
+    "options": [
+      {
+        "key": "A",
+        "text": "a"
+      },
+      {
+        "key": "B",
+        "text": "an"
+      },
+      {
+        "key": "C",
+        "text": "the"
+      },
+      {
+        "key": "D",
+        "text": "—  (no article)"
+      },
+      {
+        "key": "E",
+        "text": "some"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "'X-ray' kelimesi /eks/ sesiyle baslar, yani unlu ses ile baslar. Unlu sesle baslayan kelimelerde 'an' kullanilir.",
+    "rule_tr": "An + unlu SES ile baslayan kelime. Harf degil SES onemlidir.",
+    "tip_tr": "'An X-ray', 'an hour', 'an honest person' — harf degil, SES onemli!",
+    "extra_example": "She waited for an hour at the clinic. (Klinikte bir saat bekledi.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-015",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor's appointment is _____ Monday.",
+    "options": [
+      {
+        "key": "A",
+        "text": "in"
+      },
+      {
+        "key": "B",
+        "text": "on"
+      },
+      {
+        "key": "C",
+        "text": "at"
+      },
+      {
+        "key": "D",
+        "text": "by"
+      },
+      {
+        "key": "E",
+        "text": "for"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Gunler (days) icin 'on' kullanilir. Doktor randevusu Pazartesi gunu.",
+    "rule_tr": "On + gunler: on Monday, on Friday, on my birthday. Gunlerde her zaman 'on'.",
+    "tip_tr": "Gun = on, ay/yil = in, saat = at. Bu uc kurali ezberle.",
+    "extra_example": "She has a checkup on Wednesday. (Carsamba gunu kontrolu var.)",
+    "category": "grammar"
+  },
+  {
+    "id": "mock1-016",
+    "stem": "What is the main idea of the passage?",
+    "type": "main_idea",
+    "options": [
+      {
+        "key": "A",
+        "text": "Coffee is bad for health."
+      },
+      {
+        "key": "B",
+        "text": "Drinking water is important for our health."
+      },
+      {
+        "key": "C",
+        "text": "We should visit doctors regularly."
+      },
+      {
+        "key": "D",
+        "text": "Soda is better than water."
+      },
+      {
+        "key": "E",
+        "text": "Carrying a bottle is necessary at school."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Parcanin ana fikri suyun sagligimiz icin ne kadar onemli oldugudur. Ilk cumleden itibaren su icmenin faydalari anlatiliyor.",
+    "rule_tr": "Ana fikir sorusunda tum parcayi kapsayan secenegi bul.",
+    "tip_tr": "Ilk cumle genellikle ana fikri verir. 'Drinking water is very important for our health' cumlesine dikkat et!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Drinking water is very important for our health. Doctors say we should drink at least eight glasses of water every day. Water helps our body work well. It keeps our skin healthy and helps us think clearly. Many people forget to drink water during the day. They drink coffee or soda instead. But these drinks are not as good as water. If you want to be healthy, always carry a water bottle with you.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-017",
+    "stem": "How many glasses of water should we drink daily according to the passage?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "Five glasses"
+      },
+      {
+        "key": "B",
+        "text": "Six glasses"
+      },
+      {
+        "key": "C",
+        "text": "Seven glasses"
+      },
+      {
+        "key": "D",
+        "text": "Eight glasses"
+      },
+      {
+        "key": "E",
+        "text": "Ten glasses"
+      }
+    ],
+    "answer": "D",
+    "explanation_tr": "Parcada doktorlarin gunluk en az sekiz bardak su icmemizi onerdigi belirtiliyor.",
+    "rule_tr": "Detay sorusunda parcadaki spesifik bilgiyi bul, tahmin yapma.",
+    "tip_tr": "'At least eight glasses' ifadesini parcada bul ve eslestirecek secenegi sec!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Drinking water is very important for our health. Doctors say we should drink at least eight glasses of water every day. Water helps our body work well. It keeps our skin healthy and helps us think clearly. Many people forget to drink water during the day. They drink coffee or soda instead. But these drinks are not as good as water. If you want to be healthy, always carry a water bottle with you.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-018",
+    "stem": "According to the passage, what do many people drink instead of water?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tea and juice"
+      },
+      {
+        "key": "B",
+        "text": "Coffee and soda"
+      },
+      {
+        "key": "C",
+        "text": "Milk and juice"
+      },
+      {
+        "key": "D",
+        "text": "Tea and coffee"
+      },
+      {
+        "key": "E",
+        "text": "Juice and soda"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Parcada insanlarin su yerine kahve veya gazli icecek (soda) ictiginden bahsediliyor.",
+    "rule_tr": "Detay sorularinda metinde gecen kelimeleri aynen ara.",
+    "tip_tr": "'They drink coffee or soda instead' cumlesini parcada bul!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Drinking water is very important for our health. Doctors say we should drink at least eight glasses of water every day. Water helps our body work well. It keeps our skin healthy and helps us think clearly. Many people forget to drink water during the day. They drink coffee or soda instead. But these drinks are not as good as water. If you want to be healthy, always carry a water bottle with you.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-019",
+    "stem": "What is Ayse's favourite subject?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mathematics"
+      },
+      {
+        "key": "B",
+        "text": "Science"
+      },
+      {
+        "key": "C",
+        "text": "Turkish"
+      },
+      {
+        "key": "D",
+        "text": "English"
+      },
+      {
+        "key": "E",
+        "text": "History"
+      }
+    ],
+    "answer": "D",
+    "explanation_tr": "Ayse'nin en sevdigi dersin Ingilizce oldugu parcada acikca belirtiliyor.",
+    "rule_tr": "Detay sorusunda anahtar kelimeyi parcada bul: 'favourite subject is English'.",
+    "tip_tr": "'Favourite' kelimesini parcada tara ve yanindaki bilgiyi oku!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "My name is Ayse and I live in Istanbul. Every morning, I wake up at seven o'clock. I eat breakfast with my family. Then I take the bus to school. My school starts at half past eight. I have six lessons every day. My favourite subject is English because I want to travel the world. After school, I usually do my homework and play with my cat. I go to bed at ten o'clock.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-020",
+    "stem": "Why does Ayse like English?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "Because her teacher is nice"
+      },
+      {
+        "key": "B",
+        "text": "Because she wants to travel the world"
+      },
+      {
+        "key": "C",
+        "text": "Because it is easy"
+      },
+      {
+        "key": "D",
+        "text": "Because her parents want her to learn it"
+      },
+      {
+        "key": "E",
+        "text": "Because she watches English movies"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Ayse Ingilizceyi seviyor cunku dunyayi gezmek istiyor. Parcada 'because I want to travel the world' diyor.",
+    "rule_tr": "Neden-sonuc sorularinda 'because' kelimesinden sonraki bilgiyi kontrol et.",
+    "tip_tr": "'Because' kelimesini parcada bul, neden belirten cumleyi oku!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "My name is Ayse and I live in Istanbul. Every morning, I wake up at seven o'clock. I eat breakfast with my family. Then I take the bus to school. My school starts at half past eight. I have six lessons every day. My favourite subject is English because I want to travel the world. After school, I usually do my homework and play with my cat. I go to bed at ten o'clock.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-021",
+    "stem": "What does Ayse do after school?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "She watches TV and reads books."
+      },
+      {
+        "key": "B",
+        "text": "She goes to the park and plays football."
+      },
+      {
+        "key": "C",
+        "text": "She does homework and plays with her cat."
+      },
+      {
+        "key": "D",
+        "text": "She visits her friends and goes shopping."
+      },
+      {
+        "key": "E",
+        "text": "She takes a nap and cooks dinner."
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Parcada Ayse'nin okuldan sonra odevini yaptigi ve kedisiyle oynadigi belirtiliyor.",
+    "rule_tr": "Zaman sirasini takip et: 'After school' ile baslayan cumleyi bul.",
+    "tip_tr": "'After school' ifadesini parcada tara!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "My name is Ayse and I live in Istanbul. Every morning, I wake up at seven o'clock. I eat breakfast with my family. Then I take the bus to school. My school starts at half past eight. I have six lessons every day. My favourite subject is English because I want to travel the world. After school, I usually do my homework and play with my cat. I go to bed at ten o'clock.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-022",
+    "stem": "What is the passage mainly about?",
+    "type": "main_idea",
+    "options": [
+      {
+        "key": "A",
+        "text": "Going to the gym every day"
+      },
+      {
+        "key": "B",
+        "text": "The benefits of exercise"
+      },
+      {
+        "key": "C",
+        "text": "How to swim properly"
+      },
+      {
+        "key": "D",
+        "text": "Sleeping problems and solutions"
+      },
+      {
+        "key": "E",
+        "text": "Walking in the park"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Parcanin ana konusu egzersizin faydalaridir. Hem fiziksel hem ruhsal faydalari anlatiliyor.",
+    "rule_tr": "Ana fikir tum parcayi kapsamali, sadece bir detayi degil.",
+    "tip_tr": "Seceneklerin hangisi TUM parcayi ozetliyor? Tek bir detayi degil, butunu dusun!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Exercise is good for everyone. You don't need to go to the gym every day. Walking for thirty minutes is a great exercise. You can walk in the park or around your neighbourhood. Swimming is also very healthy. It is good for your muscles and your heart. When you exercise regularly, you sleep better at night. You also feel happier during the day. Try to exercise at least three times a week.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-023",
+    "stem": "How long should you walk according to the passage?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ten minutes"
+      },
+      {
+        "key": "B",
+        "text": "Twenty minutes"
+      },
+      {
+        "key": "C",
+        "text": "Thirty minutes"
+      },
+      {
+        "key": "D",
+        "text": "Forty-five minutes"
+      },
+      {
+        "key": "E",
+        "text": "One hour"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Parcada otuz dakika yuruyusun harika bir egzersiz oldugu belirtiliyor.",
+    "rule_tr": "Rakam iceren detay sorularinda parcadaki sayiyi dikkatlice oku.",
+    "tip_tr": "'Walking for thirty minutes' ifadesini parcada bul!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Exercise is good for everyone. You don't need to go to the gym every day. Walking for thirty minutes is a great exercise. You can walk in the park or around your neighbourhood. Swimming is also very healthy. It is good for your muscles and your heart. When you exercise regularly, you sleep better at night. You also feel happier during the day. Try to exercise at least three times a week.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-024",
+    "stem": "What happens when you exercise regularly?",
+    "type": "detail",
+    "options": [
+      {
+        "key": "A",
+        "text": "You lose weight quickly."
+      },
+      {
+        "key": "B",
+        "text": "You need to eat more food."
+      },
+      {
+        "key": "C",
+        "text": "You sleep better and feel happier."
+      },
+      {
+        "key": "D",
+        "text": "You get tired easily."
+      },
+      {
+        "key": "E",
+        "text": "You need less water."
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Parcada duzenli egzersiz yapinca geceleri daha iyi uyudugumuz ve gun icinde daha mutlu hissettigimiz belirtiliyor.",
+    "rule_tr": "Sonuc sorularinda 'when' ile baslayan cumlenin devamina bak.",
+    "tip_tr": "'When you exercise regularly' cumlesini bul ve ardindan gelen bilgiyi oku!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Exercise is good for everyone. You don't need to go to the gym every day. Walking for thirty minutes is a great exercise. You can walk in the park or around your neighbourhood. Swimming is also very healthy. It is good for your muscles and your heart. When you exercise regularly, you sleep better at night. You also feel happier during the day. Try to exercise at least three times a week.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-025",
+    "stem": "What is the main purpose of libraries according to the passage?",
+    "type": "main_idea",
+    "options": [
+      {
+        "key": "A",
+        "text": "To sell books to students"
+      },
+      {
+        "key": "B",
+        "text": "To provide a place for studying and reading"
+      },
+      {
+        "key": "C",
+        "text": "To teach students how to use computers"
+      },
+      {
+        "key": "D",
+        "text": "To organize social events"
+      },
+      {
+        "key": "E",
+        "text": "To help students make friends"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Parcada kutuphanelerin ogrenciler icin onemli mekanlar oldugu, kitap okuma ve calisma icin kullanildigi anlatiliyor.",
+    "rule_tr": "Ana amac sorusunda tum parcayi kapsayan en genel ifadeyi sec.",
+    "tip_tr": "Kutuphanelerin ne ISE yaradigi anlatiliyor: okumak ve calismak!",
+    "extra_example": "",
+    "category": "reading",
+    "passage": "Libraries are important places for students. You can find many books there. Some libraries also have computers and the internet. Students go to libraries to study quietly. They can borrow books and take them home. In Turkey, many cities have free public libraries. Children can join special reading programmes at libraries. Reading books helps students learn new words and improve their language skills.",
+    "topic": "reading"
+  },
+  {
+    "id": "mock1-026",
+    "topic": "dialogue",
+    "subtopic": "asking_directions",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "A: Excuse me, could you tell me where the nearest pharmacy is?\nB: _____\nA: Thank you very much!",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sure. Go straight and turn left at the corner."
+      },
+      {
+        "key": "B",
+        "text": "I don't like pharmacies."
+      },
+      {
+        "key": "C",
+        "text": "The weather is nice today."
+      },
+      {
+        "key": "D",
+        "text": "I bought some medicine yesterday."
+      },
+      {
+        "key": "E",
+        "text": "Pharmacies are usually expensive."
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "A kişisi eczane yolunu soruyor. B'nin yol tarif etmesi gerekir. A seçeneği yol tarifi veriyor ve A kişisinin 'Teşekkürler!' demesi bununla uyumlu.",
+    "rule_tr": "Diyalogda boşluktan ÖNCE ve SONRA gelen cümlelere dikkat et, mantıksal bağ kur.",
+    "tip_tr": "Soruya cevap veren ve sonraki cümleyle de uyumlu olan seçeneği bul!",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-027",
+    "topic": "dialogue",
+    "subtopic": "greeting",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "A: Hi! I'm Maria. I just arrived from Spain for the Erasmus programme.\nB: _____\nA: Nice to meet you too! Which department are you in?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Spain is a beautiful country."
+      },
+      {
+        "key": "B",
+        "text": "Welcome! I'm Tom. Nice to meet you!"
+      },
+      {
+        "key": "C",
+        "text": "I don't like exchange students."
+      },
+      {
+        "key": "D",
+        "text": "The programme is very expensive."
+      },
+      {
+        "key": "E",
+        "text": "When does the semester end?"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Maria kendini tanıtıyor ve Erasmus için geldiğini söylüyor. B'nin de kendini tanıtıp hoş geldin demesi beklenir. A kişisinin 'Ben de memnun oldum' demesi B seçeneğiyle uyumlu.",
+    "rule_tr": "Tanışma diyaloglarında karşılıklı isim verme ve 'Nice to meet you' kalıbı kullanılır.",
+    "tip_tr": "Tanışma sahnelerinde karşı tarafın da kendini tanıtmasını bekle.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-028",
+    "topic": "dialogue",
+    "subtopic": "at_doctor",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "Doctor: What seems to be the problem?\nPatient: _____\nDoctor: I see. Let me check your temperature first.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I've had a headache and a sore throat since yesterday."
+      },
+      {
+        "key": "B",
+        "text": "I want to become a doctor."
+      },
+      {
+        "key": "C",
+        "text": "My friend is a nurse."
+      },
+      {
+        "key": "D",
+        "text": "I don't like hospitals."
+      },
+      {
+        "key": "E",
+        "text": "Can I have a glass of water?"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Doktor şikayeti soruyor. Hastanın belirtilerini söylemesi gerekir. A seçeneğinde baş ağrısı ve boğaz ağrısı şikayeti var. Doktorun 'ateşinize bakayım' demesi bu şikayetle uyumlu.",
+    "rule_tr": "Doktor-hasta diyaloglarında hasta önce şikayetini söyler, doktor muayene/tedavi önerir.",
+    "tip_tr": "Doktor 'What seems to be the problem?' dediğinde cevap her zaman bir sağlık şikayeti olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-029",
+    "topic": "dialogue",
+    "subtopic": "shopping",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "Customer: How much is this blue jacket?\nShop assistant: It's 45 euros.\nCustomer: _____\nShop assistant: Of course! The fitting rooms are over there.",
+    "options": [
+      {
+        "key": "A",
+        "text": "That's too expensive. I'll leave it."
+      },
+      {
+        "key": "B",
+        "text": "Can I try it on, please?"
+      },
+      {
+        "key": "C",
+        "text": "I don't wear jackets."
+      },
+      {
+        "key": "D",
+        "text": "What time does the shop close?"
+      },
+      {
+        "key": "E",
+        "text": "Blue is not my favourite colour."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Müşteri fiyatı öğrendikten sonra denemek istiyor. Satıcının 'Tabii ki! Deneme kabinleri orada' demesi, müşterinin deneme isteğiyle uyumlu.",
+    "rule_tr": "Alışveriş diyaloglarında 'Can I try it on?' = 'Deneyebilir miyim?' sık kullanılan bir kalıptır.",
+    "tip_tr": "Sonraki cümlede 'fitting rooms' (deneme kabini) geçiyorsa, boşlukta deneme isteği olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-030",
+    "topic": "dialogue",
+    "subtopic": "at_restaurant",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "Waiter: Are you ready to order?\nCustomer: Yes, I'd like the grilled chicken, please.\nWaiter: _____\nCustomer: Just water, please.",
+    "options": [
+      {
+        "key": "A",
+        "text": "We don't have chicken today."
+      },
+      {
+        "key": "B",
+        "text": "The chicken is very popular."
+      },
+      {
+        "key": "C",
+        "text": "And what would you like to drink?"
+      },
+      {
+        "key": "D",
+        "text": "The restaurant closes at 10."
+      },
+      {
+        "key": "E",
+        "text": "Would you like to pay now?"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Müşteri yemek siparişini verdi. Garsonun içecek sorması doğal akış. Müşterinin 'sadece su' demesi içecek sorusuyla uyumlu.",
+    "rule_tr": "Restoran diyaloglarında sipariş sırası: yemek -> içecek -> tatlı şeklinde ilerler.",
+    "tip_tr": "Cevap 'Just water' ise soru mutlaka içecekle ilgili olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-031",
+    "topic": "dialogue",
+    "subtopic": "making_plans",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "A: Do you want to go to the cinema tonight?\nB: _____\nA: Great! Let's meet at 7 o'clock in front of the cinema.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I went to the cinema last week."
+      },
+      {
+        "key": "B",
+        "text": "Sure, that sounds like fun!"
+      },
+      {
+        "key": "C",
+        "text": "I don't know where the cinema is."
+      },
+      {
+        "key": "D",
+        "text": "How much are the tickets?"
+      },
+      {
+        "key": "E",
+        "text": "I prefer watching films at home."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "A kişisi sinemaya gitmeyi teklif ediyor. A'nın 'Harika! Saat 7'de buluşalım' demesi, B'nin teklifi kabul ettiğini gösterir. B seçeneği kabul ifadesi.",
+    "rule_tr": "Plan yapma diyaloglarında 'Sure!' veya 'Sounds great!' kabul anlamına gelir.",
+    "tip_tr": "Sonraki cümlede buluşma detayı varsa, boşlukta kabul ifadesi olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-032",
+    "topic": "dialogue",
+    "subtopic": "at_hospital",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "Receptionist: Good morning. How can I help you?\nPatient: I need to see a doctor. I've been feeling dizzy.\nReceptionist: _____\nPatient: Yes, my name is Anna Schmidt. S-C-H-M-I-D-T.",
+    "options": [
+      {
+        "key": "A",
+        "text": "You should drink more water."
+      },
+      {
+        "key": "B",
+        "text": "Do you have an appointment?"
+      },
+      {
+        "key": "C",
+        "text": "Can I have your name, please?"
+      },
+      {
+        "key": "D",
+        "text": "The doctor is not available today."
+      },
+      {
+        "key": "E",
+        "text": "Dizziness is not serious."
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Hasta doktora görünmek istiyor. Resepsiyonistin isim sorması beklenir. Hastanın ismini ve harflerini söylemesi, isim sorusuyla uyumlu.",
+    "rule_tr": "Hastane resepsiyonunda ilk adım genellikle hasta bilgilerini almaktır (isim, randevu vb.).",
+    "tip_tr": "Cevap isim ve harf söylemeyi içeriyorsa, soru mutlaka isim soran bir soru olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-033",
+    "topic": "dialogue",
+    "subtopic": "at_university",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "Student: Excuse me, Professor. When is the deadline for the essay?\nProfessor: _____\nStudent: OK, so I still have two weeks. Thank you.",
+    "options": [
+      {
+        "key": "A",
+        "text": "The essay should be about 2000 words."
+      },
+      {
+        "key": "B",
+        "text": "It's due on March 15th."
+      },
+      {
+        "key": "C",
+        "text": "You should start writing soon."
+      },
+      {
+        "key": "D",
+        "text": "I haven't read your last essay yet."
+      },
+      {
+        "key": "E",
+        "text": "Essays are an important part of the grade."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Öğrenci ödevin son teslim tarihini soruyor. Profesörün tarih vermesi gerekir. Öğrencinin 'iki haftam var' demesi belirli bir tarih cevabıyla uyumlu.",
+    "rule_tr": "'When is the deadline?' sorusuna tarih içeren bir cevap beklenir.",
+    "tip_tr": "Sonraki cümlede zaman hesabı varsa ('two weeks'), boşlukta mutlaka tarih olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-034",
+    "topic": "dialogue",
+    "subtopic": "phone_call",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "A: Hello, this is the student health centre. How can I help?\nB: Hi, I'd like to make an appointment with a doctor.\nA: _____\nB: Thursday afternoon would be perfect.",
+    "options": [
+      {
+        "key": "A",
+        "text": "What are your symptoms?"
+      },
+      {
+        "key": "B",
+        "text": "We are closed on weekends."
+      },
+      {
+        "key": "C",
+        "text": "Is Thursday morning or afternoon better for you?"
+      },
+      {
+        "key": "D",
+        "text": "You need to come in person."
+      },
+      {
+        "key": "E",
+        "text": "Which doctor would you like to see?"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "B randevu almak istiyor. A'nın uygun zaman sorması gerekir. B'nin 'Perşembe öğleden sonra' demesi, zaman tercih sorusuyla uyumlu.",
+    "rule_tr": "Randevu alma diyaloglarında gün ve saat tercihi sorulur.",
+    "tip_tr": "Cevap belirli bir gün/saat içeriyorsa, soru zaman tercihi soran bir soru olmalı.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-035",
+    "topic": "dialogue",
+    "subtopic": "apologizing",
+    "level": "A2",
+    "category": "dialogue",
+    "type": "dialogue_completion",
+    "stem": "A: You're late again! The class started 20 minutes ago.\nB: _____\nA: Well, try to be on time next week, OK?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I'm really sorry. The bus was delayed."
+      },
+      {
+        "key": "B",
+        "text": "I don't think the class is important."
+      },
+      {
+        "key": "C",
+        "text": "What did I miss?"
+      },
+      {
+        "key": "D",
+        "text": "The traffic is always bad here."
+      },
+      {
+        "key": "E",
+        "text": "Can you repeat what you said?"
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "A kişisi B'nin geç kaldığından şikayet ediyor. B'nin özür dilemesi ve neden açıklaması gerekir. A'nın 'gelecek hafta zamanında gel' demesi, özürle uyumlu bir yumuşak tepki.",
+    "rule_tr": "Geç kalma durumunda özür + mazeret vermek sosyal olarak beklenen davranıştır.",
+    "tip_tr": "Şikayet/uyarıya karşı en uygun cevap genellikle özür + açıklama kombinasyonudur.",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-036",
+    "topic": "situational",
+    "subtopic": "offering_help",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "You see an elderly person struggling to carry heavy bags at the supermarket. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Can I give you a hand with those bags?"
+      },
+      {
+        "key": "B",
+        "text": "Those bags look really expensive."
+      },
+      {
+        "key": "C",
+        "text": "I never carry heavy bags myself."
+      },
+      {
+        "key": "D",
+        "text": "Where did you buy those bags?"
+      },
+      {
+        "key": "E",
+        "text": "You should buy a shopping trolley."
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Yaşlı biri ağır çantalarla zorlanıyor. 'Can I give you a hand?' = 'Size yardım edebilir miyim?' Bu durumda yardım teklif etmek en uygun davranıştır.",
+    "rule_tr": "give someone a hand = birine yardım etmek. Yardım teklif etmek için 'Can I help you?' veya 'Can I give you a hand?' kullanılır.",
+    "tip_tr": "Durumu Türkçe düşün: 'Ben bu durumda ne derdim?' Sonra İngilizce karşılığını bul.",
+    "extra_example": "Would you like me to help you? (Size yardım etmemi ister misiniz?)"
+  },
+  {
+    "id": "mock1-037",
+    "topic": "situational",
+    "subtopic": "making_request",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "You are in class and you can't hear the teacher clearly because the window is open and there is a lot of noise outside. What would you say to the teacher?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I don't like this classroom."
+      },
+      {
+        "key": "B",
+        "text": "Could you please close the window? It's quite noisy outside."
+      },
+      {
+        "key": "C",
+        "text": "The weather is very bad today."
+      },
+      {
+        "key": "D",
+        "text": "I think we should have class outside."
+      },
+      {
+        "key": "E",
+        "text": "Can you speak faster, please?"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Dışarıdaki gürültü yüzünden öğretmeni duyamıyorsun. Pencereyi kapatmasını kibarca istemek en uygun davranış. 'Could you please...?' kibarca rica etme kalıbıdır.",
+    "rule_tr": "'Could you please...?' = kibarca rica etme kalıbı. Birinden bir şey istemenin en kibar yolu.",
+    "tip_tr": "Sınıf ortamında öğretmene her zaman kibar bir dil kullan: 'Could you...?' veya 'Would you mind...?'",
+    "extra_example": "Would you mind closing the window? (Pencereyi kapatır mısınız?)"
+  },
+  {
+    "id": "mock1-038",
+    "topic": "situational",
+    "subtopic": "apologizing",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "You accidentally step on someone's foot on the bus. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The bus is too crowded."
+      },
+      {
+        "key": "B",
+        "text": "You should move your feet."
+      },
+      {
+        "key": "C",
+        "text": "I'm so sorry! Are you OK?"
+      },
+      {
+        "key": "D",
+        "text": "It wasn't my fault."
+      },
+      {
+        "key": "E",
+        "text": "The bus driver is driving too fast."
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Birinin ayağına yanlışlıkla bastın. 'I'm so sorry! Are you OK?' = 'Çok özür dilerim! İyi misiniz?' Kazara yapılan bir şey için hemen özür dilemek gerekir.",
+    "rule_tr": "Kazara bir şey yaptığında hemen 'I'm sorry' de. 'Are you OK?' ile durumunu sor.",
+    "tip_tr": "Kaza durumlarında: özür + karşı tarafın durumunu sormak her zaman doğru cevaptır.",
+    "extra_example": "Oh, I'm terribly sorry! I didn't mean to do that. (Çok özür dilerim! Bilerek yapmadım.)"
+  },
+  {
+    "id": "mock1-039",
+    "topic": "situational",
+    "subtopic": "thanking",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "Your neighbour helped you carry your new furniture up the stairs. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The furniture was not that heavy."
+      },
+      {
+        "key": "B",
+        "text": "Thank you so much for your help! I really appreciate it."
+      },
+      {
+        "key": "C",
+        "text": "I should buy lighter furniture next time."
+      },
+      {
+        "key": "D",
+        "text": "Do you want to see my new apartment?"
+      },
+      {
+        "key": "E",
+        "text": "I moved here last week."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Komşun mobilya taşımana yardım etti. 'Thank you so much! I really appreciate it.' = 'Çok teşekkür ederim! Gerçekten minnettarım.' Yardım sonrası teşekkür etmek gerekir.",
+    "rule_tr": "'I really appreciate it' = 'Gerçekten minnettarım.' Sıradan bir 'thanks' yerine daha samimi bir teşekkür.",
+    "tip_tr": "Büyük bir yardım için sıradan 'thanks' yerine 'Thank you so much / I really appreciate it' kullan.",
+    "extra_example": "That's very kind of you! (Çok naziksiniz!)"
+  },
+  {
+    "id": "mock1-040",
+    "topic": "situational",
+    "subtopic": "asking_permission",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "You want to take a photo of a beautiful painting in a museum. What would you say to the museum guard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Excuse me, is it OK if I take a photo of this painting?"
+      },
+      {
+        "key": "B",
+        "text": "This is a very beautiful painting."
+      },
+      {
+        "key": "C",
+        "text": "Who painted this?"
+      },
+      {
+        "key": "D",
+        "text": "How much does this painting cost?"
+      },
+      {
+        "key": "E",
+        "text": "I want to buy a copy of this painting."
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Müzede bir tablonun fotoğrafını çekmek istiyorsun. Güvenlikten izin istemek gerekir. 'Is it OK if I...?' = '...yapabilir miyim?' izin sorma kalıbı.",
+    "rule_tr": "'Is it OK if I...?' veya 'May I...?' = izin isteme kalıpları. Kamusal alanlarda izin sormak kibarlık kuralıdır.",
+    "tip_tr": "Bir şey yapmadan önce izin sorman gereken yerlerde: 'Is it OK if I...?' veya 'May I...?' kullan.",
+    "extra_example": "May I take a photo here? (Burada fotoğraf çekebilir miyim?)"
+  },
+  {
+    "id": "mock1-041",
+    "topic": "situational",
+    "subtopic": "making_suggestion",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "Your friend is bored at home on a rainy Sunday. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I'm bored too."
+      },
+      {
+        "key": "B",
+        "text": "It always rains on Sundays."
+      },
+      {
+        "key": "C",
+        "text": "Why don't we watch a movie together?"
+      },
+      {
+        "key": "D",
+        "text": "You should clean your house."
+      },
+      {
+        "key": "E",
+        "text": "I don't like rainy days either."
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Arkadaşın sıkılıyor. 'Why don't we watch a movie?' = 'Neden birlikte film izlemiyoruz?' Bir öneri sunmak en uygun cevap.",
+    "rule_tr": "'Why don't we...?' = öneri yapmak için kullanılan yaygın bir kalıp.",
+    "tip_tr": "Biri sıkıldığını söylüyorsa, en iyi cevap bir aktivite önerisidir.",
+    "extra_example": "How about playing a board game? (Masa oyunu oynamaya ne dersin?)"
+  },
+  {
+    "id": "mock1-042",
+    "topic": "situational",
+    "subtopic": "expressing_surprise",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "Your classmate tells you that she got the highest grade in the class on the English exam. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The exam was easy for everyone."
+      },
+      {
+        "key": "B",
+        "text": "Wow, that's amazing! Congratulations!"
+      },
+      {
+        "key": "C",
+        "text": "I didn't study for the exam."
+      },
+      {
+        "key": "D",
+        "text": "What grade did you get?"
+      },
+      {
+        "key": "E",
+        "text": "English exams are always difficult."
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Sınıf arkadaşın en yüksek notu aldığını söylüyor. Şaşkınlık ve tebrik ifadesi en uygun tepki. 'Wow, that's amazing!' = 'Vay, harika!'",
+    "rule_tr": "'Wow!' şaşkınlık, 'Congratulations!' tebrik ifadesidir. İyi haberlere bu kombinasyon uygundur.",
+    "tip_tr": "Birisi güzel bir başarı paylaştığında: şaşkınlık + tebrik = doğru tepki.",
+    "extra_example": "Well done! You must be so proud! (Aferin! Çok gurur duyuyor olmalısın!)"
+  },
+  {
+    "id": "mock1-043",
+    "topic": "situational",
+    "subtopic": "giving_advice",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "Your friend has a bad cough but doesn't want to go to the doctor. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "If I were you, I'd see a doctor. That cough doesn't sound good."
+      },
+      {
+        "key": "B",
+        "text": "I had a cough last week too."
+      },
+      {
+        "key": "C",
+        "text": "Doctors are very expensive."
+      },
+      {
+        "key": "D",
+        "text": "You'll probably get better by tomorrow."
+      },
+      {
+        "key": "E",
+        "text": "I don't like going to the doctor either."
+      }
+    ],
+    "answer": "A",
+    "explanation_tr": "Arkadaşın kötü öksürüyor ama doktora gitmek istemiyor. 'If I were you, I'd see a doctor' = 'Yerinde olsam doktora giderdim.' Sağlık konusunda tavsiye vermek doğru.",
+    "rule_tr": "'If I were you, I'd...' = 'Yerinde olsam...' Tavsiye vermek için kullanılan güçlü bir kalıp.",
+    "tip_tr": "Sağlık sorunlarında tavsiye veren seçenek her zaman doğru cevaptır.",
+    "extra_example": "You should see a doctor as soon as possible. (En kısa sürede doktora gitmelisin.)"
+  },
+  {
+    "id": "mock1-044",
+    "topic": "situational",
+    "subtopic": "congratulating",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "Your Erasmus friend has just received a scholarship for her master's degree. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "How much money does the scholarship give you?"
+      },
+      {
+        "key": "B",
+        "text": "Scholarships are hard to get."
+      },
+      {
+        "key": "C",
+        "text": "Congratulations! You totally deserve it!"
+      },
+      {
+        "key": "D",
+        "text": "I applied for a scholarship too but didn't get it."
+      },
+      {
+        "key": "E",
+        "text": "When does the master's programme start?"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Erasmus arkadaşın burs kazandı. 'Congratulations! You totally deserve it!' = 'Tebrikler! Tamamen hak ediyorsun!' Başarıyı kutlamak doğru tepki.",
+    "rule_tr": "'Congratulations!' = 'Tebrikler!' 'You deserve it!' = 'Hak ediyorsun!' Başarı haberlerine standart tepki.",
+    "tip_tr": "Biri bir başarı paylaştığında her zaman tebrik et, soru sorma veya kendi durumundan bahsetme.",
+    "extra_example": "I'm so happy for you! (Senin adına çok mutluyum!)"
+  },
+  {
+    "id": "mock1-045",
+    "topic": "situational",
+    "subtopic": "refusing_politely",
+    "level": "A2",
+    "category": "situational",
+    "type": "situational_expression",
+    "stem": "A classmate invites you to a party tonight, but you have an important exam tomorrow morning. What would you say?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Parties are boring."
+      },
+      {
+        "key": "B",
+        "text": "I'd love to, but I can't. I have an exam tomorrow and I need to study tonight."
+      },
+      {
+        "key": "C",
+        "text": "I'll think about it."
+      },
+      {
+        "key": "D",
+        "text": "Who else is coming to the party?"
+      },
+      {
+        "key": "E",
+        "text": "Sure, let's go!"
+      }
+    ],
+    "answer": "B",
+    "explanation_tr": "Parti davetini reddetmen gerekiyor çünkü yarın sınavın var. 'I'd love to, but I can't' = 'Çok isterdim ama yapamam.' Kibar red + neden açıklaması.",
+    "rule_tr": "'I'd love to, but...' = 'Çok isterdim ama...' Kibarca reddetme kalıbı. Neden ekle ki karşı taraf kırılmasın.",
+    "tip_tr": "Reddetme sorularında: kibar ifade + geçerli mazeret = doğru cevap.",
+    "extra_example": "I'm afraid I can't make it tonight. (Korkarım bu gece gelemem.)"
+  },
+  {
+    "id": "mock1-046",
+    "topic": "irrelevant",
+    "subtopic": "health",
+    "level": "A2",
+    "category": "irrelevant",
+    "type": "irrelevant_sentence",
+    "stem": "(I) Eating fruit and vegetables is very important for our health. (II) They give us vitamins and minerals that our body needs. (III) Istanbul is the largest city in Turkey with a population of over 15 million. (IV) Doctors say we should eat at least five portions of fruit and vegetables every day. (V) A balanced diet helps us stay strong and healthy.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Paragraf saglikli beslenme ve meyve-sebze tuketimi hakkinda. Ancak III. cumle Istanbul'un nufusundan bahsediyor. Bu bilgi paragrafin konusuyla ilgisiz.",
+    "rule_tr": "Her cumlenin ana konuyla baglantisinI kontrol et. Konudan sapan cumleyi bul.",
+    "tip_tr": "Paragrafin konusu SAGLIK. Istanbul'un nufusu bu konuyla ilgisiz!",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-047",
+    "topic": "irrelevant",
+    "subtopic": "education",
+    "level": "A2",
+    "category": "irrelevant",
+    "type": "irrelevant_sentence",
+    "stem": "(I) Learning a foreign language has many benefits. (II) It helps people communicate with others from different countries. (III) Swimming is a great sport that strengthens your muscles. (IV) Knowing a second language can also help you find a better job. (V) Many schools now teach English from a young age.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Paragraf yabanci dil ogrenmenin faydalari hakkinda. Ancak III. cumle yuzmenin bir spor oldugunu ve kaslari guclendirdigini soyluyor. Bu bilgi yabanci dil konusuyla ilgisiz.",
+    "rule_tr": "Her cumlenin ana konuyla baglantisinI kontrol et.",
+    "tip_tr": "Konu YABANCI DIL. Yuzme sporla ilgili, dil ogrenimiyle degil!",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-048",
+    "topic": "irrelevant",
+    "subtopic": "daily_life",
+    "level": "A2",
+    "category": "irrelevant",
+    "type": "irrelevant_sentence",
+    "stem": "(I) Public transport is very useful in big cities. (II) Buses, trams, and metro lines help people travel quickly. (III) The Sahara Desert is the largest hot desert in the world. (IV) Using public transport is also cheaper than driving a car. (V) It reduces traffic and helps protect the environment.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Paragraf toplu tasimanin buyuk sehirlerdeki faydalari hakkinda. Ancak III. cumle Sahra Colu'nden bahsediyor. Bu bilgi toplu tasima konusuyla ilgisiz.",
+    "rule_tr": "Paragrafin konusunu belirle, sonra her cumlenin bu konuyla iliskisini kontrol et.",
+    "tip_tr": "Konu TOPLU TASIMA. Sahra Colu bu konuyla hic alakasi yok!",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-049",
+    "topic": "irrelevant",
+    "subtopic": "technology",
+    "level": "A2",
+    "category": "irrelevant",
+    "type": "irrelevant_sentence",
+    "stem": "(I) Smartphones have become a part of our daily lives. (II) We use them to call friends, take photos, and search the internet. (III) Coffee was first discovered in Ethiopia many centuries ago. (IV) Most smartphones also have GPS, so we can easily find directions. (V) New models come out every year with better features.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "answer": "C",
+    "explanation_tr": "Paragraf akilli telefonlar ve gunluk hayattaki yeri hakkinda. Ancak III. cumle kahvenin Etiyopya'da kesfedilmesinden bahsediyor. Bu bilgi akilli telefon konusuyla ilgisiz.",
+    "rule_tr": "Konudan tamamen farkli bir alana atlayan cumleyi bul.",
+    "tip_tr": "Konu AKILLI TELEFONLAR. Kahvenin tarihi bu konuyla alakasiz!",
+    "extra_example": ""
+  },
+  {
+    "id": "mock1-050",
+    "topic": "irrelevant",
+    "subtopic": "health",
+    "level": "A2",
+    "category": "irrelevant",
+    "type": "irrelevant_sentence",
+    "stem": "(I) Washing your hands regularly is one of the best ways to stay healthy. (II) It removes germs and bacteria that can make you sick. (III) You should wash your hands before eating and after using the toilet. (IV) Leonardo da Vinci painted the Mona Lisa in the 16th century. (V) Using soap and water for at least twenty seconds is most effective.",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "answer": "D",
+    "explanation_tr": "Paragraf el yikamanin oneminden bahsediyor. Ancak IV. cumle Leonardo da Vinci'nin Mona Lisa tablosunu cizmesinden bahsediyor. Bu bilgi el yikama ve hijyen konusuyla tamamen ilgisiz.",
+    "rule_tr": "Paragrafin ana temasini belirle ve her cumleyi bu temayla karsilastir.",
+    "tip_tr": "Konu EL YIKAMA ve HIJYEN. Mona Lisa tablosu sanat konusu, hijyenle ilgisi yok!",
+    "extra_example": ""
+  }
+]

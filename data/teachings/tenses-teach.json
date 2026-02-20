@@ -1,0 +1,71 @@
+{
+  "topic": "tenses",
+  "title": "Zamanlar (Tenses)",
+  "description_tr": "Ingilizce'de zamanlar, bir eylemin ne zaman gerceklestigini ve tamamlanip tamamlanmadigini gosterir. 12 temel zaman vardir ve her birinin kendine ozgu yapisi, sinyal kelimeleri ve kullanim alanlari vardir. Erasmus sinavlarinda en cok karsilasilan gramer konusudur.",
+  "formula": "Subject + Verb form + Object (her zamanin kendi fiil bicimi vardir)",
+  "signals": ["always", "every day", "usually", "now", "at the moment", "yesterday", "last week", "ago", "since", "for", "already", "yet", "just", "tomorrow", "next week", "while", "when"],
+  "turkish_logic": "Turkce'deki '-yor' (simdiki zaman), '-di' (gecmis), '-mis' (duyulan gecmis), '-ecek/-acak' (gelecek), '-ir/-ar' (genis zaman) eklerine benzer. Ingilizce'de ek yerine yardimci fiiller (do, does, did, have, has, will, be) kullanilir. Ornegin 'I play' = 'Ben oynarim' (genis), 'I am playing' = 'Ben oynuyorum' (simdiki).",
+  "key_rules": [
+    "Present Simple: Her gun tekrarlanan eylemler veya genel gercekler. He/she/it icin fiile -s/-es eklenir. 'The nurse checks the patient every morning.'",
+    "Present Continuous: Su anda devam eden eylemler. am/is/are + V-ing. 'The doctor is examining the patient right now.'",
+    "Present Perfect: Gecmiste baslayip simdiyle baglantisi olan eylemler. have/has + V3. 'The surgeon has performed 200 operations.'",
+    "Present Perfect Continuous: Gecmiste baslayip hala devam eden eylemler (sure vurgusu). have/has + been + V-ing. 'She has been studying medicine for 5 years.'",
+    "Past Simple: Gecmiste baslayip biten eylemler. V2 (duzensiz fiillere dikkat). 'The patient recovered last week.'",
+    "Past Continuous: Gecmiste belirli bir anda devam eden eylem. was/were + V-ing. 'The nurse was preparing the injection when the alarm rang.'",
+    "Past Perfect: Gecmiste bir eylemden once olan baska bir eylem. had + V3. 'The patient had already left before the doctor arrived.'",
+    "Future Simple: Gelecekte yapilacak eylemler (ani karar, tahmin). will + V1. 'The test results will be ready tomorrow.'",
+    "Going to Future: Planlanmis gelecek eylemler veya kanitli tahmin. am/is/are + going to + V1. 'The hospital is going to hire new nurses next month.'"
+  ],
+  "examples": [
+    {
+      "en": "The patient has been waiting for two hours.",
+      "tr": "Hasta iki saattir bekliyor.",
+      "why": "'for two hours' sure belirteci var ve eylem hala devam ediyor. Sure vurgusu oldugu icin Present Perfect Continuous kullanilir."
+    },
+    {
+      "en": "Nurses check vital signs every four hours.",
+      "tr": "Hemsireler her dort saatte bir yasam belirtilerini kontrol eder.",
+      "why": "'every four hours' tekrar belirteci var. Rutin eylem oldugu icin Present Simple kullanilir."
+    },
+    {
+      "en": "The surgeon is performing an emergency operation right now.",
+      "tr": "Cerrah su anda acil bir ameliyat yapiyor.",
+      "why": "'right now' su anda anlamina gelir. Eylem su an devam ettigi icin Present Continuous kullanilir."
+    },
+    {
+      "en": "She visited the dentist last Monday.",
+      "tr": "Gecen pazartesi dis doktoruna gitti.",
+      "why": "'last Monday' gecmiste belli bir zamani isaret eder. Tamamlanmis gecmis eylem oldugu icin Past Simple kullanilir."
+    },
+    {
+      "en": "The doctor was explaining the diagnosis when the phone rang.",
+      "tr": "Doktor teshisi acikliyordu, tam o sirada telefon caldi.",
+      "why": "Devam eden eylem (was explaining) + ani eylem (rang). Iki gecmis eylem birbiriyle kesistiginde Past Continuous + Past Simple kullanilir."
+    },
+    {
+      "en": "The hospital has already discharged 50 patients this week.",
+      "tr": "Hastane bu hafta zaten 50 hastayi taburcu etti.",
+      "why": "'already' ve 'this week' — gecmiste olan ama simdiyle baglantili eylem. Present Perfect kullanilir."
+    },
+    {
+      "en": "The patient had taken the wrong medication before the nurse noticed.",
+      "tr": "Hemsire fark etmeden once hasta yanlis ilaci almisti.",
+      "why": "Iki gecmis eylemden once olan icin Past Perfect (had taken), sonra olan icin Past Simple (noticed) kullanilir."
+    },
+    {
+      "en": "The new clinic will open next September.",
+      "tr": "Yeni klinik gelecek eylulde acilacak.",
+      "why": "'next September' gelecek zamani gosterir. Gelecekle ilgili bilgi/tahmin icin Future Simple (will) kullanilir."
+    }
+  ],
+  "tips": [
+    "'Yesterday, last week, ago, in 2020' gordugun zaman hemen Past Simple dusun! Bu kelimeler neredeyse her zaman Past Simple ile gelir.",
+    "'Since, for, already, yet, just, ever, never' gordugun zaman Present Perfect dusun! 'Since' belirli bir baslangic noktasi, 'for' sure belirtir.",
+    "'Now, right now, at the moment, currently' gordugun zaman Present Continuous dusun! Bu kelimeler su anda devam eden eylemi gosterir.",
+    "'Always, usually, often, sometimes, never, every day/week/month' gordugun zaman Present Simple dusun! Rutin ve genel gercekleri anlatir.",
+    "'While' gordugun zaman Past Continuous dusun! 'While I was sleeping' gibi yapilar cok cikar.",
+    "'By the time, before, after' ile iki gecmis eylem varsa once olan icin Past Perfect (had + V3) kullan.",
+    "Sinav taktigi: Once sinyal kelimesini bul, sonra zamani sec. Sinyal kelimesi zamanin %80'ini belirler.",
+    "'Going to' ile 'will' farki: Plan varsa going to, ani karar veya tahmin ise will kullan."
+  ]
+}

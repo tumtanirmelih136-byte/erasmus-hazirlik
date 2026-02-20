@@ -1,0 +1,54 @@
+{
+  "topic": "relative-clauses",
+  "title": "Sifat Cumleleri (Relative Clauses)",
+  "description_tr": "Relative clause'lar (sifat cumleleri), bir ismi tanimlayan veya hakkinda ek bilgi veren yan cumlelerdir. 'who, which, that, where, when, whose' gibi baglac zamirleri ile baslar. Sinavlarda en cok hangi zamirin kullanilacagi ve virgul (comma) kurali sorulur.",
+  "formula": "Isim + relative pronoun (who/which/that/where/when/whose) + yan cumle",
+  "signals": ["who", "which", "that", "where", "when", "whose", "whom"],
+  "turkish_logic": "Turkce'de '-en, -an, -digi, -ecegi' sifat-fiil ekleriyle yapilir: 'Beni muayene eden doktor' = 'The doctor who examined me'. Turkce'de tek kelimelik ek ile cozulen yapi, Ingilizce'de bir yan cumle (clause) olarak ifade edilir. 'who = kisi icin', 'which = nesne/hayvan icin', 'where = yer icin' olarak dusun.",
+  "key_rules": [
+    "WHO: Insanlar icin kullanilir. 'The doctor who treated me was very kind.' (Beni tedavi eden doktor cok nazikti.)",
+    "WHICH: Nesneler ve hayvanlar icin kullanilir. 'The medicine which was prescribed is expensive.' (Recete edilen ilac pahali.)",
+    "THAT: Hem insanlar hem nesneler icin kullanilir (defining clause'larda). 'The nurse that helped me was from Italy.' (Bana yardim eden hemsire Italya'dandı.)",
+    "WHERE: Yer belirtir. 'The hospital where I was born is closing.' (Dogdugum hastane kapaniyor.)",
+    "WHEN: Zaman belirtir. 'I remember the day when I graduated from medical school.' (Tip fakultesinden mezun oldugum gunu hatirliyorum.)",
+    "WHOSE: Sahiplik belirtir (kimin). 'The patient whose blood type is rare needs a donor.' (Kan grubu nadir olan hastanin donore ihtiyaci var.)",
+    "DEFINING (Tanimlayan): Virgul YOK. Ismi tanimlar, cikarilirsa anlam bozulur. 'The nurse who works nights is my sister.' (that kullanilabilir)",
+    "NON-DEFINING (Tanimlamayan): Virgul VAR. Ek bilgi verir, cikarilsa anlam bozulmaz. 'Dr. Ayse, who is a cardiologist, will see you.' (that KULLANILAMAZ)"
+  ],
+  "examples": [
+    {
+      "en": "The surgeon who performed the operation is world-famous.",
+      "tr": "Ameliyati yapan cerrah dunya capinda unlu.",
+      "why": "'who' insan icin kullaniliyor. Defining clause (virgul yok) cunku hangi cerrah oldugunu tanimliyor. 'that' de kullanilabilir."
+    },
+    {
+      "en": "The stethoscope, which was invented in 1816, is still used today.",
+      "tr": "1816'da icat edilen stetoskop bugun hala kullaniliyor.",
+      "why": "Virgul var, bu non-defining clause. Ek bilgi veriyor (icat tarihi). 'which' yerine 'that' KULLANILAMAZ cunku non-defining."
+    },
+    {
+      "en": "The hospital where she works has 500 beds.",
+      "tr": "Onun calistigi hastanenin 500 yatagi var.",
+      "why": "'where' yer bildirmek icin kullaniliyor. 'in which' de ayni anlama gelir: 'The hospital in which she works...'."
+    },
+    {
+      "en": "The patient whose test results are abnormal should see a specialist.",
+      "tr": "Test sonuclari anormal olan hasta bir uzmana gormeli.",
+      "why": "'whose' sahiplik bildiriyor: test sonuclari kimin? Hastanin. 'whose' hem insanlar hem nesneler icin kullanilabilir."
+    },
+    {
+      "en": "The day when the hospital opened was unforgettable.",
+      "tr": "Hastanenin acildigi gun unutulmazdi.",
+      "why": "'when' zaman bildirmek icin kullaniliyor. 'on which' de ayni anlama gelir: 'The day on which the hospital opened...'."
+    }
+  ],
+  "tips": [
+    "Insan = WHO/THAT, Nesne = WHICH/THAT, Yer = WHERE, Zaman = WHEN, Sahiplik = WHOSE. Bu eslestirmeyi ezberle!",
+    "Non-defining clause'larda (virgullu) ASLA 'that' kullanma! 'My mother, that is a nurse' YANLIS. 'My mother, who is a nurse' DOGRU.",
+    "Defining clause'larda 'that' her zaman kullanilabilir ve konusma dilinde tercih edilir. 'The book that I read' = 'The book which I read'.",
+    "Sinav taktigi: Virgul varsa non-defining (that olmaz). Virgul yoksa defining (that olabilir). Once virgule bak!",
+    "'Whose'dan sonra ISIM gelir, fiil degil! 'The man whose car is red' DOGRU. 'Whose' = onun/kimin ... -si/-i.",
+    "'Where' yerine 'in which/at which', 'when' yerine 'on which/in which' kullanilabilir. Sinavda bu alternatifleri bilin.",
+    "Relative pronoun nesne konumundaysa defining clause'larda dusurulur: 'The doctor (who/that) I visited' — who/that olmadan da dogru."
+  ]
+}

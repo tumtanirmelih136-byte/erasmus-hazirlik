@@ -1,0 +1,54 @@
+{
+  "topic": "phrasal_verbs",
+  "title": "Deyimsel Fiiller (Phrasal Verbs)",
+  "description_tr": "Phrasal verb = fiil + edat/zarf birlesimidir ve anlam genellikle tek tek kelimelerin anlamından farklidir. Ornegin 'give up' = pes etmek (give = vermek ve up = yukari ile alakasi yok). Saglik, gunluk yasam ve akademik baglamda en sik kullanilan phrasal verb'leri ogrenmek Erasmus sinavinda kritiktir. Ozellikle saglik alaninda 'come down with', 'pass out', 'get over' gibi ifadeler cok cikar.",
+  "formula": "fiil + zarf/edat = yeni anlam | Ayrilabilir (separable): turn the light off / turn off the light | Ayrilamaz (inseparable): look after the patient (ASLA: look the patient after)",
+  "signals": ["get over", "come down with", "pass out", "break out", "carry out", "look into", "bring up", "turn up", "work out", "give up"],
+  "turkish_logic": "Turkce'de de benzer yapilar var: 'isi birakmak' (quit/give up), 'hastaligi atlatmak' (get over). Ama Ingilizce'de bu yapilar cok daha yaygin ve sinavlarda bosluk doldurma ile test edilir. Anahtar: fiil+edat kombinasyonunu bir butun olarak ezberle.",
+  "key_rules": [
+    "SAGLIK PHRASAL VERBS: come down with (hastaliga yakalanmak), get over (atlatmak/iyilesmek), pass out (bayilmak), throw up (kusmak), break out (patlak vermek — salgın), come round/come to (ayilmak), fight off (hastalikla savunmak), swell up (sismek)",
+    "GUNLUK YASAM: get up (kalkmak), wake up (uyanmak), turn on/off (acmak/kapatmak), put on (giymek), take off (cikarmak), find out (ogrenmek), give up (pes etmek/birakmak), run out of (tukenmek)",
+    "AKADEMIK/RESMI: carry out (yurutmek — carry out research), look into (arastirmak), bring up (gundeme getirmek), point out (belirtmek), figure out (cozmek/anlamak), come up with (bulmak/uretmek), turn out (sonuclanmak)",
+    "AYRILABILIR (Separable): Nesne isim ise araya girebilir veya sona gelebilir: 'fill out the form' = 'fill the form out'. Nesne zamir ise MUTLAKA araya girer: 'fill it out' (ASLA: fill out it)",
+    "AYRILAMAZ (Inseparable): Nesne her zaman sonda: 'look after the patient' (ASLA: look the patient after). 'come across', 'get over', 'look into', 'run into' hep ayrilamaz",
+    "UC PARCALI PHRASAL VERBS: look forward to (dort gozle beklemek), come up with (akil etmek), put up with (tahammul etmek), get along with (gecimmek), run out of (bitmek). Bunlar hep ayrilamaz."
+  ],
+  "examples": [
+    {
+      "en": "The patient came down with a severe flu last week.",
+      "tr": "Hasta gecen hafta agir bir gribe yakalandi.",
+      "why": "'come down with' = hastaliga yakalanmak. Saglik baglaminda en sik kullanilan phrasal verb'lerden biri."
+    },
+    {
+      "en": "It took her three weeks to get over the surgery.",
+      "tr": "Ameliyati atlatmasi uc hafta surdu.",
+      "why": "'get over' = atlatmak, iyilesmek. Ayrilamaz: 'get over the surgery' (ASLA: get the surgery over)."
+    },
+    {
+      "en": "The patient passed out during the examination.",
+      "tr": "Hasta muayene sirasinda bayildi.",
+      "why": "'pass out' = bayilmak. Nesne almaz (intransitive), bu yuzden ayrilma sorunu yok."
+    },
+    {
+      "en": "The research team carried out a clinical trial on the new vaccine.",
+      "tr": "Arastirma ekibi yeni asida klinik bir deney yuruttu.",
+      "why": "'carry out' = yurutmek/gerceklestirmek. Ayrilabilir: 'carried out a trial' veya 'carried a trial out'."
+    },
+    {
+      "en": "We've run out of painkillers in the pharmacy.",
+      "tr": "Eczanede agri kesiciler tukendi.",
+      "why": "'run out of' = tukenmek. Uc parcali, ayrilamaz. 'of' dan sonra nesne gelir."
+    },
+    {
+      "en": "The doctor told him to give up smoking immediately.",
+      "tr": "Doktor ona sigara icmeyi hemen birakmesini soyledi.",
+      "why": "'give up' = birakmak/vazgecmek. Ayrilabilir ama burada '-ing' yapisiyla kullanilmis: give up smoking."
+    }
+  ],
+  "tips": [
+    "SAGLIK PHRASAL VERB'LERI ONCELIKLI EZBERLE: come down with, get over, pass out, throw up, break out, come round — Erasmus sinavinda saglik baglami cok agirlikli.",
+    "ZAMIR KURALI: Phrasal verb ayrilabilir ise ve nesne zamir ise (it, them, him, her), zamir MUTLAKA araya girer. 'Turn it off' dogru, 'Turn off it' YANLIS. Sinavda bu tuzak sik gelir.",
+    "ANLAM TAHMINI: Bazi phrasal verb'lerin anlami parcalarindan tahmin edilebilir (stand up = ayaga kalkmak). Ama cogunun anlami tahmin edilemez (give up = pes etmek). Tahmin edemiyorsan ezberle.",
+    "RESMI vs GAYRI RESMI: Phrasal verb'ler genelde informal'dir. Akademik yazida Latin kokenli karsiliklari tercih edilir: find out → discover, carry out → conduct, give up → abandon. Ama sinavda her iki formu da bilmek gerekir."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic": "quantifiers",
+  "title": "Miktar Belirtecler (Quantifiers)",
+  "description_tr": "Ingilizce'de isimlerin miktarini belirtmek icin kullanilan sozcuklerdir: some, any, much, many, a lot of, few, little, enough, too vb. En kritik ayrım sayilabilir (countable) ve sayilamaz (uncountable) isimler arasindadir. Saglik alaninda ilac miktarlari, hasta sayilari, sivi alimlari gibi konularda surekli kullanilir.",
+  "formula": "Sayilabilir: many, few, a few, several, a number of | Sayilamaz: much, little, a little, a great deal of | Her ikisi: some, any, a lot of, enough, no",
+  "signals": ["much + sayilamaz", "many + sayilabilir", "a few (olumlu)", "few (olumsuz)", "a little (olumlu)", "little (olumsuz)", "too much/many", "enough"],
+  "turkish_logic": "Turkce'de 'birkac tablet' ve 'biraz su' diyorsun — ikisi farkli. Ingilizce'de de ayni mantik: 'a few tablets' (sayilabilir) ve 'a little water' (sayilamaz). 'few' ve 'little' basina 'a' gelip gelmemesi ANLAMI DEGISTIRIR: 'a few' = birkac tane (olumlu), 'few' = cok az, neredeyse hic (olumsuz).",
+  "key_rules": [
+    "SAYILABILIR vs SAYILAMAZ: Sayilabilir = cogul yapilabilir (pill→pills, patient→patients). Sayilamaz = cogul yapılamaz (water, blood, information, advice, equipment, furniture, homework, research). DIKKAT: 'news', 'information', 'advice' SAYILAMAZDIR!",
+    "SOME: Olumlu cumlelerde, teklif/rica sorularinda. 'The patient needs some medication.' / 'Would you like some water?' (teklif)",
+    "ANY: Olumsuz cumlelerde ve normal sorularda. 'There isn't any improvement.' / 'Is there any bleeding?' OZEL: 'any' olumlu cumlede 'herhangi bir' anlamina gelir: 'Any doctor can prescribe this.'",
+    "MUCH vs MANY: much + sayilamaz (much pain, much blood). many + sayilabilir cogul (many patients, many symptoms). Soru ve olumsuzda kullanilir. Olumlu cumlede 'a lot of' tercih edilir.",
+    "A FEW vs FEW: 'a few' = birkac (olumlu, yeterli). 'A few patients recovered.' FEW = cok az, yetersiz (olumsuz). 'Few patients survived.' (cok azi hayatta kaldi — kotu haber)",
+    "A LITTLE vs LITTLE: 'a little' = biraz (olumlu). 'Add a little salt.' LITTLE = cok az, yetersiz (olumsuz). 'There is little hope.' (cok az umut var — kotu haber)",
+    "ENOUGH: Isimden ONCE gelir: 'enough medicine'. Sifattan SONRA gelir: 'strong enough'. 'not enough' = yetersiz.",
+    "TOO: Olumsuz anlam tasir — fazlaligi belirtir. 'too much sugar' (cok fazla seker — kotu). 'too many side effects' (cok fazla yan etki — kotu). TOO ≠ VERY! Very = cok (notr), too = fazla (olumsuz)"
+  ],
+  "examples": [
+    {
+      "en": "The doctor said I should drink much more water and eat fewer sweets.",
+      "tr": "Doktor daha cok su icmemi ve daha az tatli yememi soyledi.",
+      "why": "'water' sayilamaz → much. 'sweets' sayilabilir cogul → fewer. Karsilastirma ile birlikte kullanilmis."
+    },
+    {
+      "en": "There are a few tablets left, but there is little hope of getting more.",
+      "tr": "Birkac tablet kaldi ama daha fazla bulma umudu cok az.",
+      "why": "'a few tablets' = birkac (olumlu). 'little hope' = cok az (olumsuz — 'a' yok). Bu fark kritik!"
+    },
+    {
+      "en": "Is there any improvement in the patient's condition?",
+      "tr": "Hastanin durumunda herhangi bir iyilesme var mi?",
+      "why": "Soru cumlesi → any. 'improvement' sayilamaz tekil isim."
+    },
+    {
+      "en": "Too much stress can cause serious health problems.",
+      "tr": "Cok fazla stres ciddi saglik sorunlarina neden olabilir.",
+      "why": "'too much' + sayilamaz isim (stress). 'too' olumsuz/zararlı anlam katiyor."
+    },
+    {
+      "en": "The nurse didn't have enough time to check all the patients.",
+      "tr": "Hemsirenin tum hastalari kontrol etmek icin yeterli zamani yoktu.",
+      "why": "'enough' isimden ONCE: 'enough time'. Olumsuz cumlede yetersizlik bildiriyor."
+    }
+  ],
+  "tips": [
+    "A FEW vs FEW TUZAGI: Sinavda 'a' olup olmamasi anlami tamamen degistirir. 'A few friends visited' (birkaci geldi, iyi). 'Few friends visited' (cok azi geldi, kotu). Ayni sey a little/little icin gecerli.",
+    "SAYILAMAZ ISIMLERI EZBERLE: information, advice, news, equipment, furniture, homework, research, luggage, traffic, weather — bunlar ASLA cogul yapilamaz ve 'many' ile kullanilamaz.",
+    "TOO vs VERY: 'She is very tired' (cok yorgun — notr bilgi). 'She is too tired to work' (calisAmayacak kadar yorgun — olumsuz sonuc). Sinavda bu ayrim sorulur.",
+    "ENOUGH'IN YERI: Isimden ONCE (enough money), sifat/zarftan SONRA (old enough, quickly enough). Yer degisirse cumle YANLIS olur — sinavda tuzak."
+  ]
+}

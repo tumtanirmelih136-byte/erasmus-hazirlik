@@ -1,0 +1,57 @@
+{
+  "topic": "prepositions",
+  "title": "Edatlar (Prepositions)",
+  "description_tr": "Ingilizce'de zaman, yer ve yon bildiren edatlar (in, on, at, to, from, by vb.) ile sifat+edat ve fiil+edat kombinasyonlarini kapsar. Turkce'de eklere karsilik gelir (-de, -da, -e, -den gibi) ama birebir ceviri yapilmaz. Mantigi kavramak onemli: 'in' kapali/genis alan, 'on' yuzey/temas, 'at' nokta/konum.",
+  "formula": "in + ay/yil/mevsim/ulke/sehir | on + gun/tarih/yuzey | at + saat/nokta/adres | to + yon/hedef | from + kaynak/baslangic",
+  "signals": ["in the morning", "on Monday", "at 3 o'clock", "at the hospital", "in hospital", "on time", "in time", "interested in", "good at", "depend on"],
+  "turkish_logic": "Turkce'de 'hastanede' dediginde hep '-de' eki kullanirsin. Ingilizce'de ise 'at the hospital' (orada bulunma), 'in the hospital' (binanin icinde), 'to the hospital' (oraya dogru) diye degisir. Her edat farkli bir iliskiyi anlatir.",
+  "key_rules": [
+    "ZAMAN — in: aylar (in March), yillar (in 2024), mevsimler (in summer), gunun bolumleri (in the morning/afternoon/evening). ISTISNA: at night",
+    "ZAMAN — on: gunler (on Monday), tarihler (on 15th March), ozel gunler (on my birthday, on Christmas Day)",
+    "ZAMAN — at: saatler (at 9 AM), belirli anlar (at noon, at midnight, at the moment, at the weekend — BE)",
+    "YER — in: ulkeler (in Turkey), sehirler (in Istanbul), kapali alanlar (in the operating room), genis alanlar (in the park)",
+    "YER — on: yuzeyler (on the table), katlar (on the third floor), yollar (on Istiklal Street), tasitlar (on the bus/train/plane — icinde olup hareket eden)",
+    "YER — at: noktalar (at the bus stop), adresler (at 42 Oak Street), binalar-islevsel (at school, at the hospital, at home)",
+    "SIFAT + EDAT: afraid of, allergic to, aware of, capable of, familiar with, good/bad at, interested in, responsible for, similar to, tired of",
+    "FIIL + EDAT: agree with, apologize for, apply for, believe in, belong to, consist of, depend on, look after, recover from, suffer from, wait for"
+  ],
+  "examples": [
+    {
+      "en": "The surgery is scheduled on Monday at 9 AM in the main operating room.",
+      "tr": "Ameliyat Pazartesi saat 9'da ana ameliyathanede planlanmistir.",
+      "why": "Gun → on Monday. Saat → at 9 AM. Kapali alan → in the operating room."
+    },
+    {
+      "en": "The patient has been suffering from chronic pain since 2019.",
+      "tr": "Hasta 2019'dan beri kronik agrilardan muzdarip.",
+      "why": "'suffer from' sabit fiil+edat kombinasyonu. 'since 2019' belirli baslangic noktasi."
+    },
+    {
+      "en": "She is allergic to penicillin and afraid of needles.",
+      "tr": "Penisiline alerjisi var ve ignelerden korkuyor.",
+      "why": "'allergic to' ve 'afraid of' sabit sifat+edat kaliplari. Turkce'de '-e' ve '-den' eki — ama Ingilizce'de ezberlenmeli."
+    },
+    {
+      "en": "The nurse looked after the patient in the ICU on the second floor.",
+      "tr": "Hemsire ikinci kattaki yogun bakimdaki hastaya bakti.",
+      "why": "'look after' = ilgilenmek (phrasal verb). 'in the ICU' kapali alan. 'on the second floor' kat bildiriyor."
+    },
+    {
+      "en": "Dr. Aydin arrived at the hospital in the morning and went to the lab.",
+      "tr": "Dr. Aydin sabah hastaneye vardi ve laboratuvara gitti.",
+      "why": "'at the hospital' varış noktası. 'in the morning' gunun bolumu. 'to the lab' yon/hedef."
+    },
+    {
+      "en": "The treatment depends on the results of the blood test.",
+      "tr": "Tedavi kan testi sonuclarina bagli.",
+      "why": "'depend on' sabit fiil+edat. Turkce'de '-e bagli' ama Ingilizce'de 'on' kullanilir."
+    }
+  ],
+  "tips": [
+    "IN/ON/AT ZAMANDA BUYUKTEN KUCUGE: in (yil, ay, mevsim = genis) → on (gun, tarih = orta) → at (saat, an = nokta). Buyukten kucuge in-on-at.",
+    "ARRIVE KURALI: arrive at + nokta (arrive at the hospital), arrive in + sehir/ulke (arrive in Istanbul). ASLA 'arrive to' OLMAZ!",
+    "TRANSPORT EDATLARI: by + tasit (genel) → by bus, by car. Ama in a car (belirli araba), on the bus/train/plane (icinde oldugun tasit). 'on foot' = yuruyerek.",
+    "SIFAT+EDAT EZBERLE: Sinavda en az 2-3 soru gelir. 'interested in', 'good at', 'afraid of', 'responsible for', 'similar to' — bunlari flashcard yap.",
+    "IN HOSPITAL vs AT THE HOSPITAL: 'in hospital' = hasta olarak yatiyor (BE). 'at the hospital' = orada bulunuyor (ziyaretci, calisan vb.). Bu fark sinavda cikar."
+  ]
+}

@@ -1,37 +1,23 @@
-# ERASMUS — Proje Kuralları
+# Erasmus YDYS Sınav Hazırlık Platformu
 
-## JARVIS DNA
-Bu proje JARVIS DNA ile çalışır. Her session'da:
-1. `~/jarvis-dna/JARVIS_CORE.md` → DNA yükle (75 feature, 15 kategori, 9 SEP)
-2. Proje CLAUDE.md (bu dosya) → proje kuralları
-3. Global MEMORY.md → bağlam
-
-## Tek Beden Protokolü: AKTİF
-- Gereksiz onay sorma, geri alınabilir işleri direkt yap
-- Türkçe konuş, teknik terimleri açıkla
-- Her işte NEDEN'i söyle
-- Scope creep'i engelle
-
-## Proje Bilgileri
-- **Ad:** Erasmus
+## Proje Bilgisi
+- **Ad:** Erasmus Sınav Hazırlık
 - **Başlangıç:** 2026-02-19
-- **Durum:** Kurulum tamamlandı, kapsam belirleniyor
-- **Repo:** Local — ~/erasmus
-- **Maestro:** Melih
-- **Motor:** JARVIS (Claude Code, Opus 4.6)
+- **Tech:** Vanilla HTML/CSS/JS — kurulum yok, `index.html` aç ve çalış
+- **Veri:** localStorage ile ilerleme, skorlar, hatalı sorular
+- **Format:** ADÜ Erasmus YDYS — 50 soru, 5 şık (A-E), 90 dakika, 100 puan
 
-## Dizin Yapısı
-```
-erasmus/
-├── CLAUDE.md              ← Bu dosya
-├── memory/
-│   ├── knowledge/         ← Öğrenilen pattern'lar
-│   └── failures/          ← Başarısızlık logları
-└── src/                   ← Proje kaynak kodu (yapılacak)
-```
+## Kurallar
+- Tüm açıklamalar Türkçe (A1-A2 seviye kullanıcı)
+- 5 şıklı (A-E) format — her yerde
+- Her sorunun 5 parçalı hata kartı: cevap + doğru + neden + kural + ipucu
+- Sağlık bilimleri örnekleri öncelikli
+- Adaptif zorluk: A2 → B1 → B2
+- Responsive: telefon + tablet + laptop
 
-## Aktif Kurallar
-- JARVIS_CORE.md'deki tüm feature'lar composable ve aktif
-- 10 Persona QA Panel büyük output'larda çalışır
-- Git checkpoint her anlamlı iş bitişinde
-- Memory güncellemesi her session sonunda
+## Dosya Yapısı
+- `index.html` → Ana dashboard
+- `pages/` → Alt sayfalar
+- `js/` → Motorlar (app, storage, quiz-engine, adaptive-engine, teach-engine, error-journal, daily-report, timer)
+- `data/` → Soru ve öğretim verileri (JSON)
+- `css/` → Stiller

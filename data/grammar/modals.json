@@ -1,0 +1,602 @@
+[
+  {
+    "id": "modals-001",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "A2",
+    "stem": "The patient _____ walk again after the surgery last month.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "could"},
+      {"key": "C", "text": "must"},
+      {"key": "D", "text": "should"},
+      {"key": "E", "text": "may"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Gecmiste kazanilan bir yetenegi anlatmak icin 'could' kullanilir. Hasta ameliyattan sonra tekrar yuruyebildi.",
+    "rule_tr": "Gecmis yetenek = could + V1",
+    "tip_tr": "Gecmiste 'yapabildi' diyorsan could, simdi 'yapabiliyor' diyorsan can.",
+    "extra_example": "She could speak three languages when she was a child. (Cocukken uc dil konusabiliyordu.)"
+  },
+  {
+    "id": "modals-002",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "A2",
+    "stem": "_____ I see the doctor now? I have an appointment at 10.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "Must"},
+      {"key": "B", "text": "Should"},
+      {"key": "C", "text": "Can"},
+      {"key": "D", "text": "Need"},
+      {"key": "E", "text": "Shall"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Izin istemek icin 'Can I...?' yapisi kullanilir. Hasta doktoru gorup goremeyecegini soruyor.",
+    "rule_tr": "Izin isteme (informal) = Can I + V1?",
+    "tip_tr": "Gunluk dilde izin icin Can, resmi ortamda May kullan.",
+    "extra_example": "Can I use your phone to call the hospital? (Hastaneyi aramak icin telefonunu kullanabilir miyim?)"
+  },
+  {
+    "id": "modals-003",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "A2",
+    "stem": "Nurses _____ take blood pressure and give injections.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "could"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "shall"},
+      {"key": "E", "text": "would"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Genel bir yetenegi veya kapasiteyi ifade etmek icin 'can' kullanilir. Hemsireler tansiyon olcup igne yapabilir.",
+    "rule_tr": "Genel yetenek (simdiki zaman) = can + V1",
+    "tip_tr": "Genel, her zaman gecerli bir beceri anlatiliyorsa can kullan.",
+    "extra_example": "Doctors can prescribe medication for patients. (Doktorlar hastalara ilac yazabilir.)"
+  },
+  {
+    "id": "modals-004",
+    "topic": "modals",
+    "subtopic": "must_have_to",
+    "level": "A2",
+    "stem": "You _____ take this medication three times a day. It's the doctor's order.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "should"},
+      {"key": "C", "text": "might"},
+      {"key": "D", "text": "have to"},
+      {"key": "E", "text": "could"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Disaridan gelen bir zorunluluk (doktor emri) icin 'have to' kullanilir. Ilaci gunde uc kez almak zorundasin.",
+    "rule_tr": "Dis zorunluluk = have to + V1",
+    "tip_tr": "Kural, emir, yasa gibi dis kaynakli zorunlulukta have to; kendi inancinda must.",
+    "extra_example": "Patients have to sign a consent form before surgery. (Hastalar ameliyattan once onam formu imzalamak zorunda.)"
+  },
+  {
+    "id": "modals-005",
+    "topic": "modals",
+    "subtopic": "must_have_to",
+    "level": "A2",
+    "stem": "All hospital visitors _____ wear a face mask in the ICU.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "must"},
+      {"key": "D", "text": "could"},
+      {"key": "E", "text": "can"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Kuvvetli zorunluluk ve kural ifade etmek icin 'must' kullanilir. Yogun bakimda maske takmak zorunludur.",
+    "rule_tr": "Guclu zorunluluk / kural = must + V1",
+    "tip_tr": "Tabela, kural ve resmi uyarilarda must tercih edilir.",
+    "extra_example": "You must not smoke inside the hospital. (Hastane icinde sigara icmemek zorundasin.)"
+  },
+  {
+    "id": "modals-006",
+    "topic": "modals",
+    "subtopic": "should_ought_to",
+    "level": "A2",
+    "stem": "You look very tired. You _____ get some rest.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "can"},
+      {"key": "C", "text": "should"},
+      {"key": "D", "text": "might"},
+      {"key": "E", "text": "have to"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Tavsiye vermek icin 'should' kullanilir. Cok yorgun gorunuyorsun, dinlenmelisin.",
+    "rule_tr": "Tavsiye = should + V1",
+    "tip_tr": "Should zorunluluk degil, tavsiyedir. Must'tan daha yumusaktir.",
+    "extra_example": "You should drink plenty of water when you have a fever. (Atesin varken bol su icmelisin.)"
+  },
+  {
+    "id": "modals-007",
+    "topic": "modals",
+    "subtopic": "should_ought_to",
+    "level": "A2",
+    "stem": "The doctor said I _____ eat less salt to control my blood pressure.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "could"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "should"},
+      {"key": "E", "text": "shall"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Doktor tavsiyesi aktarilirken 'should' kullanilir. Tansiyonumu kontrol etmek icin daha az tuz yemem gerektigini soyledi.",
+    "rule_tr": "Doktor/uzman tavsiyesi = should + V1",
+    "tip_tr": "Doktor soyledi ama zorunluluk degil, tavsiye = should.",
+    "extra_example": "You should take vitamin D supplements in winter. (Kisin D vitamini takviyesi almalisin.)"
+  },
+  {
+    "id": "modals-008",
+    "topic": "modals",
+    "subtopic": "may_might",
+    "level": "A2",
+    "stem": "The test results aren't ready yet. The doctor _____ call you tomorrow.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "should"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "may"},
+      {"key": "E", "text": "has to"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Olabilirlik/ihtimal belirtmek icin 'may' kullanilir. Doktor yarin arayabilir (kesin degil).",
+    "rule_tr": "Ihtimal (orta duzey) = may + V1",
+    "tip_tr": "May = belki olabilir (%50 civarinda). Might biraz daha dusuk ihtimal.",
+    "extra_example": "The surgery may take longer than expected. (Ameliyat beklenenden uzun surebilir.)"
+  },
+  {
+    "id": "modals-009",
+    "topic": "modals",
+    "subtopic": "may_might",
+    "level": "A2",
+    "stem": "I'm not sure, but the pharmacy _____ be closed on Sundays.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "can"},
+      {"key": "C", "text": "should"},
+      {"key": "D", "text": "has to"},
+      {"key": "E", "text": "might"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Emin olunmayan bir durumda 'might' kullanilir. 'I'm not sure' ifadesi dusuk ihtimale isaret eder.",
+    "rule_tr": "Dusuk ihtimal / belirsizlik = might + V1",
+    "tip_tr": "'I'm not sure / I don't know' varsa might tercih et.",
+    "extra_example": "This medication might cause drowsiness. (Bu ilac uyusukluga neden olabilir.)"
+  },
+  {
+    "id": "modals-010",
+    "topic": "modals",
+    "subtopic": "neednt_dont_have_to",
+    "level": "A2",
+    "stem": "You _____ bring your own towel. The hospital provides them.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "mustn't"},
+      {"key": "B", "text": "don't have to"},
+      {"key": "C", "text": "shouldn't"},
+      {"key": "D", "text": "can't"},
+      {"key": "E", "text": "couldn't"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Zorunluluk olmadigini belirtmek icin 'don't have to' kullanilir. Hastane havlu sagliyor, kendin getirmek zorunda degilsin.",
+    "rule_tr": "Zorunluluk yok = don't have to / needn't + V1",
+    "tip_tr": "Mustn't = yasak, don't have to = zorunlu degil. Farkina dikkat!",
+    "extra_example": "You don't have to fast before a blood test for cholesterol. (Kolesterol icin kan testinden once ac kalmak zorunda degilsin.)"
+  },
+  {
+    "id": "modals-011",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "B1",
+    "stem": "The patient _____ barely breathe when he arrived at the emergency room.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "may"},
+      {"key": "C", "text": "could"},
+      {"key": "D", "text": "must"},
+      {"key": "E", "text": "shall"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmiste bir durumu anlatmak icin 'could' kullanilir. Hasta acil servise geldiginde zar zor nefes alabiliyordu.",
+    "rule_tr": "Gecmis durum/yetenek = could + barely/hardly + V1",
+    "tip_tr": "Could + barely = zar zor yapabiliyordu. Gecmis anlatiminda can degil could kullanilir.",
+    "extra_example": "She could hardly stand after the long treatment session. (Uzun tedavi seansinin ardindan zar zor ayakta durabiliyordu.)"
+  },
+  {
+    "id": "modals-012",
+    "topic": "modals",
+    "subtopic": "must_have_to",
+    "level": "B1",
+    "stem": "When I was in hospital, I _____ stay in bed for two weeks.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "have to"},
+      {"key": "C", "text": "had to"},
+      {"key": "D", "text": "should"},
+      {"key": "E", "text": "could"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmisteki zorunluluk icin 'had to' kullanilir. Must'in gecmis hali yoktur, yerine had to kullanilir.",
+    "rule_tr": "Gecmis zorunluluk = had to + V1 (must'in gecmisi yok)",
+    "tip_tr": "Must sadece simdiki/gelecek zaman icin gecerli. Gecmis = had to.",
+    "extra_example": "The nurse had to work a double shift because her colleague was sick. (Hemsire, meslektasi hasta oldugu icin cift vardiya calismak zorunda kaldi.)"
+  },
+  {
+    "id": "modals-013",
+    "topic": "modals",
+    "subtopic": "should_ought_to",
+    "level": "B1",
+    "stem": "The patient's condition is getting worse. He _____ to see a specialist immediately.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "might"},
+      {"key": "B", "text": "ought"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "could"},
+      {"key": "E", "text": "may"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Ought to' should ile ayni anlama gelir ve guclu tavsiye bildirir. Hastanin durumu kotulesiyorsa uzman gormesi gerekir.",
+    "rule_tr": "Guclu tavsiye = ought to + V1 (= should)",
+    "tip_tr": "Ought to her zaman 'to' ile kullanilir. Should'dan daha resmidir.",
+    "extra_example": "You ought to inform the doctor about your allergies. (Alerjilerin hakkinda doktoru bilgilendirmelisin.)"
+  },
+  {
+    "id": "modals-014",
+    "topic": "modals",
+    "subtopic": "may_might",
+    "level": "B1",
+    "stem": "This new treatment _____ help reduce the symptoms, but we need more research.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "shall"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "might"},
+      {"key": "E", "text": "has to"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'But we need more research' kesin olmadigini gosteriyor. Dusuk ihtimal icin 'might' kullanilir.",
+    "rule_tr": "Belirsiz ihtimal + kanit yetersiz = might + V1",
+    "tip_tr": "Cumlede belirsizlik ifadesi (but, not sure, perhaps) varsa might sec.",
+    "extra_example": "The patient might respond well to the new drug. (Hasta yeni ilaca iyi yanit verebilir.)"
+  },
+  {
+    "id": "modals-015",
+    "topic": "modals",
+    "subtopic": "must_deduction",
+    "level": "B1",
+    "stem": "The patient has a high temperature and is coughing badly. He _____ have the flu.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "must"},
+      {"key": "D", "text": "could"},
+      {"key": "E", "text": "can"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Guclu kanitlara dayanarak cikarim yapmak icin 'must' kullanilir. Yuksek ates + oksuruk = grip olmali.",
+    "rule_tr": "Guclu cikarim (kesin gibi) = must + V1",
+    "tip_tr": "Belirtiler, kanitlar guclu ve neredeyse kesinse must (cikarim) kullan.",
+    "extra_example": "She looks very pale. She must feel terrible. (Cok solgun gorunuyor. Kendini cok kotu hissediyor olmali.)"
+  },
+  {
+    "id": "modals-016",
+    "topic": "modals",
+    "subtopic": "must_deduction",
+    "level": "B1",
+    "stem": "Dr. Aydin's office is dark and the door is locked. He _____ be at the hospital.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "shall"},
+      {"key": "C", "text": "would"},
+      {"key": "D", "text": "might"},
+      {"key": "E", "text": "must"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Karanlik ofis + kapali kapi = doktor orada degil. Guclu kanita dayali cikarim icin must kullanilir.",
+    "rule_tr": "Mantiksal cikarim (kanit guclu) = must + V1",
+    "tip_tr": "Gozle gorulen kanitlar (karanlik, kapali vs.) varsa must ile cikarim yap.",
+    "extra_example": "The waiting room is empty. The clinic must be closed today. (Bekleme odasi bos. Klinik bugun kapali olmali.)"
+  },
+  {
+    "id": "modals-017",
+    "topic": "modals",
+    "subtopic": "neednt_dont_have_to",
+    "level": "B1",
+    "stem": "The operation was cancelled, so the patient _____ fast before tomorrow morning.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "mustn't"},
+      {"key": "B", "text": "can't"},
+      {"key": "C", "text": "needn't"},
+      {"key": "D", "text": "shouldn't"},
+      {"key": "E", "text": "won't"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Ameliyat iptal edildigine gore hastanin ac kalmasi artik gerekli degil. Zorunluluk kalktiysa needn't kullanilir.",
+    "rule_tr": "Artik gerekli degil = needn't + V1",
+    "tip_tr": "Needn't = don't have to = zorunda degilsin. Mustn't = yapma (yasak).",
+    "extra_example": "You needn't take antibiotics anymore; the infection is gone. (Artik antibiyotik almana gerek yok; enfeksiyon gecti.)"
+  },
+  {
+    "id": "modals-018",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "B1",
+    "stem": "_____ you pass me the patient's file, please?",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "Must"},
+      {"key": "B", "text": "Shall"},
+      {"key": "C", "text": "May"},
+      {"key": "D", "text": "Could"},
+      {"key": "E", "text": "Might"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Kibar bir ricada bulunmak icin 'Could you...?' yapisi kullanilir. Can'den daha naziktir.",
+    "rule_tr": "Kibar rica = Could you + V1 + please?",
+    "tip_tr": "Can you = sade rica, Could you = kibar rica. Sinavda please varsa could sec.",
+    "extra_example": "Could you explain the side effects of this medication? (Bu ilacin yan etkilerini aciklar misiniz?)"
+  },
+  {
+    "id": "modals-019",
+    "topic": "modals",
+    "subtopic": "must_have_to",
+    "level": "B1",
+    "stem": "You _____ smoke in the hospital. It is strictly prohibited.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "don't have to"},
+      {"key": "B", "text": "needn't"},
+      {"key": "C", "text": "mustn't"},
+      {"key": "D", "text": "shouldn't"},
+      {"key": "E", "text": "couldn't"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Strictly prohibited' = kesinlikle yasak. Yasaklar icin mustn't kullanilir.",
+    "rule_tr": "Yasak = mustn't + V1 (kesinlikle yapma)",
+    "tip_tr": "Mustn't = yasak, don't have to = gerekli degil. Cok onemli fark!",
+    "extra_example": "You mustn't remove the bandage until the doctor says so. (Doktor soylemedikce bandaji cikarmamaniz gerekir.)"
+  },
+  {
+    "id": "modals-020",
+    "topic": "modals",
+    "subtopic": "should_ought_to",
+    "level": "B1",
+    "stem": "Pregnant women _____ avoid taking aspirin unless prescribed by a doctor.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "might"},
+      {"key": "B", "text": "could"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "should"},
+      {"key": "E", "text": "may"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Saglik tavsiyesi vermek icin 'should' kullanilir. Hamile kadinlar doktor yazmadikca aspirin almamali.",
+    "rule_tr": "Saglik tavsiyesi = should + V1 / should + avoid + V-ing",
+    "tip_tr": "Tibbi tavsiye icin should, kesin yasak icin must kullanilir.",
+    "extra_example": "Children should wash their hands before eating. (Cocuklar yemekten once ellerini yikamali.)"
+  },
+  {
+    "id": "modals-021",
+    "topic": "modals",
+    "subtopic": "modal_perfects",
+    "level": "B2",
+    "stem": "The patient's condition worsened overnight. The nurse _____ checked on him more frequently.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must have"},
+      {"key": "B", "text": "could have"},
+      {"key": "C", "text": "should have"},
+      {"key": "D", "text": "might have"},
+      {"key": "E", "text": "would have"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmiste yapilmasi gereken ama yapilmayan bir sey icin 'should have + V3' kullanilir. Hemsire daha sik kontrol etmeliydi.",
+    "rule_tr": "Gecmiste yapilmayan dogru sey = should have + V3 (elestiri/pismanlik)",
+    "tip_tr": "Should have = yapmaliydik ama yapmadik. Pismanlik ve elestiri ifadesi.",
+    "extra_example": "I should have taken the medication on time. (Ilaci zamaninda almaliydim.)"
+  },
+  {
+    "id": "modals-022",
+    "topic": "modals",
+    "subtopic": "modal_perfects",
+    "level": "B2",
+    "stem": "The lab results are perfect. The patient _____ followed the treatment plan carefully.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should have"},
+      {"key": "B", "text": "could have"},
+      {"key": "C", "text": "would have"},
+      {"key": "D", "text": "might have"},
+      {"key": "E", "text": "must have"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Kanitlara dayali gecmis cikarim icin 'must have + V3' kullanilir. Sonuclar mukemmel = tedavi planini titizlikle uygulamis olmali.",
+    "rule_tr": "Gecmis cikarim (guclu kanit) = must have + V3",
+    "tip_tr": "Gecmise dair kesin gibi bir cikarim yapiyorsan must have + V3 kullan.",
+    "extra_example": "He looks much healthier. He must have quit smoking. (Cok daha saglikli gorunuyor. Sigarayi birakmis olmali.)"
+  },
+  {
+    "id": "modals-023",
+    "topic": "modals",
+    "subtopic": "modal_perfects",
+    "level": "B2",
+    "stem": "The surgery was risky, but luckily it went well. The patient _____ died on the operating table.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should have"},
+      {"key": "B", "text": "must have"},
+      {"key": "C", "text": "would have"},
+      {"key": "D", "text": "could have"},
+      {"key": "E", "text": "might not have"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Gecmiste olabilecek ama olmayan bir olasilik icin 'could have + V3' kullanilir. Hasta ameliyat masasinda olebilirdi ama olmedi.",
+    "rule_tr": "Gecmiste mumkun olan ama gerceklesmeyen = could have + V3",
+    "tip_tr": "Could have = olabilirdi (ama olmadi). Gerceklesmemis olasilik.",
+    "extra_example": "Without the quick diagnosis, the infection could have spread. (Hizli teshis olmasaydi enfeksiyon yayilabilirdi.)"
+  },
+  {
+    "id": "modals-024",
+    "topic": "modals",
+    "subtopic": "must_deduction",
+    "level": "B2",
+    "stem": "The patient _____ be allergic to penicillin; she broke out in hives immediately after taking it.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "would"},
+      {"key": "D", "text": "must"},
+      {"key": "E", "text": "could"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Ilac aldiktan hemen sonra urtiker cikmasi guclu bir kanittir. Kesin cikarim icin must kullanilir.",
+    "rule_tr": "Anlik guclu kanit + cikarim = must + V1",
+    "tip_tr": "Sebep-sonuc iliskisi acikca goruluyorsa must (cikarim) kullan.",
+    "extra_example": "He must be in severe pain; he can't stop groaning. (Ciddi agrisi olmali; inlemeyi birakamiyor.)"
+  },
+  {
+    "id": "modals-025",
+    "topic": "modals",
+    "subtopic": "may_might",
+    "level": "B2",
+    "stem": "Prolonged use of this medication _____ lead to liver damage, according to recent studies.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must"},
+      {"key": "B", "text": "shall"},
+      {"key": "C", "text": "can"},
+      {"key": "D", "text": "may"},
+      {"key": "E", "text": "has to"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Bilimsel/akademik baglam ve olasilik bildirmek icin 'may' kullanilir. Uzun sureli kullanim karaciger hasarina yol acabilir.",
+    "rule_tr": "Akademik/bilimsel olasilik = may + V1",
+    "tip_tr": "Bilimsel makaleler ve resmi metinlerde olasilik icin may tercih edilir.",
+    "extra_example": "Excessive stress may contribute to cardiovascular disease. (Asiri stres kalp-damar hastaligina katkida bulunabilir.)"
+  },
+  {
+    "id": "modals-026",
+    "topic": "modals",
+    "subtopic": "neednt_dont_have_to",
+    "level": "B2",
+    "stem": "The doctor said I _____ have worried so much; the tumor turned out to be benign.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "shouldn't"},
+      {"key": "B", "text": "couldn't"},
+      {"key": "C", "text": "mustn't"},
+      {"key": "D", "text": "wouldn't"},
+      {"key": "E", "text": "needn't"}
+    ],
+    "answer": "E",
+    "explanation_tr": "Gecmiste gereksiz yere yapilan bir sey icin 'needn't have + V3' kullanilir. Tumor iyi huylu cikti, bu kadar endiselenmeye gerek yoktu.",
+    "rule_tr": "Gecmiste gereksiz yapilan is = needn't have + V3",
+    "tip_tr": "Needn't have = yaptik ama gerekmiyormus. Didn't need to = yapmadik cunku gerekmedi.",
+    "extra_example": "You needn't have brought your X-rays; we already have digital copies. (Rontgenlerini getirmene gerek yoktu; dijital kopyalari zaten bizde var.)"
+  },
+  {
+    "id": "modals-027",
+    "topic": "modals",
+    "subtopic": "modal_perfects",
+    "level": "B2",
+    "stem": "The ambulance took 45 minutes to arrive. The paramedics _____ responded faster in such a critical situation.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "must have"},
+      {"key": "B", "text": "could have"},
+      {"key": "C", "text": "should have"},
+      {"key": "D", "text": "might have"},
+      {"key": "E", "text": "would have"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gecmiste beklenen ama yapilmayan bir eylem icin 'should have + V3' kullanilir. Kritik durumda daha hizli mudahale edilmeliydi.",
+    "rule_tr": "Gecmis elestiri = should have + V3",
+    "tip_tr": "Elestiri yapiliyorsa (yapmaliylardi ama yapmamilar) should have + V3.",
+    "extra_example": "The hospital should have informed the family about the complications. (Hastane, komplikasyonlar hakkinda aileyi bilgilendirmeliydi.)"
+  },
+  {
+    "id": "modals-028",
+    "topic": "modals",
+    "subtopic": "can_could",
+    "level": "B2",
+    "stem": "With advances in gene therapy, doctors _____ soon be able to cure previously untreatable diseases.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "can"},
+      {"key": "B", "text": "must"},
+      {"key": "C", "text": "could"},
+      {"key": "D", "text": "shall"},
+      {"key": "E", "text": "need"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gelecekte olasi bir yetenegni/imkani ifade etmek icin 'could' kullanilir. Gen tedavisiyle yakin zamanda tedavi edilemez hastaliklar tedavi edilebilir.",
+    "rule_tr": "Gelecek olasi yetenek = could + V1 (teorik ihtimal)",
+    "tip_tr": "Could gelecekte bir sey mumkun olabilir derken kullanilir. Can = zaten yapabiliyorum.",
+    "extra_example": "New AI tools could revolutionize medical diagnosis in the next decade. (Yeni yapay zeka araclari onumuzdeki on yilda tibbi teshiste devrim yapabilir.)"
+  },
+  {
+    "id": "modals-029",
+    "topic": "modals",
+    "subtopic": "modal_perfects",
+    "level": "B2",
+    "stem": "I don't know why the patient collapsed. He _____ had an allergic reaction to the anesthesia.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should have"},
+      {"key": "B", "text": "must have"},
+      {"key": "C", "text": "could have"},
+      {"key": "D", "text": "might have"},
+      {"key": "E", "text": "would have"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'I don't know why' belirsizlik ifadesidir. Gecmiste belirsiz bir olasilik icin 'might have + V3' kullanilir.",
+    "rule_tr": "Gecmiste belirsiz olasilik = might have + V3",
+    "tip_tr": "Bilmiyorum/emin degilim + gecmis olasilik = might have + V3.",
+    "extra_example": "The infection might have started before the patient was admitted. (Enfeksiyon hasta yatirilmadan once baslamis olabilir.)"
+  },
+  {
+    "id": "modals-030",
+    "topic": "modals",
+    "subtopic": "must_have_to",
+    "level": "B2",
+    "stem": "In order to practice medicine in this country, doctors _____ pass a national licensing exam.",
+    "type": "fill_in_blank",
+    "options": [
+      {"key": "A", "text": "should"},
+      {"key": "B", "text": "might"},
+      {"key": "C", "text": "could"},
+      {"key": "D", "text": "have to"},
+      {"key": "E", "text": "would"}
+    ],
+    "answer": "D",
+    "explanation_tr": "Resmi/yasal zorunluluk icin 'have to' kullanilir. Bu ulkede doktorluk yapmak icin ulusal lisans sinavini gecmek zorundasin.",
+    "rule_tr": "Yasal/resmi zorunluluk = have to + V1",
+    "tip_tr": "Yasa, kural, resmi gereklilik = have to. Kisisel kanaat = must.",
+    "extra_example": "Medical students have to complete a residency program after graduating. (Tip ogrencileri mezun olduktan sonra asistanlik programini tamamlamak zorundadir.)"
+  }
+]

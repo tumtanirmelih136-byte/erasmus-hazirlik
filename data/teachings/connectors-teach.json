@@ -1,0 +1,67 @@
+{
+  "topic": "connectors",
+  "title": "Baglaclar (Connectors / Linking Words)",
+  "description_tr": "Baglaclar (connectors), cumleleri ve fikirleri birbirine baglayan kelime ve ifadelerdir. Zitlik, neden-sonuc, ekleme, amac gibi farkli iliskileri gosterir. Sinavlarda en cok hangi baglacin kullanilacagi ve noktalama (virgul, noktali virgul) kurallari sorulur. Dogru baglac secimi cumlenin anlamini tamamen degistirir.",
+  "formula": "Clause + connector + clause (noktalama kuralina dikkat!)",
+  "signals": ["however", "although", "despite", "in spite of", "moreover", "furthermore", "therefore", "consequently", "because", "since", "so that", "in order to", "whereas", "while", "on the other hand", "nevertheless", "as a result", "due to", "in addition"],
+  "turkish_logic": "Turkce'de 'ama, fakat, cunku, bu yuzden, -e ragmen, ayrica, hem ... hem' gibi baglaclar kullanilir. Ingilizce'de baglac turleri daha cetrefilli cunku noktalama kurallari degisir. 'However' noktali virgul veya nokta ister, 'although' ise virgul yeter. Turkce'de bu kadar kati noktalama kurali yoktur.",
+  "key_rules": [
+    "ZITLIK (Contrast):",
+    "Although / Even though / Though + clause: 'Although the treatment was painful, the patient recovered.' (Tedavi agrili olmasina ragmen hasta iyilesti.) — Cumle basi veya ortasinda, virgul ile.",
+    "However / Nevertheless / Nonetheless: Bagimsiz cumleleri baglar. '. However, ...' veya '; however, ...' 'The drug is effective. However, it has side effects.' — Noktali virgul veya nokta + virgul gerektirir.",
+    "Despite / In spite of + isim/gerund (clause DEGIL): 'Despite the pain, she continued working.' — Arkasinda cumle degil, isim/V-ing gelir.",
+    "NEDEN-SONUC (Cause & Effect):",
+    "Because / Since / As + clause: 'Because the patient was dehydrated, the nurse gave IV fluids.' — Neden bildiren yan cumle.",
+    "Therefore / Consequently / As a result / Thus: 'The patient didn't take his medication. Therefore, his condition worsened.' — Sonuc bildiren bagimsiz baglac. Noktali virgul veya nokta.",
+    "Due to / Because of / Owing to + isim/gerund: 'Due to the infection, the surgery was postponed.' — Arkasinda isim gelir, clause degil.",
+    "So + clause: 'She was tired, so she went home.' — Virgul + so + sonuc cumlesi.",
+    "EKLEME (Addition):",
+    "Moreover / Furthermore / In addition / Besides: 'The hospital has modern equipment. Moreover, it has experienced staff.' — Ek bilgi ekler, noktali virgul veya nokta ister.",
+    "Also / Too / As well: Cumle icinde kullanilir. 'She is also a surgeon.'",
+    "AMAC (Purpose):",
+    "So that + clause: 'The doctor explained slowly so that the patient could understand.' — Amac belirten yan cumle.",
+    "In order to / To + V1: 'She went to the hospital in order to get a check-up.' — Amac belirten yalin fiil yapisi."
+  ],
+  "examples": [
+    {
+      "en": "Although the operation was risky, the surgeon decided to proceed.",
+      "tr": "Ameliyat riskli olmasina ragmen cerrah devam etmeye karar verdi.",
+      "why": "'Although' zitlik baglaci, arkasinda clause (ozne + fiil) gelir. Cumle basinda kullanildiginda virgul ile ayrilir."
+    },
+    {
+      "en": "The patient didn't follow the diet; therefore, his cholesterol level increased.",
+      "tr": "Hasta diyete uymadi; bu yuzden kolesterol seviyesi artti.",
+      "why": "'Therefore' sonuc bildiren baglac. Iki bagimsiz cumleyi bagliyor. Noktali virgul (;) ile kullanildi. Nokta da olabilirdi."
+    },
+    {
+      "en": "Despite having a high fever, the nurse continued her shift.",
+      "tr": "Yuksek atesi olmasina ragmen hemsire nobetine devam etti.",
+      "why": "'Despite' + gerund (having). 'Despite' arkasinda clause GELMEZ! 'Despite she had fever' YANLIS. 'Despite her fever' veya 'Despite having fever' DOGRU."
+    },
+    {
+      "en": "The hospital was renovated so that patients could have better rooms.",
+      "tr": "Hastalar daha iyi odalara sahip olabilsin diye hastane yenilendi.",
+      "why": "'So that' amac belirtiyor. Arkasinda clause gelir. 'so that + could/can/would' kalibina dikkat."
+    },
+    {
+      "en": "Due to the shortage of nurses, the hospital hired temporary staff.",
+      "tr": "Hemsire eksikligi nedeniyle hastane gecici personel ise aldi.",
+      "why": "'Due to' + isim (shortage). Neden bildiriyor. 'Because of' de ayni sekilde kullanilir. 'Due to' arkasinda clause GELMEZ."
+    },
+    {
+      "en": "The drug is very effective; however, it is extremely expensive.",
+      "tr": "Ilac cok etkili; ancak son derece pahali.",
+      "why": "'However' zitlik baglaci. Iki bagimsiz cumleyi bagliyor. '; however, ...' yapisi: noktali virgul + however + virgul. Sinavda noktalamasi en cok sorulan baglac."
+    }
+  ],
+  "tips": [
+    "'Although / Even though' arkasinda CLAUSE (ozne + fiil) gelir. 'Despite / In spite of' arkasinda ISIM veya GERUND gelir. Bu farki kesinlikle ezberle!",
+    "'However' ASLA iki cumleyi virgul ile baglamaz! 'The drug is effective, however it is expensive' YANLIS. '. However, ...' veya '; however, ...' DOGRU.",
+    "'Because' ve 'because of' farki: 'Because + clause' (Because he was sick...), 'Because of + isim' (Because of his illness...). Arkasina ne geldigine bak!",
+    "'So' ve 'so that' farki: 'So' = sonuc (Bu yuzden). 'So that' = amac (... diye, ... icin). 'I studied hard so that I could pass' (amac) vs 'I studied hard, so I passed' (sonuc).",
+    "Sinav taktigi: Seceneklerde baglac soruluyorsa: 1) Cumleler arasi iliskiyi belirle (zitlik? neden? sonuc? amac?), 2) Arkasinda clause mi isim mi geliyor kontrol et, 3) Noktalamaya bak.",
+    "'Moreover, furthermore, in addition' hepsi ayni: ek bilgi ekler. Sinavda birbirinin yerine kullanilabilir.",
+    "'Whereas / While' zitlik icin kullanildiginda: 'Nurses work shifts, whereas doctors have fixed hours.' Iki seyi karsilastirir.",
+    "Sik yapilan hata: 'Although ... but ...' birlikte KULLANILMAZ! 'Although it rained, we went out.' DOGRU. 'Although it rained, but we went out.' YANLIS."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic": "question_tags",
+  "title": "Soru Kuyrukları (Question Tags)",
+  "description_tr": "Ingilizce'de cumlenin sonuna eklenen kisa soru yapilaridir. Onay almak veya teyit etmek icin kullanilir. Temel kural basit: olumlu cumle → olumsuz tag, olumsuz cumle → olumlu tag. Yardimci fiil cumleden alinir ve ozneye gore zamir kullanilir. Saglik iletisiminde hasta-doktor arasında sik kullanilir: 'You've taken your medication, haven't you?'",
+  "formula": "Olumlu cumle + olumsuz tag: She is a nurse, isn't she? | Olumsuz cumle + olumlu tag: He didn't take the medicine, did he? | Yardimci fiil cumlede yoksa → do/does/did kullan",
+  "signals": ["isn't it", "aren't they", "don't you", "hasn't he", "won't she", "didn't they", "shall we", "will you", "aren't I"],
+  "turkish_logic": "Turkce'de 'degil mi?' diyorsun cumle sonunda — tek form. Ingilizce'de ise cumlenin zamanina ve yardimci fiiline gore tag degisir. 'She is a doctor, isn't she?' ama 'She works here, doesn't she?' Turkce'de hep 'degil mi' ama Ingilizce'de her cumle icin farkli tag.",
+  "key_rules": [
+    "TEMEL KURAL: Olumlu → olumsuz tag, olumsuz → olumlu tag. 'The patient is stable, isn't he?' / 'The patient isn't stable, is he?'",
+    "YARDIMCI FIIL ESLE: Cumlede hangi yardimci fiil varsa tag'de o kullanilir. is→isn't, are→aren't, was→wasn't, have→haven't, will→won't, can→can't, should→shouldn't, must→mustn't",
+    "YARDIMCI FIIL YOKSA: Simple Present → do/does. Simple Past → did. 'The doctor prescribed medicine, didn't he?' 'Nurses work hard, don't they?'",
+    "OZEL DURUMLAR — I am: 'I am' icin tag 'aren't I?' olur (amn't I YANLIS). 'I am the next patient, aren't I?'",
+    "OZEL DURUMLAR — Let's: 'Let's' icin tag 'shall we?' olur. 'Let's check the results, shall we?'",
+    "OZEL DURUMLAR — Imperatives: Emir cumleleri icin 'will you?' veya 'won't you?' kullanilir. 'Take your medicine, will you?'",
+    "OLUMSUZ SOZCUKLER: never, hardly, seldom, rarely, nobody, nothing cumleyi olumsuz yapar → tag OLUMLU olur. 'He never exercises, does he?' 'Nothing went wrong, did it?'",
+    "ZAMIR KURALI: Tag'de isim degil zamir kullanilir. 'Dr. Smith is experienced, isn't he?' 'Everybody' → they. 'Nobody' → they. 'Nothing/something' → it. 'This/That' → it."
+  ],
+  "examples": [
+    {
+      "en": "You've taken your medication, haven't you?",
+      "tr": "Ilacini aldin, degil mi?",
+      "why": "Olumlu cumle (have taken) → olumsuz tag (haven't). Ozne 'you' → tag'de de 'you'."
+    },
+    {
+      "en": "The surgery wasn't complicated, was it?",
+      "tr": "Ameliyat komplike degildi, degil mi?",
+      "why": "Olumsuz cumle (wasn't) → olumlu tag (was). 'The surgery' → it."
+    },
+    {
+      "en": "The nurses work in shifts, don't they?",
+      "tr": "Hemsireler vardiyali calisiyor, degil mi?",
+      "why": "Yardimci fiil yok, Simple Present, cogul ozne → don't they. 'The nurses' → they."
+    },
+    {
+      "en": "Nobody called the ambulance, did they?",
+      "tr": "Kimse ambulans cagirmadi, degil mi?",
+      "why": "'Nobody' olumsuz sozcuk → cumle olumsuz sayilir → olumlu tag: did they. 'Nobody' → they."
+    },
+    {
+      "en": "I am next in line for the checkup, aren't I?",
+      "tr": "Kontrol icin siradaki ben miyim, degil mi?",
+      "why": "'I am' ozel durumu → tag 'aren't I?' olur. 'amn't I' diye bir sey YOKTUR."
+    }
+  ],
+  "tips": [
+    "TERS KURAL: Cumle olumlu → tag olumsuz, cumle olumsuz → tag olumlu. Bu kuralı bilmek sorularin %80'ini cozer. Her zaman once cumlenin olumlu mu olumsuz mu oldugunu belirle.",
+    "GIZLI OLUMSUZLAR: 'never', 'hardly', 'seldom', 'rarely', 'nobody', 'nothing', 'scarcely' cumleyi olumsuz yapar. Tag OLUMLU olmali. 'She hardly eats, does she?' Sinavda en buyuk tuzak budur.",
+    "I AM ISTISASI: 'I am' ile tag 'aren't I?' olur. Bu duzensiz kurali ezberle — sinavda mutlaka cikar.",
+    "EVERYBODY/NOBODY/SOMEBODY → THEY: Belgisiz zamirler tag'de 'they' ile eslesir. 'Everybody passed the exam, didn't they?' Sinavda 'didn't he' gibi yanlis secenekler olur — kanma."
+  ]
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "question-tags-001",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor is coming today, _____?",
+    "options": [
+      {"key": "A", "text": "is he"},
+      {"key": "B", "text": "isn't he"},
+      {"key": "C", "text": "doesn't he"},
+      {"key": "D", "text": "does he"},
+      {"key": "E", "text": "won't he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumlu ('is coming'), bu yüzden soru eki olumsuz olmalı: 'isn't he'. Yardımcı fiil 'is'.",
+    "rule_tr": "Olumlu cümle + olumsuz tag: ...is coming, isn't he?",
+    "tip_tr": "Olumlu → olumsuz tag, olumsuz → olumlu tag. Zıtlık kuralını unutma!",
+    "extra_example": "She is a nurse, isn't she? (O bir hemşire, değil mi?)"
+  },
+  {
+    "id": "question-tags-002",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You take your medicine every day, _____?",
+    "options": [
+      {"key": "A", "text": "do you"},
+      {"key": "B", "text": "don't you"},
+      {"key": "C", "text": "are you"},
+      {"key": "D", "text": "aren't you"},
+      {"key": "E", "text": "did you"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumlu ve Present Simple tense. 'Take' fiili için yardımcı fiil 'do'. Olumlu cümle → olumsuz tag: 'don't you'.",
+    "rule_tr": "Present Simple olumlu + don't/doesn't + pronoun?",
+    "tip_tr": "Ana cümlede yardımcı fiil yoksa, Present Simple için do/does, Past Simple için did kullan.",
+    "extra_example": "He exercises regularly, doesn't he? (Düzenli egzersiz yapıyor, değil mi?)"
+  },
+  {
+    "id": "question-tags-003",
+    "topic": "question-tags",
+    "subtopic": "negative-positive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient hasn't eaten anything today, _____?",
+    "options": [
+      {"key": "A", "text": "hasn't he"},
+      {"key": "B", "text": "has he"},
+      {"key": "C", "text": "doesn't he"},
+      {"key": "D", "text": "did he"},
+      {"key": "E", "text": "isn't he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumsuz ('hasn't eaten'), bu yüzden soru eki olumlu olmalı: 'has he'.",
+    "rule_tr": "Olumsuz cümle + olumlu tag: ...hasn't eaten, has he?",
+    "tip_tr": "Olumsuz cümlede tag her zaman olumlu! hasn't → has, didn't → did, isn't → is.",
+    "extra_example": "She doesn't like hospitals, does she? (Hastaneleri sevmiyor, öyle mi?)"
+  },
+  {
+    "id": "question-tags-004",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurses were very helpful, _____?",
+    "options": [
+      {"key": "A", "text": "were they"},
+      {"key": "B", "text": "weren't they"},
+      {"key": "C", "text": "didn't they"},
+      {"key": "D", "text": "don't they"},
+      {"key": "E", "text": "aren't they"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumlu ve Past Simple ('were'). Olumlu cümle → olumsuz tag: 'weren't they'.",
+    "rule_tr": "...were + adjective, weren't + pronoun?",
+    "tip_tr": "Tense'i doğru yakala: 'were' → 'weren't', 'was' → 'wasn't'.",
+    "extra_example": "The operation was successful, wasn't it? (Ameliyat başarılıydı, değil mi?)"
+  },
+  {
+    "id": "question-tags-005",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You can swim, _____?",
+    "options": [
+      {"key": "A", "text": "can you"},
+      {"key": "B", "text": "can't you"},
+      {"key": "C", "text": "don't you"},
+      {"key": "D", "text": "do you"},
+      {"key": "E", "text": "aren't you"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümlede modal verb 'can' var. Olumlu cümle → olumsuz tag: 'can't you'.",
+    "rule_tr": "Modal verb → aynı modal verb ile tag: can → can't, will → won't, should → shouldn't",
+    "tip_tr": "Modal verb varsa tag'de aynı modal'ı kullan. Başka yardımcı fiil kullanma!",
+    "extra_example": "She should see a doctor, shouldn't she? (Doktora gitmeli, değil mi?)"
+  },
+  {
+    "id": "question-tags-006",
+    "topic": "question-tags",
+    "subtopic": "negative-positive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You didn't forget your appointment, _____?",
+    "options": [
+      {"key": "A", "text": "didn't you"},
+      {"key": "B", "text": "did you"},
+      {"key": "C", "text": "don't you"},
+      {"key": "D", "text": "do you"},
+      {"key": "E", "text": "had you"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumsuz ('didn't forget'). Olumsuz cümle → olumlu tag: 'did you'.",
+    "rule_tr": "Olumsuz (didn't) + olumlu tag (did you?)",
+    "tip_tr": "Past Simple olumsuz → 'did you?', Present Simple olumsuz → 'do you?'",
+    "extra_example": "They didn't cancel the surgery, did they? (Ameliyatı iptal etmediler, öyle mi?)"
+  },
+  {
+    "id": "question-tags-007",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She will recover soon, _____?",
+    "options": [
+      {"key": "A", "text": "will she"},
+      {"key": "B", "text": "won't she"},
+      {"key": "C", "text": "doesn't she"},
+      {"key": "D", "text": "isn't she"},
+      {"key": "E", "text": "can't she"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumlu ve 'will' modal fiili var. Olumlu → olumsuz tag: 'won't she'.",
+    "rule_tr": "will → won't (will not = won't kısaltması)",
+    "tip_tr": "will → won't, shall → shan't (nadir kullanılır). 'Won't' en sık çıkan tag'lerden biri!",
+    "extra_example": "The test results will be ready tomorrow, won't they? (Test sonuçları yarın hazır olacak, değil mi?)"
+  },
+  {
+    "id": "question-tags-008",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The children have had their vaccinations, _____?",
+    "options": [
+      {"key": "A", "text": "have they"},
+      {"key": "B", "text": "haven't they"},
+      {"key": "C", "text": "did they"},
+      {"key": "D", "text": "didn't they"},
+      {"key": "E", "text": "don't they"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle Present Perfect olumlu ('have had'). Olumlu → olumsuz tag: 'haven't they'.",
+    "rule_tr": "have/has + V3 (olumlu) → haven't/hasn't + pronoun?",
+    "tip_tr": "Present Perfect: have → haven't, has → hasn't. Simple Past ile karıştırma!",
+    "extra_example": "He has taken his pills, hasn't he? (İlaçlarını aldı, değil mi?)"
+  },
+  {
+    "id": "question-tags-009",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Your father works at the hospital, _____?",
+    "options": [
+      {"key": "A", "text": "does he"},
+      {"key": "B", "text": "doesn't he"},
+      {"key": "C", "text": "is he"},
+      {"key": "D", "text": "isn't he"},
+      {"key": "E", "text": "didn't he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle Present Simple olumlu. 'Works' 3. tekil şahıs. Yardımcı fiil 'does' → olumsuz tag: 'doesn't he'.",
+    "rule_tr": "3. tekil şahıs Present Simple → doesn't + pronoun?",
+    "tip_tr": "He/she/it ile 'doesn't', I/you/we/they ile 'don't'. Şahsa dikkat!",
+    "extra_example": "She drinks a lot of water, doesn't she? (Çok su içiyor, değil mi?)"
+  },
+  {
+    "id": "question-tags-010",
+    "topic": "question-tags",
+    "subtopic": "negative-positive",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "They aren't coming to the clinic today, _____?",
+    "options": [
+      {"key": "A", "text": "aren't they"},
+      {"key": "B", "text": "are they"},
+      {"key": "C", "text": "do they"},
+      {"key": "D", "text": "don't they"},
+      {"key": "E", "text": "will they"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumsuz ('aren't coming'). Olumsuz → olumlu tag: 'are they'.",
+    "rule_tr": "aren't + V-ing → are + pronoun? (olumsuz → olumlu)",
+    "tip_tr": "Present Continuous olumsuz: aren't/isn't → tag'de are/is kullan.",
+    "extra_example": "He isn't feeling well, is he? (İyi hissetmiyor, öyle mi?)"
+  },
+  {
+    "id": "question-tags-011",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I am the next patient, _____?",
+    "options": [
+      {"key": "A", "text": "am I"},
+      {"key": "B", "text": "amn't I"},
+      {"key": "C", "text": "aren't I"},
+      {"key": "D", "text": "isn't I"},
+      {"key": "E", "text": "don't I"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'I am' için tag 'aren't I' şeklindedir. 'Amn't I' İngilizce'de kullanılmaz. Bu özel bir kuraldır.",
+    "rule_tr": "I am → aren't I? (ÖZEL KURAL!)",
+    "tip_tr": "Bu en çok sorulan özel question tag kuralıdır! 'I am → aren't I?' EZBERLE!",
+    "extra_example": "I am right about the diagnosis, aren't I? (Teşhis hakkında haklıyım, değil mi?)"
+  },
+  {
+    "id": "question-tags-012",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "There is a pharmacy near the hospital, _____?",
+    "options": [
+      {"key": "A", "text": "is it"},
+      {"key": "B", "text": "isn't it"},
+      {"key": "C", "text": "is there"},
+      {"key": "D", "text": "isn't there"},
+      {"key": "E", "text": "doesn't it"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'There is' yapısında tag'de 'there' kullanılır, 'it' değil. Olumlu cümle → olumsuz tag: 'isn't there'.",
+    "rule_tr": "There is/are → isn't/aren't there? (tag'de 'there' kullan)",
+    "tip_tr": "'There is/are' yapısında tag'de 'it' değil 'there' kullan! Sık yapılan hata!",
+    "extra_example": "There are many clinics in this area, aren't there? (Bu bölgede birçok klinik var, değil mi?)"
+  },
+  {
+    "id": "question-tags-013",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Nobody came to visit the patient, _____?",
+    "options": [
+      {"key": "A", "text": "did nobody"},
+      {"key": "B", "text": "didn't they"},
+      {"key": "C", "text": "did they"},
+      {"key": "D", "text": "didn't nobody"},
+      {"key": "E", "text": "did he"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Nobody' olumsuz anlam taşır, bu yüzden tag olumlu olmalı: 'did they'. 'Nobody/no one' için tag'de 'they' zamiri kullanılır.",
+    "rule_tr": "nobody/no one/nothing → olumlu tag + they",
+    "tip_tr": "nobody, no one, nothing, nowhere → hepsi olumsuz → tag olumlu olmalı!",
+    "extra_example": "Nothing happened during the night, did it? (Gece boyunca hiçbir şey olmadı, öyle mi?)"
+  },
+  {
+    "id": "question-tags-014",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Everyone should wash their hands regularly, _____?",
+    "options": [
+      {"key": "A", "text": "should he"},
+      {"key": "B", "text": "shouldn't he"},
+      {"key": "C", "text": "shouldn't they"},
+      {"key": "D", "text": "should they"},
+      {"key": "E", "text": "shouldn't everyone"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Everyone' olumlu anlam taşır ve tag'de 'they' zamiri kullanılır. Olumlu cümle → olumsuz tag: 'shouldn't they'.",
+    "rule_tr": "everyone/everybody/someone/somebody → they (tag'de)",
+    "tip_tr": "everyone, everybody, someone, somebody → tag'de 'they' kullan, 'he/she' değil!",
+    "extra_example": "Somebody called the ambulance, didn't they? (Biri ambulansı aradı, değil mi?)"
+  },
+  {
+    "id": "question-tags-015",
+    "topic": "question-tags",
+    "subtopic": "imperative-tags",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Take your medicine on time, _____?",
+    "options": [
+      {"key": "A", "text": "do you"},
+      {"key": "B", "text": "don't you"},
+      {"key": "C", "text": "will you"},
+      {"key": "D", "text": "won't you"},
+      {"key": "E", "text": "can you"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Emir cümlelerinde (imperative) tag olarak 'will you' veya 'won't you' kullanılır. 'Take your medicine' emir cümlesidir.",
+    "rule_tr": "Imperative (emir) → will you? / won't you?",
+    "tip_tr": "Emir cümlesinden sonra 'will you?' = kibarca hatırlatma. Sınavda sık çıkar!",
+    "extra_example": "Close the window, will you? (Pencereyi kapat, olur mu?)"
+  },
+  {
+    "id": "question-tags-016",
+    "topic": "question-tags",
+    "subtopic": "imperative-tags",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Don't touch the wound, _____?",
+    "options": [
+      {"key": "A", "text": "do you"},
+      {"key": "B", "text": "don't you"},
+      {"key": "C", "text": "will you"},
+      {"key": "D", "text": "won't you"},
+      {"key": "E", "text": "can you"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Olumsuz emir cümlesinde de tag 'will you' olur. 'Don't touch' olumsuz emir cümlesidir.",
+    "rule_tr": "Don't + imperative → will you? (olumsuz emirde de 'will you')",
+    "tip_tr": "Hem olumlu hem olumsuz emir cümlelerinde 'will you?' kullanılır.",
+    "extra_example": "Don't forget to take your pills, will you? (İlaçlarını almayı unutma, olur mu?)"
+  },
+  {
+    "id": "question-tags-017",
+    "topic": "question-tags",
+    "subtopic": "lets-tags",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Let's go to the pharmacy, _____?",
+    "options": [
+      {"key": "A", "text": "will we"},
+      {"key": "B", "text": "won't we"},
+      {"key": "C", "text": "shall we"},
+      {"key": "D", "text": "do we"},
+      {"key": "E", "text": "don't we"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Let's' ile başlayan cümlelerde tag her zaman 'shall we' olur. Bu sabit bir kuraldır.",
+    "rule_tr": "Let's + V → shall we? (HER ZAMAN!)",
+    "tip_tr": "'Let's → shall we?' ezberle! Sınavda kesinlikle çıkar!",
+    "extra_example": "Let's take a break, shall we? (Bir mola verelim, olur mu?)"
+  },
+  {
+    "id": "question-tags-018",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The hospital had been renovated before the inspection, _____?",
+    "options": [
+      {"key": "A", "text": "had it"},
+      {"key": "B", "text": "hadn't it"},
+      {"key": "C", "text": "didn't it"},
+      {"key": "D", "text": "wasn't it"},
+      {"key": "E", "text": "hasn't it"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle Past Perfect olumlu ('had been renovated'). Olumlu → olumsuz tag: 'hadn't it'.",
+    "rule_tr": "had + V3 (olumlu) → hadn't + pronoun?",
+    "tip_tr": "Past Perfect: had → hadn't. Present Perfect ile karıştırma (has/have → hasn't/haven't)!",
+    "extra_example": "She had already left the hospital, hadn't she? (Hastaneden çoktan ayrılmıştı, değil mi?)"
+  },
+  {
+    "id": "question-tags-019",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "He seldom visits his dentist, _____?",
+    "options": [
+      {"key": "A", "text": "doesn't he"},
+      {"key": "B", "text": "does he"},
+      {"key": "C", "text": "is he"},
+      {"key": "D", "text": "isn't he"},
+      {"key": "E", "text": "did he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Seldom' (nadiren) olumsuz anlam taşıyan bir zarftır. Olumsuz anlam → olumlu tag: 'does he'.",
+    "rule_tr": "seldom/rarely/hardly/barely/never → olumsuz anlam → olumlu tag",
+    "tip_tr": "seldom, rarely, hardly, scarcely, barely, never, little → hepsi olumsuz → tag olumlu!",
+    "extra_example": "She rarely goes to the hospital, does she? (Nadiren hastaneye gider, öyle mi?)"
+  },
+  {
+    "id": "question-tags-020",
+    "topic": "question-tags",
+    "subtopic": "negative-positive",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The treatment won't cause any side effects, _____?",
+    "options": [
+      {"key": "A", "text": "won't it"},
+      {"key": "B", "text": "will it"},
+      {"key": "C", "text": "does it"},
+      {"key": "D", "text": "doesn't it"},
+      {"key": "E", "text": "isn't it"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Ana cümle olumsuz ('won't cause'). Olumsuz → olumlu tag: 'will it'.",
+    "rule_tr": "won't → will + pronoun? (olumsuz → olumlu)",
+    "tip_tr": "won't → will, can't → can, mustn't → must. Kısaltmayı açarak tag yap!",
+    "extra_example": "The surgery won't take long, will it? (Ameliyat uzun sürmeyecek, değil mi?)"
+  },
+  {
+    "id": "question-tags-021",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Nothing can be done to reverse the damage, _____?",
+    "options": [
+      {"key": "A", "text": "can't it"},
+      {"key": "B", "text": "can it"},
+      {"key": "C", "text": "can they"},
+      {"key": "D", "text": "can't they"},
+      {"key": "E", "text": "isn't it"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Nothing' olumsuz anlam taşır. Olumsuz → olumlu tag. 'Nothing' için zamir 'it' kullanılır: 'can it'.",
+    "rule_tr": "nothing → olumlu tag + it",
+    "tip_tr": "nothing → it, nobody/no one → they. Zamiri doğru seç!",
+    "extra_example": "Nothing was wrong with the test results, was it? (Test sonuçlarında hiçbir sorun yoktu, öyle mi?)"
+  },
+  {
+    "id": "question-tags-022",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "He hardly ever misses his physiotherapy sessions, _____?",
+    "options": [
+      {"key": "A", "text": "doesn't he"},
+      {"key": "B", "text": "does he"},
+      {"key": "C", "text": "has he"},
+      {"key": "D", "text": "isn't he"},
+      {"key": "E", "text": "hasn't he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Hardly ever' olumsuz anlam taşır (neredeyse hiç). Olumsuz anlam → olumlu tag: 'does he'.",
+    "rule_tr": "hardly ever/never/seldom → olumsuz anlam → olumlu tag",
+    "tip_tr": "'Hardly' = neredeyse hiç. Gramer olarak olumsuz sayılır!",
+    "extra_example": "She can hardly walk after the surgery, can she? (Ameliyattan sonra neredeyse yürüyemiyor, öyle mi?)"
+  },
+  {
+    "id": "question-tags-023",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "One should always consult a doctor before taking new medication, _____?",
+    "options": [
+      {"key": "A", "text": "shouldn't one"},
+      {"key": "B", "text": "should one"},
+      {"key": "C", "text": "shouldn't he"},
+      {"key": "D", "text": "shouldn't they"},
+      {"key": "E", "text": "shouldn't you"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'One' öznesi formal İngilizce'de tag'de yine 'one' olarak kullanılır: 'shouldn't one'.",
+    "rule_tr": "One + should → shouldn't one? (formal kullanım)",
+    "tip_tr": "Formal: 'shouldn't one?'. Informal: 'shouldn't you/they?'. Sınavda formal versiyon tercih edilir.",
+    "extra_example": "One must be careful with dosage, mustn't one? (Kişi dozaj konusunda dikkatli olmalı, değil mi?)"
+  },
+  {
+    "id": "question-tags-024",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The research team has been working on the vaccine for years, _____?",
+    "options": [
+      {"key": "A", "text": "has it"},
+      {"key": "B", "text": "hasn't it"},
+      {"key": "C", "text": "haven't they"},
+      {"key": "D", "text": "have they"},
+      {"key": "E", "text": "didn't they"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'The research team' kolektif isim olup 'they' zamiri ile karşılanır (birden fazla kişi). Present Perfect Continuous olumlu → olumsuz tag: 'haven't they'.",
+    "rule_tr": "team/staff/committee (kolektif isim) → they zamiri ile tag yapılır",
+    "tip_tr": "Kolektif isimler (team, family, staff, committee) → tag'de 'they' kullan!",
+    "extra_example": "The medical staff have been very supportive, haven't they? (Sağlık personeli çok destekleyici oldu, değil mi?)"
+  },
+  {
+    "id": "question-tags-025",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "He used to smoke a lot before his heart attack, _____?",
+    "options": [
+      {"key": "A", "text": "used he"},
+      {"key": "B", "text": "didn't he"},
+      {"key": "C", "text": "doesn't he"},
+      {"key": "D", "text": "usedn't he"},
+      {"key": "E", "text": "did he"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Used to' yapısında tag 'didn't + pronoun' şeklinde yapılır. 'Usedn't he' çok formal ve nadir kullanılır.",
+    "rule_tr": "used to → didn't + pronoun? (yaygın kullanım)",
+    "tip_tr": "'Used to' Past Simple gibi düşün → 'didn't' ile tag yap.",
+    "extra_example": "They used to live near the hospital, didn't they? (Eskiden hastanenin yakınında yaşarlardı, değil mi?)"
+  },
+  {
+    "id": "question-tags-026",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "This is the best treatment available, _____?",
+    "options": [
+      {"key": "A", "text": "is this"},
+      {"key": "B", "text": "isn't this"},
+      {"key": "C", "text": "is it"},
+      {"key": "D", "text": "isn't it"},
+      {"key": "E", "text": "doesn't it"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'This is' yapısında tag'de 'this' yerine 'it' zamiri kullanılır. Olumlu → olumsuz: 'isn't it'.",
+    "rule_tr": "This/That is → isn't it? (tag'de 'this/that' yerine 'it' kullan)",
+    "tip_tr": "this is → isn't it, that is → isn't it. Tag'de her zaman 'it' kullan!",
+    "extra_example": "That was a difficult diagnosis, wasn't it? (O zor bir teşhisti, değil mi?)"
+  },
+  {
+    "id": "question-tags-027",
+    "topic": "question-tags",
+    "subtopic": "positive-negative",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient must take the antibiotics for the full course, _____?",
+    "options": [
+      {"key": "A", "text": "must he"},
+      {"key": "B", "text": "mustn't he"},
+      {"key": "C", "text": "doesn't he"},
+      {"key": "D", "text": "needn't he"},
+      {"key": "E", "text": "shouldn't he"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Must' (zorunluluk) için olumsuz tag 'mustn't' değil 'needn't' olarak da kullanılabilir. Ancak bazı kaynaklarda 'mustn't he' de kabul edilir. 'Needn't' daha yaygın kabul gören tag'dir.",
+    "rule_tr": "must → mustn't / needn't + pronoun? (her ikisi de doğru olabilir)",
+    "tip_tr": "'Must' zorunluluk anlamında → 'needn't' ile tag yapılması tercih edilir çünkü 'mustn't' = yasak anlamına gelir.",
+    "extra_example": "You must see a specialist, mustn't you? (Bir uzmana görünmelisin, değil mi?)"
+  },
+  {
+    "id": "question-tags-028",
+    "topic": "question-tags",
+    "subtopic": "lets-tags",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Let's not postpone the appointment again, _____?",
+    "options": [
+      {"key": "A", "text": "shall we"},
+      {"key": "B", "text": "will we"},
+      {"key": "C", "text": "won't we"},
+      {"key": "D", "text": "don't we"},
+      {"key": "E", "text": "let's we"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Let's not' (olumsuz) olsa bile tag yine 'shall we' olur. Let's yapısında tag HER ZAMAN 'shall we'dir.",
+    "rule_tr": "Let's / Let's not → shall we? (olumlu/olumsuz fark etmez)",
+    "tip_tr": "Let's = shall we, Let's not = shall we. İkisi de aynı tag! Olumsuzluk fark yaratmaz!",
+    "extra_example": "Let's not forget to bring the medical reports, shall we? (Tıbbi raporları getirmeyi unutmayalım, olur mu?)"
+  },
+  {
+    "id": "question-tags-029",
+    "topic": "question-tags",
+    "subtopic": "imperative-tags",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Give me the patient's file, _____?",
+    "options": [
+      {"key": "A", "text": "do you"},
+      {"key": "B", "text": "don't you"},
+      {"key": "C", "text": "will you"},
+      {"key": "D", "text": "shall you"},
+      {"key": "E", "text": "can't you"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Emir cümlesinde tag 'will you' olur. 'Give me' bir emir cümlesidir.",
+    "rule_tr": "Imperative + will you? (emir/rica cümlelerinde)",
+    "tip_tr": "'Can you' ve 'could you' tag olarak kullanılmaz! Emir cümlesi → 'will you'.",
+    "extra_example": "Pass me the stethoscope, will you? (Stetoskopu uzat, olur mu?)"
+  },
+  {
+    "id": "question-tags-030",
+    "topic": "question-tags",
+    "subtopic": "special-cases",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "There won't be any complications after the surgery, _____?",
+    "options": [
+      {"key": "A", "text": "won't there"},
+      {"key": "B", "text": "will there"},
+      {"key": "C", "text": "will it"},
+      {"key": "D", "text": "won't it"},
+      {"key": "E", "text": "is there"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'There won't be' olumsuz yapıdır. Olumsuz → olumlu tag: 'will there'. 'There' yapısında tag'de de 'there' kullanılır.",
+    "rule_tr": "There won't be → will there? (olumsuz → olumlu, 'there' korunur)",
+    "tip_tr": "'There' yapısı tüm tense'lerde tag'de 'there' olarak kalır: isn't there, will there, was there...",
+    "extra_example": "There won't be any more delays, will there? (Başka gecikme olmayacak, değil mi?)"
+  }
+]

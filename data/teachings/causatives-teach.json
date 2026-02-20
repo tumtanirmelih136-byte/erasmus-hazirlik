@@ -1,0 +1,50 @@
+{
+  "topic": "causatives",
+  "title": "Ettirgen Yapilar (Causatives)",
+  "description_tr": "Ingilizce'de bir isin baskasi tarafindan yaptirildigini ifade eden yapilardir. Turkce'deki '-tir/-dir' ekine karsilik gelir: 'Sacimi kestirdim' = 'I had my hair cut.' Iki ana kategori vardir: 1) Isi baskasina yaptirma (have/get something done — pasif causative), 2) Birini bir sey yapmaya sevk etme/izin verme (make/let/have someone do — aktif causative). Saglik alaninda cok kullanilir: hasta tedavi olur, doktora yaptırır.",
+  "formula": "PASIF: have/get + nesne + V3 (past participle) → 'I had my blood tested.' | AKTIF: make/let/have + kisi + V1 (base form) → 'The doctor made him rest.' | get + kisi + to V1 → 'I got him to take the medicine.'",
+  "signals": ["have something done", "get something done", "make someone do", "let someone do", "have someone do", "get someone to do"],
+  "turkish_logic": "Turkce'de 'yaptirdim' dediginde isi sen yapmadigin, baskasina yaptirdigin anlasilir. 'Kan tahlili yaptirdim' = 'I had my blood tested.' Isi yapan kisi (laborant) onemli degil, yaptiran kisi (sen) onemli. 'Make' = zorla yaptirmak (-tir zorunlu), 'let' = izin vermek (-e izin ver), 'have' = yaptirtmak (notr), 'get' = ikna ederek yaptirtmak.",
+  "key_rules": [
+    "HAVE + NESNE + V3 (Pasif Causative): Isi baskasina yaptirmak. 'I had my teeth checked.' = Dislerimi kontrol ettirdim. Isi yapan kisi belirtilmez. En resmi ve yaygin form.",
+    "GET + NESNE + V3 (Pasif Causative): 'have' ile ayni anlam, biraz daha informal. 'I got my prescription filled.' = Recetemi yazdirdim. Gunluk konusmada 'have' yerine 'get' daha sik kullanilir.",
+    "MAKE + KISI + V1 (Aktif Causative): Zorla/otorite ile yaptirmak. 'The doctor made the patient stay in bed.' = Doktor hastayi yatakta kalmaya zorladi. DIKKAT: Passive'de 'to' eklenir: 'The patient was made to stay in bed.'",
+    "LET + KISI + V1 (Aktif Causative): Izin vermek, birakmak. 'The nurse let the visitors enter the ICU.' = Hemsire ziyaretcilerin yogun bakima girmesine izin verdi. ASLA: let someone to do (to GELMEZ)",
+    "HAVE + KISI + V1 (Aktif Causative): Birinden bir sey yapmasini istemek/talimat vermek (notr). 'The surgeon had the nurse prepare the instruments.' = Cerrah, hemsireden aletleri hazirlamasini istedi.",
+    "GET + KISI + TO V1 (Aktif Causative): Ikna ederek yaptirmak. 'I got my father to see a doctor.' = Babami doktora gitmeye ikna ettim. DIKKAT: get + kisi icin 'to' GEREKLI (diger aktif causative'lerden farki bu).",
+    "ZAMAN UYUMU: Causative yapilar her tense'de kullanilabilir. 'I will have my eyes tested.' (gelecek). 'She is having her blood drawn.' (simdiki). 'They had the wound stitched.' (gecmis)."
+  ],
+  "examples": [
+    {
+      "en": "I had my blood pressure checked at the clinic yesterday.",
+      "tr": "Dun klinikte tansiyonumu olcturdum.",
+      "why": "Pasif causative: have + nesne (blood pressure) + V3 (checked). Isi yapan (hemsire/doktor) belirtilmemis."
+    },
+    {
+      "en": "The doctor made the patient take the antibiotics for 10 days.",
+      "tr": "Doktor hastaya 10 gun antibiyotik aldirdi (mecbur birakti).",
+      "why": "Aktif causative: make + kisi (the patient) + V1 (take). 'make' zorlama/otorite anlami tasiyor."
+    },
+    {
+      "en": "The hospital doesn't let visitors enter after 8 PM.",
+      "tr": "Hastane ziyaretcilerin saat 20'den sonra girmesine izin vermiyor.",
+      "why": "Aktif causative: let + kisi (visitors) + V1 (enter). 'let' izin anlami tasiyor. 'to enter' YANLIS olurdu."
+    },
+    {
+      "en": "She got her mother to take the flu vaccine.",
+      "tr": "Annesini grip asisi yaptirmaya ikna etti.",
+      "why": "Aktif causative: get + kisi (her mother) + TO V1 (to take). 'get' ikna anlami var. 'to' ZORUNLU."
+    },
+    {
+      "en": "You should get your eyes tested regularly.",
+      "tr": "Gozlerini duzenli olarak kontrol ettirmelisin.",
+      "why": "Pasif causative: get + nesne (your eyes) + V3 (tested). 'have your eyes tested' ile ayni anlam, daha informal."
+    }
+  ],
+  "tips": [
+    "HAVE vs GET (Pasif): Ikisi de ayni anlam: 'had my car fixed' = 'got my car fixed'. Fark: 'have' daha resmi, 'get' daha gunluk. Sinavda ikisi de dogru olabilir — seceneklere dikkatlice bak.",
+    "MAKE vs LET vs GET: make = zorlama (doktor hastaya), let = izin (anne cocuga), get = ikna (sen arkadasina). Cumlenin anlamina gore dogru fiili sec. Sinavda en sik sorulan ayrım budur.",
+    "TO TUZAGI: make/let/have + kisi + V1 (to YOK). get + kisi + TO V1 (to VAR). 'She made him go' (dogru) vs 'She got him to go' (dogru). Sinavda 'made him to go' secenegi YANLISTIR — tuzak.",
+    "PASIF MAKE KURALI: 'make' pasif yapildiginda 'to' eklenir: 'He was made TO rest.' Aktif'te 'to' yok, pasif'te 'to' var. Bu kural sinavda kesinlikle sorulur."
+  ]
+}

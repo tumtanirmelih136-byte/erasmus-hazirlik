@@ -1,0 +1,602 @@
+[
+  {
+    "id": "quantifiers-001",
+    "topic": "quantifiers",
+    "subtopic": "some-any",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Is there _____ milk left in the fridge? I need it for my medication.",
+    "options": [
+      {"key": "A", "text": "some"},
+      {"key": "B", "text": "any"},
+      {"key": "C", "text": "much"},
+      {"key": "D", "text": "many"},
+      {"key": "E", "text": "few"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Soru cümlelerinde genellikle 'any' kullanılır. 'Is there any...?' kalıp soru yapısıdır.",
+    "rule_tr": "Soru ve olumsuz cümlelerde → any / Olumlu cümlelerde → some",
+    "tip_tr": "Teklif ve ricada soru olsa bile 'some' kullanılır: 'Would you like some tea?'",
+    "extra_example": "Do you have any allergies? (Herhangi bir alerjiniz var mı?)"
+  },
+  {
+    "id": "quantifiers-002",
+    "topic": "quantifiers",
+    "subtopic": "some-any",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor gave me _____ advice about my diet.",
+    "options": [
+      {"key": "A", "text": "any"},
+      {"key": "B", "text": "some"},
+      {"key": "C", "text": "many"},
+      {"key": "D", "text": "few"},
+      {"key": "E", "text": "a few"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Olumlu cümlede 'some' kullanılır. Doktor diyetiyle ilgili bazı tavsiyeler vermiş.",
+    "rule_tr": "Olumlu cümle → some (bazı, biraz)",
+    "tip_tr": "'Advice' sayılamayan isimdir, 'many' veya 'few' ile kullanılmaz!",
+    "extra_example": "I need some information about the treatment options. (Tedavi seçenekleri hakkında biraz bilgiye ihtiyacım var.)"
+  },
+  {
+    "id": "quantifiers-003",
+    "topic": "quantifiers",
+    "subtopic": "much-many",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "How _____ water should I drink after taking this medicine?",
+    "options": [
+      {"key": "A", "text": "many"},
+      {"key": "B", "text": "much"},
+      {"key": "C", "text": "few"},
+      {"key": "D", "text": "a lot"},
+      {"key": "E", "text": "some"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Water' sayılamayan isimdir. Sayılamayan isimlerle 'much' kullanılır, 'many' YANLIŞTIR.",
+    "rule_tr": "How much + uncountable / How many + countable plural",
+    "tip_tr": "water, milk, juice, medicine (sıvılar) → much. pills, tablets, capsules → many.",
+    "extra_example": "How much sleep do you get every night? (Her gece ne kadar uyursunuz?)"
+  },
+  {
+    "id": "quantifiers-004",
+    "topic": "quantifiers",
+    "subtopic": "much-many",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "How _____ pills should I take per day?",
+    "options": [
+      {"key": "A", "text": "much"},
+      {"key": "B", "text": "many"},
+      {"key": "C", "text": "a lot of"},
+      {"key": "D", "text": "little"},
+      {"key": "E", "text": "a little"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Pills' sayılabilir çoğul isimdir. Sayılabilir çoğul isimlerle 'many' kullanılır.",
+    "rule_tr": "How many + countable plural = kaç tane",
+    "tip_tr": "pills, tablets, doses, appointments → sayılabilir → 'how many' kullan.",
+    "extra_example": "How many times a day should I take this medication? (Bu ilacı günde kaç kez almalıyım?)"
+  },
+  {
+    "id": "quantifiers-005",
+    "topic": "quantifiers",
+    "subtopic": "a-few-few",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "There are _____ good hospitals in this area, so we are lucky.",
+    "options": [
+      {"key": "A", "text": "few"},
+      {"key": "B", "text": "a few"},
+      {"key": "C", "text": "little"},
+      {"key": "D", "text": "a little"},
+      {"key": "E", "text": "much"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'A few' = birkaç tane (olumlu anlam). 'So we are lucky' ifadesi olumlu bir bağlam olduğunu gösterir. 'Few' olumsuz anlam taşır (çok az, neredeyse hiç).",
+    "rule_tr": "a few = birkaç (olumlu) / few = çok az, neredeyse hiç (olumsuz)",
+    "tip_tr": "'A' harfi VARSA olumlu (yeterli miktar), YOKSA olumsuz (yetersiz miktar).",
+    "extra_example": "A few nurses volunteered for the night shift. (Birkaç hemşire gece vardiyası için gönüllü oldu.)"
+  },
+  {
+    "id": "quantifiers-006",
+    "topic": "quantifiers",
+    "subtopic": "a-little-little",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "There is _____ hope for recovery, but the doctors are doing their best.",
+    "options": [
+      {"key": "A", "text": "a few"},
+      {"key": "B", "text": "few"},
+      {"key": "C", "text": "little"},
+      {"key": "D", "text": "a little"},
+      {"key": "E", "text": "many"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Hope' sayılamayan isimdir ve 'a little' = biraz (olumlu). 'But the doctors are doing their best' ifadesi umut olduğunu gösterir.",
+    "rule_tr": "a little = biraz (olumlu) / little = çok az, neredeyse hiç (olumsuz)",
+    "tip_tr": "'Hope, time, money, water' → sayılamaz → 'a little/little' kullan. 'A few/few' YANLIŞ!",
+    "extra_example": "Add a little salt to the soup for better taste. (Daha iyi bir tat için çorbaya biraz tuz ekle.)"
+  },
+  {
+    "id": "quantifiers-007",
+    "topic": "quantifiers",
+    "subtopic": "a-lot-of",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient needs _____ rest after the surgery.",
+    "options": [
+      {"key": "A", "text": "many"},
+      {"key": "B", "text": "a lot of"},
+      {"key": "C", "text": "a few"},
+      {"key": "D", "text": "few"},
+      {"key": "E", "text": "several"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Rest' sayılamayan isimdir. 'A lot of' hem sayılabilen hem sayılamayan isimlerle kullanılabilir. 'Many' sadece sayılabilenlerle kullanılır.",
+    "rule_tr": "a lot of / lots of = hem countable hem uncountable ile kullanılır",
+    "tip_tr": "'A lot of' her yerde kullanılabilir — sınavda emin olamadığında güvenli seçenektir.",
+    "extra_example": "You need a lot of patience when recovering from an injury. (Yaralanmadan iyileşirken çok sabır gerekir.)"
+  },
+  {
+    "id": "quantifiers-008",
+    "topic": "quantifiers",
+    "subtopic": "enough",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The hospital doesn't have _____ beds for all the patients.",
+    "options": [
+      {"key": "A", "text": "too"},
+      {"key": "B", "text": "too many"},
+      {"key": "C", "text": "enough"},
+      {"key": "D", "text": "a lot"},
+      {"key": "E", "text": "much"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Enough' yeterli anlamına gelir. Olumsuz cümlede 'not enough' = yeterli değil. Hastanede tüm hastalar için yeterli yatak yok.",
+    "rule_tr": "enough + noun = yeterli (isimden ÖNCE gelir)",
+    "tip_tr": "enough + isim (enough beds) ama sıfat + enough (big enough). Sıralama farklı!",
+    "extra_example": "Do you have enough medicine for the whole week? (Tüm hafta için yeterli ilacınız var mı?)"
+  },
+  {
+    "id": "quantifiers-009",
+    "topic": "quantifiers",
+    "subtopic": "too-too-much",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Eating _____ sugar can lead to diabetes.",
+    "options": [
+      {"key": "A", "text": "too many"},
+      {"key": "B", "text": "too much"},
+      {"key": "C", "text": "too"},
+      {"key": "D", "text": "enough"},
+      {"key": "E", "text": "a lot"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Sugar' sayılamayan isimdir. Sayılamayan isimlerle 'too much' kullanılır. 'Too many' sayılabilir çoğul isimlerle kullanılır.",
+    "rule_tr": "too much + uncountable / too many + countable plural",
+    "tip_tr": "too much sugar, too much stress AMA too many pills, too many appointments.",
+    "extra_example": "Drinking too much coffee can cause insomnia. (Çok fazla kahve içmek uykusuzluğa neden olabilir.)"
+  },
+  {
+    "id": "quantifiers-010",
+    "topic": "quantifiers",
+    "subtopic": "some-any",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Would you like _____ tea? It might help you feel better.",
+    "options": [
+      {"key": "A", "text": "any"},
+      {"key": "B", "text": "some"},
+      {"key": "C", "text": "few"},
+      {"key": "D", "text": "much"},
+      {"key": "E", "text": "many"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Teklif cümlelerinde ('Would you like...?') soru olmasına rağmen 'some' kullanılır, 'any' değil.",
+    "rule_tr": "Teklif (offer) ve rica (request) sorularında → some kullanılır",
+    "tip_tr": "Would you like some...? / Can I have some...? → Soru ama 'some' kullan!",
+    "extra_example": "Can I have some water, please? (Biraz su alabilir miyim, lütfen?)"
+  },
+  {
+    "id": "quantifiers-011",
+    "topic": "quantifiers",
+    "subtopic": "all-every-each",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ patient must be examined before being admitted to the hospital.",
+    "options": [
+      {"key": "A", "text": "All"},
+      {"key": "B", "text": "Every"},
+      {"key": "C", "text": "Each"},
+      {"key": "D", "text": "Both"},
+      {"key": "E", "text": "Either"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Every' + tekil isim = her bir (genel olarak). Hastaneye kabul edilmeden önce her hasta muayene edilmelidir.",
+    "rule_tr": "every + tekil isim + tekil fiil = her (genel/toplu bakış)",
+    "tip_tr": "'Every' ve 'each' ikisi de tekil isim alır. 'Every' geneli vurgular, 'each' bireyi vurgular.",
+    "extra_example": "Every nurse in the ward knows the emergency procedures. (Servisteki her hemşire acil prosedürleri bilir.)"
+  },
+  {
+    "id": "quantifiers-012",
+    "topic": "quantifiers",
+    "subtopic": "all-every-each",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor checked _____ of the test results individually.",
+    "options": [
+      {"key": "A", "text": "every"},
+      {"key": "B", "text": "all"},
+      {"key": "C", "text": "each"},
+      {"key": "D", "text": "both"},
+      {"key": "E", "text": "either"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Each of + the/these/those + çoğul isim' yapısı her birini tek tek vurgular. 'Every of' YANLIŞTIR. 'Individually' ipucu: tek tek kontrol edilmiş.",
+    "rule_tr": "each of the + plural noun = her birini tek tek",
+    "tip_tr": "'Each of the' kullanılır ama 'every of the' KULLANILMAZ! Önemli fark!",
+    "extra_example": "Each of the patients received a different treatment. (Hastaların her biri farklı bir tedavi aldı.)"
+  },
+  {
+    "id": "quantifiers-013",
+    "topic": "quantifiers",
+    "subtopic": "both-either-neither",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ treatments are effective, so you can choose whichever you prefer.",
+    "options": [
+      {"key": "A", "text": "Both"},
+      {"key": "B", "text": "Either"},
+      {"key": "C", "text": "Neither"},
+      {"key": "D", "text": "All"},
+      {"key": "E", "text": "Each"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Both' = her ikisi de (olumlu). İki tedavi de etkili, istediğini seçebilirsin.",
+    "rule_tr": "both + çoğul isim + çoğul fiil = her ikisi de (olumlu)",
+    "tip_tr": "both = ikisi de (olumlu), either = ikisinden biri, neither = ikisi de değil.",
+    "extra_example": "Both doctors agreed on the diagnosis. (Her iki doktor da teşhis konusunda hemfikirdi.)"
+  },
+  {
+    "id": "quantifiers-014",
+    "topic": "quantifiers",
+    "subtopic": "both-either-neither",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ of the two medicines worked, so the doctor prescribed a new one.",
+    "options": [
+      {"key": "A", "text": "Both"},
+      {"key": "B", "text": "Either"},
+      {"key": "C", "text": "Neither"},
+      {"key": "D", "text": "All"},
+      {"key": "E", "text": "None"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Neither' = ikisi de değil (olumsuz). İki ilaç da işe yaramadığı için doktor yeni bir ilaç yazmış.",
+    "rule_tr": "neither of the + çoğul isim = ikisi de değil (olumsuz anlam, olumlu fiil)",
+    "tip_tr": "'Neither' zaten olumsuz, fiili tekrar olumsuz yapma! 'Neither...didn't' YANLIŞ!",
+    "extra_example": "Neither of the tests showed any abnormality. (Testlerin hiçbiri anormallik göstermedi.)"
+  },
+  {
+    "id": "quantifiers-015",
+    "topic": "quantifiers",
+    "subtopic": "enough",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient is not strong _____ to undergo surgery yet.",
+    "options": [
+      {"key": "A", "text": "too"},
+      {"key": "B", "text": "enough"},
+      {"key": "C", "text": "very"},
+      {"key": "D", "text": "much"},
+      {"key": "E", "text": "so"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Adjective + enough' yapısı yeterlilik ifade eder. Hasta henüz ameliyat olacak kadar güçlü değil.",
+    "rule_tr": "adjective + enough + to V = yeterince ... (sıfattan SONRA gelir)",
+    "tip_tr": "strong enough (sıfat + enough) ama enough money (enough + isim). Sıralama farkı!",
+    "extra_example": "She is healthy enough to be discharged tomorrow. (Yarın taburcu edilecek kadar sağlıklı.)"
+  },
+  {
+    "id": "quantifiers-016",
+    "topic": "quantifiers",
+    "subtopic": "too-too-much",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "There are _____ patients waiting, so the wait time is very long.",
+    "options": [
+      {"key": "A", "text": "too much"},
+      {"key": "B", "text": "too many"},
+      {"key": "C", "text": "too"},
+      {"key": "D", "text": "enough"},
+      {"key": "E", "text": "a lot"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Patients' sayılabilir çoğul isimdir. 'Too many' + sayılabilir çoğul = fazla. Çok fazla hasta beklediği için bekleme süresi uzun.",
+    "rule_tr": "too many + countable plural = çok fazla (aşırı miktar, olumsuz sonuç)",
+    "tip_tr": "'Too many/too much' = olumsuz sonuç ima eder. 'A lot of' = sadece miktar belirtir.",
+    "extra_example": "Too many absences can affect your academic performance. (Çok fazla devamsızlık akademik performansını etkileyebilir.)"
+  },
+  {
+    "id": "quantifiers-017",
+    "topic": "quantifiers",
+    "subtopic": "a-few-few",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ students passed the medical entrance exam; it was very difficult.",
+    "options": [
+      {"key": "A", "text": "A few"},
+      {"key": "B", "text": "Few"},
+      {"key": "C", "text": "A little"},
+      {"key": "D", "text": "Little"},
+      {"key": "E", "text": "Several"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Few' = çok az (olumsuz anlam). Sınav çok zor olduğu için çok az öğrenci geçmiş. 'It was very difficult' olumsuz bağlamı doğrular.",
+    "rule_tr": "few = çok az, neredeyse hiç (olumsuz, hayal kırıklığı)",
+    "tip_tr": "Cümlenin geri kalanı olumsuz mu olumlu mu? Olumsuz → few/little, Olumlu → a few/a little.",
+    "extra_example": "Few hospitals offer this specialized treatment. (Çok az hastane bu özel tedaviyi sunuyor.)"
+  },
+  {
+    "id": "quantifiers-018",
+    "topic": "quantifiers",
+    "subtopic": "a-little-little",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "There is _____ time left before the ambulance arrives, so hurry up.",
+    "options": [
+      {"key": "A", "text": "a few"},
+      {"key": "B", "text": "few"},
+      {"key": "C", "text": "little"},
+      {"key": "D", "text": "a little"},
+      {"key": "E", "text": "many"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Little' = çok az (olumsuz anlam). 'Hurry up' ifadesi zamanın az olduğunu ve acele edilmesi gerektiğini gösterir.",
+    "rule_tr": "little + uncountable = çok az, neredeyse hiç (olumsuz, yetersiz)",
+    "tip_tr": "'Hurry up, we need to act fast' gibi aciliyet ifadeleri 'little' ile uyumludur.",
+    "extra_example": "There is little evidence to support this treatment. (Bu tedaviyi destekleyecek çok az kanıt var.)"
+  },
+  {
+    "id": "quantifiers-019",
+    "topic": "quantifiers",
+    "subtopic": "some-any",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The pharmacy doesn't have _____ of the medicines I need.",
+    "options": [
+      {"key": "A", "text": "some"},
+      {"key": "B", "text": "any"},
+      {"key": "C", "text": "no"},
+      {"key": "D", "text": "a few"},
+      {"key": "E", "text": "much"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Olumsuz cümlede ('doesn't have') 'any' kullanılır. Eczanede ihtiyacım olan ilaçlardan hiçbiri yok.",
+    "rule_tr": "negative verb + any = hiç (olumsuz cümlede any)",
+    "tip_tr": "'doesn't have any' = 'has no'. İkisi de aynı anlam, farklı yapı.",
+    "extra_example": "I don't have any symptoms of the disease. (Hastalığın hiçbir belirtisi yok.)"
+  },
+  {
+    "id": "quantifiers-020",
+    "topic": "quantifiers",
+    "subtopic": "all-every-each",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ the staff members attended the health and safety training.",
+    "options": [
+      {"key": "A", "text": "Every"},
+      {"key": "B", "text": "Each"},
+      {"key": "C", "text": "All"},
+      {"key": "D", "text": "Both"},
+      {"key": "E", "text": "Either"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'All + the + çoğul isim' yapısı tüm grubu ifade eder. 'Every' ve 'each' 'the' ile kullanılmaz. Tüm personel eğitime katılmış.",
+    "rule_tr": "all (of) the + plural noun = tüm, hepsi",
+    "tip_tr": "'All the', 'all of the' doğru. 'Every the', 'each the' YANLIŞ!",
+    "extra_example": "All the patients were discharged by Friday. (Tüm hastalar cumaya kadar taburcu edildi.)"
+  },
+  {
+    "id": "quantifiers-021",
+    "topic": "quantifiers",
+    "subtopic": "both-either-neither",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "You can take _____ the morning or the evening appointment — both are available.",
+    "options": [
+      {"key": "A", "text": "both"},
+      {"key": "B", "text": "neither"},
+      {"key": "C", "text": "either"},
+      {"key": "D", "text": "all"},
+      {"key": "E", "text": "each"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Either...or' = ikisinden biri. Sabah veya akşam randevusundan birini alabilirsin.",
+    "rule_tr": "either A or B = A veya B'den biri (seçim)",
+    "tip_tr": "either...or = ikisinden biri, neither...nor = ikisi de değil, both...and = ikisi de.",
+    "extra_example": "You can either call or visit the clinic in person. (Kliniği ya arayabilir ya da şahsen ziyaret edebilirsin.)"
+  },
+  {
+    "id": "quantifiers-022",
+    "topic": "quantifiers",
+    "subtopic": "enough",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The medical students didn't study _____ to pass the anatomy exam.",
+    "options": [
+      {"key": "A", "text": "too much"},
+      {"key": "B", "text": "too"},
+      {"key": "C", "text": "enough"},
+      {"key": "D", "text": "very"},
+      {"key": "E", "text": "so much"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Verb + enough' yapısında 'enough' fiilden sonra gelir. Öğrenciler yeterince çalışmamış.",
+    "rule_tr": "verb + enough = yeterince (fiilden SONRA)",
+    "tip_tr": "Üç pozisyon: adjective + enough, enough + noun, verb + enough. Sıralama kurallarını bil!",
+    "extra_example": "She didn't sleep enough before the exam. (Sınavdan önce yeterince uyumadı.)"
+  },
+  {
+    "id": "quantifiers-023",
+    "topic": "quantifiers",
+    "subtopic": "too-too-much",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The medication dosage was _____ high, which caused severe side effects.",
+    "options": [
+      {"key": "A", "text": "too much"},
+      {"key": "B", "text": "too many"},
+      {"key": "C", "text": "too"},
+      {"key": "D", "text": "enough"},
+      {"key": "E", "text": "very"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Too + adjective' yapısı olumsuz sonuçla aşırılık ifade eder. Doz çok yüksekti ve ciddi yan etkilere neden oldu.",
+    "rule_tr": "too + adjective = aşırı ... (olumsuz sonuç)",
+    "tip_tr": "'Too' olumsuz sonuç ima eder, 'very' etmez. 'Too hot' = dayanılamayacak kadar sıcak.",
+    "extra_example": "The surgery was too risky to perform without more tests. (Ameliyat daha fazla test yapılmadan gerçekleştirilmek için çok riskliydi.)"
+  },
+  {
+    "id": "quantifiers-024",
+    "topic": "quantifiers",
+    "subtopic": "a-few-few",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Quite _____ researchers have raised concerns about the vaccine's long-term effects.",
+    "options": [
+      {"key": "A", "text": "a little"},
+      {"key": "B", "text": "few"},
+      {"key": "C", "text": "a few"},
+      {"key": "D", "text": "little"},
+      {"key": "E", "text": "much"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Quite a few' = epeyce, oldukça fazla. 'Quite' ile birlikte 'a few' kullanıldığında miktar artar ve 'oldukça fazla' anlamına gelir.",
+    "rule_tr": "quite a few = oldukça fazla (beklenenden çok)",
+    "tip_tr": "'Quite a few' = a lot. Dikkat: 'few' = az, 'quite a few' = çok! Tam tersi anlam!",
+    "extra_example": "Quite a few patients reported improvement after the new treatment. (Oldukça fazla hasta yeni tedaviden sonra iyileşme bildirdi.)"
+  },
+  {
+    "id": "quantifiers-025",
+    "topic": "quantifiers",
+    "subtopic": "some-any",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ doctor will tell you that smoking is harmful to your health.",
+    "options": [
+      {"key": "A", "text": "Some"},
+      {"key": "B", "text": "Any"},
+      {"key": "C", "text": "Every"},
+      {"key": "D", "text": "All"},
+      {"key": "E", "text": "Each"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Any' olumlu cümlede 'herhangi bir' anlamında kullanılabilir. Herhangi bir doktor size sigara içmenin zararlı olduğunu söyleyecektir.",
+    "rule_tr": "any + tekil isim (olumlu cümle) = herhangi bir (no matter which)",
+    "tip_tr": "'Any' olumlu cümlede = herhangi bir (seçim fark etmez). Sınavda çelişkili görünebilir!",
+    "extra_example": "Any pharmacist can help you with this prescription. (Herhangi bir eczacı bu reçeteyle size yardımcı olabilir.)"
+  },
+  {
+    "id": "quantifiers-026",
+    "topic": "quantifiers",
+    "subtopic": "all-every-each",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Not _____ traditional remedies are scientifically proven to work.",
+    "options": [
+      {"key": "A", "text": "every"},
+      {"key": "B", "text": "each"},
+      {"key": "C", "text": "all"},
+      {"key": "D", "text": "both"},
+      {"key": "E", "text": "either"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Not all' = hepsi değil (kısmi olumsuzluk). Tüm geleneksel ilaçlar bilimsel olarak kanıtlanmış değildir. 'Not every' de doğru olabilir ama 'all' + çoğul isim daha doğal.",
+    "rule_tr": "not all = hepsi değil (partial negation / kısmi olumsuzluk)",
+    "tip_tr": "'Not all' = bazıları evet, bazıları hayır. 'None' = hiçbiri. Farkı bil!",
+    "extra_example": "Not all antibiotics are effective against all types of bacteria. (Tüm antibiyotikler tüm bakteri türlerine karşı etkili değildir.)"
+  },
+  {
+    "id": "quantifiers-027",
+    "topic": "quantifiers",
+    "subtopic": "both-either-neither",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "_____ the surgeon _____ the anesthesiologist was available, so the operation was postponed.",
+    "options": [
+      {"key": "A", "text": "Both / and"},
+      {"key": "B", "text": "Either / or"},
+      {"key": "C", "text": "Neither / nor"},
+      {"key": "D", "text": "Not only / but also"},
+      {"key": "E", "text": "Whether / or"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Neither...nor' = ne... ne de... İkisi de müsait olmadığı için ameliyat ertelenmiş.",
+    "rule_tr": "neither A nor B = ne A ne B (ikisi de değil)",
+    "tip_tr": "neither...nor kullanıldığında fiil olumlu olur çünkü 'neither' zaten olumsuz.",
+    "extra_example": "Neither the pills nor the injection helped reduce the pain. (Ne haplar ne de enjeksiyon ağrıyı azaltmaya yardımcı oldu.)"
+  },
+  {
+    "id": "quantifiers-028",
+    "topic": "quantifiers",
+    "subtopic": "much-many",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "There isn't _____ evidence to support the use of this alternative therapy.",
+    "options": [
+      {"key": "A", "text": "many"},
+      {"key": "B", "text": "much"},
+      {"key": "C", "text": "a lot"},
+      {"key": "D", "text": "few"},
+      {"key": "E", "text": "several"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Evidence' sayılamayan isimdir. Olumsuz cümlede sayılamayan isimle 'much' kullanılır.",
+    "rule_tr": "not much + uncountable = fazla ... yok (olumsuz + sayılamayan)",
+    "tip_tr": "'Evidence, research, information, knowledge' → hepsi sayılamaz → 'much' kullan.",
+    "extra_example": "There isn't much research on this rare disease. (Bu nadir hastalık hakkında fazla araştırma yok.)"
+  },
+  {
+    "id": "quantifiers-029",
+    "topic": "quantifiers",
+    "subtopic": "a-lot-of",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "A great _____ of research has been conducted on the effects of stress on the immune system.",
+    "options": [
+      {"key": "A", "text": "deal"},
+      {"key": "B", "text": "number"},
+      {"key": "C", "text": "many"},
+      {"key": "D", "text": "few"},
+      {"key": "E", "text": "lot"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'A great deal of' = çok miktarda (sayılamayan isimlerle). 'Research' sayılamayan isimdir. 'A great number of' sayılabilir isimlerle kullanılır.",
+    "rule_tr": "a great deal of + uncountable / a great number of + countable plural",
+    "tip_tr": "'deal' = sayılamayan, 'number' = sayılabilir. İkisini karıştırma!",
+    "extra_example": "A great deal of progress has been made in cancer treatment. (Kanser tedavisinde büyük ilerleme kaydedildi.)"
+  },
+  {
+    "id": "quantifiers-030",
+    "topic": "quantifiers",
+    "subtopic": "too-too-much",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The surgeon warned that there were _____ complications to proceed with the planned approach.",
+    "options": [
+      {"key": "A", "text": "too much"},
+      {"key": "B", "text": "too many"},
+      {"key": "C", "text": "enough"},
+      {"key": "D", "text": "too"},
+      {"key": "E", "text": "a lot of"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Complications' sayılabilir çoğul isimdir. Sayılabilir çoğul isimlerle 'too many' kullanılır. Cerrah çok fazla komplikasyon olduğu konusunda uyarmış.",
+    "rule_tr": "too many + countable plural noun = aşırı fazla (olumsuz sonuç)",
+    "tip_tr": "complications, side effects, risks → sayılabilir çoğul → 'too many' kullan.",
+    "extra_example": "There are too many side effects associated with this drug. (Bu ilaçla ilişkili çok fazla yan etki var.)"
+  }
+]

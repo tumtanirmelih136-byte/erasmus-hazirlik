@@ -1,0 +1,602 @@
+[
+  {
+    "id": "prepositions-001",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor's appointment is _____ Monday.",
+    "options": [
+      {"key": "A", "text": "in"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Gunler (days) icin 'on' kullanilir. Doktor randevusu Pazartesi gunu.",
+    "rule_tr": "On + gunler: on Monday, on Friday, on my birthday. Gunlerde her zaman 'on'.",
+    "tip_tr": "Gun = on, ay/yil = in, saat = at. Bu uc kurali ezberle.",
+    "extra_example": "She has a checkup on Wednesday. (Carsamba gunu kontrolu var.)"
+  },
+  {
+    "id": "prepositions-002",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The hospital visiting hours are _____ 2 PM and 5 PM.",
+    "options": [
+      {"key": "A", "text": "on"},
+      {"key": "B", "text": "in"},
+      {"key": "C", "text": "between"},
+      {"key": "D", "text": "at"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Between' iki zaman dilimi arasinda kullanilir. Hastane ziyaret saatleri 14:00 ile 17:00 arasinda.",
+    "rule_tr": "Between + A + and + B = A ile B arasinda. Iki nokta arasini ifade eder.",
+    "tip_tr": "'Between' her zaman 'and' ile birlikte gelir: between X and Y.",
+    "extra_example": "The pharmacy is open between 9 AM and 6 PM. (Eczane sabah 9 ile aksam 6 arasinda acik.)"
+  },
+  {
+    "id": "prepositions-003",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The pharmacy is _____ the corner of the street.",
+    "options": [
+      {"key": "A", "text": "in"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "by"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'At the corner' bir noktayi/konumu ifade eder. Eczane sokak kosesinde.",
+    "rule_tr": "At = nokta/konum: at the corner, at the bus stop, at the hospital entrance.",
+    "tip_tr": "'At' belirli bir noktayi gosterir. 'In' ise bir alanin ICINi gosterir.",
+    "extra_example": "I'll meet you at the hospital entrance. (Hastane girisinde bulusuruz.)"
+  },
+  {
+    "id": "prepositions-004",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She takes her medicine _____ the morning.",
+    "options": [
+      {"key": "A", "text": "on"},
+      {"key": "B", "text": "at"},
+      {"key": "C", "text": "in"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Gun bolumleri (morning, afternoon, evening) icin 'in' kullanilir. Ilacini sabah aliyor.",
+    "rule_tr": "In the morning/afternoon/evening. Ama: at night (istisna!).",
+    "tip_tr": "'In the morning', 'in the afternoon', 'in the evening' — ama 'at night'. 'Night' istisna!",
+    "extra_example": "He exercises in the evening. (Aksam egzersiz yapar.)"
+  },
+  {
+    "id": "prepositions-005",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient is waiting _____ the doctor's office.",
+    "options": [
+      {"key": "A", "text": "at"},
+      {"key": "B", "text": "in"},
+      {"key": "C", "text": "on"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "by"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'In' kapali mekanin icinde olmak icin kullanilir. Hasta doktorun ofisinin icinde bekliyor.",
+    "rule_tr": "In = icinde (kapali mekan): in the room, in the hospital, in the office.",
+    "tip_tr": "'In' kapali mekanlar icin: in the room, in the building. 'On' yuzeyler icin: on the table, on the wall.",
+    "extra_example": "The nurse is in the operating room. (Hemsire ameliyat odasinda.)"
+  },
+  {
+    "id": "prepositions-006",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The clinic closes _____ 6 o'clock.",
+    "options": [
+      {"key": "A", "text": "in"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "C",
+    "explanation_tr": "Saatler icin 'at' kullanilir. Klinik saat 6'da kapaniyor.",
+    "rule_tr": "At + saat: at 6 o'clock, at noon, at midnight, at lunchtime.",
+    "tip_tr": "Saat = at, gun = on, ay/yil = in. Bu uc temel kural her zaman gecerli.",
+    "extra_example": "The operation starts at 9 AM. (Ameliyat sabah 9'da baslar.)"
+  },
+  {
+    "id": "prepositions-007",
+    "topic": "prepositions",
+    "subtopic": "direction",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The ambulance is going _____ the hospital.",
+    "options": [
+      {"key": "A", "text": "at"},
+      {"key": "B", "text": "in"},
+      {"key": "C", "text": "on"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "by"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'To' yon/hedef belirtir. Ambulans hastaneye dogru gidiyor.",
+    "rule_tr": "Go to + yer = ... -e/-a gitmek. Hedef belirtir.",
+    "tip_tr": "'To' bir hedefe yonelimi gosterir: go to school, drive to the hospital, walk to the park.",
+    "extra_example": "She drove to the pharmacy quickly. (Hizla eczaneye surdu.)"
+  },
+  {
+    "id": "prepositions-008",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The medicine is _____ the table next to the bed.",
+    "options": [
+      {"key": "A", "text": "in"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "between"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'On' bir yuzey uzerinde olmayi ifade eder. Ilac yatagin yanindaki masanin uzerinde.",
+    "rule_tr": "On = yuzey uzerinde: on the table, on the shelf, on the floor.",
+    "tip_tr": "'On' her zaman bir yuzeyi gosterir: on the desk, on the wall, on the screen.",
+    "extra_example": "The patient file is on the desk. (Hasta dosyasi masanin uzerinde.)"
+  },
+  {
+    "id": "prepositions-009",
+    "topic": "prepositions",
+    "subtopic": "adjective_preposition",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She is afraid _____ needles.",
+    "options": [
+      {"key": "A", "text": "from"},
+      {"key": "B", "text": "of"},
+      {"key": "C", "text": "about"},
+      {"key": "D", "text": "with"},
+      {"key": "E", "text": "at"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Afraid of' sabit bir sifat + edat (adjective + preposition) kalıbıdır. Ignelerden korkuyor.",
+    "rule_tr": "Afraid of = ... -den korkmak. Sabit kalip, ezberle.",
+    "tip_tr": "'Afraid of', 'scared of', 'terrified of' — korku ifade eden sifatlar hep 'of' alir.",
+    "extra_example": "Many children are afraid of going to the dentist. (Bircok cocuk dis hekimine gitmekten korkar.)"
+  },
+  {
+    "id": "prepositions-010",
+    "topic": "prepositions",
+    "subtopic": "verb_preposition",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You should listen _____ the doctor's advice.",
+    "options": [
+      {"key": "A", "text": "at"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "for"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "with"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Listen to' sabit bir fiil + edat (verb + preposition) kalıbıdır. Doktorun tavsiyesini dinlemelisin.",
+    "rule_tr": "Listen to = ... -i dinlemek. 'Listen' her zaman 'to' ile kullanilir.",
+    "tip_tr": "'Listen to' ezberle. 'Hear' ise edat almaz: 'I heard a noise' (edatsiz).",
+    "extra_example": "Listen to your body when you feel pain. (Agri hissettiginde vucudunu dinle.)"
+  },
+  {
+    "id": "prepositions-011",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She has been working at this hospital _____ 2018.",
+    "options": [
+      {"key": "A", "text": "for"},
+      {"key": "B", "text": "since"},
+      {"key": "C", "text": "during"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "until"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Since' belirli bir baslangic noktasindan itibaren kullanilir. 2018'den beri bu hastanede calisiyor.",
+    "rule_tr": "Since + baslangic noktasi (tarih/yil/olay). For + sure (3 years, 2 months).",
+    "tip_tr": "'Since' = -den beri (nokta: 2018, Monday, last year). 'For' = ... boyunca (sure: 3 years, 5 hours).",
+    "extra_example": "He has been a patient here since January. (Ocak'tan beri burada hasta.)"
+  },
+  {
+    "id": "prepositions-012",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient was in surgery _____ three hours.",
+    "options": [
+      {"key": "A", "text": "since"},
+      {"key": "B", "text": "for"},
+      {"key": "C", "text": "during"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "until"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'For' bir sure boyunca kullanilir. Hasta uc saat ameliyattaydi — sure belirtiliyor.",
+    "rule_tr": "For + sure: for three hours, for two weeks, for five years.",
+    "tip_tr": "Sayi + zaman birimi gorursen 'for' kullan: for 3 hours, for 10 days, for 2 years.",
+    "extra_example": "She rested for a week after the operation. (Ameliyattan sonra bir hafta dinlendi.)"
+  },
+  {
+    "id": "prepositions-013",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "_____ the examination, the doctor found a small lump.",
+    "options": [
+      {"key": "A", "text": "For"},
+      {"key": "B", "text": "Since"},
+      {"key": "C", "text": "During"},
+      {"key": "D", "text": "By"},
+      {"key": "E", "text": "Until"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'During' bir olay/aktivite sirasinda anlaminda kullanilir. Muayene sirasinda doktor kucuk bir kitle buldu.",
+    "rule_tr": "During + isim (olay/aktivite) = ... sirasinda. During the meeting, during the exam.",
+    "tip_tr": "'During' dan sonra isim gelir, cumle gelmez. 'During the operation' (dogru), 'during she was sleeping' (yanlis).",
+    "extra_example": "He felt dizzy during the flight. (Ucus sirasinda bas donmesi hissetti.)"
+  },
+  {
+    "id": "prepositions-014",
+    "topic": "prepositions",
+    "subtopic": "direction",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse rushed _____ the emergency room when she heard the alarm.",
+    "options": [
+      {"key": "A", "text": "to"},
+      {"key": "B", "text": "into"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "on"},
+      {"key": "E", "text": "by"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Into' bir mekanin icine dogru hareket etmeyi ifade eder. Hemsire alarmi duyunca acil servise kosarak girdi.",
+    "rule_tr": "Into = icine dogru (hareket). To = yonelme (hedef). Into daha spesifik, iceri giris vurgusu.",
+    "tip_tr": "'Into' = icine girmek. 'To' = -e dogru gitmek. 'Into' da iceri girme eylemi var.",
+    "extra_example": "The patient was wheeled into the operating room. (Hasta ameliyat odasina tekerlekli sandalyeyle goturuldu.)"
+  },
+  {
+    "id": "prepositions-015",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The pharmacy is _____ the hospital and the parking lot.",
+    "options": [
+      {"key": "A", "text": "among"},
+      {"key": "B", "text": "between"},
+      {"key": "C", "text": "opposite"},
+      {"key": "D", "text": "beside"},
+      {"key": "E", "text": "behind"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Between' iki sey arasinda kullanilir. Eczane hastane ile otopark arasinda.",
+    "rule_tr": "Between + A + and + B = iki sey arasinda. Among = ucten fazla sey arasinda.",
+    "tip_tr": "2 sey = between. 3+ sey = among. Sayi onemli!",
+    "extra_example": "The clinic is between the bank and the post office. (Klinik banka ile postane arasinda.)"
+  },
+  {
+    "id": "prepositions-016",
+    "topic": "prepositions",
+    "subtopic": "adjective_preposition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She is very good _____ treating children.",
+    "options": [
+      {"key": "A", "text": "in"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "at"},
+      {"key": "D", "text": "for"},
+      {"key": "E", "text": "with"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Good at' sabit bir sifat + edat kalibidir. Cocuklari tedavi etmede cok iyi.",
+    "rule_tr": "Good at = ... -de iyi. 'Good at' dan sonra isim veya -ing gelir.",
+    "tip_tr": "'Good at', 'bad at', 'excellent at' — yetenek ifade eden sifatlar 'at' alir.",
+    "extra_example": "He is excellent at performing surgeries. (Ameliyat yapmada mukemmel.)"
+  },
+  {
+    "id": "prepositions-017",
+    "topic": "prepositions",
+    "subtopic": "verb_preposition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The success of the treatment depends _____ many factors.",
+    "options": [
+      {"key": "A", "text": "at"},
+      {"key": "B", "text": "on"},
+      {"key": "C", "text": "in"},
+      {"key": "D", "text": "for"},
+      {"key": "E", "text": "to"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Depend on' sabit bir fiil + edat kalibidir. Tedavinin basarisi bircok faktore baglidir.",
+    "rule_tr": "Depend on = ... -e bagli olmak. 'Depend' her zaman 'on' ile kullanilir.",
+    "tip_tr": "'Depend on' ezberle. 'It depends on the weather' = Havaya bagli.",
+    "extra_example": "Recovery depends on the patient's age and health. (Iyilesme hastanin yasina ve sagligina baglidir.)"
+  },
+  {
+    "id": "prepositions-018",
+    "topic": "prepositions",
+    "subtopic": "verb_preposition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Do you believe _____ alternative medicine?",
+    "options": [
+      {"key": "A", "text": "on"},
+      {"key": "B", "text": "at"},
+      {"key": "C", "text": "in"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "for"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Believe in' bir seye inanmak anlaminda kullanilir. Alternatif tibba inanir misin?",
+    "rule_tr": "Believe in = ... -e inanmak. 'Believe' inanc anlaminda her zaman 'in' ile gelir.",
+    "tip_tr": "'Believe in' = inanmak (deger/inanc). 'Believe' tek basina = dogru kabul etmek: 'I believe you'.",
+    "extra_example": "She believes in the power of natural remedies. (Dogal ilaclarin gucune inaniyor.)"
+  },
+  {
+    "id": "prepositions-019",
+    "topic": "prepositions",
+    "subtopic": "direction",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor walked _____ the corridor to reach the patient's room.",
+    "options": [
+      {"key": "A", "text": "across"},
+      {"key": "B", "text": "through"},
+      {"key": "C", "text": "into"},
+      {"key": "D", "text": "over"},
+      {"key": "E", "text": "between"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Through' bir mekanin icinden gecmeyi ifade eder. Doktor hastanin odasina ulasmak icin koridordan gecti.",
+    "rule_tr": "Through = icinden gecmek (tünel, koridor, orman). Across = karsisina gecmek (yol, nehir).",
+    "tip_tr": "'Through' uzun/kapali bir mekanin icinden gecistir. 'Across' acik/duz bir yuzeyden gecistir.",
+    "extra_example": "She walked through the hospital to find the pharmacy. (Eczaneyi bulmak icin hastaneden gecti.)"
+  },
+  {
+    "id": "prepositions-020",
+    "topic": "prepositions",
+    "subtopic": "adjective_preposition",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient was very grateful _____ the doctor's help.",
+    "options": [
+      {"key": "A", "text": "of"},
+      {"key": "B", "text": "about"},
+      {"key": "C", "text": "with"},
+      {"key": "D", "text": "for"},
+      {"key": "E", "text": "to"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Grateful for' sabit bir sifat + edat kalibidir. Hasta doktorun yardimi icin cok minnettar.",
+    "rule_tr": "Grateful for = ... icin minnettar. 'Grateful' her zaman 'for' ile kullanilir.",
+    "tip_tr": "'Grateful for', 'thankful for', 'responsible for' — hepsi 'for' alir.",
+    "extra_example": "We are grateful for your support during this difficult time. (Bu zor donemde desteginiz icin minnettariz.)"
+  },
+  {
+    "id": "prepositions-021",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The test results should be ready _____ Friday at the latest.",
+    "options": [
+      {"key": "A", "text": "until"},
+      {"key": "B", "text": "by"},
+      {"key": "C", "text": "since"},
+      {"key": "D", "text": "for"},
+      {"key": "E", "text": "during"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'By' bir son tarih/deadline ifade eder. Test sonuclari en gec Cuma gunune kadar hazir olmali — o tarihe kadar tamamlanmis olmali.",
+    "rule_tr": "By + zaman = ... -e kadar (tamamlanmis). Until = ... -e kadar (devam eden).",
+    "tip_tr": "'By' = deadline (bitmis olmali). 'Until' = devam eden durum. 'By Friday' = Cuma'ya kadar bitir.",
+    "extra_example": "The report must be submitted by Monday. (Rapor Pazartesi'ye kadar teslim edilmeli.)"
+  },
+  {
+    "id": "prepositions-022",
+    "topic": "prepositions",
+    "subtopic": "time",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient must not eat anything _____ the surgery is over.",
+    "options": [
+      {"key": "A", "text": "by"},
+      {"key": "B", "text": "for"},
+      {"key": "C", "text": "since"},
+      {"key": "D", "text": "until"},
+      {"key": "E", "text": "during"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Until' bir durumun belirli bir noktaya kadar devam ettigini ifade eder. Ameliyat bitene kadar hasta hicbir sey yememeli.",
+    "rule_tr": "Until + zaman noktasi = ... -e kadar (devam eden). Durum o noktaya kadar surer.",
+    "tip_tr": "'Until' devam eden bir durumu ifade eder: 'Wait until the doctor comes' = Doktor gelene kadar bekle.",
+    "extra_example": "She stayed in bed until she felt better. (Daha iyi hissedene kadar yatakta kaldi.)"
+  },
+  {
+    "id": "prepositions-023",
+    "topic": "prepositions",
+    "subtopic": "direction",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The infection spread _____ the entire hospital ward within days.",
+    "options": [
+      {"key": "A", "text": "into"},
+      {"key": "B", "text": "towards"},
+      {"key": "C", "text": "across"},
+      {"key": "D", "text": "along"},
+      {"key": "E", "text": "between"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Across' bir alanin tamamina yayilmayi ifade eder. Enfeksiyon gunler icinde tum hastane servisine yayildi.",
+    "rule_tr": "Across = bir alanin geneline yayilmak/karsisina gecmek.",
+    "tip_tr": "'Across' genis bir alana yayilmayi veya bir seyin karsisina gecmeyi ifade eder.",
+    "extra_example": "The news spread across the country. (Haber ulke geneline yayildi.)"
+  },
+  {
+    "id": "prepositions-024",
+    "topic": "prepositions",
+    "subtopic": "direction",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient walked slowly _____ the exit after being discharged.",
+    "options": [
+      {"key": "A", "text": "into"},
+      {"key": "B", "text": "through"},
+      {"key": "C", "text": "towards"},
+      {"key": "D", "text": "across"},
+      {"key": "E", "text": "along"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Towards' bir yone dogru hareket etmeyi ifade eder (henuz ulasmamis). Hasta taburcu olduktan sonra cikisa dogru yavas yavas yurudu.",
+    "rule_tr": "Towards = ... -e dogru (yon, henuz ulasılmamis). To = hedefe ulasmak.",
+    "tip_tr": "'Towards' yon gosterir ama ulasimi garanti etmez. 'To' ise hedefe ulasimi ifade eder.",
+    "extra_example": "She walked towards the reception desk. (Resepsiyona dogru yurudu.)"
+  },
+  {
+    "id": "prepositions-025",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The rare disease was found _____ patients from different ethnic groups.",
+    "options": [
+      {"key": "A", "text": "between"},
+      {"key": "B", "text": "among"},
+      {"key": "C", "text": "opposite"},
+      {"key": "D", "text": "beside"},
+      {"key": "E", "text": "along"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Among' ucten fazla sey/kisi arasinda kullanilir. Nadir hastalik farkli etnik gruplardan hastalar arasinda bulundu.",
+    "rule_tr": "Among = ucten fazla sey/kisi arasinda. Between = iki sey arasinda.",
+    "tip_tr": "2 sey = between, 3+ sey = among. Etnik gruplar birden fazla oldugu icin 'among' kullanilir.",
+    "extra_example": "The virus spread among the elderly population. (Virus yasli nufus arasinda yayildi.)"
+  },
+  {
+    "id": "prepositions-026",
+    "topic": "prepositions",
+    "subtopic": "adjective_preposition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new treatment is similar _____ the one used in Japan.",
+    "options": [
+      {"key": "A", "text": "with"},
+      {"key": "B", "text": "as"},
+      {"key": "C", "text": "like"},
+      {"key": "D", "text": "to"},
+      {"key": "E", "text": "of"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Similar to' sabit bir sifat + edat kalibidir. Yeni tedavi Japonya'da kullanilana benzer.",
+    "rule_tr": "Similar to = ... -e benzer. 'Similar' her zaman 'to' ile kullanilir, 'with' ile degil!",
+    "tip_tr": "'Similar to' = benzer. 'Different from' = farkli. Bu iki kalibi birlikte ezberle.",
+    "extra_example": "Her symptoms are similar to those of the flu. (Belirtileri grip belirtilerine benzer.)"
+  },
+  {
+    "id": "prepositions-027",
+    "topic": "prepositions",
+    "subtopic": "verb_preposition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The hospital suffered _____ a shortage of medical supplies during the crisis.",
+    "options": [
+      {"key": "A", "text": "of"},
+      {"key": "B", "text": "from"},
+      {"key": "C", "text": "with"},
+      {"key": "D", "text": "by"},
+      {"key": "E", "text": "at"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Suffer from' sabit bir fiil + edat kalibidir. Kriz sirasinda hastane tibbi malzeme sikintisi cekti.",
+    "rule_tr": "Suffer from = ... -den muzdarip olmak/cektmek. 'Suffer' her zaman 'from' ile kullanilir.",
+    "tip_tr": "'Suffer from' tip metinlerinde cok yaygin: 'suffer from diabetes', 'suffer from depression'.",
+    "extra_example": "He suffers from chronic back pain. (Kronik bel agrisindan muzdarip.)"
+  },
+  {
+    "id": "prepositions-028",
+    "topic": "prepositions",
+    "subtopic": "verb_preposition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The researchers are looking _____ a cure for Alzheimer's disease.",
+    "options": [
+      {"key": "A", "text": "at"},
+      {"key": "B", "text": "after"},
+      {"key": "C", "text": "for"},
+      {"key": "D", "text": "into"},
+      {"key": "E", "text": "up"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Look for' aramak anlaminda kullanilir. Arastirmacilar Alzheimer hastaligi icin bir tedavi ariyorlar.",
+    "rule_tr": "Look for = aramak. Look at = bakmak. Look after = ilgilenmek. Look into = arastirmak.",
+    "tip_tr": "'Look' farkli edatlarla farkli anlamlar alir. 'Look for' = aramak en sik kullanilan.",
+    "extra_example": "Scientists are looking for new antibiotics. (Bilim insanlari yeni antibiyotikler ariyor.)"
+  },
+  {
+    "id": "prepositions-029",
+    "topic": "prepositions",
+    "subtopic": "adjective_preposition",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The doctor was concerned _____ the patient's rapid weight loss.",
+    "options": [
+      {"key": "A", "text": "for"},
+      {"key": "B", "text": "about"},
+      {"key": "C", "text": "with"},
+      {"key": "D", "text": "of"},
+      {"key": "E", "text": "on"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Concerned about' sabit bir sifat + edat kalibidir. Doktor hastanin hizli kilo kaybindan endise duyuyordu.",
+    "rule_tr": "Concerned about = ... hakkinda endiseli. 'Worried about' ile es anlamli.",
+    "tip_tr": "'Concerned about', 'worried about', 'anxious about' — endise ifade eden sifatlar 'about' alir.",
+    "extra_example": "She is worried about her blood test results. (Kan testi sonuclari hakkinda endiseli.)"
+  },
+  {
+    "id": "prepositions-030",
+    "topic": "prepositions",
+    "subtopic": "place",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new clinic is located _____ the main road, directly facing the park.",
+    "options": [
+      {"key": "A", "text": "between"},
+      {"key": "B", "text": "among"},
+      {"key": "C", "text": "beside"},
+      {"key": "D", "text": "opposite"},
+      {"key": "E", "text": "through"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Opposite' karsisinda anlaminda kullanilir. Yeni klinik ana yolda, dogrudan parkin karsisinda yer aliyor.",
+    "rule_tr": "Opposite = karsisinda. 'The bank is opposite the hospital' = Banka hastanenin karsisinda.",
+    "tip_tr": "'Opposite' = tam karsi tarafta. 'Next to' = yaninda. 'Behind' = arkasinda. Konum edatlarini birlikte ogren.",
+    "extra_example": "The pharmacy is opposite the bus stop. (Eczane otobus duraginin karsisinda.)"
+  }
+]

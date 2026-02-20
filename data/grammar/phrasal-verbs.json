@@ -1,0 +1,602 @@
+[
+  {
+    "id": "phrasal-verbs-001",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "She was very sick last week, but she managed to _____ the flu quickly.",
+    "options": [
+      {"key": "A", "text": "get over"},
+      {"key": "B", "text": "get up"},
+      {"key": "C", "text": "get on"},
+      {"key": "D", "text": "get into"},
+      {"key": "E", "text": "get off"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Get over' bir hastalığı atlatmak anlamına gelir. Gripten kurtulmak için 'get over' kullanılır.",
+    "rule_tr": "get over = hastalığı/sorunu atlatmak",
+    "tip_tr": "Sınavda 'recover from' görürsen 'get over' ile eşleştir.",
+    "extra_example": "It took him two weeks to get over the cold. (Soğuk algınlığını atlatması iki hafta sürdü.)"
+  },
+  {
+    "id": "phrasal-verbs-002",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Many students _____ with the flu during the winter semester.",
+    "options": [
+      {"key": "A", "text": "came up"},
+      {"key": "B", "text": "came down"},
+      {"key": "C", "text": "came out"},
+      {"key": "D", "text": "came along"},
+      {"key": "E", "text": "came off"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Come down with' bir hastalığa yakalanmak demektir. Grip gibi bulaşıcı hastalıklarla sık kullanılır.",
+    "rule_tr": "come down with = hastalığa yakalanmak",
+    "tip_tr": "'Catch an illness' yerine phrasal verb sorulursa 'come down with' de.",
+    "extra_example": "I think I'm coming down with a cold. (Galiba soğuk algınlığına yakalanıyorum.)"
+  },
+  {
+    "id": "phrasal-verbs-003",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The patient _____ in the waiting room because of low blood pressure.",
+    "options": [
+      {"key": "A", "text": "passed by"},
+      {"key": "B", "text": "passed on"},
+      {"key": "C", "text": "passed out"},
+      {"key": "D", "text": "passed over"},
+      {"key": "E", "text": "passed up"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Pass out' bayılmak anlamına gelir. Düşük tansiyon nedeniyle bayılma durumunda kullanılır.",
+    "rule_tr": "pass out = bayılmak (faint)",
+    "tip_tr": "'Faint' ve 'lose consciousness' ifadelerinin phrasal verb karşılığı 'pass out'tur.",
+    "extra_example": "She passed out from the heat during the ceremony. (Tören sırasında sıcaktan bayıldı.)"
+  },
+  {
+    "id": "phrasal-verbs-004",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The baby _____ after drinking too much milk.",
+    "options": [
+      {"key": "A", "text": "threw away"},
+      {"key": "B", "text": "threw in"},
+      {"key": "C", "text": "threw out"},
+      {"key": "D", "text": "threw up"},
+      {"key": "E", "text": "threw off"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Throw up' kusmak anlamına gelir. Bebek çok süt içtiği için kusmuş.",
+    "rule_tr": "throw up = kusmak (vomit)",
+    "tip_tr": "'Vomit' kelimesini phrasal verb olarak sorarlarsa cevap 'throw up'tır.",
+    "extra_example": "He threw up after eating the spoiled food. (Bozuk yemeği yedikten sonra kustu.)"
+  },
+  {
+    "id": "phrasal-verbs-005",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor told me to _____ three times a week to stay healthy.",
+    "options": [
+      {"key": "A", "text": "work up"},
+      {"key": "B", "text": "work on"},
+      {"key": "C", "text": "work out"},
+      {"key": "D", "text": "work off"},
+      {"key": "E", "text": "work over"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Work out' egzersiz yapmak demektir. Doktor sağlıklı kalmak için egzersiz öneriyor.",
+    "rule_tr": "work out = egzersiz yapmak (exercise)",
+    "tip_tr": "Spor/egzersiz bağlamında 'work out' her zaman ilk akla gelmeli.",
+    "extra_example": "She works out at the gym every morning. (Her sabah spor salonunda egzersiz yapar.)"
+  },
+  {
+    "id": "phrasal-verbs-006",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "You should go to the dentist for a regular _____.",
+    "options": [
+      {"key": "A", "text": "check-in"},
+      {"key": "B", "text": "check-out"},
+      {"key": "C", "text": "check-up"},
+      {"key": "D", "text": "check-off"},
+      {"key": "E", "text": "check-over"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Check-up' düzenli sağlık kontrolü anlamına gelir. Dişçiye rutin kontrol için gitmek gerekir.",
+    "rule_tr": "check-up = sağlık kontrolü (medical examination)",
+    "tip_tr": "Doktor/dişçi bağlamında 'regular' kelimesiyle birlikte gelirse 'check-up' düşün.",
+    "extra_example": "I have a check-up with my doctor next Monday. (Gelecek pazartesi doktorumda kontrolüm var.)"
+  },
+  {
+    "id": "phrasal-verbs-007",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Nurses _____ patients in the hospital day and night.",
+    "options": [
+      {"key": "A", "text": "look up"},
+      {"key": "B", "text": "look after"},
+      {"key": "C", "text": "look into"},
+      {"key": "D", "text": "look out"},
+      {"key": "E", "text": "look for"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Look after' birine bakmak, ilgilenmek anlamına gelir. Hemşireler hastalara bakar.",
+    "rule_tr": "look after = birine bakmak, ilgilenmek (take care of)",
+    "tip_tr": "'Take care of' ile eş anlamlı olan phrasal verb 'look after'dır.",
+    "extra_example": "She looks after her elderly mother at home. (Yaşlı annesine evde bakıyor.)"
+  },
+  {
+    "id": "phrasal-verbs-008",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "My grandfather's health started to _____ after his 80th birthday.",
+    "options": [
+      {"key": "A", "text": "break in"},
+      {"key": "B", "text": "break out"},
+      {"key": "C", "text": "break up"},
+      {"key": "D", "text": "break down"},
+      {"key": "E", "text": "break off"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Break down' sağlık bağlamında sağlığın bozulmaya başlaması demektir. 80 yaşından sonra sağlığı bozulmuş.",
+    "rule_tr": "break down = bozulmak, çökmek (health/machine)",
+    "tip_tr": "Sağlık veya makine bağlamında 'deteriorate' karşılığı 'break down' kullan.",
+    "extra_example": "His health broke down due to years of stress. (Yıllarca süren stres yüzünden sağlığı bozuldu.)"
+  },
+  {
+    "id": "phrasal-verbs-009",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor advised him to _____ smoking immediately.",
+    "options": [
+      {"key": "A", "text": "give in"},
+      {"key": "B", "text": "give out"},
+      {"key": "C", "text": "give off"},
+      {"key": "D", "text": "give away"},
+      {"key": "E", "text": "give up"}
+    ],
+    "answer": "E",
+    "explanation_tr": "'Give up' bırakmak, vazgeçmek anlamına gelir. Doktor sigarayı bırakmasını tavsiye etmiş.",
+    "rule_tr": "give up = bırakmak, vazgeçmek (quit/stop)",
+    "tip_tr": "Sigara, alışkanlık bırakma konularında 'give up' kullanılır.",
+    "extra_example": "She gave up sugar to lose weight. (Kilo vermek için şekeri bıraktı.)"
+  },
+  {
+    "id": "phrasal-verbs-010",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "He has _____ a lot of weight since he stopped exercising.",
+    "options": [
+      {"key": "A", "text": "put on"},
+      {"key": "B", "text": "put off"},
+      {"key": "C", "text": "put up"},
+      {"key": "D", "text": "put away"},
+      {"key": "E", "text": "put out"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Put on weight' kilo almak demektir. Egzersizi bıraktığından beri çok kilo almış.",
+    "rule_tr": "put on weight = kilo almak (gain weight)",
+    "tip_tr": "'Gain weight' phrasal verb karşılığı 'put on weight'tır. Tersi 'lose weight'.",
+    "extra_example": "She put on 5 kilos during the holiday. (Tatil süresince 5 kilo aldı.)"
+  },
+  {
+    "id": "phrasal-verbs-011",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The surgeon had to _____ the operation because the patient's condition worsened.",
+    "options": [
+      {"key": "A", "text": "call off"},
+      {"key": "B", "text": "call up"},
+      {"key": "C", "text": "call in"},
+      {"key": "D", "text": "call out"},
+      {"key": "E", "text": "call on"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Call off' iptal etmek anlamına gelir. Hastanın durumu kötüleştiği için ameliyat iptal edilmiş.",
+    "rule_tr": "call off = iptal etmek (cancel)",
+    "tip_tr": "Herhangi bir etkinlik/plan iptali için 'call off' kullanılır.",
+    "extra_example": "The hospital called off the scheduled surgery due to an emergency. (Hastane acil durum nedeniyle planlanan ameliyatı iptal etti.)"
+  },
+  {
+    "id": "phrasal-verbs-012",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse asked the patient to _____ his shirt so she could check his blood pressure.",
+    "options": [
+      {"key": "A", "text": "take on"},
+      {"key": "B", "text": "take off"},
+      {"key": "C", "text": "take up"},
+      {"key": "D", "text": "take in"},
+      {"key": "E", "text": "take over"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Take off' çıkarmak anlamına gelir. Hemşire tansiyonu ölçmek için gömleği çıkarmasını istemiş.",
+    "rule_tr": "take off = (giysi) çıkarmak / (uçak) kalkmak",
+    "tip_tr": "Giysi bağlamında 'remove' = 'take off'. Uçak bağlamında da kullanılır.",
+    "extra_example": "Please take off your shoes before entering. (Girmeden önce lütfen ayakkabılarınızı çıkarın.)"
+  },
+  {
+    "id": "phrasal-verbs-013",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I need to _____ early tomorrow because I have a doctor's appointment at 8 AM.",
+    "options": [
+      {"key": "A", "text": "get on"},
+      {"key": "B", "text": "get off"},
+      {"key": "C", "text": "get up"},
+      {"key": "D", "text": "get over"},
+      {"key": "E", "text": "get along"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get up' uyanmak/kalkmak anlamına gelir. Doktor randevusu için erken kalkması gerekiyor.",
+    "rule_tr": "get up = yataktan kalkmak (wake up and rise)",
+    "tip_tr": "'Wake up' uyanmak, 'get up' yataktan kalkmak. İkisi farklı!",
+    "extra_example": "He gets up at 6 AM every day for work. (Her gün iş için sabah 6'da kalkar.)"
+  },
+  {
+    "id": "phrasal-verbs-014",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Can you _____ the TV? I want to watch the health documentary.",
+    "options": [
+      {"key": "A", "text": "turn off"},
+      {"key": "B", "text": "turn on"},
+      {"key": "C", "text": "turn up"},
+      {"key": "D", "text": "turn down"},
+      {"key": "E", "text": "turn over"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Turn on' bir cihazı açmak demektir. Sağlık belgeselini izlemek için TV'yi açmasını istiyor.",
+    "rule_tr": "turn on = açmak / turn off = kapatmak",
+    "tip_tr": "Elektronik cihaz açma-kapama: turn on (aç) vs turn off (kapat).",
+    "extra_example": "Don't forget to turn off the lights when you leave. (Çıkarken ışıkları kapatmayı unutma.)"
+  },
+  {
+    "id": "phrasal-verbs-015",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "We need to _____ a solution to reduce waiting times at the hospital.",
+    "options": [
+      {"key": "A", "text": "come up with"},
+      {"key": "B", "text": "come across"},
+      {"key": "C", "text": "come along"},
+      {"key": "D", "text": "come into"},
+      {"key": "E", "text": "come round"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Come up with' bir fikir veya çözüm bulmak/üretmek anlamına gelir. Hastanede bekleme sürelerini azaltmak için çözüm gerekiyor.",
+    "rule_tr": "come up with = fikir/çözüm bulmak (think of, produce)",
+    "tip_tr": "'Find a solution / think of an idea' = 'come up with'.",
+    "extra_example": "The team came up with a new treatment plan. (Ekip yeni bir tedavi planı buldu.)"
+  },
+  {
+    "id": "phrasal-verbs-016",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "She _____ jogging last month to improve her health.",
+    "options": [
+      {"key": "A", "text": "took on"},
+      {"key": "B", "text": "took off"},
+      {"key": "C", "text": "took up"},
+      {"key": "D", "text": "took in"},
+      {"key": "E", "text": "took after"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Take up' yeni bir hobi veya aktiviteye başlamak demektir. Sağlığını iyileştirmek için koşuya başlamış.",
+    "rule_tr": "take up = yeni bir aktiviteye/hobiye başlamak",
+    "tip_tr": "'Start a new hobby/activity' = 'take up'. Sınavda sık çıkar!",
+    "extra_example": "He took up swimming after his back surgery. (Sırt ameliyatından sonra yüzmeye başladı.)"
+  },
+  {
+    "id": "phrasal-verbs-017",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I can't _____ how much medicine costs these days.",
+    "options": [
+      {"key": "A", "text": "get on"},
+      {"key": "B", "text": "get by"},
+      {"key": "C", "text": "get over"},
+      {"key": "D", "text": "get along"},
+      {"key": "E", "text": "get through"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Get over' burada 'aşamamak, kabullenememek' anlamında kullanılmıştır. İlaç fiyatlarının ne kadar pahalı olduğuna şaşırıyor.",
+    "rule_tr": "can't get over = inanamamak, şaşırmak (be amazed/shocked)",
+    "tip_tr": "'Can't get over' = hem hastalık atlatma hem şaşkınlık ifadesi olabilir. Bağlama dikkat!",
+    "extra_example": "I can't get over how fast she recovered from the surgery. (Ameliyattan ne kadar çabuk iyileştiğine inanamıyorum.)"
+  },
+  {
+    "id": "phrasal-verbs-018",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Please _____ this form before you see the doctor.",
+    "options": [
+      {"key": "A", "text": "fill up"},
+      {"key": "B", "text": "fill in"},
+      {"key": "C", "text": "fill out"},
+      {"key": "D", "text": "fill off"},
+      {"key": "E", "text": "fill on"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Fill in' bir form doldurmak demektir. Doktora gitmeden önce formu doldurması gerekiyor. Not: 'Fill out' da aynı anlama gelir ama İngiliz İngilizcesinde 'fill in' daha yaygındır.",
+    "rule_tr": "fill in / fill out = form doldurmak (complete a form)",
+    "tip_tr": "British English: fill in, American English: fill out. İkisi de doğru!",
+    "extra_example": "You need to fill in your personal details on the registration form. (Kayıt formuna kişisel bilgilerinizi doldurmanız gerekiyor.)"
+  },
+  {
+    "id": "phrasal-verbs-019",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The professor asked us to _____ the causes of stress-related illnesses.",
+    "options": [
+      {"key": "A", "text": "look after"},
+      {"key": "B", "text": "look into"},
+      {"key": "C", "text": "look up"},
+      {"key": "D", "text": "look over"},
+      {"key": "E", "text": "look out"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Look into' araştırmak, incelemek anlamına gelir. Profesör stresle ilişkili hastalıkların nedenlerini araştırmamızı istemiş.",
+    "rule_tr": "look into = araştırmak, incelemek (investigate)",
+    "tip_tr": "'Investigate/research' = 'look into'. Akademik bağlamda sık çıkar.",
+    "extra_example": "The researchers are looking into the effects of the new drug. (Araştırmacılar yeni ilacın etkilerini inceliyorlar.)"
+  },
+  {
+    "id": "phrasal-verbs-020",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "I need to _____ this medical article before the seminar tomorrow.",
+    "options": [
+      {"key": "A", "text": "go through"},
+      {"key": "B", "text": "go over"},
+      {"key": "C", "text": "go on"},
+      {"key": "D", "text": "go off"},
+      {"key": "E", "text": "go along"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Go through' bir metni baştan sona okumak/incelemek demektir. Seminere kadar tıbbi makaleyi okuması gerekiyor.",
+    "rule_tr": "go through = baştan sona incelemek, gözden geçirmek",
+    "tip_tr": "'Go through' = detaylı inceleme. 'Go over' = hızlı tekrar. Fark önemli!",
+    "extra_example": "Let's go through the patient's medical history carefully. (Hastanın tıbbi geçmişini dikkatle inceleyelim.)"
+  },
+  {
+    "id": "phrasal-verbs-021",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The pandemic caused many healthcare workers to _____ from exhaustion and burnout.",
+    "options": [
+      {"key": "A", "text": "burn out"},
+      {"key": "B", "text": "burn down"},
+      {"key": "C", "text": "burn up"},
+      {"key": "D", "text": "burn off"},
+      {"key": "E", "text": "burn away"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Burn out' tükenmek anlamına gelir. Pandemi sırasında sağlık çalışanları yorgunluk ve tükenmişlikten çökmüş.",
+    "rule_tr": "burn out = tükenmek, enerji/motivasyon kaybetmek (burnout)",
+    "tip_tr": "'Burnout' isim hali, 'burn out' fiil hali. İş stresi konularında sık kullanılır.",
+    "extra_example": "Many doctors burn out after years of working long shifts. (Birçok doktor yıllarca uzun vardiyalarda çalıştıktan sonra tükenir.)"
+  },
+  {
+    "id": "phrasal-verbs-022",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient's condition _____ overnight, and they had to move her to intensive care.",
+    "options": [
+      {"key": "A", "text": "went away"},
+      {"key": "B", "text": "went down"},
+      {"key": "C", "text": "went downhill"},
+      {"key": "D", "text": "went off"},
+      {"key": "E", "text": "went out"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Go downhill' kötüye gitmek, bozulmak anlamına gelir. Hastanın durumu bir gecede kötüleşmiş ve yoğun bakıma alınmış.",
+    "rule_tr": "go downhill = kötüye gitmek, giderek bozulmak",
+    "tip_tr": "Sağlık veya genel durum bozulması için 'go downhill' kullan. 'Deteriorate' eş anlamlısı.",
+    "extra_example": "His mental health went downhill after losing his job. (İşini kaybettikten sonra ruh sağlığı kötüye gitti.)"
+  },
+  {
+    "id": "phrasal-verbs-023",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The allergic reaction _____ within minutes of taking the medication.",
+    "options": [
+      {"key": "A", "text": "flared up"},
+      {"key": "B", "text": "flared out"},
+      {"key": "C", "text": "flared off"},
+      {"key": "D", "text": "flared down"},
+      {"key": "E", "text": "flared away"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Flare up' bir hastalık veya semptomun aniden şiddetlenmesi demektir. Alerjik reaksiyon ilacı aldıktan dakikalar sonra ortaya çıkmış.",
+    "rule_tr": "flare up = (hastalık/semptom) aniden alevlenmek, şiddetlenmek",
+    "tip_tr": "Alerji, astım, ağrı gibi tekrarlayan durumlar için 'flare up' kullanılır.",
+    "extra_example": "Her asthma tends to flare up in the spring. (Astımı ilkbaharda alevlenme eğiliminde.)"
+  },
+  {
+    "id": "phrasal-verbs-024",
+    "topic": "phrasal-verbs",
+    "subtopic": "health",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new treatment helped the swelling _____  significantly within a few days.",
+    "options": [
+      {"key": "A", "text": "go up"},
+      {"key": "B", "text": "go down"},
+      {"key": "C", "text": "go off"},
+      {"key": "D", "text": "go out"},
+      {"key": "E", "text": "go away"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Go down' şişliğin inmesi, azalması anlamına gelir. Yeni tedavi şişliğin önemli ölçüde inmesine yardımcı olmuş.",
+    "rule_tr": "go down = (şişlik, ateş, fiyat) inmek, azalmak",
+    "tip_tr": "Şişlik (swelling) ve ateş (fever/temperature) ile 'go down' sık kullanılır.",
+    "extra_example": "The fever went down after she took the medicine. (İlacı aldıktan sonra ateşi düştü.)"
+  },
+  {
+    "id": "phrasal-verbs-025",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The research team decided to _____ the experiment due to ethical concerns.",
+    "options": [
+      {"key": "A", "text": "carry on"},
+      {"key": "B", "text": "carry out"},
+      {"key": "C", "text": "carry off"},
+      {"key": "D", "text": "call off"},
+      {"key": "E", "text": "call out"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Call off' iptal etmek demektir. Araştırma ekibi etik kaygılar nedeniyle deneyi iptal etmiş.",
+    "rule_tr": "call off = iptal etmek vs carry out = gerçekleştirmek, uygulamak",
+    "tip_tr": "Dikkat: 'Carry out an experiment' = deneyi yapmak. 'Call off' = iptal etmek. Tam zıt anlamlar!",
+    "extra_example": "The clinical trial was called off after serious side effects were reported. (Ciddi yan etkiler bildirilmesinin ardından klinik deney iptal edildi.)"
+  },
+  {
+    "id": "phrasal-verbs-026",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Scientists are trying to _____ a cure for the disease that has affected thousands.",
+    "options": [
+      {"key": "A", "text": "figure out"},
+      {"key": "B", "text": "figure in"},
+      {"key": "C", "text": "find out"},
+      {"key": "D", "text": "find off"},
+      {"key": "E", "text": "find up"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Find out' bulmak, keşfetmek anlamına gelir. Bilim insanları binlerce kişiyi etkileyen hastalığa çare bulmaya çalışıyor.",
+    "rule_tr": "find out = bulmak, keşfetmek, öğrenmek (discover)",
+    "tip_tr": "'Discover/learn' = 'find out'. 'Figure out' = çözmek, anlamak (solve/understand). Farkı bil!",
+    "extra_example": "Researchers finally found out what caused the outbreak. (Araştırmacılar sonunda salgına neyin neden olduğunu buldular.)"
+  },
+  {
+    "id": "phrasal-verbs-027",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The medical journal _____ a groundbreaking study on gene therapy last week.",
+    "options": [
+      {"key": "A", "text": "brought up"},
+      {"key": "B", "text": "brought out"},
+      {"key": "C", "text": "brought in"},
+      {"key": "D", "text": "brought about"},
+      {"key": "E", "text": "brought down"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Bring out' yayınlamak, piyasaya sürmek anlamına gelir. Tıp dergisi gen terapisi üzerine çığır açan bir çalışma yayınlamış.",
+    "rule_tr": "bring out = yayınlamak, piyasaya sürmek (publish/release)",
+    "tip_tr": "'Publish' ve 'release' phrasal verb karşılığı 'bring out'tur.",
+    "extra_example": "The pharmaceutical company brought out a new vaccine in record time. (İlaç şirketi rekor sürede yeni bir aşı piyasaya sürdü.)"
+  },
+  {
+    "id": "phrasal-verbs-028",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "After the accident, it took her months to _____ the trauma.",
+    "options": [
+      {"key": "A", "text": "get through"},
+      {"key": "B", "text": "get over"},
+      {"key": "C", "text": "get by"},
+      {"key": "D", "text": "get along"},
+      {"key": "E", "text": "get around"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Get through' zor bir dönemi atlatmak demektir. Kazadan sonra travmayı atlatması aylar sürmüş. Not: 'Get over' da hastalık/duygusal durumu atlatmak için kullanılır, ancak 'get through' daha çok süreç vurgusu taşır.",
+    "rule_tr": "get through = zor bir süreci/dönemi atlatmak (survive a difficult period)",
+    "tip_tr": "'Get over' = bir şeyi atlatıp geçmek. 'Get through' = zor sürecin içinden geçmek. Süreç vurgusu farkı!",
+    "extra_example": "The family got through the difficult times by supporting each other. (Aile birbirini destekleyerek zor zamanları atlattı.)"
+  },
+  {
+    "id": "phrasal-verbs-029",
+    "topic": "phrasal-verbs",
+    "subtopic": "daily-life",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The hospital had to _____ extra staff during the flu season.",
+    "options": [
+      {"key": "A", "text": "take on"},
+      {"key": "B", "text": "take off"},
+      {"key": "C", "text": "take up"},
+      {"key": "D", "text": "take over"},
+      {"key": "E", "text": "take in"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Take on' işe almak, üstlenmek anlamına gelir. Hastane grip sezonunda ekstra personel almak zorunda kalmış.",
+    "rule_tr": "take on = işe almak, sorumluluk üstlenmek (hire/accept responsibility)",
+    "tip_tr": "'Hire' ve 'employ' phrasal verb karşılığı 'take on'dır. İş bağlamında sıkça çıkar.",
+    "extra_example": "The clinic took on three new nurses last month. (Klinik geçen ay üç yeni hemşire aldı.)"
+  },
+  {
+    "id": "phrasal-verbs-030",
+    "topic": "phrasal-verbs",
+    "subtopic": "academic",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The students were asked to _____ a research proposal on public health issues.",
+    "options": [
+      {"key": "A", "text": "hand out"},
+      {"key": "B", "text": "hand in"},
+      {"key": "C", "text": "hand over"},
+      {"key": "D", "text": "hand down"},
+      {"key": "E", "text": "hand off"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Hand in' teslim etmek anlamına gelir. Öğrencilerden halk sağlığı konularında bir araştırma önerisi teslim etmeleri istenmiş.",
+    "rule_tr": "hand in = (ödev/rapor) teslim etmek (submit)",
+    "tip_tr": "'Submit' = 'hand in'. Akademik bağlamda ödev/proje tesliminde kullanılır.",
+    "extra_example": "Please hand in your assignments by Friday. (Lütfen ödevlerinizi cumaya kadar teslim edin.)"
+  }
+]

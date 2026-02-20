@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "reading-001",
+    "topic": "reading",
+    "subtopic": "health",
+    "level": "A2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Drinking water is very important for our health. Doctors say we should drink at least eight glasses of water every day. Water helps our body work well. It keeps our skin healthy and helps us think clearly. Many people forget to drink water during the day. They drink coffee or soda instead. But these drinks are not as good as water. If you want to be healthy, always carry a water bottle with you.",
+    "questions": [
+      {
+        "id": "reading-001-q1",
+        "stem": "What is the main idea of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Coffee is bad for health."},
+          {"key": "B", "text": "Drinking water is important for our health."},
+          {"key": "C", "text": "We should visit doctors regularly."},
+          {"key": "D", "text": "Soda is better than water."},
+          {"key": "E", "text": "Carrying a bottle is necessary at school."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana fikri suyun sagligimiz icin ne kadar onemli oldugudur. Ilk cumleden itibaren su icmenin faydalari anlatiliyor.",
+        "rule_tr": "Ana fikir sorusunda tum parcayi kapsayan secenegi bul.",
+        "tip_tr": "Ilk cumle genellikle ana fikri verir. 'Drinking water is very important for our health' cumlesine dikkat et!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-001-q2",
+        "stem": "How many glasses of water should we drink daily according to the passage?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Five glasses"},
+          {"key": "B", "text": "Six glasses"},
+          {"key": "C", "text": "Seven glasses"},
+          {"key": "D", "text": "Eight glasses"},
+          {"key": "E", "text": "Ten glasses"}
+        ],
+        "answer": "D",
+        "explanation_tr": "Parcada doktorlarin gunluk en az sekiz bardak su icmemizi onerdigi belirtiliyor.",
+        "rule_tr": "Detay sorusunda parcadaki spesifik bilgiyi bul, tahmin yapma.",
+        "tip_tr": "'At least eight glasses' ifadesini parcada bul ve eslestirecek secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-001-q3",
+        "stem": "According to the passage, what do many people drink instead of water?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Tea and juice"},
+          {"key": "B", "text": "Coffee and soda"},
+          {"key": "C", "text": "Milk and juice"},
+          {"key": "D", "text": "Tea and coffee"},
+          {"key": "E", "text": "Juice and soda"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada insanlarin su yerine kahve veya gazli icecek (soda) ictiginden bahsediliyor.",
+        "rule_tr": "Detay sorularinda metinde gecen kelimeleri aynen ara.",
+        "tip_tr": "'They drink coffee or soda instead' cumlesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-002",
+    "topic": "reading",
+    "subtopic": "daily_life",
+    "level": "A2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "My name is Ayse and I live in Istanbul. Every morning, I wake up at seven o'clock. I eat breakfast with my family. Then I take the bus to school. My school starts at half past eight. I have six lessons every day. My favourite subject is English because I want to travel the world. After school, I usually do my homework and play with my cat. I go to bed at ten o'clock.",
+    "questions": [
+      {
+        "id": "reading-002-q1",
+        "stem": "What is Ayse's favourite subject?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Mathematics"},
+          {"key": "B", "text": "Science"},
+          {"key": "C", "text": "Turkish"},
+          {"key": "D", "text": "English"},
+          {"key": "E", "text": "History"}
+        ],
+        "answer": "D",
+        "explanation_tr": "Ayse'nin en sevdigi dersin Ingilizce oldugu parcada acikca belirtiliyor.",
+        "rule_tr": "Detay sorusunda anahtar kelimeyi parcada bul: 'favourite subject is English'.",
+        "tip_tr": "'Favourite' kelimesini parcada tara ve yanindaki bilgiyi oku!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-002-q2",
+        "stem": "Why does Ayse like English?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Because her teacher is nice"},
+          {"key": "B", "text": "Because she wants to travel the world"},
+          {"key": "C", "text": "Because it is easy"},
+          {"key": "D", "text": "Because her parents want her to learn it"},
+          {"key": "E", "text": "Because she watches English movies"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Ayse Ingilizceyi seviyor cunku dunyayi gezmek istiyor. Parcada 'because I want to travel the world' diyor.",
+        "rule_tr": "Neden-sonuc sorularinda 'because' kelimesinden sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Because' kelimesini parcada bul, neden belirten cumleyi oku!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-002-q3",
+        "stem": "What does Ayse do after school?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "She watches TV and reads books."},
+          {"key": "B", "text": "She goes to the park and plays football."},
+          {"key": "C", "text": "She does homework and plays with her cat."},
+          {"key": "D", "text": "She visits her friends and goes shopping."},
+          {"key": "E", "text": "She takes a nap and cooks dinner."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada Ayse'nin okuldan sonra odevini yaptigi ve kedisiyle oynadigi belirtiliyor.",
+        "rule_tr": "Zaman sirasini takip et: 'After school' ile baslayan cumleyi bul.",
+        "tip_tr": "'After school' ifadesini parcada tara!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-003",
+    "topic": "reading",
+    "subtopic": "health",
+    "level": "A2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Exercise is good for everyone. You don't need to go to the gym every day. Walking for thirty minutes is a great exercise. You can walk in the park or around your neighbourhood. Swimming is also very healthy. It is good for your muscles and your heart. When you exercise regularly, you sleep better at night. You also feel happier during the day. Try to exercise at least three times a week.",
+    "questions": [
+      {
+        "id": "reading-003-q1",
+        "stem": "What is the passage mainly about?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Going to the gym every day"},
+          {"key": "B", "text": "The benefits of exercise"},
+          {"key": "C", "text": "How to swim properly"},
+          {"key": "D", "text": "Sleeping problems and solutions"},
+          {"key": "E", "text": "Walking in the park"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana konusu egzersizin faydalaridir. Hem fiziksel hem ruhsal faydalari anlatiliyor.",
+        "rule_tr": "Ana fikir tum parcayi kapsamali, sadece bir detayi degil.",
+        "tip_tr": "Seceneklerin hangisi TUM parcayi ozetliyor? Tek bir detayi degil, butunu dusun!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-003-q2",
+        "stem": "How long should you walk according to the passage?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Ten minutes"},
+          {"key": "B", "text": "Twenty minutes"},
+          {"key": "C", "text": "Thirty minutes"},
+          {"key": "D", "text": "Forty-five minutes"},
+          {"key": "E", "text": "One hour"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada otuz dakika yuruyusun harika bir egzersiz oldugu belirtiliyor.",
+        "rule_tr": "Rakam iceren detay sorularinda parcadaki sayiyi dikkatlice oku.",
+        "tip_tr": "'Walking for thirty minutes' ifadesini parcada bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-003-q3",
+        "stem": "What happens when you exercise regularly?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "You lose weight quickly."},
+          {"key": "B", "text": "You need to eat more food."},
+          {"key": "C", "text": "You sleep better and feel happier."},
+          {"key": "D", "text": "You get tired easily."},
+          {"key": "E", "text": "You need less water."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada duzenli egzersiz yapinca geceleri daha iyi uyudugumuz ve gun icinde daha mutlu hissettigimiz belirtiliyor.",
+        "rule_tr": "Sonuc sorularinda 'when' ile baslayan cumlenin devamina bak.",
+        "tip_tr": "'When you exercise regularly' cumlesini bul ve ardindan gelen bilgiyi oku!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-004",
+    "topic": "reading",
+    "subtopic": "education",
+    "level": "A2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Libraries are important places for students. You can find many books there. Some libraries also have computers and the internet. Students go to libraries to study quietly. They can borrow books and take them home. In Turkey, many cities have free public libraries. Children can join special reading programmes at libraries. Reading books helps students learn new words and improve their language skills.",
+    "questions": [
+      {
+        "id": "reading-004-q1",
+        "stem": "What is the main purpose of libraries according to the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "To sell books to students"},
+          {"key": "B", "text": "To provide a place for studying and reading"},
+          {"key": "C", "text": "To teach students how to use computers"},
+          {"key": "D", "text": "To organize social events"},
+          {"key": "E", "text": "To help students make friends"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada kutuphanelerin ogrenciler icin onemli mekanlar oldugu, kitap okuma ve calisma icin kullanildigi anlatiliyor.",
+        "rule_tr": "Ana amac sorusunda tum parcayi kapsayan en genel ifadeyi sec.",
+        "tip_tr": "Kutuphanelerin ne ISE yaradigi anlatiliyor: okumak ve calismak!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-004-q2",
+        "stem": "What can children do at libraries?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Play sports"},
+          {"key": "B", "text": "Watch movies"},
+          {"key": "C", "text": "Join special reading programmes"},
+          {"key": "D", "text": "Take music lessons"},
+          {"key": "E", "text": "Learn cooking"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada cocuklarin kutuphanelerdeki ozel okuma programlarina katilabilecegi belirtiliyor.",
+        "rule_tr": "Detay sorusunda parcadaki spesifik bilgiyi bul.",
+        "tip_tr": "'Children can join special reading programmes' cumlesini parcada bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-004-q3",
+        "stem": "How does reading books help students?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "It helps them make more money."},
+          {"key": "B", "text": "It helps them learn new words and improve language skills."},
+          {"key": "C", "text": "It helps them become famous."},
+          {"key": "D", "text": "It helps them travel to other countries."},
+          {"key": "E", "text": "It helps them find jobs easily."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada kitap okumanin ogrencilere yeni kelimeler ogrenme ve dil becerilerini gelistirme konusunda yardimci oldugu belirtiliyor.",
+        "rule_tr": "Fayda/sonuc sorularinda 'helps' kelimesinden sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Reading books helps students learn new words and improve their language skills' cumlesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-005",
+    "topic": "reading",
+    "subtopic": "daily_life",
+    "level": "A2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Shopping online is very popular today. Many people buy clothes, books, and food on the internet. It is easy and fast. You can shop at any time, even at midnight. You don't need to go to the store. But sometimes online shopping has problems. The product may look different from the picture. Also, you have to wait for delivery. Some people still prefer going to real shops because they want to see and touch the products.",
+    "questions": [
+      {
+        "id": "reading-005-q1",
+        "stem": "What is the passage about?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Why real shops are closing"},
+          {"key": "B", "text": "Online shopping and its advantages and disadvantages"},
+          {"key": "C", "text": "How to start an online business"},
+          {"key": "D", "text": "The history of shopping"},
+          {"key": "E", "text": "Delivery companies in Turkey"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana konusu online alisveris ve onun avantajlari ile dezavantajlaridir.",
+        "rule_tr": "Ana fikir sorusunda hem olumlu hem olumsuz yonleri kapsayan secenegi bul.",
+        "tip_tr": "Parca online alisverisi HEM ovuyor HEM de sorunlarini soyluyor. Her iki yonu de kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-005-q2",
+        "stem": "What is one problem with online shopping mentioned in the passage?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "It is too expensive."},
+          {"key": "B", "text": "There are not many products online."},
+          {"key": "C", "text": "The product may look different from the picture."},
+          {"key": "D", "text": "You need a special card to shop."},
+          {"key": "E", "text": "Only young people can shop online."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada online alisveriste urunun resimdekinden farkli gorunebilecegi bir sorun olarak belirtiliyor.",
+        "rule_tr": "Problem/dezavantaj sorusunda 'but', 'however', 'problem' gibi kelimelerin etrafindaki bilgiyi oku.",
+        "tip_tr": "'But sometimes online shopping has problems' cumlesinden sonraki bilgiyi oku!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-005-q3",
+        "stem": "Why do some people prefer real shops?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Because real shops are cheaper"},
+          {"key": "B", "text": "Because they want to see and touch the products"},
+          {"key": "C", "text": "Because delivery takes too long"},
+          {"key": "D", "text": "Because they don't have internet"},
+          {"key": "E", "text": "Because online shops are dangerous"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada bazi insanlarin urunleri gormek ve dokunmak istedikleri icin gercek magazalari tercih ettigi belirtiliyor.",
+        "rule_tr": "Neden sorusunda 'because' veya 'since' kelimelerinden sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Because they want to see and touch the products' ifadesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-006",
+    "topic": "reading",
+    "subtopic": "health",
+    "level": "B1",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Sleep plays a crucial role in maintaining good health. Research shows that adults need between seven and nine hours of sleep every night. When people do not get enough sleep, their concentration decreases and they become more likely to get ill. Additionally, lack of sleep can lead to weight gain because it affects the hormones that control appetite. Many experts recommend establishing a regular sleep schedule. Going to bed and waking up at the same time every day helps the body develop a healthy rhythm. Avoiding screens before bedtime is also important since the blue light from phones and computers can make it harder to fall asleep.",
+    "questions": [
+      {
+        "id": "reading-006-q1",
+        "stem": "What is the main idea of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Blue light from screens is harmful."},
+          {"key": "B", "text": "Sleep is essential for good health and well-being."},
+          {"key": "C", "text": "People should sleep exactly eight hours."},
+          {"key": "D", "text": "Weight gain is caused by poor eating habits."},
+          {"key": "E", "text": "Doctors recommend sleeping more on weekends."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana fikri uykunun saglik ve genel iyilik hali icin hayati onem tasidigidir. Tum parca uykunun faydalari ve eksikliginin zararlari uzerine kurulu.",
+        "rule_tr": "Ana fikir tum parcayi kapsayan, genel bir ifade olmali.",
+        "tip_tr": "Ilk cumle genellikle ana fikri verir: 'Sleep plays a crucial role in maintaining good health.'",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-006-q2",
+        "stem": "How can lack of sleep lead to weight gain?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "It makes people eat more junk food."},
+          {"key": "B", "text": "It affects the hormones that control appetite."},
+          {"key": "C", "text": "It reduces the amount of exercise people do."},
+          {"key": "D", "text": "It increases stress levels."},
+          {"key": "E", "text": "It slows down the metabolism directly."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada uyku eksikliginin istahi kontrol eden hormonlari etkiledigi icin kilo almaya yol acabildigi belirtiliyor.",
+        "rule_tr": "Neden-sonuc iliskisini soran sorularda 'because', 'since', 'lead to' gibi ifadeleri parcada ara.",
+        "tip_tr": "'Because it affects the hormones that control appetite' ifadesini parcada bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-006-q3",
+        "stem": "Why should people avoid screens before bedtime?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Because screens consume too much electricity"},
+          {"key": "B", "text": "Because social media causes anxiety"},
+          {"key": "C", "text": "Because blue light makes it harder to fall asleep"},
+          {"key": "D", "text": "Because watching videos is time-consuming"},
+          {"key": "E", "text": "Because it damages eyesight permanently"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada telefonlardan ve bilgisayarlardan gelen mavi isigin uykuya dalmayi zorlastirdigi belirtiliyor.",
+        "rule_tr": "Neden sorusunda 'since' veya 'because' baglaclarindan sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Since the blue light from phones and computers can make it harder to fall asleep' ifadesini bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-006-q4",
+        "stem": "The word 'establishing' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "breaking"},
+          {"key": "B", "text": "creating"},
+          {"key": "C", "text": "following"},
+          {"key": "D", "text": "changing"},
+          {"key": "E", "text": "discovering"}
+        ],
+        "answer": "B",
+        "explanation_tr": "'Establishing' kelimesi burada 'olusturmak, kurmak' anlaminda kullaniliyor. 'Creating' (yaratmak) en yakin anlamli kelimedir.",
+        "rule_tr": "Kelime anlami sorusunda kelimeyi cumle icinde yerine koyarak test et.",
+        "tip_tr": "'Establishing a regular sleep schedule' = 'Duzenli bir uyku programi OLUSTURMAK'. Her secenegi yerine koy ve hangisi mantikli onu sec!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-007",
+    "topic": "reading",
+    "subtopic": "technology",
+    "level": "B1",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Artificial intelligence is changing the way we live and work. AI systems can now recognize faces, translate languages, and even drive cars. In medicine, AI helps doctors diagnose diseases more quickly and accurately. However, some people are worried about the impact of AI on employment. Many routine jobs may disappear as machines become smarter. On the other hand, new types of jobs are being created in the technology sector. Experts believe that people who learn to work alongside AI will have the best career opportunities in the future. Education systems around the world are beginning to include AI-related subjects in their programmes.",
+    "questions": [
+      {
+        "id": "reading-007-q1",
+        "stem": "What is the passage mainly about?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "How AI is used in hospitals"},
+          {"key": "B", "text": "The impact of AI on various aspects of life"},
+          {"key": "C", "text": "Why people should be afraid of AI"},
+          {"key": "D", "text": "Self-driving cars and their benefits"},
+          {"key": "E", "text": "New jobs in the technology sector"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parca yapay zekanin hayatimizin farkli alanlarini nasil etkiledigini anlatmaktadir: is, tip, egitim gibi konulara deginiyor.",
+        "rule_tr": "Ana fikir sorusunda tum paragrafi kapsayan en genel secenegi sec.",
+        "tip_tr": "Parca sadece hastanelerden veya sadece arabalardan bahsetmiyor, HER ALANIN etkisinden bahsediyor. En genel secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-007-q2",
+        "stem": "What concern do some people have about AI?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "AI is too expensive for most companies."},
+          {"key": "B", "text": "AI cannot understand human emotions."},
+          {"key": "C", "text": "Many routine jobs may disappear."},
+          {"key": "D", "text": "AI is not safe for children to use."},
+          {"key": "E", "text": "AI systems break down frequently."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada bazi insanlarin yapay zekanin istihdam uzerindeki etkisinden endiseli oldugu ve rutin islerin yok olabilecegi belirtiliyor.",
+        "rule_tr": "Endise/kaygiya dair sorularda 'worried', 'concerned', 'afraid' gibi kelimelerin etrafindaki bilgiyi oku.",
+        "tip_tr": "'Some people are worried about the impact of AI on employment' cumlesini bul ve devamini oku!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-007-q3",
+        "stem": "According to experts, who will have the best career opportunities?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "People who avoid using technology"},
+          {"key": "B", "text": "People who study medicine"},
+          {"key": "C", "text": "People who learn to work alongside AI"},
+          {"key": "D", "text": "People who create new AI systems"},
+          {"key": "E", "text": "People who work in education"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Uzmanlara gore, yapay zeka ile birlikte calismayi ogrenen insanlar en iyi kariyer firsatlarina sahip olacak.",
+        "rule_tr": "Uzmanlarin gorusu soruldiginda 'experts believe/say/suggest' ifadelerinden sonraki bilgiyi bul.",
+        "tip_tr": "'Experts believe that people who learn to work alongside AI' cumlesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-008",
+    "topic": "reading",
+    "subtopic": "environment",
+    "level": "B1",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Plastic pollution has become one of the most serious environmental problems in the world. Every year, millions of tonnes of plastic waste end up in the oceans. This waste harms marine animals that often mistake plastic for food. Sea turtles, fish, and seabirds are among the most affected species. Many countries have started banning single-use plastic bags and straws to reduce this problem. Recycling programmes have also expanded in recent years. However, experts say that individual action is equally important. Simple steps like using reusable bags, avoiding plastic bottles, and properly sorting waste can make a significant difference.",
+    "questions": [
+      {
+        "id": "reading-008-q1",
+        "stem": "What is the main topic of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "How to save sea turtles"},
+          {"key": "B", "text": "Plastic pollution and efforts to reduce it"},
+          {"key": "C", "text": "Why recycling programmes are failing"},
+          {"key": "D", "text": "The history of plastic production"},
+          {"key": "E", "text": "Ocean life and marine biology"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana konusu plastik kirliligi ve bunu azaltma cabalaridir. Hem sorun hem de cozum onerileri anlatiliyor.",
+        "rule_tr": "Ana fikir hem problemi hem de cozumu kapsayan secenekte olabilir.",
+        "tip_tr": "Parca hem plastik SORUNUNU hem de COZUM adimlarini anlatiyor. Ikisini de kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-008-q2",
+        "stem": "Which animals are mentioned as being affected by plastic pollution?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Whales, dolphins, and sharks"},
+          {"key": "B", "text": "Sea turtles, fish, and seabirds"},
+          {"key": "C", "text": "Penguins, seals, and octopuses"},
+          {"key": "D", "text": "Crabs, jellyfish, and starfish"},
+          {"key": "E", "text": "Dolphins, turtles, and whales"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada plastik kirliliginden en cok etkilenen turlerin deniz kaplumbagalari, baliklar ve deniz kuslari oldugu belirtiliyor.",
+        "rule_tr": "Liste iceren detay sorularinda parcadaki siralamayi birebir kontrol et.",
+        "tip_tr": "'Sea turtles, fish, and seabirds' ifadesini parcada bul ve seceneklerle karsilastir!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-008-q3",
+        "stem": "The word 'significant' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "small"},
+          {"key": "B", "text": "quick"},
+          {"key": "C", "text": "important"},
+          {"key": "D", "text": "dangerous"},
+          {"key": "E", "text": "expensive"}
+        ],
+        "answer": "C",
+        "explanation_tr": "'Significant' kelimesi burada 'onemli, kayda deger' anlaminda kullaniliyor. 'Important' (onemli) en yakin anlamli kelimedir.",
+        "rule_tr": "Kelime anlami sorusunda kelimeyi cumle icindeki baglamina gore degerlendir.",
+        "tip_tr": "'Can make a significant difference' = 'onemli bir fark yaratabilir'. 'Significant' yerine hangi kelime mantikli? 'Important'!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-009",
+    "topic": "reading",
+    "subtopic": "education",
+    "level": "B1",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "The Erasmus programme has been one of the most successful student exchange initiatives in Europe. Since its launch in 1987, millions of students have had the opportunity to study abroad for one or two semesters. Participants not only improve their language skills but also gain valuable cross-cultural experience. Studies show that Erasmus graduates have better employment prospects because employers value international experience. The programme was renamed Erasmus+ in 2014 and now includes opportunities for teachers, volunteers, and young professionals as well. Many former participants describe their Erasmus experience as a life-changing period that helped them develop independence and confidence.",
+    "questions": [
+      {
+        "id": "reading-009-q1",
+        "stem": "What is the passage mainly about?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "How to apply for the Erasmus programme"},
+          {"key": "B", "text": "The Erasmus programme and its benefits"},
+          {"key": "C", "text": "The history of European education"},
+          {"key": "D", "text": "Why employers prefer European graduates"},
+          {"key": "E", "text": "Language courses available in Europe"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parca Erasmus programini ve sunduklari faydalari anlatmaktadir: dil gelisimi, kulturel deneyim, istihdam avantaji gibi.",
+        "rule_tr": "Ana fikir sorusunda tum parcayi kapsayan secenegi sec.",
+        "tip_tr": "Parca Erasmus'u hem tanitip hem faydalarini anlatiyor. Ikisini birden kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-009-q2",
+        "stem": "When was the Erasmus programme first launched?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "1980"},
+          {"key": "B", "text": "1985"},
+          {"key": "C", "text": "1987"},
+          {"key": "D", "text": "1990"},
+          {"key": "E", "text": "2014"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada Erasmus programinin 1987'de baslatildigi acikca belirtiliyor.",
+        "rule_tr": "Tarih iceren detay sorularinda parcadaki yili dikkatli oku. 2014 Erasmus+ icin.",
+        "tip_tr": "'Since its launch in 1987' ifadesini parcada bul! 2014'u karistirma, o Erasmus+ icin.",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-009-q3",
+        "stem": "Why do Erasmus graduates have better employment prospects?",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "Because they speak more languages than others"},
+          {"key": "B", "text": "Because employers value international experience"},
+          {"key": "C", "text": "Because they receive special certificates"},
+          {"key": "D", "text": "Because European universities are highly ranked"},
+          {"key": "E", "text": "Because they have more friends in different countries"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada isverenlerin uluslararasi deneyime deger verdigi icin Erasmus mezunlarinin daha iyi is imkanlarina sahip oldugu belirtiliyor.",
+        "rule_tr": "Neden sorusunda parcadaki 'because' kelimesinden sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Because employers value international experience' ifadesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-010",
+    "topic": "reading",
+    "subtopic": "health",
+    "level": "B1",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Mental health is just as important as physical health, yet many people ignore the signs of stress and anxiety. In modern society, the pressure to succeed at work, maintain relationships, and keep up with social media creates constant stress. Regular physical activity, spending time in nature, and practising mindfulness are effective ways to manage stress. Talking to a professional therapist should not be seen as a sign of weakness. In fact, countries with better access to mental health services report higher levels of overall happiness. Schools are now beginning to teach students about emotional well-being from a young age, which experts consider a positive development.",
+    "questions": [
+      {
+        "id": "reading-010-q1",
+        "stem": "What is the main message of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Social media is the main cause of mental health problems."},
+          {"key": "B", "text": "Mental health is important and should not be neglected."},
+          {"key": "C", "text": "Everyone should visit a therapist regularly."},
+          {"key": "D", "text": "Physical activity is the best treatment for stress."},
+          {"key": "E", "text": "Schools should replace academic subjects with health classes."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana mesaji ruh sagliginin onemli oldugu ve ihmal edilmemesi gerektigidir.",
+        "rule_tr": "Ana fikir sorusunda asiri genelleme veya asiri daraltma yapan seceneklerden kacin.",
+        "tip_tr": "Ilk cumle ana fikri verir: 'Mental health is just as important as physical health'. Bunu yansitan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-010-q2",
+        "stem": "It can be inferred from the passage that ---.",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "most people regularly visit therapists"},
+          {"key": "B", "text": "social media has only negative effects on people"},
+          {"key": "C", "text": "seeking professional help for mental health is sometimes stigmatized"},
+          {"key": "D", "text": "physical health is less important than mental health"},
+          {"key": "E", "text": "all countries have excellent mental health services"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada terapiste gitmenin zayiflik isareti olarak gorulmemesi gerektigi vurgulaniyor. Bu ifade, toplumda terapiye gitmenin bazen damgalandigina (stigmatize edildigine) isaret eder.",
+        "rule_tr": "Cikarim sorusunda parcada DOGRUDAN soylenmeyeni ama IMA edileni bul.",
+        "tip_tr": "'Should not be seen as a sign of weakness' deniyorsa, demek ki bazi insanlar bunu zayiflik olarak GORUYOR. Ima edilen budur!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-010-q3",
+        "stem": "Which of the following is NOT mentioned as a way to manage stress?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Physical activity"},
+          {"key": "B", "text": "Spending time in nature"},
+          {"key": "C", "text": "Taking medication"},
+          {"key": "D", "text": "Practising mindfulness"},
+          {"key": "E", "text": "Talking to a therapist"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcada stresi yonetmek icin fiziksel aktivite, dogada vakit gecirme, farkindalilik pratigi ve terapist ile konusmaktan bahsediliyor. Ilac kullanimi (medication) parcada hic gecmiyor.",
+        "rule_tr": "NOT/EXCEPT sorularinda her secenegi parcada tek tek kontrol et. Gecmeyeni sec.",
+        "tip_tr": "Her secenegi parcada tara. 'Medication' kelimesi parcada HICBIR YERDE gecmiyor!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-011",
+    "topic": "reading",
+    "subtopic": "technology",
+    "level": "B2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "The rapid proliferation of social media platforms has fundamentally altered the dynamics of human communication. While proponents argue that these platforms democratize information sharing and enable global connectivity, critics point to a growing body of evidence suggesting detrimental effects on mental health, particularly among adolescents. A landmark study conducted by researchers at Stanford University found that participants who deactivated their Facebook accounts for four weeks reported improved well-being and reduced political polarization. Nevertheless, the same participants also reported feeling less informed about current events. This paradox highlights the complex relationship between social media consumption and quality of life, suggesting that a balanced approach rather than complete abstinence may be the most pragmatic solution.",
+    "questions": [
+      {
+        "id": "reading-011-q1",
+        "stem": "What is the main argument of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Social media should be banned for teenagers."},
+          {"key": "B", "text": "Facebook is the most harmful social media platform."},
+          {"key": "C", "text": "The relationship between social media and well-being is complex and requires balance."},
+          {"key": "D", "text": "Stanford University has proven that social media is harmful."},
+          {"key": "E", "text": "People should stop using social media completely."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcanin ana argumani sosyal medya ile yasam kalitesi arasindaki iliskinin karmasik oldugu ve dengeli bir yaklasiMin en uygun cozum oldugu yonundedir.",
+        "rule_tr": "Arguman sorusunda yazarin kesin bir tarafa degil, dengeli bir gorise yonelip yonelmedigini kontrol et.",
+        "tip_tr": "Son cumle ana arguMani verir: 'A balanced approach rather than complete abstinence may be the most pragmatic solution.'",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-011-q2",
+        "stem": "What did the Stanford study reveal about participants who deactivated Facebook?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "They became more productive at work."},
+          {"key": "B", "text": "They reported improved well-being but felt less informed."},
+          {"key": "C", "text": "They immediately reactivated their accounts."},
+          {"key": "D", "text": "They started using other social media platforms instead."},
+          {"key": "E", "text": "They experienced no change in their mental health."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Arastirma, Facebook hesaplarini kapatan katilimcilarin daha iyi hissettiklerini ama guncel olaylardan daha az haberdar olduklarini gostermistir.",
+        "rule_tr": "Arastirma sonucu sorularinda 'found that', 'reported', 'showed' gibi ifadelerden sonraki bilgiyi bul.",
+        "tip_tr": "'Reported improved well-being' VE 'also reported feeling less informed' - her ikisini de iceren secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-011-q3",
+        "stem": "The word 'proliferation' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "decline"},
+          {"key": "B", "text": "regulation"},
+          {"key": "C", "text": "rapid spread"},
+          {"key": "D", "text": "invention"},
+          {"key": "E", "text": "simplification"}
+        ],
+        "answer": "C",
+        "explanation_tr": "'Proliferation' kelimesi 'hizli yayilma, cogalma' anlamina gelir. Burada sosyal medya platformlarinin hizla yayilmasini ifade ediyor.",
+        "rule_tr": "Kelime anlami sorusunda kelimenin cumle icindeki baglamina bak: 'rapid proliferation' = hizli yayilma.",
+        "tip_tr": "'Rapid proliferation of social media platforms' = sosyal medya platformlarinin hizli YAYILMASI. 'Rapid spread' en uygun secenektir.",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-011-q4",
+        "stem": "The word 'paradox' in the passage refers to ---.",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "the fact that social media is both free and costly"},
+          {"key": "B", "text": "the contradiction between feeling better but less informed without social media"},
+          {"key": "C", "text": "the difference between young and old users of social media"},
+          {"key": "D", "text": "the gap between what researchers expected and what they found"},
+          {"key": "E", "text": "the conflict between social media companies and governments"}
+        ],
+        "answer": "B",
+        "explanation_tr": "'Paradox' (celismek) kelimesi burada sosyal medyayi birakinca daha iyi hissetmek ama daha az bilgili olmak arasindaki celiskiye gonderme yapiyor.",
+        "rule_tr": "Gonderme (reference) sorularinda kelimenin oncesindeki cumlelere bak, neyi isaret ettigini anla.",
+        "tip_tr": "'This paradox' demek 'bu celiski' demek. Onceki cumlelerde celiski ne? Daha iyi hissetmek AMA daha az bilgi sahibi olmak!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-012",
+    "topic": "reading",
+    "subtopic": "health",
+    "level": "B2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "The Mediterranean diet has garnered considerable attention from the scientific community due to its association with reduced rates of cardiovascular disease, diabetes, and certain types of cancer. Characterized by high consumption of fruits, vegetables, whole grains, legumes, and olive oil, this dietary pattern also emphasizes moderate intake of fish and poultry while limiting red meat and processed foods. A comprehensive meta-analysis published in the British Medical Journal examined data from over 1.5 million participants and concluded that adherence to the Mediterranean diet was associated with a significant reduction in overall mortality. Critics, however, argue that isolating the effects of diet from other lifestyle factors prevalent in Mediterranean countries, such as physical activity and social eating habits, remains methodologically challenging.",
+    "questions": [
+      {
+        "id": "reading-012-q1",
+        "stem": "What is the main focus of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "A comparison of different diets around the world"},
+          {"key": "B", "text": "The health benefits and scientific debate around the Mediterranean diet"},
+          {"key": "C", "text": "Why olive oil is the healthiest cooking ingredient"},
+          {"key": "D", "text": "The British Medical Journal's research methodology"},
+          {"key": "E", "text": "How to prevent cardiovascular disease"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcanin ana odagi Akdeniz diyetinin saglik faydalari ve bu konudaki bilimsel tartismadir.",
+        "rule_tr": "Ana fikir sorusunda hem olumlu hem elestiri yonunu kapsayan secenegi tercih et.",
+        "tip_tr": "Parca hem faydalari ('reduced rates of...') hem de elestirileri ('Critics argue...') anlatiyor. Her ikisini kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-012-q2",
+        "stem": "According to the passage, what did the meta-analysis conclude?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "The Mediterranean diet prevents all types of cancer."},
+          {"key": "B", "text": "Olive oil is the most important component of the diet."},
+          {"key": "C", "text": "Following the Mediterranean diet was linked to reduced overall mortality."},
+          {"key": "D", "text": "1.5 million people switched to the Mediterranean diet."},
+          {"key": "E", "text": "Physical activity is more important than diet."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Meta-analiz, Akdeniz diyetine uyumun genel olum oranlarinda onemli bir azalma ile iliskili oldugu sonucuna varmistir.",
+        "rule_tr": "Arastirma sonucu sorularinda 'concluded', 'found', 'showed' gibi fiillerden sonraki bilgiyi bul.",
+        "tip_tr": "'Concluded that adherence to the Mediterranean diet was associated with a significant reduction in overall mortality' ifadesini bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-012-q3",
+        "stem": "What challenge do critics mention regarding research on the Mediterranean diet?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "The research sample size is too small."},
+          {"key": "B", "text": "It is difficult to separate diet effects from other lifestyle factors."},
+          {"key": "C", "text": "Mediterranean food ingredients are too expensive to study."},
+          {"key": "D", "text": "People do not honestly report what they eat."},
+          {"key": "E", "text": "The diet changes too much from country to country."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Elestirmenler, diyetin etkilerini Akdeniz ulkelerinde yaygin olan fiziksel aktivite ve sosyal yeme aliskanliklari gibi diger yasam tarzlari faktorlerinden ayirmanin yontemsel olarak zorlayici oldugunu belirtiyor.",
+        "rule_tr": "Elestiri sorusunda 'Critics argue/claim/point out' ifadelerinden sonraki bilgiyi kontrol et.",
+        "tip_tr": "'Critics argue that isolating the effects of diet from other lifestyle factors... remains methodologically challenging' cumlesini bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-012-q4",
+        "stem": "The word 'garnered' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "lost"},
+          {"key": "B", "text": "attracted"},
+          {"key": "C", "text": "rejected"},
+          {"key": "D", "text": "measured"},
+          {"key": "E", "text": "replaced"}
+        ],
+        "answer": "B",
+        "explanation_tr": "'Garnered' kelimesi burada 'cekmek, toplamak' anlaminda kullaniliyor. 'Attracted' (cekmek) en yakin anlamli kelimedir.",
+        "rule_tr": "Kelime anlami sorusunda kelimenin cumledeki baglamini degerlendir: 'garnered attention' = 'dikkat cekmek'.",
+        "tip_tr": "'Has garnered considerable attention' = 'buyuk ILGI CEKMISTIR'. 'Attracted' en uygun karsilik!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-013",
+    "topic": "reading",
+    "subtopic": "environment",
+    "level": "B2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "Climate change poses an unprecedented threat to global biodiversity, with scientists estimating that approximately one million species face extinction within the coming decades. Rising temperatures are disrupting established ecosystems, forcing species to migrate to cooler regions or adapt to rapidly changing conditions. Coral reefs, which support roughly 25% of all marine life, are particularly vulnerable to ocean warming and acidification. The Intergovernmental Panel on Climate Change has emphasized that limiting global warming to 1.5 degrees Celsius above pre-industrial levels is critical to preventing the most catastrophic consequences. Achieving this target requires immediate and substantial reductions in greenhouse gas emissions, coupled with investment in renewable energy sources and sustainable agricultural practices.",
+    "questions": [
+      {
+        "id": "reading-013-q1",
+        "stem": "What is the passage primarily concerned with?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "The economic cost of climate change"},
+          {"key": "B", "text": "The impact of climate change on biodiversity and the urgency of action"},
+          {"key": "C", "text": "How coral reefs are formed and maintained"},
+          {"key": "D", "text": "The history of the Intergovernmental Panel on Climate Change"},
+          {"key": "E", "text": "Renewable energy technologies and their development"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parca iklim degisikliginin biyocesitlilik uzerindeki etkisini ve acil onlem alinmasi gerektigini anlatmaktadir.",
+        "rule_tr": "Ana fikir sorusunda parcayi bastan sona kapsayan en genis perspektifli secenegi sec.",
+        "tip_tr": "Parca hem SORUN'u (tur yokolusu, ekosistem bozulmasi) hem de COZUM'u (emisyon azaltma, yenilenebilir enerji) anlatiyor.",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-013-q2",
+        "stem": "Why are coral reefs mentioned in the passage?",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "To explain how marine ecosystems work"},
+          {"key": "B", "text": "To give an example of ecosystems particularly threatened by climate change"},
+          {"key": "C", "text": "To argue that ocean pollution is worse than air pollution"},
+          {"key": "D", "text": "To show that 25% of species have already gone extinct"},
+          {"key": "E", "text": "To compare ocean life with life on land"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Mercan resifleri, iklim degisikliginden ozellikle tehdit altinda olan ekosistemlere bir ornek olarak verilmistir.",
+        "rule_tr": "Neden bahsedildi sorusunda yazarin o ornegi hangi amacla kullandigini dusun.",
+        "tip_tr": "Mercan resifleri 'particularly vulnerable' (ozellikle savunmasiz) olarak tanimlaniyor. Yani iklim degisikliginin somut bir ORNEGI olarak kullaniliyor.",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-013-q3",
+        "stem": "According to the IPCC, what is the critical temperature limit?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "1.0 degrees Celsius"},
+          {"key": "B", "text": "1.5 degrees Celsius"},
+          {"key": "C", "text": "2.0 degrees Celsius"},
+          {"key": "D", "text": "2.5 degrees Celsius"},
+          {"key": "E", "text": "3.0 degrees Celsius"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Hukumetlerarasi Iklim Degisikligi Paneli, kuresel isinmayi sanayi oncesi seviyelerin 1.5 derece uzerinde tutmanin kritik oldugunu vurgulamistir.",
+        "rule_tr": "Sayi iceren detay sorusunda parcadaki rakami dikkatli oku ve seceneklerle esle.",
+        "tip_tr": "'Limiting global warming to 1.5 degrees Celsius' ifadesini parcada bul!",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-014",
+    "topic": "reading",
+    "subtopic": "education",
+    "level": "B2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "The debate surrounding the efficacy of standardized testing in education has intensified in recent years. Proponents maintain that standardized tests provide an objective measure of student achievement and enable meaningful comparisons across schools and districts. They argue that without such benchmarks, it would be exceedingly difficult to identify underperforming institutions and allocate resources accordingly. Opponents, however, contend that these tests encourage a narrow curriculum focused on test preparation rather than genuine learning. Furthermore, research has demonstrated that standardized test scores correlate strongly with socioeconomic status, raising concerns about equity and fairness. Some progressive education systems in countries like Finland have moved away from standardized testing altogether, instead relying on teacher assessments and portfolio-based evaluation methods.",
+    "questions": [
+      {
+        "id": "reading-014-q1",
+        "stem": "What is the passage mainly about?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Why Finland has the best education system in the world"},
+          {"key": "B", "text": "The advantages of standardized testing in schools"},
+          {"key": "C", "text": "The ongoing debate about standardized testing in education"},
+          {"key": "D", "text": "How socioeconomic status affects student performance"},
+          {"key": "E", "text": "Different evaluation methods used by teachers"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcanin ana konusu egitimde standart testler hakkindaki devam eden tartismadir. Hem destekleyenler hem de karsi cikanlar ele aliniyor.",
+        "rule_tr": "Tartisma iceren bir parcada ana fikir genellikle her iki tarafin gorusunu de kapsayan secenektedir.",
+        "tip_tr": "Parca hem 'proponents' (destekleyenler) hem de 'opponents' (karsi cikanlar) goruslerini sunuyor. Her ikisini kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-014-q2",
+        "stem": "What do opponents of standardized testing argue?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Tests are too easy for most students."},
+          {"key": "B", "text": "Tests encourage a narrow curriculum focused on test preparation."},
+          {"key": "C", "text": "Teachers cannot administer tests properly."},
+          {"key": "D", "text": "Only wealthy countries can afford standardized testing."},
+          {"key": "E", "text": "Students do not take the tests seriously."}
+        ],
+        "answer": "B",
+        "explanation_tr": "Karsi cikanlar, bu testlerin gercek ogrenme yerine sinava hazirliga odaklanan dar bir mufredata yol actigini savunuyor.",
+        "rule_tr": "Karsi gorus sorusunda 'opponents/critics argue/contend/claim' ifadelerinden sonraki bilgiyi bul.",
+        "tip_tr": "'Opponents contend that these tests encourage a narrow curriculum focused on test preparation' cumlesini bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-014-q3",
+        "stem": "The word 'efficacy' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "popularity"},
+          {"key": "B", "text": "cost"},
+          {"key": "C", "text": "effectiveness"},
+          {"key": "D", "text": "difficulty"},
+          {"key": "E", "text": "history"}
+        ],
+        "answer": "C",
+        "explanation_tr": "'Efficacy' kelimesi 'etkinlik, etkililik' anlamina gelir. 'Effectiveness' (etkililik) en yakin anlamli kelimedir.",
+        "rule_tr": "Kelime anlami sorusunda kelimeyi cumle icine yerlestir ve anlam butunlugunu kontrol et.",
+        "tip_tr": "'The efficacy of standardized testing' = 'Standart testlerin ETKINLIGI'. 'Effectiveness' en uygun karsilik!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-014-q4",
+        "stem": "It can be inferred from the passage that Finland ---.",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "has completely eliminated all forms of student assessment"},
+          {"key": "B", "text": "has adopted alternative methods of evaluating students"},
+          {"key": "C", "text": "uses more standardized tests than any other country"},
+          {"key": "D", "text": "has the highest test scores in Europe"},
+          {"key": "E", "text": "requires all teachers to design their own national exams"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Finlandiya'nin standart testlerden uzaklasarak ogretmen degerlendirmesi ve portfolyo tabanli degerlendirme yontemlerine yoneldigi parcadan cikarilabilir.",
+        "rule_tr": "Cikarim sorusunda parcada dogrudan soylenmese de ima edilen bilgiyi bul.",
+        "tip_tr": "'Moved away from standardized testing, instead relying on teacher assessments and portfolio-based evaluation' = alternatif yontemler BENIMSEMISTIR.",
+        "extra_example": ""
+      }
+    ]
+  },
+  {
+    "id": "reading-015",
+    "topic": "reading",
+    "subtopic": "daily_life",
+    "level": "B2",
+    "category": "reading",
+    "type": "reading_comprehension",
+    "passage": "The concept of remote work, once considered a privilege reserved for a small subset of the workforce, has undergone a dramatic transformation since the global pandemic of 2020. Organizations across virtually every sector were compelled to adopt work-from-home policies, inadvertently conducting the largest experiment in remote work history. Subsequent studies have revealed mixed outcomes: while productivity in many cases remained stable or even increased, employee reports of isolation, burnout, and blurred boundaries between professional and personal life have raised legitimate concerns. Consequently, a hybrid model combining office and remote days has emerged as the predominant approach among multinational corporations. This model attempts to preserve the flexibility valued by employees while maintaining the collaborative culture and spontaneous innovation that physical workspaces facilitate.",
+    "questions": [
+      {
+        "id": "reading-015-q1",
+        "stem": "What is the main idea of the passage?",
+        "type": "main_idea",
+        "options": [
+          {"key": "A", "text": "Remote work is more productive than office work."},
+          {"key": "B", "text": "The pandemic permanently ended traditional office work."},
+          {"key": "C", "text": "Remote work has evolved, and a hybrid model has become the preferred approach."},
+          {"key": "D", "text": "Employees prefer working from home to working in an office."},
+          {"key": "E", "text": "Multinational corporations are against remote work."}
+        ],
+        "answer": "C",
+        "explanation_tr": "Parcanin ana fikri uzaktan calismanin evrim gecirdigi ve hibrit modelin tercih edilen yaklasim haline geldigidir.",
+        "rule_tr": "Ana fikir sorusunda parcadaki tum gelismeleri ozetleyen secenegi sec.",
+        "tip_tr": "Parca bir DONUSUM anlatiyor: tamamen ofis -> pandemi -> uzaktan calisma -> hibrit model. Bu sureci kapsayan secenegi sec!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-015-q2",
+        "stem": "What negative effects of remote work are mentioned in the passage?",
+        "type": "detail",
+        "options": [
+          {"key": "A", "text": "Lower salaries and fewer benefits"},
+          {"key": "B", "text": "Isolation, burnout, and blurred work-life boundaries"},
+          {"key": "C", "text": "Increased competition and job insecurity"},
+          {"key": "D", "text": "Poor internet connection and technical problems"},
+          {"key": "E", "text": "Difficulty in getting promotions"}
+        ],
+        "answer": "B",
+        "explanation_tr": "Parcada uzaktan calismanin olumsuz etkileri olarak yalnizlik, tukenmislik ve is-ozel hayat sinirlarinin bulaniklesmasi belirtiliyor.",
+        "rule_tr": "Olumsuz etki sorusunda 'concerns', 'problems', 'challenges' gibi kelimelerin etrafindaki bilgiyi oku.",
+        "tip_tr": "'Isolation, burnout, and blurred boundaries between professional and personal life' ifadesini parcada bul!",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-015-q3",
+        "stem": "The word 'compelled' in the passage is closest in meaning to ---.",
+        "type": "vocabulary_in_context",
+        "options": [
+          {"key": "A", "text": "encouraged"},
+          {"key": "B", "text": "forced"},
+          {"key": "C", "text": "allowed"},
+          {"key": "D", "text": "invited"},
+          {"key": "E", "text": "inspired"}
+        ],
+        "answer": "B",
+        "explanation_tr": "'Compelled' kelimesi 'zorlanmak, mecbur birakilmak' anlamina gelir. 'Forced' (zorlanmis) en yakin anlamli kelimedir.",
+        "rule_tr": "Kelime anlami sorusunda kelimenin cuMle icindeki baglamini degerlendir.",
+        "tip_tr": "Pandemi nedeniyle kuruluslar evden calisma politikalarini benimsemek ZORUNDA kaldi. 'Compelled' = 'forced'.",
+        "extra_example": ""
+      },
+      {
+        "id": "reading-015-q4",
+        "stem": "Why has the hybrid model become popular?",
+        "type": "inference",
+        "options": [
+          {"key": "A", "text": "Because governments have made it a legal requirement"},
+          {"key": "B", "text": "Because it is the cheapest option for companies"},
+          {"key": "C", "text": "Because it balances employee flexibility with collaborative work culture"},
+          {"key": "D", "text": "Because employees refused to return to the office completely"},
+          {"key": "E", "text": "Because remote work technology is not advanced enough"}
+        ],
+        "answer": "C",
+        "explanation_tr": "Hibrit model, calisanlarin deger verdigi esnekligi korurken fiziksel calisma ortamlarinin sagladigi isbirligi kulturunu de surdurmeye calisiyor.",
+        "rule_tr": "Neden sorusunda parcadaki aciklamayi bul: 'attempts to preserve the flexibility... while maintaining the collaborative culture'.",
+        "tip_tr": "'Preserve the flexibility valued by employees while maintaining the collaborative culture' - iki tarafi da dengeleyen secenegi sec!",
+        "extra_example": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gunluk Seviye Testi - Erasmus YDYS</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Gunluk Seviye Testi</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <!-- WARNING BANNER -->
+    <div class="warning-banner" style="text-align:center; font-size:0.95rem; font-weight:700;">
+      Bos birakma! Yanlis cevap puanini DUSURMUYOR.
+    </div>
+
+    <!-- QUIZ AREA -->
+    <div id="quiz-area">
+      <div class="empty-state">
+        <div class="empty-icon">...</div>
+        <p>Sorular yukleniyor...</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- JS FILES -->
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+
+  <script>
+    // Header seviye goster
+    document.getElementById('header-level').textContent = Storage.getLevel();
+
+    // Gunluk test zaten yapildiysa uyar
+    if (Storage.isDailyDone()) {
+      document.getElementById('quiz-area').innerHTML = `
+        <div class="result-card fade-in">
+          <div class="result-score medium">Tamam</div>
+          <div class="result-label">Bugunun testini zaten tamamladin!</div>
+        </div>
+        <div class="info-banner">
+          Bugunun skoru: ${Storage.getTodayScore() ? Storage.getTodayScore().score + ' / ' + Storage.getTodayScore().total : 'Kayit yok'}
+        </div>
+        <div class="btn-group">
+          <a href="../index.html" class="btn btn-primary btn-block">Ana Sayfaya Don</a>
+        </div>
+      `;
+    } else {
+      // Sorulari yukle ve testi baslat
+      initDailyCheck();
+    }
+
+    async function initDailyCheck() {
+      const allQuestions = await QuizEngine.loadQuestions('../data/daily-tests/level-check.json');
+
+      if (!allQuestions || allQuestions.length === 0) {
+        document.getElementById('quiz-area').innerHTML = `
+          <div class="warning-banner">Sorular yuklenemedi. Lutfen sayfayi yenileyin.</div>
+          <a href="../index.html" class="btn btn-outline btn-block">Ana Sayfaya Don</a>
+        `;
+        return;
+      }
+
+      // AdaptiveEngine ile 10 soru sec
+      const selectedQuestions = AdaptiveEngine.selectDailyQuestions(allQuestions, 10);
+
+      // QuizEngine ile testi baslat, tamamlaninca callback calisacak
+      QuizEngine.start(selectedQuestions, 'daily-check', 'daily', function(result) {
+        onDailyComplete(result);
+      });
+    }
+
+    function onDailyComplete(result) {
+      // Skoru kaydet
+      Storage.addDailyScore(result.correct, result.total);
+
+      // Seviyeyi belirle
+      const newLevel = AdaptiveEngine.determineLevel(result.correct, result.total);
+
+      // Storage'a kaydet
+      Storage.setLevel(newLevel);
+      Storage.setDailyDone();
+
+      // Sonuc ekranini guncelle (QuizEngine kendi showResults'ini gosteriyor,
+      // biz ustune seviye bilgisini ekliyoruz)
+      const quizArea = document.getElementById('quiz-area');
+      const pct = Math.round((result.correct / result.total) * 100);
+      const scoreClass = pct >= 80 ? 'high' : pct >= 50 ? 'medium' : 'low';
+
+      // Motivasyon mesajı
+      const motivation = QuizEngine.getMotivation(pct);
+      if (pct >= 80) QuizEngine.showConfetti();
+
+      quizArea.innerHTML = `
+        <div class="motivation-card">
+          <div class="motivation-emoji">${motivation.emoji}</div>
+          <div class="motivation-text">${motivation.text}</div>
+          <div class="motivation-sub">${motivation.sub}</div>
+        </div>
+
+        <div class="result-card fade-in">
+          <div class="result-score ${scoreClass}">${pct}%</div>
+          <div class="result-label">${result.correct} / ${result.total} dogru</div>
+        </div>
+
+        <div class="info-banner" style="text-align:center; font-size:1rem;">
+          Belirlenen Seviyen: <strong style="font-size:1.3rem;">${newLevel}</strong>
+        </div>
+
+        <div class="result-card">
+          <div class="stat-row">
+            <span class="stat-label">Dogru</span>
+            <span class="stat-value" style="color:var(--success)">${result.correct}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-label">Yanlis</span>
+            <span class="stat-value" style="color:var(--danger)">${result.wrong}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-label">Basari Orani</span>
+            <span class="stat-value">%${pct}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-label">Yeni Seviye</span>
+            <span class="stat-value" style="color:var(--primary)">${newLevel}</span>
+          </div>
+        </div>
+
+        ${pct >= 80 ? '<div class="info-banner">🌸 Harika kucuk kurbam! B2 seviyesinde sorularla calisabilirsin! 💕</div>' : ''}
+        ${pct >= 50 && pct < 80 ? '<div class="info-banner">🌸 Guzel gidiyorsun sevgilim! B1 seviyesinde ilerlemeye devam et! 💕</div>' : ''}
+        ${pct < 50 ? '<div class="warning-banner">🌸 Endise etme kucuk kurbam! A2 seviyesinden baslayarak hizla ilerleyeceksin! Seni seviyorum 💕</div>' : ''}
+
+        <div class="btn-group" style="flex-direction:column;">
+          <a href="../index.html" class="btn btn-primary btn-block">Ana Sayfaya Don</a>
+        </div>
+      `;
+
+      // Header seviyeyi guncelle
+      document.getElementById('header-level').textContent = newLevel;
+    }
+  </script>
+
+</body>
+</html>

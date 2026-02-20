@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deneme Sinavi — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Deneme Sinavi</h1>
+      <span class="quiz-timer" id="exam-timer" style="font-size:1.1rem">90:00</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <!-- Exam Selection -->
+    <div id="exam-select">
+      <div class="teach-card" style="text-align:center">
+        <div class="teach-title">ADU Erasmus YDYS Deneme Sinavi</div>
+        <div class="teach-subtitle">50 soru | 90 dakika | 5 sik (A-E) | 100 puan</div>
+      </div>
+
+      <div class="warning-banner" style="text-align:center">
+        Yanlis cevap puani DUSURMUYOR — hic soru bos birakma!
+      </div>
+
+      <div class="topic-list" id="exam-list"></div>
+
+      <div class="teach-card" style="margin-top:16px">
+        <div class="error-section-title">SINAV FORMATI</div>
+        <div class="stat-row"><span class="stat-label">Bolum 1: Vocabulary & Grammar</span><span class="stat-value">15 soru (30p)</span></div>
+        <div class="stat-row"><span class="stat-label">Bolum 2: Reading Comprehension</span><span class="stat-value">10 soru (20p)</span></div>
+        <div class="stat-row"><span class="stat-label">Bolum 3: Dialogue Completion</span><span class="stat-value">10 soru (20p)</span></div>
+        <div class="stat-row"><span class="stat-label">Bolum 4: Situational Expressions</span><span class="stat-value">10 soru (20p)</span></div>
+        <div class="stat-row"><span class="stat-label">Bolum 5: Irrelevant Sentence</span><span class="stat-value">5 soru (10p)</span></div>
+      </div>
+    </div>
+
+    <!-- Quiz Area -->
+    <div id="quiz-area" style="display:none"></div>
+
+    <!-- Results Area -->
+    <div id="exam-results" style="display:none"></div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    const mockResults = Storage.getMockResults();
+
+    function renderExamList() {
+      const list = document.getElementById('exam-list');
+      const exams = [
+        { id: 1, name: 'Deneme Sinavi 1', desc: 'Orta zorluk — ilk deneme' },
+        { id: 2, name: 'Deneme Sinavi 2', desc: 'Orta-zor — ikinci deneme' },
+        { id: 3, name: 'Deneme Sinavi 3', desc: 'Zor — final hazirlik' },
+      ];
+
+      list.innerHTML = exams.map(e => {
+        const result = mockResults.find(r => r.examId === e.id);
+        const resultText = result ? `Son skor: ${result.score}/100 (${result.date})` : 'Henuz cozulmedi';
+        return `
+          <div class="topic-item" onclick="startExam(${e.id})">
+            <div>
+              <div class="topic-name">🏆 ${e.name}</div>
+              <div class="topic-stats">${e.desc}</div>
+              <div class="topic-stats">${resultText}</div>
+            </div>
+            <span style="font-size:1.2rem">→</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    async function startExam(examId) {
+      const quizArea = document.getElementById('quiz-area');
+      const examSelect = document.getElementById('exam-select');
+
+      quizArea.innerHTML = '<div class="empty-state"><p>Sinav yukleniyor...</p></div>';
+      quizArea.style.display = 'block';
+      examSelect.style.display = 'none';
+
+      try {
+        const questions = await QuizEngine.loadQuestions(`../data/mock-exams/exam-${examId}.json`);
+        if (questions.length === 0) {
+          quizArea.innerHTML = '<div class="warning-banner">Bu sinav henuz hazir degil.</div>';
+          return;
+        }
+
+        // Timer baslat — 90 dakika
+        Timer.start(90, 'exam-timer', () => {
+          // Süre doldu — cevaplanmamis sorulari yanlis say
+          const unanswered = QuizEngine.currentQuestions.length - QuizEngine.answers.length;
+          QuizEngine.wrongCount += unanswered;
+          alert('Sure doldu! Sinav tamamlaniyor...');
+          QuizEngine.showResults();
+        });
+
+        QuizEngine.start(questions, 'mock-exam', 'mock', (result) => {
+          Timer.stop();
+          showExamResults(result, examId);
+        });
+      } catch (err) {
+        quizArea.innerHTML = '<div class="warning-banner">Sinav yuklenirken hata olustu.</div>';
+        console.error(err);
+      }
+    }
+
+    function showExamResults(result, examId) {
+      const resultsArea = document.getElementById('exam-results');
+      const quizArea = document.getElementById('quiz-area');
+
+      const score = result.correct * 2; // Her soru 2 puan
+      const elapsed = Timer.getElapsedFormatted();
+      const scoreClass = score >= 80 ? 'high' : score >= 50 ? 'medium' : 'low';
+
+      // Sonucu kaydet
+      Storage.addMockResult({
+        examId,
+        score,
+        correct: result.correct,
+        wrong: result.wrong,
+        total: result.total,
+        elapsed
+      });
+
+      // Bölüm bazlı analiz
+      const sections = {
+        'Grammar & Vocabulary': { correct: 0, total: 15 },
+        'Reading': { correct: 0, total: 10 },
+        'Dialogue': { correct: 0, total: 10 },
+        'Situational': { correct: 0, total: 10 },
+        'Irrelevant Sentence': { correct: 0, total: 5 },
+      };
+
+      result.answers.forEach((a, i) => {
+        const q = QuizEngine.currentQuestions[i];
+        if (!q) return;
+        const cat = q.category || q.topic || '';
+        let section = 'Grammar & Vocabulary';
+        if (cat.includes('reading') || cat.includes('irrelevant')) {
+          section = cat.includes('irrelevant') ? 'Irrelevant Sentence' : 'Reading';
+        } else if (cat.includes('dialogue')) section = 'Dialogue';
+        else if (cat.includes('situational')) section = 'Situational';
+
+        if (sections[section] && a.correct) sections[section].correct++;
+      });
+
+      let breakdownHtml = '';
+      for (const [name, data] of Object.entries(sections)) {
+        const pct = Math.round((data.correct / data.total) * 100);
+        const color = pct >= 80 ? 'var(--success)' : pct >= 50 ? 'var(--warning)' : 'var(--danger)';
+        breakdownHtml += `
+          <div class="breakdown-item">
+            <span class="breakdown-label">${name}</span>
+            <div class="breakdown-bar">
+              <div class="breakdown-bar-fill" style="width:${pct}%;background:${color}"></div>
+            </div>
+            <span class="breakdown-value">${data.correct}/${data.total}</span>
+          </div>
+        `;
+      }
+
+      // Motivasyon mesajı
+      const mockMotivation = QuizEngine.getMotivation(score);
+      if (score >= 80) QuizEngine.showConfetti();
+
+      resultsArea.innerHTML = `
+        <div class="motivation-card">
+          <div class="motivation-emoji">${mockMotivation.emoji}</div>
+          <div class="motivation-text">${mockMotivation.text}</div>
+          <div class="motivation-sub">${mockMotivation.sub}</div>
+        </div>
+
+        <div class="result-card fade-in">
+          <div style="font-size:0.85rem;color:var(--gray-500)">DENEME SINAVI ${examId} — SONUC</div>
+          <div class="result-score ${scoreClass}">${score}/100</div>
+          <div class="result-label">${result.correct} dogru / ${result.total} soru</div>
+          <div style="margin-top:8px;font-size:0.85rem;color:var(--gray-500)">Sure: ${elapsed}</div>
+        </div>
+
+        ${score >= 90 ? '<div class="info-banner" style="text-align:center">🌸 BRAVOOOO kucuk kurbam! 90+ hedefini yakaladin! Seni cok seviyorum! 💕🎉</div>' : ''}
+        ${score >= 50 && score < 90 ? '<div class="info-banner" style="text-align:center">🌸 Guzel gidiyorsun sevgilim! Biraz daha pratik ve 90+ yakalayacaksin! 💕</div>' : ''}
+        ${score < 50 ? '<div class="warning-banner" style="text-align:center">🌸 Endise etme kucuk kurbam! Zayif alanlarini calis ve tekrar dene, sen basarirsin! Seni seviyorum 💕</div>' : ''}
+
+        <div class="result-card">
+          <div class="error-section-title">BOLUM BAZLI ANALIZ</div>
+          <div class="section-breakdown">${breakdownHtml}</div>
+        </div>
+
+        <div class="btn-group">
+          <a href="../index.html" class="btn btn-primary btn-block">Ana Sayfaya Don</a>
+          <a href="error-journal.html" class="btn btn-outline btn-block">Hatali Sorulara Git</a>
+        </div>
+      `;
+
+      quizArea.style.display = 'none';
+      resultsArea.style.display = 'block';
+    }
+
+    renderExamList();
+  </script>
+
+</body>
+</html>

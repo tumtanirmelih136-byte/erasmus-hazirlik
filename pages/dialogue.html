@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue & Situational — Erasmus Hazirlik</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-content">
+      <a href="../index.html" class="back-btn">← Geri</a>
+      <h1>Dialogue & Situational</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="tabs">
+      <button class="tab-btn active" id="tab-btn-menu" onclick="showDialogueTab('menu')">Bolumler</button>
+      <button class="tab-btn" id="tab-btn-quiz" onclick="showDialogueTab('quiz')">Quiz</button>
+    </div>
+
+    <div class="warning-banner" style="text-align:center">
+      Dialogue (20 puan) + Situational (20 puan) = 40 puan — Sinavin EN BUYUK bolumu!
+    </div>
+
+    <!-- Menu -->
+    <div id="tab-dialogue-menu">
+      <div class="topic-list">
+        <div class="topic-item" onclick="startDialogueQuiz('dialogue')">
+          <div>
+            <div class="topic-name">💬 Diyalog Tamamlama (Dialogue Completion)</div>
+            <div class="topic-stats">Eksik konusmayi tamamla — 20 puan (10 soru)</div>
+            <div class="topic-stats" id="stat-dialogue"></div>
+          </div>
+          <span style="font-size:1.2rem">→</span>
+        </div>
+        <div class="topic-item" onclick="startDialogueQuiz('situational')">
+          <div>
+            <div class="topic-name">🎯 Duruma Uygun Ifade (Situational Expressions)</div>
+            <div class="topic-stats">Duruma uygun cevabi sec — 20 puan (10 soru)</div>
+            <div class="topic-stats" id="stat-situational"></div>
+          </div>
+          <span style="font-size:1.2rem">→</span>
+        </div>
+      </div>
+
+      <div class="teach-card" style="margin-top:16px">
+        <div class="error-section-title">STRATEJI</div>
+        <div class="tip-box" style="margin-bottom:8px">
+          Diyalog: Bosluktan ONCE ve SONRA gelen cumleleri oku. Mantiksal akisi takip et.
+        </div>
+        <div class="tip-box" style="margin-bottom:8px">
+          Situational: Durumu Turkce dusun. "Ben burada ne derdim?" sorusunu sor.
+        </div>
+        <div class="rule-box">
+          Bu bolum ezber degil, MANTIK ister. Gunluk konusma kaliplarini ogrenirsen %90+ yapabilirsin!
+        </div>
+      </div>
+    </div>
+
+    <!-- Quiz -->
+    <div id="tab-dialogue-quiz" style="display:none">
+      <div id="quiz-area"></div>
+    </div>
+
+  </div>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/adaptive-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
+  <script src="../js/teach-engine.js"></script>
+  <script src="../js/error-journal.js"></script>
+  <script src="../js/daily-report.js"></script>
+  <script src="../js/timer.js"></script>
+  <script src="../js/app.js"></script>
+  <script>
+    document.getElementById('header-level').textContent = Storage.getLevel();
+
+    // Stats
+    const dStat = Storage.getTopicStat('dialogue');
+    const sStat = Storage.getTopicStat('situational');
+    if (dStat.total > 0) {
+      document.getElementById('stat-dialogue').textContent =
+        `%${Math.round((dStat.correct / dStat.total) * 100)} dogru (${dStat.total} soru)`;
+    }
+    if (sStat.total > 0) {
+      document.getElementById('stat-situational').textContent =
+        `%${Math.round((sStat.correct / sStat.total) * 100)} dogru (${sStat.total} soru)`;
+    }
+
+    // Auto open tab from URL
+    const urlTab = App.getParam('tab');
+    if (urlTab === 'situational') {
+      startDialogueQuiz('situational');
+    }
+
+    async function startDialogueQuiz(type) {
+      showDialogueTab('quiz');
+      const quizArea = document.getElementById('quiz-area');
+      quizArea.innerHTML = '<div class="empty-state"><p>Sorular yukleniyor...</p></div>';
+
+      try {
+        const path = type === 'dialogue'
+          ? '../data/dialogue/dialogues.json'
+          : '../data/situational/situations.json';
+
+        const questions = await QuizEngine.loadQuestions(path);
+        if (questions.length === 0) {
+          quizArea.innerHTML = '<div class="warning-banner">Henuz soru yuklenmedi.</div>';
+          return;
+        }
+
+        const selected = AdaptiveEngine.selectQuestions(questions, type, 10);
+        QuizEngine.start(selected, type, 'quiz');
+      } catch (err) {
+        quizArea.innerHTML = '<div class="warning-banner">Sorular yuklenirken hata olustu.</div>';
+        console.error(err);
+      }
+    }
+
+    function showDialogueTab(tab) {
+      document.getElementById('tab-btn-menu').classList.toggle('active', tab === 'menu');
+      document.getElementById('tab-btn-quiz').classList.toggle('active', tab === 'quiz');
+      document.getElementById('tab-dialogue-menu').style.display = tab === 'menu' ? 'block' : 'none';
+      document.getElementById('tab-dialogue-quiz').style.display = tab === 'quiz' ? 'block' : 'none';
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🌸 Kucuk Kurba — Erasmus Hazirlik 🌸</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-content">
+      <h1>🌸 Kucuk Kurba 🌸</h1>
+      <span class="header-level" id="header-level">A2</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <!-- LOVE BANNER -->
+    <div class="love-banner" id="love-banner">
+      <div class="love-flower">🌸</div>
+      <div class="love-text">Kucuk Kurbam, bugun da harika is cikaracaksin!</div>
+      <div class="love-sub">Seni cok seviyorum, iyiki hayatimdasin 💕</div>
+    </div>
+
+    <!-- LEVEL BANNER -->
+    <div class="level-banner" id="level-banner">
+      <div class="level-label">Guncel Seviyen</div>
+      <div class="level-value">A2</div>
+      <div class="level-desc">Gun 1 / 30</div>
+    </div>
+
+    <!-- DAILY TEST CTA -->
+    <div class="daily-test-cta" id="daily-cta" onclick="window.location.href='pages/daily-check.html'">
+      <h3>Gunluk Seviye Testi</h3>
+      <p>10 soru ile bugunun seviyeni belirle</p>
+    </div>
+
+    <!-- SESSION STATS -->
+    <div class="info-banner" id="session-stats">
+      Bugun: 0 soru cozuldu | %0 dogru
+    </div>
+
+    <!-- SECTION CARDS -->
+    <div class="section-grid">
+
+      <a href="pages/grammar.html" class="section-card">
+        <div class="card-icon">📝</div>
+        <div class="card-title">Grammar & Vocabulary</div>
+        <div class="card-subtitle">16 konu, ogretim + quiz</div>
+        <div class="card-points">30 puan</div>
+        <div class="card-progress">
+          <div class="card-progress-fill" id="progress-grammar" style="width:0%"></div>
+        </div>
+      </a>
+
+      <a href="pages/reading.html" class="section-card">
+        <div class="card-icon">📖</div>
+        <div class="card-title">Reading Comprehension</div>
+        <div class="card-subtitle">Okuma anlama + irrelevant</div>
+        <div class="card-points">30 puan</div>
+        <div class="card-progress">
+          <div class="card-progress-fill" id="progress-reading" style="width:0%"></div>
+        </div>
+      </a>
+
+      <a href="pages/dialogue.html" class="section-card">
+        <div class="card-icon">💬</div>
+        <div class="card-title">Dialogue Completion</div>
+        <div class="card-subtitle">Diyalog tamamlama</div>
+        <div class="card-points">20 puan</div>
+        <div class="card-progress">
+          <div class="card-progress-fill" id="progress-dialogue" style="width:0%"></div>
+        </div>
+      </a>
+
+      <a href="pages/dialogue.html?tab=situational" class="section-card">
+        <div class="card-icon">🎯</div>
+        <div class="card-title">Situational Expressions</div>
+        <div class="card-subtitle">Duruma uygun ifadeler</div>
+        <div class="card-points">20 puan</div>
+        <div class="card-progress">
+          <div class="card-progress-fill" id="progress-situational" style="width:0%"></div>
+        </div>
+      </a>
+
+    </div>
+
+    <!-- BOTTOM NAV -->
+    <div class="bottom-grid">
+
+      <a href="pages/mock-exam.html" class="bottom-card">
+        <div class="card-icon">🏆</div>
+        <div class="card-title">Deneme Sinavi</div>
+      </a>
+
+      <a href="pages/error-journal.html" class="bottom-card" style="position:relative">
+        <div class="card-icon">📋</div>
+        <div class="card-title">Hatali Sorular</div>
+        <span id="error-count" style="position:absolute;top:6px;right:6px;background:var(--danger);color:white;font-size:0.7rem;font-weight:700;width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center"></span>
+      </a>
+
+      <a href="pages/results.html" class="bottom-card">
+        <div class="card-icon">📊</div>
+        <div class="card-title">Ilerleme</div>
+      </a>
+
+    </div>
+
+    <div class="bottom-grid" style="grid-template-columns:1fr 1fr">
+
+      <a href="pages/vocabulary.html" class="bottom-card">
+        <div class="card-icon">📚</div>
+        <div class="card-title">Kelime Bilgisi</div>
+      </a>
+
+      <a href="pages/study-plan.html" class="bottom-card">
+        <div class="card-icon">📅</div>
+        <div class="card-title">30 Gunluk Plan</div>
+      </a>
+
+    </div>
+
+    <!-- OVERALL PROGRESS -->
+    <div class="progress-section">
+      <div class="progress-header">
+        <span>Genel Ilerleme</span>
+        <span id="progress-text">%0</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill" style="width:0%"></div>
+      </div>
+    </div>
+
+    <div class="warning-banner" style="text-align:center">
+      Yanlis cevap puanini DUSURMUYOR. Hic soru bos birakma!
+    </div>
+
+  </div>
+
+  <!-- JS -->
+  <script src="js/storage.js"></script>
+  <script src="js/adaptive-engine.js"></script>
+  <script src="js/quiz-engine.js"></script>
+  <script src="js/teach-engine.js"></script>
+  <script src="js/error-journal.js"></script>
+  <script src="js/daily-report.js"></script>
+  <script src="js/timer.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    // Header level güncelle
+    document.getElementById('header-level').textContent = Storage.getLevel();
+  </script>
+
+</body>
+</html>

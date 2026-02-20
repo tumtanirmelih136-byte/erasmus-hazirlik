@@ -1,0 +1,602 @@
+[
+  {
+    "id": "word-formation-001",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Regular _____ is important for a healthy lifestyle. (EXAMINE)",
+    "options": [
+      {"key": "A", "text": "examine"},
+      {"key": "B", "text": "examination"},
+      {"key": "C", "text": "examining"},
+      {"key": "D", "text": "examined"},
+      {"key": "E", "text": "examiner"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Boşlukta sıfat 'regular'dan sonra bir isim gerekiyor. 'Examine' fiilinden '-ation' sonekiyle isim yapılır: examination = muayene.",
+    "rule_tr": "verb + -ation/-tion = noun (examine → examination)",
+    "tip_tr": "Sıfattan sonra isim gelir. 'Regular _____' → isim lazım → examination.",
+    "extra_example": "The doctor recommended a complete examination. (Doktor tam bir muayene önerdi.)"
+  },
+  {
+    "id": "word-formation-002",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Her _____ from the surgery was faster than expected. (RECOVER)",
+    "options": [
+      {"key": "A", "text": "recover"},
+      {"key": "B", "text": "recovered"},
+      {"key": "C", "text": "recovery"},
+      {"key": "D", "text": "recovering"},
+      {"key": "E", "text": "recoverable"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Her' iyelik zamirinden sonra isim gelmelidir. 'Recover' fiilinden '-y' sonekiyle isim yapılır: recovery = iyileşme.",
+    "rule_tr": "verb + -y/-ery = noun (recover → recovery)",
+    "tip_tr": "İyelik zamirinden (my, his, her) sonra HER ZAMAN isim gelir.",
+    "extra_example": "The recovery period after the operation takes about two weeks. (Ameliyat sonrası iyileşme süresi yaklaşık iki hafta sürer.)"
+  },
+  {
+    "id": "word-formation-003",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The nurse was very _____ and made the patient feel comfortable. (CARE)",
+    "options": [
+      {"key": "A", "text": "care"},
+      {"key": "B", "text": "careful"},
+      {"key": "C", "text": "careless"},
+      {"key": "D", "text": "caring"},
+      {"key": "E", "text": "carefully"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Very' zarfından sonra sıfat gelir. 'Caring' = şefkatli, ilgili. Hemşire çok ilgiliydi ve hastayı rahat hissettirdi.",
+    "rule_tr": "verb + -ing = adjective (care → caring = ilgili, şefkatli)",
+    "tip_tr": "'Careful' = dikkatli, 'caring' = şefkatli/ilgili. Bağlama göre doğru olanı seç!",
+    "extra_example": "She is a very caring mother who always worries about her children's health. (O, çocuklarının sağlığı için her zaman endişelenen çok şefkatli bir anne.)"
+  },
+  {
+    "id": "word-formation-004",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This medicine is completely _____ for children under 5. (HARM)",
+    "options": [
+      {"key": "A", "text": "harm"},
+      {"key": "B", "text": "harmful"},
+      {"key": "C", "text": "harmless"},
+      {"key": "D", "text": "harmed"},
+      {"key": "E", "text": "harming"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Harmless' = zararsız. '-less' soneki 'olmayan, -sız' anlamı katar. İlaç 5 yaş altı çocuklar için tamamen zararsız.",
+    "rule_tr": "noun/verb + -less = without (harm → harmless = zararsız)",
+    "tip_tr": "-ful = ...lı (harmful = zararlı), -less = ...sız (harmless = zararsız). Tam zıt!",
+    "extra_example": "The side effects of this drug are harmless and temporary. (Bu ilacın yan etkileri zararsız ve geçicidir.)"
+  },
+  {
+    "id": "word-formation-005",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "There has been a significant _____ in the number of flu cases. (IMPROVE)",
+    "options": [
+      {"key": "A", "text": "improve"},
+      {"key": "B", "text": "improvement"},
+      {"key": "C", "text": "improved"},
+      {"key": "D", "text": "improving"},
+      {"key": "E", "text": "improvable"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'A significant _____' yapısında sıfattan sonra isim gerekiyor. '-ment' soneki fiilden isim yapar: improve → improvement = iyileşme, gelişme.",
+    "rule_tr": "verb + -ment = noun (improve → improvement)",
+    "tip_tr": "-ment soneki: treatment (tedavi), development (gelişme), achievement (başarı), movement (hareket).",
+    "extra_example": "The treatment showed a great improvement in the patient's condition. (Tedavi hastanın durumunda büyük bir iyileşme gösterdi.)"
+  },
+  {
+    "id": "word-formation-006",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Smoking is extremely _____ to your lungs. (DANGER)",
+    "options": [
+      {"key": "A", "text": "danger"},
+      {"key": "B", "text": "dangerous"},
+      {"key": "C", "text": "dangerously"},
+      {"key": "D", "text": "endanger"},
+      {"key": "E", "text": "endangered"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Extremely' zarfından sonra sıfat gelir. '-ous' soneki isimden sıfat yapar: danger → dangerous = tehlikeli.",
+    "rule_tr": "noun + -ous = adjective (danger → dangerous)",
+    "tip_tr": "-ous soneki: dangerous, famous, nervous, poisonous, infectious. Sağlık konularında çok kullanılır!",
+    "extra_example": "The virus is highly infectious and dangerous. (Virüs son derece bulaşıcı ve tehlikeli.)"
+  },
+  {
+    "id": "word-formation-007",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "Physical _____ is essential for a healthy body. (FIT)",
+    "options": [
+      {"key": "A", "text": "fit"},
+      {"key": "B", "text": "fitness"},
+      {"key": "C", "text": "fitted"},
+      {"key": "D", "text": "fitting"},
+      {"key": "E", "text": "fittingly"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Physical' sıfatından sonra isim gelmelidir. '-ness' soneki sıfattan isim yapar: fit → fitness = fiziksel uygunluk/form.",
+    "rule_tr": "adjective + -ness = noun (fit → fitness, ill → illness)",
+    "tip_tr": "-ness soneki: illness (hastalık), weakness (zayıflık), tiredness (yorgunluk), dizziness (baş dönmesi).",
+    "extra_example": "Illness can be prevented with regular exercise and good nutrition. (Hastalık düzenli egzersiz ve iyi beslenmeyle önlenebilir.)"
+  },
+  {
+    "id": "word-formation-008",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "This new treatment is very _____ for patients with chronic pain. (BENEFIT)",
+    "options": [
+      {"key": "A", "text": "benefit"},
+      {"key": "B", "text": "beneficial"},
+      {"key": "C", "text": "beneficially"},
+      {"key": "D", "text": "benefited"},
+      {"key": "E", "text": "benefiting"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Very' zarfından sonra sıfat gelir. '-ial' soneki isimden sıfat yapar: benefit → beneficial = faydalı, yararlı.",
+    "rule_tr": "noun + -ial/-ical = adjective (benefit → beneficial)",
+    "tip_tr": "benefit → beneficial (faydalı). 'Useful' ile eş anlamlı ama daha resmi/akademik.",
+    "extra_example": "A balanced diet is beneficial to your overall health. (Dengeli bir diyet genel sağlığınız için faydalıdır.)"
+  },
+  {
+    "id": "word-formation-009",
+    "topic": "word-formation",
+    "subtopic": "adverb-formation",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The doctor spoke _____ to the anxious patient about the procedure. (GENTLE)",
+    "options": [
+      {"key": "A", "text": "gentle"},
+      {"key": "B", "text": "gently"},
+      {"key": "C", "text": "gentleness"},
+      {"key": "D", "text": "gentler"},
+      {"key": "E", "text": "gentling"}
+    ],
+    "answer": "B",
+    "explanation_tr": "Fiilden ('spoke') sonra nasıl konuştuğunu açıklayan bir zarfa ihtiyaç var. '-ly' soneki sıfattan zarf yapar: gentle → gently = nazikçe.",
+    "rule_tr": "adjective + -ly = adverb (gentle → gently)",
+    "tip_tr": "Fiili niteleyen kelime zarftır. 'How did the doctor speak?' → gently (nazikçe).",
+    "extra_example": "The nurse carefully checked the patient's blood pressure. (Hemşire hastanın tansiyonunu dikkatle kontrol etti.)"
+  },
+  {
+    "id": "word-formation-010",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "A2",
+    "type": "fill_in_blank",
+    "stem": "The _____ of the disease depends on early diagnosis. (TREAT)",
+    "options": [
+      {"key": "A", "text": "treat"},
+      {"key": "B", "text": "treated"},
+      {"key": "C", "text": "treatment"},
+      {"key": "D", "text": "treating"},
+      {"key": "E", "text": "treatable"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'The _____' yapısında article'dan sonra isim gelir. 'Treat' fiilinden '-ment' sonekiyle isim yapılır: treatment = tedavi.",
+    "rule_tr": "the + noun → article'dan sonra isim gelir",
+    "tip_tr": "'The' den sonra isim gelir. Bu en temel word formation ipucudur!",
+    "extra_example": "The treatment of diabetes requires regular monitoring. (Diyabet tedavisi düzenli takip gerektirir.)"
+  },
+  {
+    "id": "word-formation-011",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "It is _____ to diagnose this condition without proper tests. (POSSIBLE)",
+    "options": [
+      {"key": "A", "text": "unpossible"},
+      {"key": "B", "text": "dispossible"},
+      {"key": "C", "text": "impossible"},
+      {"key": "D", "text": "inpossible"},
+      {"key": "E", "text": "irpossible"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Possible' kelimesinin olumsuz formu 'im-' önekiyle yapılır: impossible. 'P' ve 'b' ile başlayan kelimelerde 'im-' kullanılır.",
+    "rule_tr": "im- + p/b ile başlayan kelime (impossible, imbalance, impatient)",
+    "tip_tr": "p/b → im- (impossible, impolite), r → ir- (irregular), l → il- (illegal), diğerleri → in-/un-.",
+    "extra_example": "It is impossible to predict the exact outcome of the surgery. (Ameliyatın kesin sonucunu tahmin etmek imkansız.)"
+  },
+  {
+    "id": "word-formation-012",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The patient's heartbeat was _____; it kept changing speed. (REGULAR)",
+    "options": [
+      {"key": "A", "text": "unregular"},
+      {"key": "B", "text": "inregular"},
+      {"key": "C", "text": "disregular"},
+      {"key": "D", "text": "irregular"},
+      {"key": "E", "text": "misregular"}
+    ],
+    "answer": "D",
+    "explanation_tr": "'Regular' kelimesinin olumsuz formu 'ir-' önekiyle yapılır: irregular = düzensiz. 'R' ile başlayan kelimelerde 'ir-' kullanılır.",
+    "rule_tr": "ir- + r ile başlayan kelime (irregular, irresponsible, irrelevant)",
+    "tip_tr": "'R' ile başlayan kelimeler → 'ir-' öneki. 'Unregular' YANLIŞTIR!",
+    "extra_example": "An irregular heartbeat can be a sign of a heart condition. (Düzensiz kalp atışı bir kalp rahatsızlığının belirtisi olabilir.)"
+  },
+  {
+    "id": "word-formation-013",
+    "topic": "word-formation",
+    "subtopic": "verb-prefixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor decided to _____ the patient's medication because the first choice didn't work. (PLACE)",
+    "options": [
+      {"key": "A", "text": "displace"},
+      {"key": "B", "text": "replace"},
+      {"key": "C", "text": "misplace"},
+      {"key": "D", "text": "unplace"},
+      {"key": "E", "text": "deplace"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Re-' öneki 'tekrar' anlamı katar. Replace = değiştirmek, yerine koymak. İlk ilaç işe yaramadığı için doktor ilacı değiştirmeye karar vermiş.",
+    "rule_tr": "re- = tekrar (replace = yerine koymak, redo = tekrar yapmak)",
+    "tip_tr": "re- = again/back. replace, redo, recheck, reexamine, reconsider. Tıpta çok kullanılır!",
+    "extra_example": "The surgeon had to redo the procedure because of complications. (Cerrah komplikasyonlar nedeniyle işlemi tekrar yapmak zorunda kaldı.)"
+  },
+  {
+    "id": "word-formation-014",
+    "topic": "word-formation",
+    "subtopic": "verb-prefixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse accidentally _____ the doctor's instructions and gave the wrong dose. (UNDERSTAND)",
+    "options": [
+      {"key": "A", "text": "misunderstood"},
+      {"key": "B", "text": "disunderstood"},
+      {"key": "C", "text": "ununderstood"},
+      {"key": "D", "text": "reunderstood"},
+      {"key": "E", "text": "overunderstood"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Mis-' öneki 'yanlış' anlamı katar. Misunderstand = yanlış anlamak. Hemşire yanlışlıkla doktorun talimatlarını yanlış anlamış.",
+    "rule_tr": "mis- = yanlış, hatalı (misunderstand, misdiagnose, mistreat)",
+    "tip_tr": "mis- = wrong. misdiagnose (yanlış teşhis), mistreat (yanlış tedavi), mislead (yanlış yönlendirme).",
+    "extra_example": "The lab technician misread the test results. (Laboratuvar teknisyeni test sonuçlarını yanlış okudu.)"
+  },
+  {
+    "id": "word-formation-015",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "Early detection makes many types of cancer _____. (CURE)",
+    "options": [
+      {"key": "A", "text": "cured"},
+      {"key": "B", "text": "curable"},
+      {"key": "C", "text": "curing"},
+      {"key": "D", "text": "cureless"},
+      {"key": "E", "text": "cureful"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Make + object + adjective' yapısında sıfat gerekiyor. '-able' soneki 'yapılabilir' anlamı katar: curable = tedavi edilebilir.",
+    "rule_tr": "verb + -able/-ible = yapılabilir (cure → curable = tedavi edilebilir)",
+    "tip_tr": "-able: treatable, preventable, curable, manageable. Tıpta çok kullanılır!",
+    "extra_example": "Many infectious diseases are preventable with proper hygiene. (Birçok bulaşıcı hastalık uygun hijyenle önlenebilir.)"
+  },
+  {
+    "id": "word-formation-016",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The _____ of the new drug was confirmed by multiple clinical trials. (EFFECTIVE)",
+    "options": [
+      {"key": "A", "text": "effective"},
+      {"key": "B", "text": "effectively"},
+      {"key": "C", "text": "effectiveness"},
+      {"key": "D", "text": "effect"},
+      {"key": "E", "text": "effecting"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'The _____' yapısında isim gerekiyor. 'Effective' sıfatından '-ness' sonekiyle isim yapılır: effectiveness = etkinlik.",
+    "rule_tr": "adjective + -ness = noun (effective → effectiveness)",
+    "tip_tr": "The + _____ of ... → isim lazım. 'The _____ of' yapısı sınavda çok çıkar!",
+    "extra_example": "The effectiveness of the vaccine was proven in large-scale studies. (Aşının etkinliği büyük ölçekli çalışmalarda kanıtlandı.)"
+  },
+  {
+    "id": "word-formation-017",
+    "topic": "word-formation",
+    "subtopic": "adverb-formation",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The infection spread _____ throughout the community. (RAPID)",
+    "options": [
+      {"key": "A", "text": "rapid"},
+      {"key": "B", "text": "rapidly"},
+      {"key": "C", "text": "rapidity"},
+      {"key": "D", "text": "rapidness"},
+      {"key": "E", "text": "rapider"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Spread' fiilini niteleyen bir zarfa ihtiyaç var. '-ly' soneki sıfattan zarf yapar: rapid → rapidly = hızla.",
+    "rule_tr": "adjective + -ly = adverb (rapid → rapidly)",
+    "tip_tr": "Fiili niteleyen kelime her zaman zarftır. 'How did it spread?' → rapidly.",
+    "extra_example": "The patient's condition deteriorated rapidly overnight. (Hastanın durumu bir gecede hızla kötüleşti.)"
+  },
+  {
+    "id": "word-formation-018",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The doctor was _____ with the patient's slow progress. (SATISFY)",
+    "options": [
+      {"key": "A", "text": "unsatisfied"},
+      {"key": "B", "text": "dissatisfied"},
+      {"key": "C", "text": "insatisfied"},
+      {"key": "D", "text": "missatisfied"},
+      {"key": "E", "text": "irsatisfied"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Dis-' öneki 'memnuniyetsiz' anlamı katar. Dissatisfied = memnun olmayan. Doktor hastanın yavaş ilerlemesinden memnun değil.",
+    "rule_tr": "dis- = olumsuzluk, karşıtlık (dissatisfied, disagree, disappear)",
+    "tip_tr": "'Unsatisfied' da var ama 'dissatisfied' daha yaygın. 'Dissatisfied with' kalıbını ezberle.",
+    "extra_example": "The patient was dissatisfied with the quality of care. (Hasta bakım kalitesinden memnun değildi.)"
+  },
+  {
+    "id": "word-formation-019",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The nurse needs to be very _____ when handling sharp instruments. (CARE)",
+    "options": [
+      {"key": "A", "text": "care"},
+      {"key": "B", "text": "careless"},
+      {"key": "C", "text": "careful"},
+      {"key": "D", "text": "caring"},
+      {"key": "E", "text": "carefully"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Very' zarfından sonra sıfat gelir. 'Careful' = dikkatli. '-ful' soneki 'dolu, sahip' anlamı katar. Hemşire kesici aletlerle ilgilenirken çok dikkatli olmalı.",
+    "rule_tr": "noun + -ful = adjective (...lı, dolu) → care → careful = dikkatli",
+    "tip_tr": "careful = dikkatli (olumlu), careless = dikkatsiz (olumsuz). Bağlama dikkat!",
+    "extra_example": "Be careful with the dosage; even a small mistake can be dangerous. (Dozla dikkatli ol; küçük bir hata bile tehlikeli olabilir.)"
+  },
+  {
+    "id": "word-formation-020",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "B1",
+    "type": "fill_in_blank",
+    "stem": "The _____ of vitamin D can lead to bone problems. (DEFICIENT)",
+    "options": [
+      {"key": "A", "text": "deficient"},
+      {"key": "B", "text": "deficiency"},
+      {"key": "C", "text": "deficiently"},
+      {"key": "D", "text": "deficit"},
+      {"key": "E", "text": "deficiented"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'The _____' yapısında isim gerekiyor. '-cy' soneki sıfattan isim yapar: deficient → deficiency = eksiklik, yetersizlik.",
+    "rule_tr": "adjective + -cy/-ency = noun (deficient → deficiency)",
+    "tip_tr": "-ency/-ancy sonekleri: emergency (acil), frequency (sıklık), deficiency (eksiklik), pregnancy (hamilelik).",
+    "extra_example": "Iron deficiency is common among young women. (Demir eksikliği genç kadınlar arasında yaygındır.)"
+  },
+  {
+    "id": "word-formation-021",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The surgeon performed an _____ procedure that is not commonly used. (ORTHODOX)",
+    "options": [
+      {"key": "A", "text": "inorthodox"},
+      {"key": "B", "text": "unorthodox"},
+      {"key": "C", "text": "disorthodox"},
+      {"key": "D", "text": "misorthodox"},
+      {"key": "E", "text": "irorthodox"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Un-' en yaygın olumsuz önektir. Unorthodox = alışılmadık, geleneksel olmayan. Cerrah yaygın olarak kullanılmayan alışılmadık bir prosedür uygulamış.",
+    "rule_tr": "un- = olumsuz (unorthodox, uncomfortable, unusual, unhealthy)",
+    "tip_tr": "Emin olamadığında 'un-' dene — en yaygın olumsuz önek budur.",
+    "extra_example": "The doctor used an unconventional approach to treat the rare condition. (Doktor nadir durumu tedavi etmek için alışılmadık bir yaklaşım kullandı.)"
+  },
+  {
+    "id": "word-formation-022",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The _____ of the symptoms made it difficult to diagnose the disease. (SIMILAR)",
+    "options": [
+      {"key": "A", "text": "similar"},
+      {"key": "B", "text": "similarly"},
+      {"key": "C", "text": "similarity"},
+      {"key": "D", "text": "dissimilar"},
+      {"key": "E", "text": "similaring"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'The _____' yapısında isim gerekiyor. '-ity' soneki sıfattan isim yapar: similar → similarity = benzerlik.",
+    "rule_tr": "adjective + -ity = noun (similar → similarity, severe → severity)",
+    "tip_tr": "-ity soneki: obesity (obezite), severity (şiddet), sensitivity (hassasiyet), immunity (bağışıklık).",
+    "extra_example": "The severity of the allergic reaction surprised the medical team. (Alerjik reaksiyonun şiddeti tıp ekibini şaşırttı.)"
+  },
+  {
+    "id": "word-formation-023",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The disease is highly _____ and can spread through the air. (INFECT)",
+    "options": [
+      {"key": "A", "text": "infection"},
+      {"key": "B", "text": "infected"},
+      {"key": "C", "text": "infectious"},
+      {"key": "D", "text": "infecting"},
+      {"key": "E", "text": "infectiously"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Highly' zarfından sonra sıfat gelir. '-ious' soneki isim/fiilden sıfat yapar: infect → infectious = bulaşıcı.",
+    "rule_tr": "verb/noun + -ious/-ous = adjective (infect → infectious)",
+    "tip_tr": "infectious = bulaşıcı (hastalık), infected = enfekte olmuş (kişi/bölge). Farkı bil!",
+    "extra_example": "COVID-19 is a highly infectious respiratory disease. (COVID-19 oldukça bulaşıcı bir solunum yolu hastalığıdır.)"
+  },
+  {
+    "id": "word-formation-024",
+    "topic": "word-formation",
+    "subtopic": "verb-prefixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The patient was _____ with antibiotics for a viral infection, which was unnecessary. (PRESCRIBE)",
+    "options": [
+      {"key": "A", "text": "overprescribed"},
+      {"key": "B", "text": "represcribed"},
+      {"key": "C", "text": "misprescribed"},
+      {"key": "D", "text": "underprescribed"},
+      {"key": "E", "text": "disprescribed"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Over-' öneki 'aşırı, fazla' anlamı katar. Overprescribed = gereğinden fazla ilaç yazılmış. Viral enfeksiyon için antibiyotik gereksizdir.",
+    "rule_tr": "over- = aşırı (overprescribe, overeat, overweight, overdose)",
+    "tip_tr": "over- = too much, under- = too little. overweight (fazla kilolu) vs underweight (zayıf).",
+    "extra_example": "Overeating can lead to obesity and related health problems. (Aşırı yemek obeziteye ve ilgili sağlık sorunlarına yol açabilir.)"
+  },
+  {
+    "id": "word-formation-025",
+    "topic": "word-formation",
+    "subtopic": "adverb-formation",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The drug must be administered _____ under medical supervision. (STRICT)",
+    "options": [
+      {"key": "A", "text": "strict"},
+      {"key": "B", "text": "strictly"},
+      {"key": "C", "text": "strictness"},
+      {"key": "D", "text": "stricter"},
+      {"key": "E", "text": "strictest"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'Administered' fiilini niteleyen bir zarfa ihtiyaç var. 'Strictly' = kesinlikle, sıkı bir şekilde.",
+    "rule_tr": "adjective + -ly = adverb (strict → strictly)",
+    "tip_tr": "Passive voice'ta da fiili niteleyen zarf kullanılır: 'must be administered strictly'.",
+    "extra_example": "This medication should be taken strictly as prescribed. (Bu ilaç kesinlikle reçete edildiği şekilde alınmalıdır.)"
+  },
+  {
+    "id": "word-formation-026",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "Consuming _____ food can lead to digestive problems. (HYGIENE)",
+    "options": [
+      {"key": "A", "text": "unhygienic"},
+      {"key": "B", "text": "dishygienic"},
+      {"key": "C", "text": "inhygienic"},
+      {"key": "D", "text": "mishygienic"},
+      {"key": "E", "text": "nonhygienic"}
+    ],
+    "answer": "A",
+    "explanation_tr": "'Un-' öneki ile 'unhygienic' = hijyenik olmayan. Hijyenik olmayan gıda tüketimi sindirim sorunlarına yol açabilir.",
+    "rule_tr": "un- + adjective = olumsuz sıfat (unhygienic, unhealthy, unsafe)",
+    "tip_tr": "Sağlık kelimeleri: unhealthy, unhygienic, unsafe, uncomfortable → hepsi 'un-' ile.",
+    "extra_example": "Living in unhygienic conditions increases the risk of infection. (Hijyenik olmayan koşullarda yaşamak enfeksiyon riskini artırır.)"
+  },
+  {
+    "id": "word-formation-027",
+    "topic": "word-formation",
+    "subtopic": "adjective-suffixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The new pain medication provides _____ relief for chronic pain sufferers. (REMARK)",
+    "options": [
+      {"key": "A", "text": "remark"},
+      {"key": "B", "text": "remarkable"},
+      {"key": "C", "text": "remarkably"},
+      {"key": "D", "text": "remarked"},
+      {"key": "E", "text": "remarking"}
+    ],
+    "answer": "B",
+    "explanation_tr": "İsimden ('relief') önce sıfat gelir. '-able' soneki 'dikkat çekici, kayda değer' anlamı katar: remarkable = dikkat çekici.",
+    "rule_tr": "verb + -able = adjective (remark → remarkable = dikkat çekici)",
+    "tip_tr": "İsimden önce gelen kelime sıfattır: '_____ relief' → sıfat lazım → remarkable.",
+    "extra_example": "The patient made a remarkable recovery after the experimental treatment. (Hasta deneysel tedaviden sonra dikkat çekici bir iyileşme gösterdi.)"
+  },
+  {
+    "id": "word-formation-028",
+    "topic": "word-formation",
+    "subtopic": "noun-suffixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The _____ between the two research groups led to a breakthrough in cancer treatment. (COLLABORATE)",
+    "options": [
+      {"key": "A", "text": "collaborate"},
+      {"key": "B", "text": "collaboration"},
+      {"key": "C", "text": "collaborative"},
+      {"key": "D", "text": "collaboratively"},
+      {"key": "E", "text": "collaborator"}
+    ],
+    "answer": "B",
+    "explanation_tr": "'The _____' yapısında isim gerekiyor. '-ation' soneki fiilden isim yapar: collaborate → collaboration = işbirliği.",
+    "rule_tr": "verb + -ation = noun (collaborate → collaboration)",
+    "tip_tr": "-ation/-tion: vaccination (aşılama), operation (ameliyat), medication (ilaç tedavisi), hospitalization (hastaneye yatma).",
+    "extra_example": "International collaboration is essential for fighting global pandemics. (Küresel pandemilerle mücadele için uluslararası işbirliği gereklidir.)"
+  },
+  {
+    "id": "word-formation-029",
+    "topic": "word-formation",
+    "subtopic": "verb-prefixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The doctor _____ the patient's condition as a simple cold, but it was actually pneumonia. (DIAGNOSE)",
+    "options": [
+      {"key": "A", "text": "overdiagnosed"},
+      {"key": "B", "text": "underdiagnosed"},
+      {"key": "C", "text": "misdiagnosed"},
+      {"key": "D", "text": "rediagnosed"},
+      {"key": "E", "text": "undiagnosed"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'Mis-' öneki 'yanlış' anlamı katar. Misdiagnose = yanlış teşhis koymak. Doktor aslında zatürre olan hastalığı basit bir soğuk algınlığı olarak yanlış teşhis etmiş.",
+    "rule_tr": "mis- = yanlış (misdiagnose = yanlış teşhis koymak)",
+    "tip_tr": "Tıpta 'mis-': misdiagnose, mistreat, misread (test results). Yanlışlık vurgusu!",
+    "extra_example": "Cancer is sometimes misdiagnosed as a less serious condition. (Kanser bazen daha az ciddi bir durum olarak yanlış teşhis edilir.)"
+  },
+  {
+    "id": "word-formation-030",
+    "topic": "word-formation",
+    "subtopic": "negative-prefixes",
+    "level": "B2",
+    "type": "fill_in_blank",
+    "stem": "The use of _____ substances in food production is a growing concern for public health. (LEGAL)",
+    "options": [
+      {"key": "A", "text": "unlegal"},
+      {"key": "B", "text": "dislegal"},
+      {"key": "C", "text": "illegal"},
+      {"key": "D", "text": "inlegal"},
+      {"key": "E", "text": "mislegal"}
+    ],
+    "answer": "C",
+    "explanation_tr": "'L' ile başlayan kelimelerde 'il-' olumsuz öneki kullanılır: illegal = yasadışı. 'Unlegal' YANLIŞTIR.",
+    "rule_tr": "il- + l ile başlayan kelime (illegal, illiterate, illogical)",
+    "tip_tr": "l → il- (illegal, illogical), r → ir- (irregular), p/b → im- (impossible). Başlangıç harfine bak!",
+    "extra_example": "The use of illegal drugs can have severe health consequences. (Yasadışı ilaç kullanımının ciddi sağlık sonuçları olabilir.)"
+  }
+]

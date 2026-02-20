@@ -1,0 +1,51 @@
+{
+  "topic": "articles",
+  "title": "Artikeller (Articles)",
+  "description_tr": "Ingilizce'de isimlerden once kullanilan 'a', 'an', 'the' ve sifir artikel (article kullanmama) kurallarini kapsar. Turkce'de birebir karsiligi olmadigi icin sinavlarda en cok hata yapilan konulardan biridir. Temel mantik: ilk kez mi bahsediyorsun (a/an), belirli mi (the), yoksa genel mi konusuyorsun (sifir artikel)?",
+  "formula": "a/an + sayilabilir tekil isim (ilk kez, belirsiz) | the + belirli/bilinen isim | zero article + genel/soyut kavramlar",
+  "signals": ["the only", "the first", "the last", "the most", "the same", "in the morning", "play the piano", "go to school (sifir)", "in hospital (sifir)"],
+  "turkish_logic": "Turkce'de 'bir doktor geldi' dediginde 'a doctor' olur — ilk kez bahsediyorsun. 'Doktor geldi' dediginde 'the doctor' olur — ikimiz de kimi kastettigimizi biliyoruz. 'Doktorlar onemlidir' dediginde 'Doctors are important' olur — genel konusuyorsun, artikel yok.",
+  "key_rules": [
+    "'a' unsuz sesle baslayan tekil sayilabilir isimlerden once kullanilir: a hospital, a nurse, a university (dikkat: 'u' burada unsuz ses verir)",
+    "'an' unlu sesle baslayan tekil sayilabilir isimlerden once kullanilir: an operation, an hour (dikkat: 'h' sessiz), an MRI (em-ar-ay)",
+    "'the' hem tekil hem cogul isimlerde kullanilir: konusmacilar neyi kastettigini bildigi zaman. The heart pumps blood. (belirli bir kalp, mesela hastanin kalbi)",
+    "Sifir artikel: Genel kavramlar (Medicine is important), ogün isimleri (after breakfast), ulke isimleri (Turkey, Germany), dil isimleri (English, Turkish)",
+    "Cografi isimler: Okyanuslar, denizler, nehirler, siradaglar 'the' alir (the Mediterranean, the Alps). Tekil daglar, goller, kitalar almaz (Mount Everest, Lake Van, Europe)",
+    "Sabit ifadeler: go to hospital/school/bed/work (amac icin gidilen yerler artikel almaz), go to the hospital (bina olarak gidiyorsan 'the' alir)",
+    "Superlative + the: She is the best surgeon in the department.",
+    "Tek olan seyler 'the' alir: the sun, the moon, the Earth, the internet"
+  ],
+  "examples": [
+    {
+      "en": "A patient was admitted to the emergency room.",
+      "tr": "Bir hasta acil servise kabul edildi.",
+      "why": "'patient' ilk kez bahsedilen, belirsiz → a. 'emergency room' bilinen, belirli bir yer → the"
+    },
+    {
+      "en": "The doctor prescribed an antibiotic for the infection.",
+      "tr": "Doktor enfeksiyon icin bir antibiyotik yazdı.",
+      "why": "'doctor' bağlamdan bilinen → the. 'antibiotic' ilk kez, unlu sesle basliyor → an. 'infection' bahsedilen belirli enfeksiyon → the"
+    },
+    {
+      "en": "Nurses play a vital role in healthcare.",
+      "tr": "Hemsireler saglik hizmetlerinde hayati bir rol oynar.",
+      "why": "'Nurses' genel olarak tum hemsirelerden bahsediyor → sifir artikel. 'healthcare' genel kavram → sifir artikel"
+    },
+    {
+      "en": "She went to hospital after the accident.",
+      "tr": "Kazadan sonra hastaneye gitti (tedavi icin).",
+      "why": "'hospital' tedavi amacıyla gidilen yer → sifir artikel. 'accident' bilinen belirli kaza → the"
+    },
+    {
+      "en": "The Mediterranean Sea has the warmest waters in Europe.",
+      "tr": "Akdeniz, Avrupa'nin en sicak sularına sahiptir.",
+      "why": "Deniz isimleri 'the' alir → the Mediterranean. Kitalar almaz → Europe. Superlative → the warmest"
+    }
+  ],
+  "tips": [
+    "SINAV TAKTIGI: Bosluktan sonraki isim sayilabilir tekil mi bak. Evet ise mutlaka a/an/the olmali — sifir artikel olamaz (hatali secenekleri ele).",
+    "SES KURALI: a/an secimi YAZILISA degil SESE goredir. 'a uniform' (yuniform sesi), 'an hour' (aur sesi), 'a European' (yurapian sesi).",
+    "GENEL vs BELIRLI TESTI: Cumlede 'hangi?' sorusunu sor. Cevap verilebiliyorsa 'the', verilemiyorsa a/an veya sifir artikel.",
+    "SABIT IFADELERI EZBERLE: go to bed, at night, by bus, in fact, on foot — bunlar kuralla degil ezberle cozulur. Sinavda en az 1-2 soru buradan gelir."
+  ]
+}
